@@ -1,0 +1,18 @@
+strict digraph "ProcessGraph" {
+pegmatite [group=ROCK];
+metal [group=ROCK];
+tin [group=MINERAL];
+"port hedland" [group=LOCATION];
+pilbara [group=LOCATION];
+chert [group=ROCK];
+"greenstone belt" [group=STRAT];
+cassiterite [group=MINERAL];
+granite [group=ROCK];
+monzogranite [group=ROCK];
+"initial highly migmatised callina supersuite" [group=STRAT];
+"cleland supersuite" [current_name=1, group=STRAT, index=68665, lith="igneous felsic intrusive", max_age="['Base Maximum Age Name']", min_age=Paleoarchean, rank=Supergroup];
+"split rock supersuite" [current_name=1, group=STRAT, index=68672, lith="igneous felsic intrusive", max_age="['Base Maximum Age Name']", min_age=Mesoarchean, rank=Supergroup];
+pegmatite -> metal  [label="[]"];
+metal -> pegmatite  [label="[]"];
+"port hedland" -> "greenstone belt"  [label="['overlie']"];
+}

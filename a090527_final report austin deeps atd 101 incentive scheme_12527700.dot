@@ -1,0 +1,37 @@
+strict digraph "ProcessGraph" {
+vein [group=ROCK];
+austin [group=LOCATION];
+copper [group=MINERAL];
+andalusite [group=MINERAL];
+hydrothermal [group=ROCK];
+metal [group=ROCK];
+saprolite [group=ROCK];
+basaltic [group=ROCK];
+dolerite [group=ROCK];
+sphalerite [group=MINERAL];
+silver [group=MINERAL];
+chlorite [group=MINERAL];
+andesite [group=ROCK];
+schist [group=ROCK];
+archaean [group=TIMESCALE];
+basalt [group=ROCK];
+zinc [group=MINERAL];
+magnetite [group=MINERAL];
+rhyolite [group=ROCK];
+pyrite [group=MINERAL];
+"felsic volcanic rock" [group=ROCK];
+"acquiredby silver swangroup ltd" [group=ORG];
+"silver swan group ltd" [group=ORG];
+andalusite -> schist  [label="[]"];
+saprolite -> basaltic  [label="['schistose']"];
+saprolite -> dolerite  [label="[]"];
+dolerite -> basaltic  [label="['schistose']"];
+dolerite -> saprolite  [label="[]"];
+dolerite -> basalt  [label="['with']"];
+chlorite -> andesite  [label="['derived from']"];
+chlorite -> schist  [label="[]"];
+schist -> andesite  [label="['derived from']"];
+schist -> chlorite  [label="[]"];
+schist -> andalusite  [label="[]"];
+zinc -> magnetite  [label="['occurs in']"];
+}
