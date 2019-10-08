@@ -1,0 +1,176 @@
+{
+    "nodes": [
+        {
+            "id": "vein",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "austin",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "significant copper?zincmineralizationataustin",
+            "group": "OTHER",
+            "degree": 0
+        },
+        {
+            "id": "andalusite",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "hydrothermal",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "metal",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "saprolite",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "basaltic",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "dolerite",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "sphalerite",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "silver",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "schist",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "andesite",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "archaean",
+            "group": "TIMESCALE",
+            "degree": 0
+        },
+        {
+            "id": "copper",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "basalt",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "zinc",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "magnetite",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "rhyolite",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "pyrite?bearingcoarsegraineddolerite",
+            "group": "OTHER",
+            "degree": 0
+        },
+        {
+            "id": "felsic volcanic rock",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "acquiredby silver swangroup ltd",
+            "group": "ORG",
+            "degree": 0
+        },
+        {
+            "id": "silver swan group ltd",
+            "group": "ORG",
+            "degree": 0
+        }
+    ],
+    "links": [
+        {
+            "source": "andalusite",
+            "target": "schist",
+            "label": []
+        },
+        {
+            "source": "saprolite",
+            "target": "basaltic",
+            "label": [
+                "schistose"
+            ]
+        },
+        {
+            "source": "saprolite",
+            "target": "dolerite",
+            "label": []
+        },
+        {
+            "source": "dolerite",
+            "target": "basaltic",
+            "label": [
+                "schistose"
+            ]
+        },
+        {
+            "source": "dolerite",
+            "target": "saprolite",
+            "label": []
+        },
+        {
+            "source": "dolerite",
+            "target": "basalt",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "schist",
+            "target": "andesite",
+            "label": [
+                "derived from"
+            ]
+        },
+        {
+            "source": "schist",
+            "target": "andalusite",
+            "label": []
+        },
+        {
+            "source": "zinc",
+            "target": "magnetite",
+            "label": [
+                "occurs in"
+            ]
+        }
+    ]
+}

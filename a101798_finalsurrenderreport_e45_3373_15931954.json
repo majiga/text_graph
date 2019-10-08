@@ -1,0 +1,88 @@
+{
+    "nodes": [
+        {
+            "id": "pegmatite",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "metal",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "tin",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "port hedland",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "pilbara",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "chert",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "greenstone belt",
+            "group": "STRAT",
+            "degree": 1
+        },
+        {
+            "id": "cassiterite",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "granite",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "monzogranite",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "initial highly migmatised callina supersuite",
+            "group": "STRAT",
+            "degree": 0
+        },
+        {
+            "id": "cleland supersuite",
+            "group": "STRAT",
+            "degree": 0
+        },
+        {
+            "id": "split rock supersuite",
+            "group": "STRAT",
+            "degree": 0
+        }
+    ],
+    "links": [
+        {
+            "source": "pegmatite",
+            "target": "metal",
+            "label": []
+        },
+        {
+            "source": "metal",
+            "target": "pegmatite",
+            "label": []
+        },
+        {
+            "source": "port hedland",
+            "target": "greenstone belt",
+            "label": [
+                "overlie"
+            ]
+        }
+    ]
+}
