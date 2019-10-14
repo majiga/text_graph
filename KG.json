@@ -5,1409 +5,1761 @@
   "nodes": [
     {
       "group": "LOCATION",
+      "degree": 51,
       "id": "koolyanobbing"
     },
     {
       "group": "LOCATION",
+      "degree": 70,
       "id": "perth"
     },
     {
       "group": "LOCATION",
+      "degree": 39,
       "id": "bullfinch"
     },
     {
       "group": "ROCK",
+      "degree": 34,
       "id": "colluvium"
     },
     {
       "group": "LOCATION",
+      "degree": 51,
       "id": "southern cross"
     },
     {
       "group": "ORE_DEPOSIT",
+      "degree": 97,
       "id": "iron ore"
     },
     {
       "group": "LOCATION",
+      "degree": 28,
       "id": "windarling"
     },
     {
       "group": "LOCATION",
+      "degree": 51,
       "id": "yilgarn craton"
     },
     {
       "group": "MINERAL",
+      "degree": 83,
       "id": "iron"
     },
     {
       "group": "ORE_DEPOSIT",
+      "degree": 18,
       "id": "iron deposit"
     },
     {
       "group": "LOCATION",
+      "degree": 34,
       "id": "jackson"
     },
     {
       "group": "LOCATION",
+      "degree": 43,
       "id": "christmas creek"
     },
     {
       "group": "LOCATION",
+      "degree": 48,
       "id": "pilbara"
     },
     {
       "group": "ROCK",
+      "degree": 45,
       "id": "sinter"
     },
     {
       "group": "ORE_DEPOSIT",
+      "degree": 46,
       "id": "iron ore deposit"
     },
     {
       "group": "LOCATION",
+      "degree": 39,
       "id": "port hedland"
     },
     {
       "group": "MINERAL",
+      "degree": 42,
       "id": "diamond"
     },
     {
       "group": "LOCATION",
+      "degree": 52,
       "id": "hamersley"
     },
     {
       "group": "LOCATION",
+      "degree": 41,
       "id": "nammuldi"
     },
     {
       "group": "LOCATION",
+      "degree": 28,
       "id": "kalgoorlie"
     },
     {
       "group": "LOCATION",
+      "degree": 23,
       "id": "peak hill"
     },
     {
       "group": "LOCATION",
+      "degree": 15,
       "id": "murchison"
     },
     {
       "group": "LOCATION",
+      "degree": 14,
       "id": "gascoyne"
     },
     {
       "group": "LOCATION",
+      "degree": 22,
       "id": "fraser"
     },
     {
       "group": "LOCATION",
+      "degree": 17,
       "id": "pilbara region"
     },
     {
       "group": "STRAT",
+      "degree": 72,
       "id": "banded iron formation"
     },
     {
       "group": "MINERAL",
+      "degree": 36,
       "id": "gold"
     },
     {
       "group": "ROCK",
+      "degree": 3,
       "id": "unknown"
     },
     {
       "group": "LOCATION",
+      "degree": 30,
       "id": "grey"
     },
     {
       "group": "ROCK",
+      "degree": 4,
       "id": "metabasalt"
     },
     {
       "group": "TIMESCALE",
+      "degree": 26,
       "id": "tertiary"
     },
     {
       "group": "STRAT",
+      "degree": 18,
       "id": "greenstone belt"
     },
     {
       "group": "LOCATION",
+      "degree": 9,
       "id": "queensland"
     },
     {
       "group": "LOCATION",
+      "degree": 9,
       "id": "tasmania"
     },
     {
       "group": "LOCATION",
+      "degree": 3,
       "id": "long"
     },
     {
       "group": "MINERAL",
+      "degree": 38,
       "id": "goethite"
     },
     {
       "group": "MINERAL",
+      "degree": 20,
       "id": "martite"
     },
     {
       "group": "LOCATION",
+      "degree": 4,
       "id": "hamersley province"
     },
     {
       "group": "LOCATION",
+      "degree": 18,
       "id": "brockman"
     },
     {
       "group": "LOCATION",
+      "degree": 4,
       "id": "genesis"
     },
     {
       "group": "ROCK",
+      "degree": 43,
       "id": "ore"
     },
     {
       "group": "LOCATION",
+      "degree": 22,
       "id": "hamersley basin"
     },
     {
       "group": "LOCATION",
+      "degree": 14,
       "id": "west angelas"
     },
     {
       "group": "MINERAL",
+      "degree": 21,
       "id": "oxide"
     },
     {
       "group": "LOCATION",
+      "degree": 21,
       "id": "paraburdoo"
     },
     {
       "group": "STRAT",
+      "degree": 19,
       "id": "cullens"
     },
     {
       "group": "TIMESCALE",
+      "degree": 20,
       "id": "quaternary"
     },
     {
       "group": "ROCK",
+      "degree": 12,
       "id": "base metal"
     },
     {
       "group": "TIMESCALE",
+      "degree": 22,
       "id": "proterozoic"
     },
     {
       "group": "STRAT",
+      "degree": 11,
       "id": "mt mcgrath formation"
     },
     {
       "group": "ROCK",
+      "degree": 7,
       "id": "alluvium"
     },
     {
       "group": "ORE_DEPOSIT",
+      "degree": 9,
       "id": "direct shipping ore"
     },
     {
       "group": "LOCATION",
+      "degree": 10,
       "id": "midwest"
     },
     {
       "group": "STRAT",
+      "degree": 12,
       "id": "robinson range formation"
     },
     {
       "group": "ROCK",
+      "degree": 27,
       "id": "sediment"
     },
     {
       "group": "TIMESCALE",
+      "degree": 31,
       "id": "archaean"
     },
     {
       "group": "LOCATION",
+      "degree": 25,
       "id": "greenbushes"
     },
     {
       "group": "LOCATION",
+      "degree": 21,
       "id": "southwest"
     },
     {
       "group": "LOCATION",
+      "degree": 14,
       "id": "pinjarra"
     },
     {
       "group": "ROCK",
+      "degree": 18,
       "id": "granitoid"
     },
     {
       "group": "ROCK",
+      "degree": 6,
       "id": "quartz vein"
     },
     {
       "group": "MINERAL",
+      "degree": 37,
       "id": "magnetite"
     },
     {
       "group": "MINERAL",
+      "degree": 18,
       "id": "chlorite"
     },
     {
       "group": "MINERAL",
+      "degree": 3,
       "id": "pyrrhotite"
     },
     {
       "group": "MINERAL",
+      "degree": 9,
       "id": "grunerite"
     },
     {
       "group": "MINERAL",
+      "degree": 32,
       "id": "quartz"
     },
     {
       "group": "MINERAL",
+      "degree": 20,
       "id": "silica"
     },
     {
       "group": "ROCK",
+      "degree": 6,
       "id": "basalt"
     },
     {
       "group": "ROCK",
+      "degree": 16,
       "id": "chert"
     },
     {
       "group": "MINERAL",
+      "degree": 7,
       "id": "limonite"
     },
     {
       "group": "MINERAL",
+      "degree": 1,
       "id": "jaspilite"
     },
     {
       "group": "MINERAL",
+      "degree": 1,
       "id": "sulphur"
     },
     {
       "group": "ROCK",
+      "degree": 5,
       "id": "sandstone"
     },
     {
       "group": "LOCATION",
+      "degree": 8,
       "id": "homestead"
     },
     {
       "group": "MINERAL",
+      "degree": 1,
       "id": "siderite"
     },
     {
       "group": "MINERAL",
+      "degree": 5,
       "id": "dolomite"
     },
     {
       "group": "MINERAL",
+      "degree": 47,
       "id": "hematite"
     },
     {
       "group": "ROCK",
+      "degree": 14,
       "id": "granules"
     },
     {
+      "degree": 13,
       "id": "sinter.doc processing feasibility study summary report"
     },
     {
       "group": "LOCATION",
+      "degree": 6,
       "id": "geraldton"
     },
     {
       "group": "ROCK",
+      "degree": 5,
       "id": "iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 5,
       "id": "wyloo group"
     },
     {
       "group": "ROCK",
+      "degree": 10,
       "id": "shale"
     },
     {
       "group": "ORE_DEPOSIT",
+      "degree": 15,
       "id": "channel iron deposit"
     },
     {
       "group": "LOCATION",
+      "degree": 8,
       "id": "horseshoe"
     },
     {
       "group": "LOCATION",
+      "degree": 2,
       "id": "albany"
     },
     {
       "group": "ROCK",
+      "degree": 7,
       "id": "vein"
     },
     {
       "group": "ROCK",
+      "degree": 7,
       "id": "dolerite"
     },
     {
       "group": "MINERAL",
+      "degree": 12,
       "id": "carbonate"
     },
     {
       "group": "ROCK",
+      "degree": 5,
       "id": "laterite"
     },
     {
       "group": "ROCK",
+      "degree": 4,
       "id": "paragneiss"
     },
     {
       "group": "MINERAL",
+      "degree": 9,
       "id": "nickel"
     },
     {
       "group": "ROCK",
+      "degree": 6,
       "id": "soil"
     },
     {
       "group": "ROCK",
+      "degree": 30,
       "id": "metal"
     },
     {
       "group": "MINERAL",
+      "degree": 7,
       "id": "pyrite"
     },
     {
       "group": "LOCATION",
+      "degree": 10,
       "id": "boddington"
     },
     {
       "group": "ROCK",
+      "degree": 28,
       "id": "schist"
     },
     {
       "group": "ROCK",
+      "degree": 15,
       "id": "sand"
     },
     {
       "group": "ROCK",
+      "degree": 8,
       "id": "gravel"
     },
     {
       "group": "MINERAL",
+      "degree": 10,
       "id": "crystal"
     },
     {
       "group": "ROCK",
+      "degree": 7,
       "id": "calcrete"
     },
     {
       "group": "ROCK",
+      "degree": 5,
       "id": "silcrete"
     },
     {
       "group": "LOCATION",
+      "degree": 3,
       "id": "yilgarn block"
     },
     {
       "group": "ROCK",
+      "degree": 15,
       "id": "clay"
     },
     {
       "group": "LOCATION",
+      "degree": 7,
       "id": "pilbara craton"
     },
     {
       "group": "MINERAL",
+      "degree": 2,
       "id": "silver"
     },
     {
       "group": "ROCK",
+      "degree": 1,
       "id": "gossan"
     },
     {
       "group": "ROCK",
+      "degree": 13,
       "id": "granite"
     },
     {
       "group": "STRAT",
+      "degree": 1,
       "id": "robinson range beds"
     },
     {
       "group": "ROCK",
+      "degree": 3,
       "id": "silt"
     },
     {
       "group": "ROCK",
+      "degree": 3,
       "id": "regolith"
     },
     {
       "group": "TIMESCALE",
+      "degree": 2,
       "id": "paleoproterozoic"
     },
     {
       "group": "ROCK",
+      "degree": 7,
       "id": "gneiss"
     },
     {
       "group": "ROCK",
+      "degree": 1,
       "id": "metasedimentary"
     },
     {
       "group": "LOCATION",
+      "degree": 6,
       "id": "widgiemooltha"
     },
     {
       "group": "LOCATION",
+      "degree": 1,
       "id": "collie"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "butcher bird monzogranite"
     },
     {
       "group": "ROCK",
+      "degree": 1,
       "id": "lateritic duricrust"
     },
     {
       "group": "ROCK",
+      "degree": 4,
       "id": "ironstone"
     },
     {
       "group": "LOCATION",
+      "degree": 7,
       "id": "balingup"
     },
     {
       "group": "MINERAL",
+      "degree": 2,
       "id": "thuringite"
     },
     {
       "group": "MINERAL",
+      "degree": 6,
       "id": "sericite"
     },
     {
       "group": "MINERAL",
+      "degree": 2,
       "id": "amphibole"
     },
     {
       "group": "ROCK",
+      "degree": 4,
       "id": "siltstone"
     },
     {
       "group": "ROCK",
+      "degree": 4,
       "id": "metagabbro"
     },
     {
       "group": "STRAT",
+      "degree": 5,
       "id": "marra mamba iron formation"
     },
     {
       "group": "ROCK",
+      "degree": 2,
       "id": "pebbles"
     },
     {
       "group": "STRAT",
+      "degree": 13,
       "id": "hamersley group"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "duck creek dolomite"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "mount mcgrath formation"
     },
     {
       "group": "MINERAL",
+      "degree": 2,
       "id": "jasper"
     },
     {
       "group": "ROCK",
+      "degree": 2,
       "id": "basaltic"
     },
     {
       "group": "ROCK",
+      "degree": 3,
       "id": "saprolite"
     },
     {
       "group": "ROCK",
+      "degree": 2,
       "id": "hydrothermal"
     },
     {
       "group": "TIMESCALE",
+      "degree": 3,
       "id": "cenozoic"
     },
     {
       "group": "LOCATION",
+      "degree": 1,
       "id": "kambalda"
     },
     {
       "group": "ROCK",
+      "degree": 3,
       "id": "pegmatite"
     },
     {
       "group": "MINERAL",
+      "degree": 4,
       "id": "staurolite"
     },
     {
       "group": "ROCK",
+      "degree": 7,
       "id": "metasedimentary rock"
     },
     {
       "group": "ROCK",
+      "degree": 1,
       "id": "andesite"
     },
     {
       "group": "MINERAL",
+      "degree": 3,
       "id": "andalusite"
     },
     {
       "group": "MINERAL",
+      "degree": 2,
       "id": "hornblende"
     },
     {
       "group": "STRAT",
+      "degree": 1,
       "id": "logue brook granite"
     },
     {
       "group": "ROCK",
+      "degree": 4,
       "id": "orthogneiss"
     },
     {
       "group": "LOCATION",
+      "degree": 6,
       "id": "capricorn"
     },
     {
       "group": "MINERAL",
+      "degree": 6,
       "id": "biotite"
     },
     {
       "group": "MINERAL",
+      "degree": 5,
       "id": "garnet"
     },
     {
       "group": "STRAT",
+      "degree": 1,
       "id": "macleod member"
     },
     {
       "group": "STRAT",
+      "degree": 1,
       "id": "nammuldi member"
     },
     {
       "group": "STRAT",
+      "degree": 1,
       "id": "brockman iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "hamersley group, lower"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "hamersley group, upper"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "wittenoom formation"
     },
     {
       "group": "ROCK",
+      "degree": 6,
       "id": "quartzite"
     },
     {
       "group": "MINERAL",
+      "degree": 8,
       "id": "cordierite"
     },
     {
       "group": "ROCK",
+      "degree": 7,
       "id": "migmatite"
     },
     {
       "group": "STRAT",
+      "degree": 6,
       "id": "wittenoom dolomite"
     },
     {
       "group": "LOCATION",
+      "degree": 5,
       "id": "esperance"
     },
     {
       "group": "LOCATION",
+      "degree": 5,
       "id": "mid west"
     },
     {
       "group": "ROCK",
+      "degree": 8,
       "id": "bedrock"
     },
     {
       "group": "MINERAL",
+      "degree": 8,
       "id": "copper"
     },
     {
       "group": "LOCATION",
+      "degree": 9,
       "id": "degrussa"
     },
     {
       "group": "STRAT",
+      "degree": 3,
       "id": "narracoota volcanics"
     },
     {
       "group": "ROCK",
+      "degree": 1,
       "id": "pisolite"
     },
     {
       "group": "ROCK",
+      "degree": 2,
       "id": "host rock"
     },
     {
       "group": "ROCK",
+      "degree": 1,
       "id": "ultramafic volcanic rock"
     },
     {
       "group": "ROCK",
+      "degree": 1,
       "id": "clastic sedimentary rock"
     },
     {
       "group": "MINERAL",
+      "degree": 2,
       "id": "palladium"
     },
     {
       "group": "MINERAL",
+      "degree": 2,
       "id": "platinum"
     },
     {
       "group": "ROCK",
+      "degree": 1,
       "id": "medium sand"
     },
     {
       "group": "MINERAL",
+      "degree": 1,
       "id": "silicate"
     },
     {
       "group": "TIMESCALE",
+      "degree": 2,
       "id": "phanerozoic"
     },
     {
       "group": "LOCATION",
+      "degree": 2,
       "id": "perth basin"
     },
     {
       "group": "LOCATION",
+      "degree": 13,
       "id": "newman"
     },
     {
       "group": "LOCATION",
+      "degree": 2,
       "id": "marble bar"
     },
     {
       "group": "LOCATION",
+      "degree": 12,
       "id": "nullagine"
     },
     {
       "group": "LOCATION",
+      "degree": 11,
       "id": "robe"
     },
     {
       "group": "ROCK",
+      "degree": 2,
       "id": "limestone"
     },
     {
       "group": "MINERAL",
+      "degree": 2,
       "id": "lime"
     },
     {
       "group": "MINERAL",
+      "degree": 1,
       "id": "pyrolusite"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "fortescue group"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "jeerinah formation"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "roy hill member"
     },
     {
       "group": "STRAT",
+      "degree": 1,
       "id": "roy hill shale member"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "mount bruce supergroup"
     },
     {
       "group": "ORE_DEPOSIT",
+      "degree": 5,
       "id": "gold deposit"
     },
     {
       "group": "MINERAL",
+      "degree": 1,
       "id": "enargite"
     },
     {
       "group": "MINERAL",
+      "degree": 2,
       "id": "mercury"
     },
     {
       "group": "ORE_DEPOSIT",
+      "degree": 1,
       "id": "lacustrine deposit"
     },
     {
       "group": "ROCK",
+      "degree": 1,
       "id": "cobbles"
     },
     {
       "group": "STRAT",
+      "degree": 1,
       "id": "cullens diamictite\"\""
     },
     {
       "group": "ROCK",
+      "degree": 7,
       "id": "greenstone"
     },
     {
       "group": "ROCK",
+      "degree": 2,
       "id": "volcanic rock"
     },
     {
       "group": "MINERAL",
+      "degree": 8,
       "id": "zinc"
     },
     {
       "group": "LOCATION",
+      "degree": 7,
       "id": "mount jackson"
     },
     {
       "group": "ROCK",
+      "degree": 1,
       "id": "metasandstone"
     },
     {
       "group": "ROCK",
+      "degree": 2,
       "id": "conglomerate"
     },
     {
       "group": "LOCATION",
+      "degree": 7,
       "id": "telfer"
     },
     {
       "group": "LOCATION",
+      "degree": 6,
       "id": "meekatharra"
     },
     {
       "group": "STRAT",
+      "degree": 6,
       "id": "wilthorpe conglomerate"
     },
     {
       "group": "STRAT",
+      "degree": 3,
       "id": "padbury group"
     },
     {
       "group": "STRAT",
+      "degree": 1,
       "id": "labouchere formation"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "wilthorpe formation"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "bryah group"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "karalundi formation"
     },
     {
       "group": "STRAT",
+      "degree": 3,
       "id": "narracoota formation"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "noonyereena member"
     },
     {
       "group": "LOCATION",
+      "degree": 7,
       "id": "bridgetown"
     },
     {
       "group": "LOCATION",
+      "degree": 7,
       "id": "donnybrook"
     },
     {
       "group": "ROCK",
+      "degree": 6,
       "id": "amphibolite"
     },
     {
       "group": "ROCK",
+      "degree": 2,
       "id": "quartz monzonite"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "gibralter quartz monzonite"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "coarse sand"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "mafic schist"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "salt"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "chromium"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "arsenic"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "komatiite"
     },
     {
       "group": "LOCATION",
+      "degree": 0,
       "id": "preston"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "talc"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "greenschist"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "serpentinite"
     },
     {
       "group": "ORE_DEPOSIT",
+      "degree": 0,
       "id": "direct shipping iron ore"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "fresh banded iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "entire banded iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "parent iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "carbonate magnetite pyrite parent iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "standard iron ore suite"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "iron ore processing group"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "mayfield iron ore project"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "mayfield ore iron project"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "sand formation"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "iron project"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "pig iron project"
     },
     {
       "group": "PROSPECT",
+      "degree": 0,
       "id": "mt correll nickel prospect"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "bullfinch project"
     },
     {
       "group": "ORG",
+      "degree": 0,
       "id": "portman iron ore limited"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "bullfinch iron project"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "bullfinch north project"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "lag"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "kyanite"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "sedimentary rock"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "greenbushes pegmatite"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "granulite"
     },
     {
       "group": "LOCATION",
+      "degree": 0,
       "id": "wheatley"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "gahnite"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "sphalerite"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "feldspathic gneiss"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "balingup gneiss complex"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "wheatley project"
     },
     {
       "group": "PROSPECT",
+      "degree": 0,
       "id": "yanmah prospect"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "mixed"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "kaolinite"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "coal"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "tungsten"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "extensive, thick and podded iron rich banded iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "late archaean aged marra mamba iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "target iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "archaean hamersley group"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "upper mount newman member"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "mt bruce supergroup"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "lowermost nammuldi member"
     },
     {
       "group": "PROSPECT",
+      "degree": 0,
       "id": "christmas creek, cloud break and mt nicholas prospects"
     },
     {
       "group": "PROSPECT",
+      "degree": 0,
       "id": "christmas creek and cloud break prospects"
     },
     {
       "group": "PROSPECT",
+      "degree": 0,
       "id": "christmas creek prospect"
     },
     {
       "group": "ORG",
+      "degree": 0,
       "id": "hamersley iron pty ltd"
     },
     {
       "group": "ORG",
+      "degree": 0,
       "id": "hamersley iron pty limited"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "oakover formation"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "nammuldi formation"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "breccia"
     },
     {
       "group": "LOCATION",
+      "degree": 0,
       "id": "hamersley range"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "lead"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "gold mineral"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "boulders"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "snowy mountain hills brockman iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "snowy mountain iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "ore formation"
     },
     {
       "group": "PROSPECT",
+      "degree": 0,
       "id": "iron ore prospects"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "ashburton gold project"
     },
     {
       "group": "PROSPECT",
+      "degree": 0,
       "id": "gold prospects"
     },
     {
       "group": "PROSPECT",
+      "degree": 0,
       "id": "mid 1980s gold prospects"
     },
     {
       "group": "PROSPECT",
+      "degree": 0,
       "id": "first gold prospect"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "paraburdoo gold project"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "brockman formation"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "hamersley irons project"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "felsic volcanic rock"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "porphyry"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "duricrust"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "koolyanobbing iron ore project"
     },
     {
       "group": "ORG",
+      "degree": 0,
       "id": "portman iron ore ltd"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "bungalbin iron ore project"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "usd 1.1 billion iron ore project"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "3.6 bungalbin aurora iron ore project"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "bungalbin iron project"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "mayfield magnetite project"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "long life dso project"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "diemals formation"
     },
     {
       "group": "PROJECT",
+      "degree": 0,
       "id": "yilgarn iron ore project"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "mud"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "feldspar"
     },
     {
       "group": "LOCATION",
+      "degree": 0,
       "id": "nabberu basin"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "granular iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "to iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "ironstone beds"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "thicker ironstone beds"
     },
     {
       "group": "PROSPECT",
+      "degree": 0,
       "id": "parrot and kingfisher iron ore prospects"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "planar sandstone beds"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "earaheedy group"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "mount fraser page 19 of 32 august 2010 project group"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "smcs mount fraser project group"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "peak hill project group"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "mount fraser project group"
     },
     {
       "group": "ORG",
+      "degree": 0,
       "id": "sinosteel midwest corporation limited"
     },
     {
       "group": "LOCATION",
+      "degree": 0,
       "id": "austin"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "rhyolite"
     },
     {
       "group": "ORG",
+      "degree": 0,
       "id": "acquiredby silver swangroup ltd"
     },
     {
       "group": "ORG",
+      "degree": 0,
       "id": "silver swan group ltd"
     },
     {
       "group": "LOCATION",
+      "degree": 0,
       "id": "eastern goldfield"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "interlayered banded iron formation"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "tin"
     },
     {
       "group": "TIMESCALE",
+      "degree": 0,
       "id": "mesozoic"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "yilgarn and balingup complex"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "balingup metamorphic complex"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "balingup complex"
     },
     {
       "group": "MINERAL",
+      "degree": 0,
       "id": "cassiterite"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "monzogranite"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "initial highly migmatised callina supersuite"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "cleland supersuite"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "split rock supersuite"
     },
     {
       "group": "LOCATION",
+      "degree": 1,
       "id": "pilbara block"
     },
     {
       "group": "LOCATION",
+      "degree": 1,
       "id": "south west"
     },
     {
       "group": "STRAT",
+      "degree": 3,
       "id": "corboy formation"
     },
     {
       "group": "LOCATION",
+      "degree": 1,
       "id": "gibson"
     },
     {
       "group": "STRAT",
+      "degree": 1,
       "id": "euro basalt"
     },
     {
       "group": "ROCK",
+      "degree": 0,
       "id": "peridotite"
     },
     {
       "group": "STRAT",
+      "degree": 4,
       "id": "pincunah hill formation"
     },
     {
       "group": "STRAT",
+      "degree": 1,
       "id": "sulphur springs group"
     },
     {
       "group": "LOCATION",
+      "degree": 1,
       "id": "atlas iron"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "thinly bedded red and black banded iron formation"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "shaw granitoid complex"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "emerald mine greenstone complex"
     },
     {
       "group": "STRAT",
+      "degree": 1,
       "id": "gorge creek formation"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "gorge creek group"
     },
     {
       "group": "STRAT",
+      "degree": 0,
       "id": "atlas irons iron ore suite"
     },
     {
       "group": "ORG",
+      "degree": 0,
       "id": "atlas iron limited"
     },
     {
       "group": "STRAT",
+      "degree": 3,
       "id": "pilbara supergroup"
     },
     {
       "group": "STRAT",
+      "degree": 1,
       "id": "warrawoona group"
     },
     {
       "group": "PROSPECT",
+      "degree": 0,
       "id": "ibanez, fender and gibson prospects"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "kelly group"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "cardinal formation"
     },
     {
       "group": "STRAT",
+      "degree": 2,
       "id": "soanesville group"
     },
     {
       "group": "STRAT",
+      "degree": 1,
       "id": "de grey supergroup"
     }
   ],
