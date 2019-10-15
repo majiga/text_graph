@@ -1,6 +1,11 @@
 {
     "nodes": [
         {
+            "id": "widgiemooltha",
+            "group": "LOCATION",
+            "degree": 6
+        },
+        {
             "id": "greenbushes",
             "group": "LOCATION",
             "degree": 25
@@ -14,11 +19,6 @@
             "id": "southwest",
             "group": "LOCATION",
             "degree": 20
-        },
-        {
-            "id": "widgiemooltha",
-            "group": "LOCATION",
-            "degree": 6
         },
         {
             "id": "archaean",
@@ -46,11 +46,6 @@
             "degree": 5
         },
         {
-            "id": "granitoid",
-            "group": "ROCK",
-            "degree": 9
-        },
-        {
             "id": "base metal",
             "group": "ROCK",
             "degree": 3
@@ -66,6 +61,11 @@
             "degree": 2
         },
         {
+            "id": "granitoid",
+            "group": "ROCK",
+            "degree": 9
+        },
+        {
             "id": "boddington",
             "group": "LOCATION",
             "degree": 10
@@ -76,6 +76,11 @@
             "degree": 0
         },
         {
+            "id": "collie",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
             "id": "sericite",
             "group": "MINERAL",
             "degree": 3
@@ -84,11 +89,6 @@
             "id": "pyrite",
             "group": "MINERAL",
             "degree": 3
-        },
-        {
-            "id": "collie",
-            "group": "LOCATION",
-            "degree": 1
         },
         {
             "id": "quartzite",
@@ -268,6 +268,32 @@
     ],
     "links": [
         {
+            "source": "widgiemooltha",
+            "target": "greenbushes",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "widgiemooltha",
+            "target": "pinjarra",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "widgiemooltha",
+            "target": "southwest",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "widgiemooltha",
+            "target": "dolerite",
+            "label": []
+        },
+        {
             "source": "greenbushes",
             "target": "pinjarra",
             "label": [
@@ -345,32 +371,6 @@
             ]
         },
         {
-            "source": "widgiemooltha",
-            "target": "greenbushes",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "widgiemooltha",
-            "target": "pinjarra",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "widgiemooltha",
-            "target": "southwest",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "widgiemooltha",
-            "target": "dolerite",
-            "label": []
-        },
-        {
             "source": "archaean",
             "target": "proterozoic",
             "label": [
@@ -386,12 +386,12 @@
         },
         {
             "source": "archaean",
-            "target": "granitoid",
+            "target": "gneiss",
             "label": []
         },
         {
             "source": "archaean",
-            "target": "gneiss",
+            "target": "granitoid",
             "label": []
         },
         {
@@ -499,6 +499,47 @@
             ]
         },
         {
+            "source": "base metal",
+            "target": "gold",
+            "label": []
+        },
+        {
+            "source": "base metal",
+            "target": "greenbushes",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "base metal",
+            "label": []
+        },
+        {
+            "source": "gold",
+            "target": "greenbushes",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "boddington",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "vein",
+            "label": []
+        },
+        {
+            "source": "gneiss",
+            "target": "archaean",
+            "label": []
+        },
+        {
             "source": "granitoid",
             "target": "archaean",
             "label": []
@@ -520,47 +561,6 @@
         {
             "source": "granitoid",
             "target": "balingup",
-            "label": []
-        },
-        {
-            "source": "base metal",
-            "target": "greenbushes",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "base metal",
-            "target": "gold",
-            "label": []
-        },
-        {
-            "source": "gold",
-            "target": "greenbushes",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "gold",
-            "target": "base metal",
-            "label": []
-        },
-        {
-            "source": "gold",
-            "target": "boddington",
-            "label": [
-                "at"
-            ]
-        },
-        {
-            "source": "gold",
-            "target": "vein",
-            "label": []
-        },
-        {
-            "source": "gneiss",
-            "target": "archaean",
             "label": []
         },
         {
@@ -689,15 +689,15 @@
         },
         {
             "source": "greenstone belt",
+            "target": "archaean",
+            "label": []
+        },
+        {
+            "source": "greenstone belt",
             "target": "greenbushes",
             "label": [
                 "in"
             ]
-        },
-        {
-            "source": "greenstone belt",
-            "target": "archaean",
-            "label": []
         },
         {
             "source": "greenstone belt",

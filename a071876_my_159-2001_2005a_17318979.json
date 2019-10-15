@@ -1,0 +1,2155 @@
+{
+    "nodes": [
+        {
+            "id": "koolyanobbing",
+            "group": "LOCATION",
+            "degree": 31
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
+            "degree": 29
+        },
+        {
+            "id": "bullfinch",
+            "group": "LOCATION",
+            "degree": 34
+        },
+        {
+            "id": "colluvium",
+            "group": "ROCK",
+            "degree": 31
+        },
+        {
+            "id": "southern cross",
+            "group": "LOCATION",
+            "degree": 33
+        },
+        {
+            "id": "iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 15
+        },
+        {
+            "id": "quartz",
+            "group": "MINERAL",
+            "degree": 21
+        },
+        {
+            "id": "silica",
+            "group": "MINERAL",
+            "degree": 5
+        },
+        {
+            "id": "magnetite",
+            "group": "MINERAL",
+            "degree": 14
+        },
+        {
+            "id": "carbonate",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "sulphur",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": 15
+        },
+        {
+            "id": "greenstone",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "iron ore deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 5
+        },
+        {
+            "id": "coarse sand",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "mafic schist",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "salt",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "granite",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": 17
+        },
+        {
+            "id": "sinter",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "esperance",
+            "group": "LOCATION",
+            "degree": 5
+        },
+        {
+            "id": "oxide",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "vein",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "regolith",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "port hedland",
+            "group": "LOCATION",
+            "degree": 10
+        },
+        {
+            "id": "geraldton",
+            "group": "LOCATION",
+            "degree": 6
+        },
+        {
+            "id": "pilbara",
+            "group": "LOCATION",
+            "degree": 9
+        },
+        {
+            "id": "chromium",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "nickel",
+            "group": "MINERAL",
+            "degree": 9
+        },
+        {
+            "id": "hematite",
+            "group": "MINERAL",
+            "degree": 7
+        },
+        {
+            "id": "queensland",
+            "group": "LOCATION",
+            "degree": 9
+        },
+        {
+            "id": "tasmania",
+            "group": "LOCATION",
+            "degree": 9
+        },
+        {
+            "id": "clay",
+            "group": "ROCK",
+            "degree": 8
+        },
+        {
+            "id": "grey",
+            "group": "LOCATION",
+            "degree": 11
+        },
+        {
+            "id": "chert",
+            "group": "ROCK",
+            "degree": 6
+        },
+        {
+            "id": "mid west",
+            "group": "LOCATION",
+            "degree": 5
+        },
+        {
+            "id": "quartz vein",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "unknown",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "chlorite",
+            "group": "MINERAL",
+            "degree": 16
+        },
+        {
+            "id": "grunerite",
+            "group": "MINERAL",
+            "degree": 9
+        },
+        {
+            "id": "schist",
+            "group": "ROCK",
+            "degree": 13
+        },
+        {
+            "id": "amphibole",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "soil",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "sand",
+            "group": "ROCK",
+            "degree": 11
+        },
+        {
+            "id": "gravel",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "pyrrhotite",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "metal",
+            "group": "ROCK",
+            "degree": 6
+        },
+        {
+            "id": "bedrock",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "gold deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 0
+        },
+        {
+            "id": "banded iron formation",
+            "group": "STRAT",
+            "degree": 19
+        },
+        {
+            "id": "arsenic",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "copper",
+            "group": "MINERAL",
+            "degree": 5
+        },
+        {
+            "id": "basalt",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "greenstone belt",
+            "group": "STRAT",
+            "degree": 4
+        },
+        {
+            "id": "pisolite",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "newman",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "long",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "oxide, transitional and fresh zones",
+            "group": "OTHER",
+            "degree": 0
+        },
+        {
+            "id": "komatiite",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "thuringite",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "kambalda",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "direct shipping ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 0
+        },
+        {
+            "id": "goethite",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "iron deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 0
+        },
+        {
+            "id": "sericite",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "host rock",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "diamond",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "ultramafic volcanic rock",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "clastic sedimentary rock",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "granitoid",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "palladium",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "platinum",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "preston",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "medium sand",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "talc",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "sediment",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "pyrite",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "greenschist",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "iron formation",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "metasedimentary rock",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "serpentinite",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "direct shipping iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 0
+        },
+        {
+            "id": "hornblende",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "metabasalt",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "silicate",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "fresh banded iron formation",
+            "group": "STRAT",
+            "degree": 0
+        },
+        {
+            "id": "entire banded iron formation",
+            "group": "STRAT",
+            "degree": 0
+        },
+        {
+            "id": "15m clay high plasticity",
+            "group": "OTHER",
+            "degree": 0
+        },
+        {
+            "id": "carbonate magnetite pyrite parent iron formation",
+            "group": "STRAT",
+            "degree": 0
+        },
+        {
+            "id": "parent iron formation",
+            "group": "STRAT",
+            "degree": 0
+        },
+        {
+            "id": "sand formation",
+            "group": "STRAT",
+            "degree": 0
+        },
+        {
+            "id": "mayfield iron ore project",
+            "group": "PROJECT",
+            "degree": 0
+        },
+        {
+            "id": "mayfield ore iron project",
+            "group": "PROJECT",
+            "degree": 0
+        },
+        {
+            "id": "iron ore processing group",
+            "group": "STRAT",
+            "degree": 0
+        },
+        {
+            "id": "iron project",
+            "group": "PROJECT",
+            "degree": 0
+        },
+        {
+            "id": "standard iron ore suite",
+            "group": "STRAT",
+            "degree": 0
+        },
+        {
+            "id": "pig iron project",
+            "group": "PROJECT",
+            "degree": 0
+        },
+        {
+            "id": "mt correll nickel prospect",
+            "group": "PROSPECT",
+            "degree": 0
+        },
+        {
+            "id": "bullfinch project",
+            "group": "PROJECT",
+            "degree": 0
+        },
+        {
+            "id": "7 km long resource",
+            "group": "OTHER",
+            "degree": 0
+        },
+        {
+            "id": "50 mt magnetite carbonate",
+            "group": "OTHER",
+            "degree": 0
+        },
+        {
+            "id": "portman iron ore limited",
+            "group": "ORG",
+            "degree": 0
+        },
+        {
+            "id": "bullfinch iron project",
+            "group": "PROJECT",
+            "degree": 0
+        },
+        {
+            "id": "bullfinch north project",
+            "group": "PROJECT",
+            "degree": 0
+        },
+        {
+            "id": "7 km long and fe content",
+            "group": "OTHER",
+            "degree": 0
+        }
+    ],
+    "links": [
+        {
+            "source": "koolyanobbing",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "iron ore",
+            "label": []
+        },
+        {
+            "source": "perth",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "perth",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "perth",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "perth",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "bullfinch",
+            "target": "gold",
+            "label": []
+        },
+        {
+            "source": "bullfinch",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "bullfinch",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "bullfinch",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "bullfinch",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "bullfinch",
+            "target": "iron ore",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "bullfinch",
+            "target": "unknown",
+            "label": []
+        },
+        {
+            "source": "colluvium",
+            "target": "grey",
+            "label": [
+                "weathered"
+            ]
+        },
+        {
+            "source": "colluvium",
+            "target": "metabasalt",
+            "label": []
+        },
+        {
+            "source": "colluvium",
+            "target": "banded iron formation",
+            "label": [
+                "weathered"
+            ]
+        },
+        {
+            "source": "southern cross",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "southern cross",
+            "target": "bullfinch",
+            "label": [
+                "at",
+                "of"
+            ]
+        },
+        {
+            "source": "southern cross",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "southern cross",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "southern cross",
+            "target": "gold",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "southern cross",
+            "target": "greenstone belt",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "pilbara",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "queensland",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "port hedland",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "tasmania",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "long",
+            "label": [
+                "concentrated on"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "goethite",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "banded iron formation",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "vein",
+            "label": []
+        },
+        {
+            "source": "quartz",
+            "target": "clay",
+            "label": []
+        },
+        {
+            "source": "quartz",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "sand",
+            "label": []
+        },
+        {
+            "source": "quartz",
+            "target": "iron",
+            "label": []
+        },
+        {
+            "source": "quartz",
+            "target": "gravel",
+            "label": []
+        },
+        {
+            "source": "quartz",
+            "target": "schist",
+            "label": [
+                "veins"
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "grey",
+            "label": [
+                "veins"
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "banded iron formation",
+            "label": [
+                "weathered"
+            ]
+        },
+        {
+            "source": "silica",
+            "target": "magnetite",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "silica",
+            "target": "iron",
+            "label": []
+        },
+        {
+            "source": "silica",
+            "target": "sediment",
+            "label": []
+        },
+        {
+            "source": "magnetite",
+            "target": "quartz",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "koolyanobbing",
+            "label": [
+                "at",
+                "to"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "bullfinch",
+            "label": [
+                "at",
+                "in"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "hematite",
+            "label": []
+        },
+        {
+            "source": "magnetite",
+            "target": "banded iron formation",
+            "label": []
+        },
+        {
+            "source": "gold",
+            "target": "bullfinch",
+            "label": [
+                "within",
+                "at"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "nickel",
+            "label": [
+                "as"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "quartz vein",
+            "label": [
+                "was won from"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "iron",
+            "label": [
+                "was won from",
+                "over"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "soil",
+            "label": [
+                "was defined through"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "chert",
+            "label": [
+                "over"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "banded iron formation",
+            "label": [
+                "associated with"
+            ]
+        },
+        {
+            "source": "iron ore deposit",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "iron ore deposit",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron ore deposit",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "iron ore deposit",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "iron ore deposit",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "granite",
+            "target": "hornblende",
+            "label": []
+        },
+        {
+            "source": "iron",
+            "target": "quartz vein",
+            "label": []
+        },
+        {
+            "source": "iron",
+            "target": "magnetite",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "chlorite",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "pyrrhotite",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "grunerite",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "quartz",
+            "label": []
+        },
+        {
+            "source": "iron",
+            "target": "silica",
+            "label": []
+        },
+        {
+            "source": "iron",
+            "target": "basalt",
+            "label": [
+                "banded chert horizons hosted by"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "chert",
+            "label": []
+        },
+        {
+            "source": "esperance",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "esperance",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "esperance",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "esperance",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "esperance",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "vein",
+            "target": "quartz",
+            "label": []
+        },
+        {
+            "source": "port hedland",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "port hedland",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "port hedland",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "port hedland",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "port hedland",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "port hedland",
+            "target": "geraldton",
+            "label": [
+                "near"
+            ]
+        },
+        {
+            "source": "geraldton",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "geraldton",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "geraldton",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "geraldton",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "geraldton",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "pilbara",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "pilbara",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "pilbara",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "pilbara",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "pilbara",
+            "target": "port hedland",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "pilbara",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "nickel",
+            "target": "gold",
+            "label": []
+        },
+        {
+            "source": "nickel",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "nickel",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "nickel",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "nickel",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "nickel",
+            "target": "soil",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "nickel",
+            "target": "kambalda",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "magnetite",
+            "label": []
+        },
+        {
+            "source": "hematite",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "queensland",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "queensland",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "queensland",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "queensland",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "queensland",
+            "target": "pilbara",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "queensland",
+            "target": "port hedland",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "queensland",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "tasmania",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "tasmania",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "tasmania",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "tasmania",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "tasmania",
+            "target": "pilbara",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "tasmania",
+            "target": "queensland",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "tasmania",
+            "target": "port hedland",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "tasmania",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "clay",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "clay",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "clay",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "clay",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "clay",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "clay",
+            "target": "quartz",
+            "label": [
+                "with",
+                "weathered"
+            ]
+        },
+        {
+            "source": "clay",
+            "target": "sand",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "grey",
+            "target": "schist",
+            "label": []
+        },
+        {
+            "source": "grey",
+            "target": "sand",
+            "label": []
+        },
+        {
+            "source": "grey",
+            "target": "gravel",
+            "label": [
+                "is"
+            ]
+        },
+        {
+            "source": "grey",
+            "target": "banded iron formation",
+            "label": [
+                "weathered"
+            ]
+        },
+        {
+            "source": "chert",
+            "target": "iron",
+            "label": []
+        },
+        {
+            "source": "chert",
+            "target": "schist",
+            "label": [
+                "weathered with"
+            ]
+        },
+        {
+            "source": "chert",
+            "target": "grey",
+            "label": [
+                "weathered with"
+            ]
+        },
+        {
+            "source": "chert",
+            "target": "quartz",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "mid west",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "mid west",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "mid west",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "mid west",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "mid west",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "quartz vein",
+            "target": "iron",
+            "label": []
+        },
+        {
+            "source": "unknown",
+            "target": "bullfinch",
+            "label": []
+        },
+        {
+            "source": "chlorite",
+            "target": "grunerite",
+            "label": [
+                "is in"
+            ]
+        },
+        {
+            "source": "chlorite",
+            "target": "schist",
+            "label": [
+                "veins"
+            ]
+        },
+        {
+            "source": "chlorite",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "chlorite",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "chlorite",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "chlorite",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "chlorite",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "chlorite",
+            "target": "iron",
+            "label": [
+                "was done to determine"
+            ]
+        },
+        {
+            "source": "chlorite",
+            "target": "thuringite",
+            "label": []
+        },
+        {
+            "source": "chlorite",
+            "target": "sediment",
+            "label": [
+                "may represent"
+            ]
+        },
+        {
+            "source": "chlorite",
+            "target": "magnetite",
+            "label": [
+                "adhering to"
+            ]
+        },
+        {
+            "source": "chlorite",
+            "target": "banded iron formation",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "grunerite",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "grunerite",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "grunerite",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "grunerite",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "grunerite",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "grunerite",
+            "target": "amphibole",
+            "label": []
+        },
+        {
+            "source": "schist",
+            "target": "chlorite",
+            "label": []
+        },
+        {
+            "source": "schist",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "schist",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "schist",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "schist",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "schist",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "schist",
+            "target": "iron",
+            "label": [
+                "was done to determine"
+            ]
+        },
+        {
+            "source": "schist",
+            "target": "grey",
+            "label": []
+        },
+        {
+            "source": "schist",
+            "target": "sediment",
+            "label": [
+                "may represent"
+            ]
+        },
+        {
+            "source": "amphibole",
+            "target": "grunerite",
+            "label": []
+        },
+        {
+            "source": "soil",
+            "target": "gold",
+            "label": [
+                "was to define"
+            ]
+        },
+        {
+            "source": "soil",
+            "target": "nickel",
+            "label": [
+                "was to define"
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "quartz",
+            "label": [
+                "is"
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "gravel",
+            "label": [
+                "is"
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "grey",
+            "label": []
+        },
+        {
+            "source": "gravel",
+            "target": "quartz",
+            "label": [
+                "is"
+            ]
+        },
+        {
+            "source": "pyrrhotite",
+            "target": "iron",
+            "label": [
+                "will have"
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "magnetite",
+            "label": [
+                "is investigating"
+            ]
+        },
+        {
+            "source": "bedrock",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "bedrock",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "bedrock",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "bedrock",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "bedrock",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "bullfinch",
+            "label": [
+                "at",
+                "in"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "oxide",
+            "label": [
+                "into"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "quartz",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "vein",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "grey",
+            "label": [
+                "weathered"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "magnetite",
+            "label": [
+                "is being recovered as"
+            ]
+        },
+        {
+            "source": "copper",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "copper",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "copper",
+            "target": "bullfinch",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "copper",
+            "target": "colluvium",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "copper",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "greenstone belt",
+            "target": "southern cross",
+            "label": []
+        },
+        {
+            "source": "greenstone belt",
+            "target": "granitoid",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "pisolite",
+            "target": "unknown",
+            "label": [
+                "rest"
+            ]
+        },
+        {
+            "source": "long",
+            "target": "banded iron formation",
+            "label": [
+                "trending"
+            ]
+        },
+        {
+            "source": "thuringite",
+            "target": "chlorite",
+            "label": []
+        },
+        {
+            "source": "goethite",
+            "target": "iron ore",
+            "label": []
+        },
+        {
+            "source": "host rock",
+            "target": "greenstone belt",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "ultramafic volcanic rock",
+            "target": "clastic sedimentary rock",
+            "label": [
+                "overlain by"
+            ]
+        },
+        {
+            "source": "palladium",
+            "target": "platinum",
+            "label": []
+        },
+        {
+            "source": "platinum",
+            "target": "palladium",
+            "label": []
+        },
+        {
+            "source": "medium sand",
+            "target": "gravel",
+            "label": [
+                "is"
+            ]
+        },
+        {
+            "source": "sediment",
+            "target": "silica",
+            "label": []
+        },
+        {
+            "source": "hornblende",
+            "target": "granite",
+            "label": []
+        },
+        {
+            "source": "metabasalt",
+            "target": "grey",
+            "label": [
+                "weathered"
+            ]
+        },
+        {
+            "source": "metabasalt",
+            "target": "colluvium",
+            "label": []
+        },
+        {
+            "source": "metabasalt",
+            "target": "banded iron formation",
+            "label": [
+                "weathered"
+            ]
+        },
+        {
+            "source": "silicate",
+            "target": "chlorite",
+            "label": [
+                "as"
+            ]
+        }
+    ]
+}

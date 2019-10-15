@@ -161,14 +161,14 @@
             "degree": 1
         },
         {
-            "id": "banded iron formation",
-            "group": "STRAT",
-            "degree": 6
-        },
-        {
             "id": "thinly bedded red and black banded iron formation",
             "group": "STRAT",
             "degree": 0
+        },
+        {
+            "id": "banded iron formation",
+            "group": "STRAT",
+            "degree": 6
         },
         {
             "id": "shaw granitoid complex",
@@ -191,13 +191,13 @@
             "degree": 2
         },
         {
-            "id": "atlas irons iron ore suite",
-            "group": "STRAT",
+            "id": "atlas iron limited",
+            "group": "ORG",
             "degree": 0
         },
         {
-            "id": "atlas iron limited",
-            "group": "ORG",
+            "id": "atlas irons iron ore suite",
+            "group": "STRAT",
             "degree": 0
         },
         {
@@ -216,7 +216,12 @@
             "degree": 0
         },
         {
-            "id": "kelly group",
+            "id": "de grey supergroup",
+            "group": "STRAT",
+            "degree": 1
+        },
+        {
+            "id": "soanesville group",
             "group": "STRAT",
             "degree": 2
         },
@@ -226,14 +231,9 @@
             "degree": 2
         },
         {
-            "id": "soanesville group",
+            "id": "kelly group",
             "group": "STRAT",
             "degree": 2
-        },
-        {
-            "id": "de grey supergroup",
-            "group": "STRAT",
-            "degree": 1
         }
     ],
     "links": [
@@ -367,47 +367,47 @@
         {
             "source": "gorge creek group",
             "target": "gorge creek formation",
-            "label": "current_of"
+            "label": "[current_of]"
         },
         {
             "source": "pilbara supergroup",
             "target": "kelly group",
-            "label": "parent_of"
+            "label": "[parent_of]"
         },
         {
             "source": "pilbara supergroup",
             "target": "sulphur springs group",
-            "label": "parent_of"
+            "label": "[parent_of]"
         },
         {
             "source": "pilbara supergroup",
             "target": "warrawoona group",
-            "label": "parent_of"
-        },
-        {
-            "source": "kelly group",
-            "target": "euro basalt",
-            "label": "parent_of"
-        },
-        {
-            "source": "cardinal formation",
-            "target": "pincunah hill formation",
-            "label": "current_of"
-        },
-        {
-            "source": "soanesville group",
-            "target": "cardinal formation",
-            "label": "parent_of"
-        },
-        {
-            "source": "soanesville group",
-            "target": "corboy formation",
-            "label": "parent_of"
+            "label": "[parent_of]"
         },
         {
             "source": "de grey supergroup",
             "target": "gorge creek group",
-            "label": "parent_of"
+            "label": "[parent_of]"
+        },
+        {
+            "source": "soanesville group",
+            "target": "cardinal formation",
+            "label": "[parent_of]"
+        },
+        {
+            "source": "soanesville group",
+            "target": "corboy formation",
+            "label": "[parent_of]"
+        },
+        {
+            "source": "cardinal formation",
+            "target": "pincunah hill formation",
+            "label": "[current_of]"
+        },
+        {
+            "source": "kelly group",
+            "target": "euro basalt",
+            "label": "[parent_of]"
         }
     ]
 }
