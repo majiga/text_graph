@@ -121,12 +121,7 @@
             "source": "eastern goldfield",
             "target": "coolgardie",
             "label": [
-                "within",
-                {
-                    "label": [
-                        "within"
-                    ]
-                }
+                "within"
             ]
         },
         {
@@ -138,12 +133,8 @@
             "source": "hydrothermal",
             "target": "gold",
             "label": [
-                "has produced",
-                {
-                    "label": [
-                        "around"
-                    ]
-                }
+                "around",
+                "has produced"
             ]
         },
         {
@@ -151,77 +142,35 @@
             "target": "gold",
             "label": [
                 "for",
-                {
-                    "label": [
-                        "including"
-                    ]
-                },
-                {
-                    "label": [
-                        "for"
-                    ]
-                }
+                "including"
             ]
         },
         {
             "source": "coolgardie",
             "target": "gold deposit",
             "label": [
-                "district",
-                {
-                    "label": [
-                        "district"
-                    ]
-                },
-                {
-                    "label": [
-                        "district"
-                    ]
-                }
+                "district"
             ]
         },
         {
             "source": "coolgardie",
             "target": "hydrothermal",
             "label": [
-                "of",
-                {
-                    "label": [
-                        "of"
-                    ]
-                },
-                {
-                    "label": [
-                        "of"
-                    ]
-                }
+                "of"
             ]
         },
         {
             "source": "coolgardie",
             "target": "eastern goldfield",
             "label": [
-                "in",
-                {
-                    "label": []
-                },
-                {
-                    "label": [
-                        "in"
-                    ]
-                }
+                "in"
             ]
         },
         {
             "source": "coolgardie",
             "target": "amphibolite",
             "label": [
-                "are metamorphosed to low",
-                {
-                    "label": [
-                        "are metamorphosed to low"
-                    ]
-                }
+                "are metamorphosed to low"
             ]
         },
         {
@@ -240,39 +189,21 @@
             "source": "amphibolite",
             "target": "coolgardie",
             "label": [
-                "hosted",
-                {
-                    "label": [
-                        "hosted"
-                    ]
-                },
-                {
-                    "label": [
-                        "hosted"
-                    ]
-                }
+                "hosted"
             ]
         },
         {
             "source": "amphibolite",
             "target": "gold deposit",
             "label": [
-                "facies lode",
-                {
-                    "label": [
-                        "lode"
-                    ]
-                }
+                "lode",
+                "facies lode"
             ]
         },
         {
             "source": "amphibolite",
             "target": "gold",
-            "label": [
-                {
-                    "label": []
-                }
-            ]
+            "label": []
         },
         {
             "source": "southern cross",
@@ -286,44 +217,15 @@
             "target": "gold deposit",
             "label": [
                 "for",
-                {
-                    "label": [
-                        "at"
-                    ]
-                },
-                {
-                    "label": [
-                        "deduced from"
-                    ]
-                },
-                {
-                    "label": []
-                },
-                {
-                    "label": []
-                },
-                {
-                    "label": [
-                        "at"
-                    ]
-                },
-                {
-                    "label": []
-                }
+                "deduced from",
+                "at"
             ]
         },
         {
             "source": "gold",
             "target": "quartz",
             "label": [
-                {
-                    "label": [
-                        "is associated with"
-                    ]
-                },
-                {
-                    "label": []
-                }
+                "is associated with"
             ]
         },
         {
@@ -331,28 +233,15 @@
             "target": "quartz vein",
             "label": [
                 "",
-                {
-                    "label": [
-                        "was established in"
-                    ]
-                }
+                "was established in"
             ]
         },
         {
             "source": "gold",
             "target": "coolgardie",
             "label": [
-                "at",
-                {
-                    "label": [
-                        "to"
-                    ]
-                },
-                {
-                    "label": [
-                        "at"
-                    ]
-                }
+                "to",
+                "at"
             ]
         },
         {
@@ -366,17 +255,8 @@
             "source": "gold",
             "target": "perseverance",
             "label": [
-                "at",
-                {
-                    "label": [
-                        "at"
-                    ]
-                },
-                {
-                    "label": [
-                        "from"
-                    ]
-                }
+                "from",
+                "at"
             ]
         },
         {
@@ -390,15 +270,8 @@
             "source": "gold",
             "target": "diorite",
             "label": [
-                "intersected in",
-                {
-                    "label": []
-                },
-                {
-                    "label": [
-                        "through"
-                    ]
-                }
+                "through",
+                "intersected in"
             ]
         },
         {
@@ -412,51 +285,22 @@
             "source": "gold",
             "target": "yilgarn craton",
             "label": [
-                "at",
-                {
-                    "label": [
-                        "at"
-                    ]
-                },
-                {
-                    "label": [
-                        "in"
-                    ]
-                }
+                "in",
+                "at"
             ]
         },
         {
             "source": "gold",
             "target": "amphibolite",
             "label": [
-                "in",
-                {
-                    "label": [
-                        "in"
-                    ]
-                },
-                {
-                    "label": [
-                        "in"
-                    ]
-                }
+                "in"
             ]
         },
         {
             "source": "gold",
             "target": "hydrothermal",
             "label": [
-                "of",
-                {
-                    "label": [
-                        "of"
-                    ]
-                },
-                {
-                    "label": [
-                        "of"
-                    ]
-                }
+                "of"
             ]
         },
         {
@@ -490,21 +334,14 @@
             "target": "gold",
             "label": [
                 "",
-                {
-                    "label": [
-                        "to"
-                    ]
-                }
+                "to"
             ]
         },
         {
             "source": "sons of gwalia",
             "target": "gold deposit",
             "label": [
-                "ltd. the elliots lode",
-                {
-                    "label": []
-                }
+                "ltd. the elliots lode"
             ]
         },
         {
@@ -538,26 +375,14 @@
             "target": "perseverance",
             "label": [
                 "as",
-                {
-                    "label": [
-                        "as"
-                    ]
-                },
-                {
-                    "label": [
-                        "at"
-                    ]
-                }
+                "at"
             ]
         },
         {
             "source": "diorite",
             "target": "gold",
             "label": [
-                "yielded",
-                {
-                    "label": []
-                }
+                "yielded"
             ]
         },
         {
@@ -581,12 +406,7 @@
             "source": "quartz vein",
             "target": "breccia",
             "label": [
-                "",
-                {
-                    "label": [
-                        ""
-                    ]
-                }
+                ""
             ]
         },
         {
@@ -594,16 +414,7 @@
             "target": "quartz",
             "label": [
                 "in",
-                {
-                    "label": [
-                        "in"
-                    ]
-                },
-                {
-                    "label": [
-                        "has been offset across"
-                    ]
-                }
+                "has been offset across"
             ]
         },
         {
@@ -611,14 +422,7 @@
             "target": "diorite",
             "label": [
                 "within",
-                {
-                    "label": [
-                        "in"
-                    ]
-                },
-                {
-                    "label": []
-                }
+                "in"
             ]
         },
         {
@@ -626,11 +430,7 @@
             "target": "quartz",
             "label": [
                 "style high sulphide",
-                {
-                    "label": [
-                        "is"
-                    ]
-                }
+                "is"
             ]
         },
         {
@@ -651,11 +451,7 @@
             "source": "perseverance",
             "target": "diorite",
             "label": [
-                {
-                    "label": [
-                        "occur on"
-                    ]
-                }
+                "occur on"
             ]
         },
         {
@@ -675,11 +471,7 @@
             "target": "gold",
             "label": [
                 "hosts",
-                {
-                    "label": [
-                        "is"
-                    ]
-                }
+                "is"
             ]
         },
         {
@@ -693,17 +485,7 @@
             "source": "yilgarn craton",
             "target": "hydrothermal",
             "label": [
-                "of",
-                {
-                    "label": [
-                        "of"
-                    ]
-                },
-                {
-                    "label": [
-                        "of"
-                    ]
-                }
+                "of"
             ]
         },
         {
@@ -724,57 +506,20 @@
             "source": "gold deposit",
             "target": "gold",
             "label": [
+                "are characterized by",
+                "including",
+                "are reported in",
+                "in",
                 "is provided in",
-                {
-                    "label": [
-                        "of"
-                    ]
-                },
-                {
-                    "label": [
-                        "are characterized by"
-                    ]
-                },
-                {
-                    "label": [
-                        "including"
-                    ]
-                },
-                {
-                    "label": [
-                        "are reported in"
-                    ]
-                },
-                {
-                    "label": [
-                        "are characterised by"
-                    ]
-                },
-                {
-                    "label": [
-                        "in"
-                    ]
-                },
-                {
-                    "label": []
-                }
+                "of",
+                "are characterised by"
             ]
         },
         {
             "source": "gold deposit",
             "target": "breccia",
             "label": [
-                "are dominated by",
-                {
-                    "label": [
-                        "are dominated by"
-                    ]
-                },
-                {
-                    "label": [
-                        "are dominated by"
-                    ]
-                }
+                "are dominated by"
             ]
         },
         {
@@ -782,16 +527,7 @@
             "target": "coolgardie",
             "label": [
                 "in",
-                {
-                    "label": [
-                        "are recognized in"
-                    ]
-                },
-                {
-                    "label": [
-                        "in"
-                    ]
-                }
+                "are recognized in"
             ]
         },
         {
@@ -812,36 +548,21 @@
             "source": "gold deposit",
             "target": "hydrothermal",
             "label": [
-                "of",
-                {
-                    "label": [
-                        "of"
-                    ]
-                }
+                "of"
             ]
         },
         {
             "source": "gold deposit",
             "target": "amphibolite",
             "label": [
-                "in",
-                {
-                    "label": [
-                        "in"
-                    ]
-                }
+                "in"
             ]
         },
         {
             "source": "gold deposit",
             "target": "granulite",
             "label": [
-                "in",
-                {
-                    "label": [
-                        "in"
-                    ]
-                }
+                "in"
             ]
         },
         {
@@ -879,12 +600,7 @@
             "source": "gold deposit",
             "target": "porphyry",
             "label": [
-                "is hosted within",
-                {
-                    "label": [
-                        ""
-                    ]
-                }
+                "is hosted within"
             ]
         },
         {
@@ -945,22 +661,14 @@
             "source": "quartz",
             "target": "breccia",
             "label": [
-                "",
-                {
-                    "label": [
-                        ""
-                    ]
-                }
+                ""
             ]
         },
         {
             "source": "quartz",
             "target": "gold",
             "label": [
-                "lode",
-                {
-                    "label": []
-                }
+                "lode"
             ]
         },
         {
@@ -982,11 +690,7 @@
             "target": "gold",
             "label": [
                 "has",
-                {
-                    "label": [
-                        "deposits fro saracen"
-                    ]
-                }
+                "deposits fro saracen"
             ]
         },
         {
