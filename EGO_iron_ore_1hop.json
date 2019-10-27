@@ -1,0 +1,1772 @@
+{
+    "nodes": [
+        {
+            "id": "paraburdoo",
+            "group": "LOCATION",
+            "degree": "10"
+        },
+        {
+            "id": "hamersley",
+            "group": "LOCATION",
+            "degree": "7"
+        },
+        {
+            "id": "tertiary",
+            "group": "TIMESCALE",
+            "degree": "3"
+        },
+        {
+            "id": "alluvium",
+            "group": "ROCK",
+            "degree": "3"
+        },
+        {
+            "id": "coolgardie",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "christmas creek",
+            "group": "LOCATION",
+            "degree": "13"
+        },
+        {
+            "id": "nickel",
+            "group": "MINERAL",
+            "degree": "3"
+        },
+        {
+            "id": "tasmania",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "atlas iron",
+            "group": "LOCATION",
+            "degree": "4"
+        },
+        {
+            "id": "goldsworthy",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "robinson range formation",
+            "group": "STRAT",
+            "degree": "4"
+        },
+        {
+            "id": "martite",
+            "group": "MINERAL",
+            "degree": "7"
+        },
+        {
+            "id": "hematite",
+            "group": "MINERAL",
+            "degree": "21"
+        },
+        {
+            "id": "cullens",
+            "group": "STRAT",
+            "degree": "4"
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": "18"
+        },
+        {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": "12"
+        },
+        {
+            "id": "brockman",
+            "group": "LOCATION",
+            "degree": "6"
+        },
+        {
+            "id": "base metal",
+            "group": "MINERAL",
+            "degree": "10"
+        },
+        {
+            "id": "magnetite",
+            "group": "MINERAL",
+            "degree": "24"
+        },
+        {
+            "id": "hamersley province",
+            "group": "LOCATION",
+            "degree": "4"
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
+            "degree": "6"
+        },
+        {
+            "id": "fraser",
+            "group": "LOCATION",
+            "degree": "7"
+        },
+        {
+            "id": "midwest",
+            "group": "LOCATION",
+            "degree": "6"
+        },
+        {
+            "id": "snow",
+            "group": "MINERAL",
+            "degree": "2"
+        },
+        {
+            "id": "jack hills",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "hamersley basin",
+            "group": "LOCATION",
+            "degree": "5"
+        },
+        {
+            "id": "regolith",
+            "group": "ROCK",
+            "degree": "4"
+        },
+        {
+            "id": "marra mamba iron formation",
+            "group": "STRAT",
+            "degree": "3"
+        },
+        {
+            "id": "karara",
+            "group": "LOCATION",
+            "degree": "18"
+        },
+        {
+            "id": "metal",
+            "group": "ROCK",
+            "degree": "13"
+        },
+        {
+            "id": "long",
+            "group": "LOCATION",
+            "degree": "13"
+        },
+        {
+            "id": "finucane",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "pilbara region",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "gindalbie",
+            "group": "LOCATION",
+            "degree": "8"
+        },
+        {
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": "24"
+        },
+        {
+            "id": "sinter",
+            "group": "ROCK",
+            "degree": "13"
+        },
+        {
+            "id": "iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": "62"
+        },
+        {
+            "id": "grey",
+            "group": "LOCATION",
+            "degree": "5"
+        },
+        {
+            "id": "peak hill",
+            "group": "LOCATION",
+            "degree": "7"
+        },
+        {
+            "id": "geraldton",
+            "group": "LOCATION",
+            "degree": "7"
+        },
+        {
+            "id": "pilbara",
+            "group": "LOCATION",
+            "degree": "9"
+        },
+        {
+            "id": "sediment",
+            "group": "ROCK",
+            "degree": "10"
+        },
+        {
+            "id": "koolyanobbing",
+            "group": "LOCATION",
+            "degree": "6"
+        }
+    ],
+    "links": [
+        {
+            "source": "paraburdoo",
+            "target": "iron ore",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "paraburdoo",
+            "target": "gold",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "paraburdoo",
+            "target": "hamersley",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "paraburdoo",
+            "target": "sediment",
+            "label": [
+                "is"
+            ]
+        },
+        {
+            "source": "paraburdoo",
+            "target": "koolyanobbing",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "hamersley",
+            "target": "iron",
+            "label": [
+                "",
+                {
+                    "label": [
+                        ""
+                    ]
+                },
+                {
+                    "label": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "hamersley",
+            "target": "banded iron formation",
+            "label": []
+        },
+        {
+            "source": "tertiary",
+            "target": "sediment",
+            "label": [
+                "detrital",
+                {
+                    "label": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "tertiary",
+            "target": "alluvium",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "christmas creek",
+            "target": "marra mamba iron formation",
+            "label": [
+                "confirming that"
+            ]
+        },
+        {
+            "source": "christmas creek",
+            "target": "sinter",
+            "label": [
+                "can be rated as"
+            ]
+        },
+        {
+            "source": "christmas creek",
+            "target": "hematite",
+            "label": [
+                "could outperform"
+            ]
+        },
+        {
+            "source": "christmas creek",
+            "target": "pilbara",
+            "label": []
+        },
+        {
+            "source": "christmas creek",
+            "target": "magnetite",
+            "label": []
+        },
+        {
+            "source": "christmas creek",
+            "target": "martite",
+            "label": []
+        },
+        {
+            "source": "christmas creek",
+            "target": "metal",
+            "label": []
+        },
+        {
+            "source": "atlas iron",
+            "target": "iron ore",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "robinson range formation",
+            "target": "sediment",
+            "label": [
+                "",
+                {
+                    "label": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "robinson range formation",
+            "target": "peak hill",
+            "label": [
+                "on",
+                {
+                    "label": [
+                        "on"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "robinson range formation",
+            "target": "fraser",
+            "label": []
+        },
+        {
+            "source": "martite",
+            "target": "hematite",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "martite",
+            "target": "christmas creek",
+            "label": []
+        },
+        {
+            "source": "hematite",
+            "target": "long",
+            "label": [
+                "expected to deliver"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "karara",
+            "label": [
+                "from"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "hamersley",
+            "label": [
+                "will be based on"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "magnetite",
+            "label": [
+                {
+                    "label": [
+                        "of"
+                    ]
+                },
+                {
+                    "label": [
+                        ""
+                    ]
+                },
+                {
+                    "label": []
+                }
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "hamersley province",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "banded iron formation",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "grey",
+            "label": [
+                "ore   brownish",
+                {
+                    "label": [
+                        "blue"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "iron",
+            "label": [
+                "associated with",
+                {
+                    "label": [
+                        "returned"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "christmas creek",
+            "label": [
+                "At"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "martite",
+            "label": [
+                "can refer to"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "marra mamba iron formation",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "brockman",
+            "label": [
+                "resemble"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "pilbara",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "sinter",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "cullens",
+            "target": "gold",
+            "label": [
+                "ashburton"
+            ]
+        },
+        {
+            "source": "cullens",
+            "target": "iron ore",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "karara",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "iron ore",
+            "label": [
+                "of",
+                {
+                    "label": [
+                        "remains"
+                    ]
+                },
+                {
+                    "label": [
+                        "outside"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "base metal",
+            "label": [
+                "and",
+                {
+                    "label": [
+                        "and"
+                    ]
+                },
+                {
+                    "label": [
+                        "and"
+                    ]
+                },
+                {
+                    "label": [
+                        "and"
+                    ]
+                },
+                {
+                    "label": [
+                        "and"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "iron",
+            "label": [
+                "",
+                {
+                    "label": [
+                        "was won from"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "metal",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "hamersley",
+            "label": [
+                "extended over"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "paraburdoo",
+            "label": [
+                "as"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "regolith",
+            "label": [
+                "were"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "peak hill",
+            "label": [
+                "continues around",
+                {
+                    "label": [
+                        "continues around"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "nickel",
+            "label": [
+                "for",
+                {
+                    "label": [
+                        "and"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "long",
+            "label": [
+                "regarding"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "midwest",
+            "label": [
+                "of",
+                {
+                    "label": [
+                        "of"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "iron ore",
+            "label": []
+        },
+        {
+            "source": "banded iron formation",
+            "target": "sediment",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "iron",
+            "label": [
+                "returned"
+            ]
+        },
+        {
+            "source": "brockman",
+            "target": "iron",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "brockman",
+            "target": "iron ore",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "brockman",
+            "target": "koolyanobbing",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "base metal",
+            "target": "gold",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "base metal",
+            "target": "iron ore",
+            "label": [
+                "were"
+            ]
+        },
+        {
+            "source": "base metal",
+            "target": "hamersley",
+            "label": [
+                "were"
+            ]
+        },
+        {
+            "source": "base metal",
+            "target": "goldsworthy",
+            "label": [
+                "were"
+            ]
+        },
+        {
+            "source": "base metal",
+            "target": "snow",
+            "label": [
+                "were"
+            ]
+        },
+        {
+            "source": "base metal",
+            "target": "peak hill",
+            "label": [
+                "continues around",
+                {
+                    "label": [
+                        "continues around"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "base metal",
+            "target": "long",
+            "label": [
+                "regarding"
+            ]
+        },
+        {
+            "source": "base metal",
+            "target": "banded iron formation",
+            "label": []
+        },
+        {
+            "source": "magnetite",
+            "target": "hematite",
+            "label": [
+                "underlying",
+                {
+                    "label": []
+                },
+                {
+                    "label": [
+                        "to"
+                    ]
+                },
+                {
+                    "label": [
+                        "and"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "iron ore",
+            "label": [
+                "hosted",
+                {
+                    "label": []
+                }
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "long",
+            "label": [
+                "expected to deliver"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "karara",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "pilbara",
+            "label": [
+                "will be based on"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "fraser",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "banded iron formation",
+            "label": [
+                "",
+                {
+                    "label": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "metal",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "tasmania",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "geraldton",
+            "label": [
+                "near"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "iron",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "koolyanobbing",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "sinter",
+            "label": []
+        },
+        {
+            "source": "hamersley province",
+            "target": "iron ore",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "hamersley province",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "perth",
+            "target": "geraldton",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "perth",
+            "target": "gold",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "perth",
+            "target": "magnetite",
+            "label": []
+        },
+        {
+            "source": "perth",
+            "target": "atlas iron",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "fraser",
+            "target": "peak hill",
+            "label": [
+                "and"
+            ]
+        },
+        {
+            "source": "fraser",
+            "target": "midwest",
+            "label": [
+                "syncline (see figures 1 & 2"
+            ]
+        },
+        {
+            "source": "fraser",
+            "target": "iron ore",
+            "label": []
+        },
+        {
+            "source": "midwest",
+            "target": "iron ore",
+            "label": [
+                "remains",
+                {
+                    "label": [
+                        "outside"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "midwest",
+            "target": "pilbara region",
+            "label": [
+                "to",
+                {
+                    "label": [
+                        "to"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "midwest",
+            "target": "banded iron formation",
+            "label": []
+        },
+        {
+            "source": "hamersley basin",
+            "target": "paraburdoo",
+            "label": []
+        },
+        {
+            "source": "hamersley basin",
+            "target": "iron ore",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "hamersley basin",
+            "target": "magnetite",
+            "label": []
+        },
+        {
+            "source": "regolith",
+            "target": "magnetite",
+            "label": []
+        },
+        {
+            "source": "regolith",
+            "target": "sediment",
+            "label": [
+                "stream"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "magnetite",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "iron ore",
+            "label": [
+                "hosts"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "iron",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "hematite",
+            "label": [
+                "covers"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "geraldton",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "gindalbie",
+            "label": [
+                "commented"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "long",
+            "label": [
+                "have finalised"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "banded iron formation",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "gindalbie",
+            "label": [
+                "ltd"
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "karara",
+            "label": [
+                "centered around"
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "iron",
+            "label": [
+                "nl bungalbin",
+                {
+                    "label": [
+                        "are"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "iron ore",
+            "label": [
+                "holds"
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "christmas creek",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "sinter",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "magnetite",
+            "label": [
+                "containing",
+                {
+                    "label": [
+                        "is investigating"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "long",
+            "target": "iron ore",
+            "label": [
+                "term"
+            ]
+        },
+        {
+            "source": "long",
+            "target": "magnetite",
+            "label": [
+                "life,"
+            ]
+        },
+        {
+            "source": "long",
+            "target": "karara",
+            "label": [
+                "around"
+            ]
+        },
+        {
+            "source": "long",
+            "target": "paraburdoo",
+            "label": []
+        },
+        {
+            "source": "long",
+            "target": "sinter",
+            "label": [
+                "have conducted"
+            ]
+        },
+        {
+            "source": "gindalbie",
+            "target": "metal",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "gindalbie",
+            "target": "karara",
+            "label": []
+        },
+        {
+            "source": "gindalbie",
+            "target": "geraldton",
+            "label": []
+        },
+        {
+            "source": "gindalbie",
+            "target": "long",
+            "label": []
+        },
+        {
+            "source": "iron",
+            "target": "pilbara",
+            "label": [
+                "",
+                {
+                    "label": [
+                        "including"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "sediment",
+            "label": [
+                "may have accumulated within",
+                {
+                    "label": []
+                }
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "karara",
+            "label": [
+                "from"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "gindalbie",
+            "label": []
+        },
+        {
+            "source": "iron",
+            "target": "paraburdoo",
+            "label": [
+                "1992 1996"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "iron ore",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "hamersley basin",
+            "label": []
+        },
+        {
+            "source": "iron",
+            "target": "long",
+            "label": []
+        },
+        {
+            "source": "iron",
+            "target": "banded iron formation",
+            "label": [
+                "rich"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "martite",
+            "label": []
+        },
+        {
+            "source": "iron",
+            "target": "magnetite",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "nickel",
+            "label": [
+                "on"
+            ]
+        },
+        {
+            "source": "sinter",
+            "target": "magnetite",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "sinter",
+            "target": "iron",
+            "label": [
+                "by"
+            ]
+        },
+        {
+            "source": "sinter",
+            "target": "christmas creek",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "sinter",
+            "target": "metal",
+            "label": [
+                "grate"
+            ]
+        },
+        {
+            "source": "sinter",
+            "target": "brockman",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "sinter",
+            "target": "hematite",
+            "label": []
+        },
+        {
+            "source": "sinter",
+            "target": "iron ore",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "karara",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "gindalbie",
+            "label": [
+                "managed by",
+                {
+                    "label": [
+                        "being undertaken by"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "geraldton",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "goldsworthy",
+            "label": [
+                "projects"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "brockman",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "paraburdoo",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "base metal",
+            "label": [
+                "In"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "tertiary",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "cullens",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "regolith",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "snow",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "gold",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "sediment",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "peak hill",
+            "label": [
+                "goldfield\\/mineral field",
+                {
+                    "label": [
+                        "goldfield\\/mineral field"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "hematite",
+            "label": [
+                "",
+                {
+                    "label": [
+                        "in"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "midwest",
+            "label": [
+                "in",
+                {
+                    "label": [
+                        "in"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "fraser",
+            "label": [
+                "within",
+                {
+                    "label": []
+                }
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "pilbara region",
+            "label": [
+                "in",
+                {
+                    "label": [
+                        "in"
+                    ]
+                },
+                {
+                    "label": [
+                        "in"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "jack hills",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "banded iron formation",
+            "label": [
+                "overlying",
+                {
+                    "label": [
+                        "of"
+                    ]
+                },
+                {
+                    "label": [
+                        "overlying"
+                    ]
+                },
+                {
+                    "label": []
+                }
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "finucane",
+            "label": [
+                "ltd"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "nickel",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "iron",
+            "label": [
+                "to",
+                {
+                    "label": [
+                        "on"
+                    ]
+                },
+                {
+                    "label": [
+                        "in"
+                    ]
+                },
+                {
+                    "label": [
+                        "in"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "coolgardie",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "koolyanobbing",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "metal",
+            "label": [
+                "project for polaris",
+                {
+                    "label": [
+                        "of"
+                    ]
+                },
+                {
+                    "label": [
+                        "in"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "long",
+            "label": [
+                "regarding",
+                {
+                    "label": []
+                },
+                {
+                    "label": [
+                        "over"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "alluvium",
+            "label": [
+                "concealed beneath"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "magnetite",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "robinson range formation",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "hamersley basin",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "marra mamba iron formation",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "martite",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "pilbara",
+            "label": [
+                "from",
+                {
+                    "label": [
+                        "in"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "perth",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "christmas creek",
+            "label": [
+                "derived from"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "hamersley",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "hamersley province",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "grey",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "sinter",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "tasmania",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "atlas iron",
+            "label": [
+                "undertaken by",
+                {
+                    "label": [
+                        "undertaken by"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "grey",
+            "target": "martite",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "grey",
+            "target": "hematite",
+            "label": []
+        },
+        {
+            "source": "grey",
+            "target": "alluvium",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "peak hill",
+            "target": "gold",
+            "label": [
+                "had",
+                {
+                    "label": [
+                        "had"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "peak hill",
+            "target": "fraser",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "geraldton",
+            "target": "karara",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "geraldton",
+            "target": "iron ore",
+            "label": []
+        },
+        {
+            "source": "pilbara",
+            "target": "iron ore",
+            "label": [
+                "bedded"
+            ]
+        },
+        {
+            "source": "pilbara",
+            "target": "iron",
+            "label": [
+                "lump"
+            ]
+        },
+        {
+            "source": "pilbara",
+            "target": "christmas creek",
+            "label": [
+                "than"
+            ]
+        },
+        {
+            "source": "pilbara",
+            "target": "atlas iron",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "sediment",
+            "target": "karara",
+            "label": []
+        },
+        {
+            "source": "sediment",
+            "target": "gold",
+            "label": [
+                "hosted"
+            ]
+        },
+        {
+            "source": "sediment",
+            "target": "cullens",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "iron ore",
+            "label": [
+                "type",
+                {
+                    "label": [
+                        "in"
+                    ]
+                },
+                {
+                    "label": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "iron",
+            "label": [
+                "for",
+                {
+                    "label": [
+                        "in"
+                    ]
+                }
+            ]
+        }
+    ]
+}

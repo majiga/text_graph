@@ -1,0 +1,1019 @@
+{
+    "nodes": [
+        {
+            "id": "eastern goldfield",
+            "group": "LOCATION",
+            "degree": "6"
+        },
+        {
+            "id": "hydrothermal",
+            "group": "MINERAL",
+            "degree": "6"
+        },
+        {
+            "id": "coolgardie",
+            "group": "LOCATION",
+            "degree": "14"
+        },
+        {
+            "id": "linden",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "amphibolite",
+            "group": "ROCK",
+            "degree": "6"
+        },
+        {
+            "id": "southern cross",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "granites tanami",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": "28"
+        },
+        {
+            "id": "brockman",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "sons of gwalia",
+            "group": "LOCATION",
+            "degree": "4"
+        },
+        {
+            "id": "granodiorite",
+            "group": "ROCK",
+            "degree": "7"
+        },
+        {
+            "id": "diorite",
+            "group": "ROCK",
+            "degree": "11"
+        },
+        {
+            "id": "quartz vein",
+            "group": "ROCK",
+            "degree": "6"
+        },
+        {
+            "id": "perseverance",
+            "group": "LOCATION",
+            "degree": "8"
+        },
+        {
+            "id": "breccia",
+            "group": "ROCK",
+            "degree": "9"
+        },
+        {
+            "id": "granite",
+            "group": "ROCK",
+            "degree": "3"
+        },
+        {
+            "id": "yilgarn craton",
+            "group": "LOCATION",
+            "degree": "5"
+        },
+        {
+            "id": "gold deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": "28"
+        },
+        {
+            "id": "quartz",
+            "group": "MINERAL",
+            "degree": "12"
+        },
+        {
+            "id": "porphyry",
+            "group": "ROCK",
+            "degree": "8"
+        },
+        {
+            "id": "peak hill",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "felsic volcaniclastic sandstone",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "granulite",
+            "group": "ROCK",
+            "degree": "1"
+        }
+    ],
+    "links": [
+        {
+            "source": "eastern goldfield",
+            "target": "coolgardie",
+            "label": [
+                "within",
+                {
+                    "label": [
+                        "within"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "eastern goldfield",
+            "target": "hydrothermal",
+            "label": []
+        },
+        {
+            "source": "hydrothermal",
+            "target": "gold",
+            "label": [
+                "has produced",
+                {
+                    "label": [
+                        "around"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "coolgardie",
+            "target": "gold",
+            "label": [
+                "for",
+                {
+                    "label": [
+                        "including"
+                    ]
+                },
+                {
+                    "label": [
+                        "for"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "coolgardie",
+            "target": "gold deposit",
+            "label": [
+                "district",
+                {
+                    "label": [
+                        "district"
+                    ]
+                },
+                {
+                    "label": [
+                        "district"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "coolgardie",
+            "target": "hydrothermal",
+            "label": [
+                "of",
+                {
+                    "label": [
+                        "of"
+                    ]
+                },
+                {
+                    "label": [
+                        "of"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "coolgardie",
+            "target": "eastern goldfield",
+            "label": [
+                "in",
+                {
+                    "label": []
+                },
+                {
+                    "label": [
+                        "in"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "coolgardie",
+            "target": "amphibolite",
+            "label": [
+                "are metamorphosed to low",
+                {
+                    "label": [
+                        "are metamorphosed to low"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "coolgardie",
+            "target": "diorite",
+            "label": []
+        },
+        {
+            "source": "coolgardie",
+            "target": "breccia",
+            "label": [
+                "has laminated"
+            ]
+        },
+        {
+            "source": "amphibolite",
+            "target": "coolgardie",
+            "label": [
+                "hosted",
+                {
+                    "label": [
+                        "hosted"
+                    ]
+                },
+                {
+                    "label": [
+                        "hosted"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "amphibolite",
+            "target": "gold deposit",
+            "label": [
+                "facies lode",
+                {
+                    "label": [
+                        "lode"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "amphibolite",
+            "target": "gold",
+            "label": [
+                {
+                    "label": []
+                }
+            ]
+        },
+        {
+            "source": "southern cross",
+            "target": "eastern goldfield",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "gold deposit",
+            "label": [
+                "for",
+                {
+                    "label": [
+                        "at"
+                    ]
+                },
+                {
+                    "label": [
+                        "deduced from"
+                    ]
+                },
+                {
+                    "label": []
+                },
+                {
+                    "label": []
+                },
+                {
+                    "label": [
+                        "at"
+                    ]
+                },
+                {
+                    "label": []
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "quartz",
+            "label": [
+                {
+                    "label": [
+                        "is associated with"
+                    ]
+                },
+                {
+                    "label": []
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "quartz vein",
+            "label": [
+                "",
+                {
+                    "label": [
+                        "was established in"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "coolgardie",
+            "label": [
+                "at",
+                {
+                    "label": [
+                        "to"
+                    ]
+                },
+                {
+                    "label": [
+                        "at"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "breccia",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "perseverance",
+            "label": [
+                "at",
+                {
+                    "label": [
+                        "at"
+                    ]
+                },
+                {
+                    "label": [
+                        "from"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "porphyry",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "diorite",
+            "label": [
+                "intersected in",
+                {
+                    "label": []
+                },
+                {
+                    "label": [
+                        "through"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "granodiorite",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "yilgarn craton",
+            "label": [
+                "at",
+                {
+                    "label": [
+                        "at"
+                    ]
+                },
+                {
+                    "label": [
+                        "in"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "amphibolite",
+            "label": [
+                "in",
+                {
+                    "label": [
+                        "in"
+                    ]
+                },
+                {
+                    "label": [
+                        "in"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "hydrothermal",
+            "label": [
+                "of",
+                {
+                    "label": [
+                        "of"
+                    ]
+                },
+                {
+                    "label": [
+                        "of"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "southern cross",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "eastern goldfield",
+            "label": []
+        },
+        {
+            "source": "gold",
+            "target": "sons of gwalia",
+            "label": [
+                "acquired"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "peak hill",
+            "label": [
+                "prospective tenements within the"
+            ]
+        },
+        {
+            "source": "sons of gwalia",
+            "target": "gold",
+            "label": [
+                "",
+                {
+                    "label": [
+                        "to"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "sons of gwalia",
+            "target": "gold deposit",
+            "label": [
+                "ltd. the elliots lode",
+                {
+                    "label": []
+                }
+            ]
+        },
+        {
+            "source": "granodiorite",
+            "target": "diorite",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "granodiorite",
+            "target": "breccia",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "granodiorite",
+            "target": "quartz",
+            "label": [
+                "consists of"
+            ]
+        },
+        {
+            "source": "granodiorite",
+            "target": "gold deposit",
+            "label": []
+        },
+        {
+            "source": "diorite",
+            "target": "perseverance",
+            "label": [
+                "as",
+                {
+                    "label": [
+                        "as"
+                    ]
+                },
+                {
+                    "label": [
+                        "at"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "diorite",
+            "target": "gold",
+            "label": [
+                "yielded",
+                {
+                    "label": []
+                }
+            ]
+        },
+        {
+            "source": "diorite",
+            "target": "quartz",
+            "label": []
+        },
+        {
+            "source": "diorite",
+            "target": "coolgardie",
+            "label": []
+        },
+        {
+            "source": "diorite",
+            "target": "quartz vein",
+            "label": [
+                "hosted"
+            ]
+        },
+        {
+            "source": "quartz vein",
+            "target": "breccia",
+            "label": [
+                "",
+                {
+                    "label": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "quartz vein",
+            "target": "quartz",
+            "label": [
+                "in",
+                {
+                    "label": [
+                        "in"
+                    ]
+                },
+                {
+                    "label": [
+                        "has been offset across"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "quartz vein",
+            "target": "diorite",
+            "label": [
+                "within",
+                {
+                    "label": [
+                        "in"
+                    ]
+                },
+                {
+                    "label": []
+                }
+            ]
+        },
+        {
+            "source": "perseverance",
+            "target": "quartz",
+            "label": [
+                "style high sulphide",
+                {
+                    "label": [
+                        "is"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "perseverance",
+            "target": "gold",
+            "label": [
+                "expanded"
+            ]
+        },
+        {
+            "source": "perseverance",
+            "target": "coolgardie",
+            "label": [
+                "near"
+            ]
+        },
+        {
+            "source": "perseverance",
+            "target": "diorite",
+            "label": [
+                {
+                    "label": [
+                        "occur on"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "perseverance",
+            "target": "porphyry",
+            "label": []
+        },
+        {
+            "source": "breccia",
+            "target": "quartz",
+            "label": [
+                "was designed to intersect"
+            ]
+        },
+        {
+            "source": "breccia",
+            "target": "gold",
+            "label": [
+                "hosts",
+                {
+                    "label": [
+                        "is"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "granite",
+            "target": "quartz",
+            "label": [
+                "contains"
+            ]
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "hydrothermal",
+            "label": [
+                "of",
+                {
+                    "label": [
+                        "of"
+                    ]
+                },
+                {
+                    "label": [
+                        "of"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "gold",
+            "label": [
+                "is"
+            ]
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "granite",
+            "label": [
+                "comprises gneiss"
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "gold",
+            "label": [
+                "is provided in",
+                {
+                    "label": [
+                        "of"
+                    ]
+                },
+                {
+                    "label": [
+                        "are characterized by"
+                    ]
+                },
+                {
+                    "label": [
+                        "including"
+                    ]
+                },
+                {
+                    "label": [
+                        "are reported in"
+                    ]
+                },
+                {
+                    "label": [
+                        "are characterised by"
+                    ]
+                },
+                {
+                    "label": [
+                        "in"
+                    ]
+                },
+                {
+                    "label": []
+                }
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "breccia",
+            "label": [
+                "are dominated by",
+                {
+                    "label": [
+                        "are dominated by"
+                    ]
+                },
+                {
+                    "label": [
+                        "are dominated by"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "coolgardie",
+            "label": [
+                "in",
+                {
+                    "label": [
+                        "are recognized in"
+                    ]
+                },
+                {
+                    "label": [
+                        "in"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "quartz",
+            "label": [
+                "is associated with"
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "quartz vein",
+            "label": [
+                "is associated with"
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "hydrothermal",
+            "label": [
+                "of",
+                {
+                    "label": [
+                        "of"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "amphibolite",
+            "label": [
+                "in",
+                {
+                    "label": [
+                        "in"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "granulite",
+            "label": [
+                "in",
+                {
+                    "label": [
+                        "in"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "diorite",
+            "label": []
+        },
+        {
+            "source": "gold deposit",
+            "target": "granodiorite",
+            "label": []
+        },
+        {
+            "source": "gold deposit",
+            "target": "southern cross",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "yilgarn craton",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "felsic volcaniclastic sandstone",
+            "label": [
+                "is hosted within"
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "porphyry",
+            "label": [
+                "is hosted within",
+                {
+                    "label": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "eastern goldfield",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "perseverance",
+            "label": []
+        },
+        {
+            "source": "gold deposit",
+            "target": "granite",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "granites tanami",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "sons of gwalia",
+            "label": [
+                "by"
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "linden",
+            "label": [
+                "lies within"
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "brockman",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "gold deposit",
+            "target": "peak hill",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "breccia",
+            "label": [
+                "",
+                {
+                    "label": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "gold",
+            "label": [
+                "lode",
+                {
+                    "label": []
+                }
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "coolgardie",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "porphyry",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "porphyry",
+            "target": "gold",
+            "label": [
+                "has",
+                {
+                    "label": [
+                        "deposits fro saracen"
+                    ]
+                }
+            ]
+        },
+        {
+            "source": "porphyry",
+            "target": "granodiorite",
+            "label": [
+                "dykes (also described as"
+            ]
+        },
+        {
+            "source": "porphyry",
+            "target": "breccia",
+            "label": []
+        },
+        {
+            "source": "porphyry",
+            "target": "gold deposit",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "peak hill",
+            "target": "gold",
+            "label": [
+                "by"
+            ]
+        }
+    ]
+}
