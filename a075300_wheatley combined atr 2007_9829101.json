@@ -1,9 +1,54 @@
 {
     "nodes": [
         {
+            "id": "bridgetown",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "feldspathic gneiss",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "yilgarn craton",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "amphibolite",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "granite",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "orthogneiss",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "calc silicate gneiss",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "galena",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
             "id": "phanerozoic",
             "group": "TIMESCALE",
-            "degree": 2
+            "degree": 1
         },
         {
             "id": "perth basin",
@@ -11,27 +56,67 @@
             "degree": 2
         },
         {
-            "id": "bridgetown",
+            "id": "greenbushes",
             "group": "LOCATION",
-            "degree": 0
+            "degree": 1
         },
         {
-            "id": "lag",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "pegmatite",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "yilgarn craton",
-            "group": "LOCATION",
+            "id": "tin",
+            "group": "MINERAL",
             "degree": 3
         },
         {
-            "id": "kyanite",
+            "id": "wheatley",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "southwest",
+            "group": "LOCATION",
+            "degree": 6
+        },
+        {
+            "id": "gneiss",
+            "group": "ROCK",
+            "degree": 7
+        },
+        {
+            "id": "granulite",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "base metal",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "sphalerite",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "sedimentary rock",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "pemberton",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "irwin",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "quartzite",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "scheelite",
             "group": "MINERAL",
             "degree": 0
         },
@@ -41,84 +126,9 @@
             "degree": 0
         },
         {
-            "id": "southwest",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "sedimentary rock",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "greenbushes pegmatite",
-            "group": "STRAT",
-            "degree": 0
-        },
-        {
-            "id": "base metal",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "archaean",
+            "id": "proterozoic",
             "group": "TIMESCALE",
-            "degree": 3
-        },
-        {
-            "id": "granulite",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "quartzite",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "garnet",
-            "group": "MINERAL",
-            "degree": 5
-        },
-        {
-            "id": "amphibolite",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "biotite",
-            "group": "MINERAL",
-            "degree": 6
-        },
-        {
-            "id": "gneiss",
-            "group": "ROCK",
-            "degree": 5
-        },
-        {
-            "id": "staurolite",
-            "group": "MINERAL",
-            "degree": 4
-        },
-        {
-            "id": "schist",
-            "group": "ROCK",
-            "degree": 4
-        },
-        {
-            "id": "diamond",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "wheatley",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "gahnite",
-            "group": "MINERAL",
-            "degree": 0
+            "degree": 1
         },
         {
             "id": "albany",
@@ -126,39 +136,139 @@
             "degree": 2
         },
         {
-            "id": "fraser",
-            "group": "LOCATION",
-            "degree": 2
+            "id": "lacustrine sediment",
+            "group": "ROCK",
+            "degree": 1
         },
         {
-            "id": "sediment",
+            "id": "pegmatite",
             "group": "ROCK",
             "degree": 0
         },
         {
-            "id": "pyrrhotite",
+            "id": "balingup",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "precious metal",
+            "group": "ORE_DEPOSIT",
+            "degree": 1
+        },
+        {
+            "id": "schist",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "bedrock",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "manjimup",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "sand",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "amphibole",
             "group": "MINERAL",
             "degree": 1
+        },
+        {
+            "id": "feldspar",
+            "group": "MINERAL",
+            "degree": 4
+        },
+        {
+            "id": "biotite",
+            "group": "MINERAL",
+            "degree": 6
+        },
+        {
+            "id": "clay",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "granitoid",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "garnet",
+            "group": "MINERAL",
+            "degree": 5
+        },
+        {
+            "id": "laterite",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "quartz",
+            "group": "MINERAL",
+            "degree": 3
         },
         {
             "id": "pyrite",
             "group": "MINERAL",
-            "degree": 1
+            "degree": 0
         },
         {
-            "id": "sphalerite",
-            "group": "MINERAL",
-            "degree": 0
+            "id": "greenbushes pegmatite",
+            "group": "STRAT",
+            "degree": 1
         },
         {
             "id": "metasedimentary rock",
             "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "fraser",
+            "group": "LOCATION",
             "degree": 1
         },
         {
-            "id": "feldspathic gneiss",
+            "id": "lag",
             "group": "ROCK",
             "degree": 0
+        },
+        {
+            "id": "paragneiss",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "gahnite",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "migmatite",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "quartz mica schist",
+            "group": "ROCK",
+            "degree": 1
         },
         {
             "id": "regolith",
@@ -166,157 +276,285 @@
             "degree": 1
         },
         {
-            "id": "laterite",
-            "group": "ROCK",
+            "id": "staurolite",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "precambrian",
+            "group": "TIMESCALE",
             "degree": 1
         },
         {
-            "id": "balingup gneiss complex",
-            "group": "STRAT",
+            "id": "sediment",
+            "group": "ROCK",
             "degree": 0
         },
         {
-            "id": "wheatley project",
-            "group": "PROJECT",
-            "degree": 0
+            "id": "kyanite",
+            "group": "MINERAL",
+            "degree": 1
         },
         {
-            "id": "yanmah prospect",
-            "group": "PROSPECT",
-            "degree": 0
+            "id": "archean",
+            "group": "TIMESCALE",
+            "degree": 1
         }
     ],
     "links": [
         {
+            "source": "yilgarn craton",
+            "target": "precambrian",
+            "label": [
+                "from"
+            ]
+        },
+        {
+            "source": "amphibolite",
+            "target": "quartz",
+            "label": [
+                "associated with"
+            ]
+        },
+        {
+            "source": "amphibolite",
+            "target": "staurolite",
+            "label": [
+                "associated with"
+            ]
+        },
+        {
             "source": "phanerozoic",
             "target": "perth basin",
-            "label": []
+            "label": [
+                ""
+            ]
         },
         {
             "source": "perth basin",
-            "target": "phanerozoic",
-            "label": []
+            "target": "manjimup",
+            "label": [
+                "to"
+            ]
         },
         {
-            "source": "yilgarn craton",
-            "target": "archaean",
-            "label": []
+            "source": "greenbushes",
+            "target": "tin",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "tin",
+            "target": "kyanite",
+            "label": [
+                "are scattered throughout"
+            ]
         },
         {
             "source": "southwest",
-            "target": "yilgarn craton",
+            "target": "gneiss",
             "label": [
-                "in",
                 "of"
             ]
         },
         {
             "source": "southwest",
-            "target": "archaean",
+            "target": "yilgarn craton",
+            "label": []
+        },
+        {
+            "source": "southwest",
+            "target": "archean",
             "label": [
                 "of"
             ]
         },
         {
-            "source": "archaean",
-            "target": "yilgarn craton",
+            "source": "gneiss",
+            "target": "quartz",
+            "label": [
+                "associated with"
+            ]
+        },
+        {
+            "source": "gneiss",
+            "target": "staurolite",
+            "label": [
+                "associated with"
+            ]
+        },
+        {
+            "source": "gneiss",
+            "target": "southwest",
+            "label": []
+        },
+        {
+            "source": "base metal",
+            "target": "balingup",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "base metal",
+            "target": "southwest",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "pemberton",
+            "target": "irwin",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "quartzite",
+            "target": "feldspathic gneiss",
             "label": []
         },
         {
             "source": "quartzite",
-            "target": "garnet",
+            "target": "amphibolite",
             "label": []
         },
         {
-            "source": "garnet",
-            "target": "quartzite",
+            "source": "quartzite",
+            "target": "calc silicate gneiss",
             "label": []
         },
         {
-            "source": "garnet",
+            "source": "proterozoic",
+            "target": "albany",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "albany",
+            "target": "fraser",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "balingup",
+            "target": "gneiss",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "precious metal",
+            "target": "balingup",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "balingup",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "southwest",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "amphibole",
             "target": "biotite",
-            "label": []
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "feldspar",
+            "target": "amphibolite",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "feldspar",
+            "target": "biotite",
+            "label": [
+                ""
+            ]
         },
         {
             "source": "biotite",
-            "target": "garnet",
+            "target": "feldspar",
             "label": [
-                "associated with"
+                ""
             ]
         },
         {
             "source": "biotite",
             "target": "gneiss",
-            "label": []
-        },
-        {
-            "source": "biotite",
-            "target": "staurolite",
             "label": [
-                "associated with"
+                ""
             ]
         },
         {
             "source": "biotite",
-            "target": "schist",
-            "label": [
-                "associated with"
-            ]
-        },
-        {
-            "source": "gneiss",
-            "target": "biotite",
-            "label": [
-                "associated with"
-            ]
-        },
-        {
-            "source": "gneiss",
             "target": "garnet",
             "label": [
-                "associated with"
+                ""
             ]
         },
         {
-            "source": "gneiss",
-            "target": "staurolite",
+            "source": "garnet",
+            "target": "quartzite",
             "label": [
-                "associated with"
+                ""
             ]
         },
         {
-            "source": "gneiss",
-            "target": "schist",
+            "source": "garnet",
+            "target": "biotite",
             "label": [
-                "associated with"
+                ""
             ]
         },
         {
-            "source": "staurolite",
-            "target": "schist",
-            "label": []
+            "source": "garnet",
+            "target": "gneiss",
+            "label": [
+                ""
+            ]
         },
         {
-            "source": "schist",
-            "target": "staurolite",
-            "label": []
-        },
-        {
-            "source": "albany",
-            "target": "fraser",
-            "label": []
-        },
-        {
-            "source": "fraser",
-            "target": "albany",
-            "label": []
-        },
-        {
-            "source": "pyrrhotite",
-            "target": "pyrite",
+            "source": "laterite",
+            "target": "lacustrine sediment",
             "label": [
                 "with"
             ]
+        },
+        {
+            "source": "laterite",
+            "target": "clay",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "garnet",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "greenbushes pegmatite",
+            "target": "tin",
+            "label": []
         },
         {
             "source": "metasedimentary rock",
@@ -326,10 +564,45 @@
             ]
         },
         {
+            "source": "metasedimentary rock",
+            "target": "quartz mica schist",
+            "label": [
+                "characterised by"
+            ]
+        },
+        {
+            "source": "metasedimentary rock",
+            "target": "feldspar",
+            "label": [
+                "characterised by"
+            ]
+        },
+        {
+            "source": "metasedimentary rock",
+            "target": "banded iron formation",
+            "label": [
+                "characterised by"
+            ]
+        },
+        {
+            "source": "migmatite",
+            "target": "granitoid",
+            "label": [
+                "interpreted to be"
+            ]
+        },
+        {
             "source": "regolith",
             "target": "laterite",
             "label": [
                 "is dominated by"
+            ]
+        },
+        {
+            "source": "staurolite",
+            "target": "schist",
+            "label": [
+                ""
             ]
         }
     ]
