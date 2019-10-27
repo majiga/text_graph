@@ -1,44 +1,59 @@
 {
     "nodes": [
         {
-            "id": "southern cross",
-            "group": "LOCATION",
-            "degree": 26
-        },
-        {
-            "id": "jackson",
-            "group": "LOCATION",
-            "degree": 33
-        },
-        {
             "id": "koolyanobbing",
             "group": "LOCATION",
-            "degree": 28
+            "degree": 11
         },
         {
-            "id": "windarling",
-            "group": "LOCATION",
-            "degree": 27
+            "id": "magnetite",
+            "group": "MINERAL",
+            "degree": 9
         },
         {
-            "id": "iron ore",
-            "group": "ORE_DEPOSIT",
-            "degree": 32
+            "id": "carbonate",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "sandstone",
+            "group": "ROCK",
+            "degree": 7
         },
         {
             "id": "kalgoorlie",
             "group": "LOCATION",
-            "degree": 27
-        },
-        {
-            "id": "yilgarn craton",
-            "group": "LOCATION",
-            "degree": 22
+            "degree": 2
         },
         {
             "id": "perth",
             "group": "LOCATION",
-            "degree": 8
+            "degree": 3
+        },
+        {
+            "id": "jackson",
+            "group": "LOCATION",
+            "degree": 13
+        },
+        {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": 11
+        },
+        {
+            "id": "chert",
+            "group": "ROCK",
+            "degree": 11
+        },
+        {
+            "id": "hematite",
+            "group": "MINERAL",
+            "degree": 10
+        },
+        {
+            "id": "iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 9
         },
         {
             "id": "iron ore deposit",
@@ -46,24 +61,89 @@
             "degree": 2
         },
         {
-            "id": "goethite",
+            "id": "gold",
             "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "sediment",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "dolerite",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "hydrothermal",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "metasedimentary rock",
+            "group": "ROCK",
             "degree": 18
         },
         {
-            "id": "mount jackson",
+            "id": "windarling",
             "group": "LOCATION",
-            "degree": 7
+            "degree": 4
         },
         {
-            "id": "iron",
+            "id": "quartz",
             "group": "MINERAL",
-            "degree": 19
+            "degree": 9
         },
         {
-            "id": "magnetite",
+            "id": "silica",
             "group": "MINERAL",
-            "degree": 13
+            "degree": 3
+        },
+        {
+            "id": "shale",
+            "group": "ROCK",
+            "degree": 9
+        },
+        {
+            "id": "metal",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "iron deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 6
+        },
+        {
+            "id": "goethite",
+            "group": "MINERAL",
+            "degree": 8
+        },
+        {
+            "id": "sinter",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "pilbara",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "biotite",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "long",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "colluvium",
+            "group": "ROCK",
+            "degree": 2
         },
         {
             "id": "alluvium",
@@ -71,137 +151,92 @@
             "degree": 2
         },
         {
-            "id": "limonite",
-            "group": "MINERAL",
-            "degree": 7
+            "id": "tertiary",
+            "group": "TIMESCALE",
+            "degree": 1
         },
         {
-            "id": "diamond",
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": 11
+        },
+        {
+            "id": "grey",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "martite",
             "group": "MINERAL",
             "degree": 0
         },
         {
-            "id": "direct shipping ore",
-            "group": "ORE_DEPOSIT",
+            "id": "mafic rock",
+            "group": "ROCK",
             "degree": 3
         },
         {
-            "id": "midwest",
+            "id": "mount jackson",
             "group": "LOCATION",
-            "degree": 8
+            "degree": 3
         },
         {
-            "id": "chert",
+            "id": "sinclair",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "volcaniclastic rock",
             "group": "ROCK",
-            "degree": 6
+            "degree": 0
         },
         {
-            "id": "carbonate",
-            "group": "MINERAL",
-            "degree": 7
-        },
-        {
-            "id": "hematite",
-            "group": "MINERAL",
-            "degree": 19
-        },
-        {
-            "id": "greenstone belt",
-            "group": "STRAT",
-            "degree": 9
-        },
-        {
-            "id": "metasedimentary rock",
+            "id": "porphyry",
             "group": "ROCK",
-            "degree": 6
-        },
-        {
-            "id": "schist",
-            "group": "ROCK",
-            "degree": 5
+            "degree": 0
         },
         {
             "id": "jaspilite",
             "group": "MINERAL",
-            "degree": 1
+            "degree": 2
         },
         {
-            "id": "long",
-            "group": "LOCATION",
-            "degree": 1
+            "id": "monzogranite",
+            "group": "ROCK",
+            "degree": 2
         },
         {
-            "id": "banded iron formation",
+            "id": "sand",
+            "group": "ROCK",
+            "degree": 6
+        },
+        {
+            "id": "siltstone",
+            "group": "ROCK",
+            "degree": 7
+        },
+        {
+            "id": "schist",
+            "group": "ROCK",
+            "degree": 7
+        },
+        {
+            "id": "greenstone belt",
             "group": "STRAT",
-            "degree": 20
+            "degree": 0
         },
         {
-            "id": "homestead",
-            "group": "LOCATION",
-            "degree": 8
-        },
-        {
-            "id": "bullfinch",
-            "group": "LOCATION",
-            "degree": 7
-        },
-        {
-            "id": "metal",
+            "id": "clay",
             "group": "ROCK",
-            "degree": 7
+            "degree": 5
         },
         {
-            "id": "iron deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": 12
-        },
-        {
-            "id": "narrow low grade (goethite) mineralisation",
-            "group": "OTHER",
-            "degree": 0
-        },
-        {
-            "id": "zinc",
-            "group": "MINERAL",
-            "degree": 7
-        },
-        {
-            "id": "base metal",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "basaltic",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "archaean",
-            "group": "TIMESCALE",
-            "degree": 10
-        },
-        {
-            "id": "proterozoic",
-            "group": "TIMESCALE",
-            "degree": 1
-        },
-        {
-            "id": "gold",
+            "id": "sulphur",
             "group": "MINERAL",
             "degree": 0
         },
         {
-            "id": "cordierite",
-            "group": "MINERAL",
-            "degree": 8
-        },
-        {
-            "id": "oxide",
-            "group": "MINERAL",
-            "degree": 4
-        },
-        {
-            "id": "sinter",
+            "id": "duricrust",
             "group": "ROCK",
             "degree": 0
         },
@@ -211,59 +246,79 @@
             "degree": 0
         },
         {
-            "id": "quartz vein",
+            "id": "quartz arenite",
             "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "direct shipping ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 1
+        },
+        {
+            "id": "silt",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "metasandstone",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "silcrete",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "lateritic duricrust",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "ironstone",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "limonite",
+            "group": "MINERAL",
             "degree": 3
         },
         {
             "id": "granitoid",
             "group": "ROCK",
-            "degree": 8
+            "degree": 11
         },
         {
-            "id": "metagabbro",
+            "id": "midwest",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "butcher bird monzogranite",
+            "group": "STRAT",
+            "degree": 1
+        },
+        {
+            "id": "gravel",
             "group": "ROCK",
             "degree": 4
         },
         {
             "id": "basalt",
             "group": "ROCK",
-            "degree": 4
-        },
-        {
-            "id": "pilbara region",
-            "group": "LOCATION",
             "degree": 2
         },
         {
-            "id": "pilbara",
-            "group": "LOCATION",
-            "degree": 1
+            "id": "mafic volcanic rock",
+            "group": "ROCK",
+            "degree": 2
         },
         {
-            "id": "silica",
+            "id": "andalusite",
             "group": "MINERAL",
-            "degree": 4
-        },
-        {
-            "id": "greenstone",
-            "group": "ROCK",
             "degree": 3
-        },
-        {
-            "id": "butcher bird monzogranite",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "lateritic duricrust",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "ironstone",
-            "group": "ROCK",
-            "degree": 1
         },
         {
             "id": "siderite",
@@ -271,124 +326,19 @@
             "degree": 1
         },
         {
-            "id": "felsic volcanic rock",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "yilgarn block",
-            "group": "LOCATION",
-            "degree": 3
-        },
-        {
-            "id": "volcanic rock",
+            "id": "breccia",
             "group": "ROCK",
             "degree": 2
         },
         {
-            "id": "structural, hydrothermal, supergene or surface weathering processes",
-            "group": "OTHER",
-            "degree": 0
-        },
-        {
-            "id": "silt",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "vein",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "gravel",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "clay",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "sand",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "laterite",
-            "group": "ROCK",
-            "degree": 4
-        },
-        {
-            "id": "quartz",
-            "group": "MINERAL",
-            "degree": 4
-        },
-        {
-            "id": "soil",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "sulphur",
+            "id": "staurolite",
             "group": "MINERAL",
             "degree": 1
         },
         {
-            "id": "porphyry",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "grey",
+            "id": "southern cross",
             "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "gossan",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "hydrothermal",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "sandstone",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "quartzite",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "andalusite",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "siltstone",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "metasandstone",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "duricrust",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "pyrite",
-            "group": "MINERAL",
-            "degree": 1
+            "degree": 3
         },
         {
             "id": "mafic schist",
@@ -396,58 +346,193 @@
             "degree": 0
         },
         {
-            "id": "fresh banded iron formation",
-            "group": "STRAT",
+            "id": "oxide",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "homestead",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "volcanic rock",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "metabasalt",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "quartz vein",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "yilgarn block",
+            "group": "LOCATION",
             "degree": 0
         },
         {
-            "id": "breccia",
+            "id": "laterite",
             "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "gabbro",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "bullfinch",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "gossan",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "iron formation",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "host rock",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "grunerite",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "quartzite",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "poondano",
+            "group": "LOCATION",
             "degree": 0
         },
         {
             "id": "conglomerate",
             "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "ranford",
+            "group": "LOCATION",
             "degree": 0
         },
         {
-            "id": "koolyanobbing iron ore project",
-            "group": "PROJECT",
+            "id": "tungsten",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "copper",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "lead",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "zinc",
+            "group": "MINERAL",
+            "degree": 4
+        },
+        {
+            "id": "greenstone",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "felsic volcanic rock",
+            "group": "ROCK",
             "degree": 0
         },
         {
-            "id": "bungalbin iron ore project",
-            "group": "PROJECT",
+            "id": "eolian sand",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "goldfields",
+            "group": "LOCATION",
             "degree": 0
         },
         {
-            "id": "bungalbin iron project",
-            "group": "PROJECT",
+            "id": "marda complex",
+            "group": "STRAT",
             "degree": 0
         },
         {
-            "id": "portman iron ore ltd",
-            "group": "ORG",
+            "id": "yilgarn craton",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "pyrite",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "base metal",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "cordierite",
+            "group": "MINERAL",
             "degree": 0
         },
         {
-            "id": "usd 1.1 billion iron ore project",
-            "group": "PROJECT",
+            "id": "claystone",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "metagabbro",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "pilbara region",
+            "group": "LOCATION",
             "degree": 0
         },
         {
-            "id": "3.6 bungalbin aurora iron ore project",
-            "group": "PROJECT",
+            "id": "amphibolite",
+            "group": "ROCK",
             "degree": 0
         },
         {
-            "id": "mayfield magnetite project",
-            "group": "PROJECT",
+            "id": "clastic sedimentary rock",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "sheetwash",
+            "group": "ROCK",
             "degree": 0
         },
         {
-            "id": "long life dso project",
-            "group": "PROJECT",
+            "id": "chromite",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "diamond",
+            "group": "MINERAL",
             "degree": 0
         },
         {
@@ -456,160 +541,48 @@
             "degree": 0
         },
         {
-            "id": "yilgarn iron ore project",
-            "group": "PROJECT",
+            "id": "chlorite",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "mudstone",
+            "group": "ROCK",
             "degree": 0
         },
         {
-            "id": "ministerial reserve (iron ore) review",
-            "group": "OTHER",
-            "degree": 0
-        },
-        {
-            "id": "55 km southern cross",
-            "group": "OTHER",
-            "degree": 0
+            "id": "archean",
+            "group": "TIMESCALE",
+            "degree": 1
         }
     ],
     "links": [
         {
-            "source": "southern cross",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "southern cross",
-            "target": "koolyanobbing",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "southern cross",
+            "source": "koolyanobbing",
             "target": "windarling",
             "label": [
-                "in",
-                "at"
+                "are associated with"
             ]
         },
         {
-            "source": "southern cross",
+            "source": "koolyanobbing",
+            "target": "iron deposit",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "koolyanobbing",
             "target": "iron ore",
             "label": [
                 "in"
             ]
         },
         {
-            "source": "southern cross",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "southern cross",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "jackson",
+            "source": "koolyanobbing",
             "target": "southern cross",
             "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "jackson",
-            "target": "koolyanobbing",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "jackson",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at",
-                "are associated with"
-            ]
-        },
-        {
-            "source": "jackson",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "jackson",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "jackson",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "jackson",
-            "target": "goethite",
-            "label": [
-                "are reported"
-            ]
-        },
-        {
-            "source": "jackson",
-            "target": "homestead",
-            "label": []
-        },
-        {
-            "source": "jackson",
-            "target": "siderite",
-            "label": [
-                "indicates that"
-            ]
-        },
-        {
-            "source": "jackson",
-            "target": "iron deposit",
-            "label": []
-        },
-        {
-            "source": "jackson",
-            "target": "iron ore deposit",
-            "label": []
-        },
-        {
-            "source": "koolyanobbing",
-            "target": "windarling",
-            "label": [
-                "are associated with"
-            ]
-        },
-        {
-            "source": "koolyanobbing",
-            "target": "iron ore",
-            "label": [
-                "in",
-                "refer"
-            ]
-        },
-        {
-            "source": "koolyanobbing",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
+                "to"
             ]
         },
         {
@@ -621,128 +594,76 @@
         },
         {
             "source": "koolyanobbing",
-            "target": "iron deposit",
-            "label": []
-        },
-        {
-            "source": "koolyanobbing",
-            "target": "jackson",
-            "label": [
-                "are associated with"
-            ]
-        },
-        {
-            "source": "windarling",
-            "target": "koolyanobbing",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "windarling",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "windarling",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "windarling",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "windarling",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "windarling",
             "target": "yilgarn craton",
             "label": [
                 "in"
             ]
         },
         {
-            "source": "iron ore",
-            "target": "southern cross",
+            "source": "magnetite",
+            "target": "carbonate",
             "label": [
-                "in"
+                ""
             ]
         },
         {
-            "source": "iron ore",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "koolyanobbing",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "long",
-            "label": [
-                "regarding"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "pilbara region",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "alluvium",
-            "label": [
-                "concealed beneath"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "direct shipping ore",
+            "source": "magnetite",
+            "target": "bullfinch",
             "label": []
+        },
+        {
+            "source": "magnetite",
+            "target": "hematite",
+            "label": []
+        },
+        {
+            "source": "magnetite",
+            "target": "banded iron formation",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "carbonate",
+            "target": "silica",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "sandstone",
+            "target": "shale",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "sandstone",
+            "target": "siltstone",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "sandstone",
+            "target": "chert",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "sandstone",
+            "target": "banded iron formation",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "sandstone",
+            "target": "quartz",
+            "label": [
+                "includes"
+            ]
         },
         {
             "source": "kalgoorlie",
@@ -752,505 +673,95 @@
             ]
         },
         {
-            "source": "kalgoorlie",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "koolyanobbing",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
             "source": "perth",
             "target": "kalgoorlie",
             "label": [
-                "on",
                 "to"
             ]
         },
         {
-            "source": "perth",
-            "target": "southern cross",
+            "source": "jackson",
+            "target": "iron ore deposit",
             "label": [
-                "in"
+                ""
             ]
         },
         {
-            "source": "perth",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "perth",
-            "target": "koolyanobbing",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "perth",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "perth",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "perth",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron ore deposit",
-            "target": "jackson",
-            "label": []
-        },
-        {
-            "source": "goethite",
-            "target": "hematite",
-            "label": [
-                "capping on"
-            ]
-        },
-        {
-            "source": "goethite",
-            "target": "iron",
-            "label": [
-                "associated with"
-            ]
-        },
-        {
-            "source": "goethite",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "goethite",
-            "target": "jackson",
-            "label": [
-                "in",
-                "was identified surrounding"
-            ]
-        },
-        {
-            "source": "goethite",
-            "target": "koolyanobbing",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "goethite",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "goethite",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "goethite",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "goethite",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "goethite",
+            "source": "jackson",
             "target": "iron deposit",
-            "label": []
-        },
-        {
-            "source": "goethite",
-            "target": "limonite",
             "label": [
-                "capping on"
+                ""
             ]
         },
         {
-            "source": "goethite",
-            "target": "chert",
+            "source": "jackson",
+            "target": "homestead",
             "label": [
-                "interbedded with"
+                "station"
             ]
         },
         {
-            "source": "goethite",
-            "target": "banded iron formation",
-            "label": [
-                "interbedded with",
-                "capping on"
-            ]
-        },
-        {
-            "source": "mount jackson",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "mount jackson",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "mount jackson",
+            "source": "jackson",
             "target": "koolyanobbing",
             "label": [
-                "in",
                 "at"
             ]
         },
         {
-            "source": "mount jackson",
-            "target": "windarling",
+            "source": "jackson",
+            "target": "siderite",
             "label": [
-                "in",
-                "at"
+                "indicates that"
             ]
         },
         {
-            "source": "mount jackson",
+            "source": "jackson",
             "target": "iron ore",
             "label": [
                 "in"
             ]
         },
         {
-            "source": "mount jackson",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "mount jackson",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "alluvium",
-            "label": [
-                "concealed beneath"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "limonite",
-            "label": [
-                "cemented with"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "jackson",
-            "label": [
-                "in",
-                "of"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "koolyanobbing",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "iron",
+            "source": "jackson",
             "target": "windarling",
             "label": [
-                "in",
-                "at"
+                "are associated with"
             ]
         },
         {
-            "source": "iron",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "jaspilite",
-            "label": [
-                "is hosted by"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "oxide",
-            "label": []
-        },
-        {
-            "source": "iron",
-            "target": "quartz",
-            "label": [
-                "alternating with"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "sulphur",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "banded iron formation",
-            "label": [
-                "in",
-                "within"
-            ]
-        },
-        {
-            "source": "magnetite",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "magnetite",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "magnetite",
-            "target": "koolyanobbing",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "magnetite",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "magnetite",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "magnetite",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "magnetite",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "magnetite",
-            "target": "silica",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "magnetite",
-            "target": "carbonate",
-            "label": []
-        },
-        {
-            "source": "magnetite",
-            "target": "banded iron formation",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "limonite",
+            "source": "jackson",
             "target": "goethite",
             "label": []
         },
         {
-            "source": "limonite",
-            "target": "hematite",
+            "source": "banded iron formation",
+            "target": "chert",
             "label": [
-                "capping on"
+                "includes"
             ]
         },
         {
-            "source": "limonite",
-            "target": "carbonate",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "limonite",
-            "target": "banded iron formation",
-            "label": [
-                "capping on",
-                "of"
-            ]
-        },
-        {
-            "source": "direct shipping ore",
-            "target": "pilbara region",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "direct shipping ore",
-            "target": "iron ore",
+            "source": "banded iron formation",
+            "target": "mount jackson",
             "label": []
         },
         {
-            "source": "midwest",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "midwest",
+            "source": "banded iron formation",
             "target": "jackson",
+            "label": []
+        },
+        {
+            "source": "banded iron formation",
+            "target": "archean",
             "label": [
-                "in"
+                "hosted"
             ]
         },
         {
-            "source": "midwest",
-            "target": "koolyanobbing",
+            "source": "chert",
+            "target": "breccia",
             "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "midwest",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "midwest",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "midwest",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "midwest",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
+                ""
             ]
         },
         {
@@ -1269,112 +780,40 @@
         },
         {
             "source": "chert",
-            "target": "banded iron formation",
+            "target": "mafic rock",
             "label": []
-        },
-        {
-            "source": "carbonate",
-            "target": "silica",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "carbonate",
-            "target": "magnetite",
-            "label": []
-        },
-        {
-            "source": "carbonate",
-            "target": "banded iron formation",
-            "label": [
-                "within"
-            ]
         },
         {
             "source": "hematite",
             "target": "goethite",
-            "label": []
-        },
-        {
-            "source": "hematite",
-            "target": "iron",
             "label": [
-                "associated with"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "koolyanobbing",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
+                ""
             ]
         },
         {
             "source": "hematite",
             "target": "chert",
             "label": [
-                "interbedded with"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "magnetite",
-            "label": [
-                "of"
+                "rich"
             ]
         },
         {
             "source": "hematite",
             "target": "limonite",
-            "label": []
+            "label": [
+                ""
+            ]
         },
         {
             "source": "hematite",
-            "target": "carbonate",
+            "target": "grey",
+            "label": [
+                "ore   brownish"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "magnetite",
             "label": [
                 "of"
             ]
@@ -1388,75 +827,110 @@
         },
         {
             "source": "hematite",
-            "target": "banded iron formation",
+            "target": "iron",
             "label": [
-                "interbedded with",
-                "of"
+                "associated with"
             ]
         },
         {
-            "source": "greenstone belt",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "greenstone belt",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "greenstone belt",
+            "source": "iron ore",
             "target": "koolyanobbing",
             "label": [
-                "in",
                 "at"
             ]
         },
         {
-            "source": "greenstone belt",
-            "target": "windarling",
+            "source": "iron ore",
+            "target": "metal",
             "label": [
-                "in",
-                "at"
+                "project for polaris"
             ]
         },
         {
-            "source": "greenstone belt",
-            "target": "iron ore",
+            "source": "iron ore",
+            "target": "long",
             "label": [
-                "in"
+                "regarding"
             ]
         },
         {
-            "source": "greenstone belt",
-            "target": "kalgoorlie",
+            "source": "iron ore",
+            "target": "alluvium",
+            "label": [
+                "concealed beneath"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "iron",
             "label": [
                 "on"
             ]
         },
         {
-            "source": "greenstone belt",
-            "target": "yilgarn craton",
+            "source": "iron ore",
+            "target": "magnetite",
+            "label": []
+        },
+        {
+            "source": "gold",
+            "target": "long",
             "label": [
-                "in"
+                "regarding"
             ]
         },
         {
-            "source": "greenstone belt",
-            "target": "yilgarn block",
+            "source": "sediment",
+            "target": "mafic volcanic rock",
             "label": [
-                "within"
+                "of"
             ]
         },
         {
-            "source": "greenstone belt",
-            "target": "archaean",
+            "source": "dolerite",
+            "target": "metasedimentary rock",
             "label": [
-                "within"
+                "with"
+            ]
+        },
+        {
+            "source": "hydrothermal",
+            "target": "iron",
+            "label": []
+        },
+        {
+            "source": "metasedimentary rock",
+            "target": "shale",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "metasedimentary rock",
+            "target": "siltstone",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "metasedimentary rock",
+            "target": "chert",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "metasedimentary rock",
+            "target": "banded iron formation",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "metasedimentary rock",
+            "target": "quartz",
+            "label": [
+                "includes"
             ]
         },
         {
@@ -1468,14 +942,7 @@
         },
         {
             "source": "metasedimentary rock",
-            "target": "granitoid",
-            "label": [
-                "includes"
-            ]
-        },
-        {
-            "source": "metasedimentary rock",
-            "target": "metagabbro",
+            "target": "metabasalt",
             "label": [
                 "includes"
             ]
@@ -1488,537 +955,57 @@
             ]
         },
         {
-            "source": "schist",
+            "source": "metasedimentary rock",
+            "target": "metasandstone",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "metasedimentary rock",
+            "target": "granitoid",
+            "label": [
+                "weathered"
+            ]
+        },
+        {
+            "source": "windarling",
+            "target": "iron ore deposit",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "windarling",
+            "target": "koolyanobbing",
+            "label": [
+                "and"
+            ]
+        },
+        {
+            "source": "quartz",
             "target": "metasedimentary rock",
-            "label": []
-        },
-        {
-            "source": "schist",
-            "target": "granitoid",
-            "label": [
-                "includes"
-            ]
-        },
-        {
-            "source": "schist",
-            "target": "metagabbro",
-            "label": [
-                "includes"
-            ]
-        },
-        {
-            "source": "schist",
-            "target": "basalt",
-            "label": [
-                "includes"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "koolyanobbing",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "midwest",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "carbonate",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "goethite",
-            "label": [
-                "have undergone weathering with"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "hematite",
-            "label": [
-                "have undergone weathering with"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "chert",
-            "label": []
-        },
-        {
-            "source": "banded iron formation",
-            "target": "laterite",
-            "label": [
-                "from"
-            ]
-        },
-        {
-            "source": "homestead",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "homestead",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "homestead",
-            "target": "koolyanobbing",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "homestead",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "homestead",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "homestead",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "homestead",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "bullfinch",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "bullfinch",
-            "target": "koolyanobbing",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "bullfinch",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "bullfinch",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "bullfinch",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "bullfinch",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "bullfinch",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "metal",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "metal",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "metal",
-            "target": "koolyanobbing",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "metal",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "metal",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "metal",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "metal",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron deposit",
-            "target": "goethite",
-            "label": []
-        },
-        {
-            "source": "iron deposit",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron deposit",
-            "target": "jackson",
-            "label": [
-                "in",
-                "are associated with"
-            ]
-        },
-        {
-            "source": "iron deposit",
-            "target": "koolyanobbing",
-            "label": [
-                "in",
-                "are associated with"
-            ]
-        },
-        {
-            "source": "iron deposit",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "iron deposit",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron deposit",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "iron deposit",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "zinc",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "zinc",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "zinc",
-            "target": "koolyanobbing",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "zinc",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "zinc",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "zinc",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "zinc",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "archaean",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "archaean",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "archaean",
-            "target": "koolyanobbing",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "archaean",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "archaean",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "archaean",
-            "target": "kalgoorlie",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "archaean",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "archaean",
-            "target": "yilgarn block",
-            "label": []
-        },
-        {
-            "source": "proterozoic",
-            "target": "pilbara",
-            "label": [
-                "characterizes"
-            ]
-        },
-        {
-            "source": "cordierite",
-            "target": "southern cross",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "cordierite",
-            "target": "jackson",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "cordierite",
-            "target": "koolyanobbing",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "cordierite",
-            "target": "windarling",
-            "label": [
-                "in",
-                "at"
-            ]
-        },
-        {
-            "source": "cordierite",
-            "target": "iron ore",
             "label": [
-                "in"
+                "rich"
             ]
         },
         {
-            "source": "cordierite",
-            "target": "kalgoorlie",
+            "source": "quartz",
+            "target": "sandstone",
             "label": [
-                "on"
+                "rich"
             ]
         },
         {
-            "source": "cordierite",
-            "target": "yilgarn craton",
+            "source": "quartz",
+            "target": "magnetite",
             "label": [
-                "in"
+                "indicated"
             ]
         },
         {
-            "source": "oxide",
+            "source": "quartz",
             "target": "iron",
-            "label": []
-        },
-        {
-            "source": "oxide",
-            "target": "quartz",
-            "label": [
-                "alternating with"
-            ]
-        },
-        {
-            "source": "quartz vein",
-            "target": "clay",
-            "label": []
-        },
-        {
-            "source": "granitoid",
-            "target": "butcher bird monzogranite",
-            "label": []
-        },
-        {
-            "source": "granitoid",
-            "target": "lateritic duricrust",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "granitoid",
-            "target": "ironstone",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "metagabbro",
-            "target": "basalt",
-            "label": []
-        },
-        {
-            "source": "basalt",
-            "target": "metagabbro",
             "label": []
         },
         {
@@ -2029,8 +1016,515 @@
             ]
         },
         {
+            "source": "shale",
+            "target": "chert",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "shale",
+            "target": "mafic rock",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "shale",
+            "target": "metasedimentary rock",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "iron",
+            "label": [
+                "nl bungalbin"
+            ]
+        },
+        {
+            "source": "iron deposit",
+            "target": "koolyanobbing",
+            "label": [
+                "are associated with"
+            ]
+        },
+        {
+            "source": "iron deposit",
+            "target": "jackson",
+            "label": [
+                "are associated with"
+            ]
+        },
+        {
+            "source": "iron deposit",
+            "target": "banded iron formation",
+            "label": []
+        },
+        {
+            "source": "goethite",
+            "target": "iron deposit",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "goethite",
+            "target": "hematite",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "goethite",
+            "target": "limonite",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "goethite",
+            "target": "jackson",
+            "label": [
+                "was identified surrounding"
+            ]
+        },
+        {
+            "source": "colluvium",
+            "target": "alluvium",
+            "label": [
+                "and"
+            ]
+        },
+        {
+            "source": "tertiary",
+            "target": "colluvium",
+            "label": [
+                "laterite,"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "oxide",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "jackson",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "goethite",
+            "label": []
+        },
+        {
+            "source": "iron",
+            "target": "mount jackson",
+            "label": []
+        },
+        {
+            "source": "iron",
+            "target": "long",
+            "label": []
+        },
+        {
+            "source": "mafic rock",
+            "target": "banded iron formation",
+            "label": [
+                "metamorphosed"
+            ]
+        },
+        {
+            "source": "mount jackson",
+            "target": "metasedimentary rock",
+            "label": [
+                "is composed of"
+            ]
+        },
+        {
+            "source": "jaspilite",
+            "target": "sediment",
+            "label": [
+                "flanked by"
+            ]
+        },
+        {
+            "source": "jaspilite",
+            "target": "mafic volcanic rock",
+            "label": []
+        },
+        {
+            "source": "monzogranite",
+            "target": "gravel",
+            "label": [
+                "reworked"
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "silt",
+            "label": [
+                "and"
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "laterite",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "granitoid",
+            "label": [
+                "over"
+            ]
+        },
+        {
+            "source": "siltstone",
+            "target": "chert",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "siltstone",
+            "target": "shale",
+            "label": [
+                "sandstone"
+            ]
+        },
+        {
+            "source": "schist",
+            "target": "metasedimentary rock",
+            "label": [
+                "foliated"
+            ]
+        },
+        {
+            "source": "schist",
+            "target": "granitoid",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "schist",
+            "target": "shale",
+            "label": [
+                "sandstone"
+            ]
+        },
+        {
+            "source": "clay",
+            "target": "sand",
+            "label": []
+        },
+        {
+            "source": "clay",
+            "target": "eolian sand",
+            "label": []
+        },
+        {
+            "source": "clay",
+            "target": "quartz",
+            "label": []
+        },
+        {
+            "source": "quartz arenite",
+            "target": "siltstone",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "quartz arenite",
+            "target": "schist",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "direct shipping ore",
+            "target": "iron ore",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "silt",
+            "target": "quartz vein",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "metasandstone",
+            "target": "silcrete",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "silcrete",
+            "target": "granitoid",
+            "label": [
+                "over"
+            ]
+        },
+        {
+            "source": "lateritic duricrust",
+            "target": "ironstone",
+            "label": [
+                "_"
+            ]
+        },
+        {
+            "source": "ironstone",
+            "target": "laterite",
+            "label": [
+                "under"
+            ]
+        },
+        {
+            "source": "limonite",
+            "target": "carbonate",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "granitoid",
+            "target": "butcher bird monzogranite",
+            "label": [
+                "rock"
+            ]
+        },
+        {
+            "source": "granitoid",
+            "target": "monzogranite",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "granitoid",
+            "target": "lateritic duricrust",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "granitoid",
+            "target": "shale",
+            "label": []
+        },
+        {
+            "source": "granitoid",
+            "target": "siltstone",
+            "label": []
+        },
+        {
+            "source": "midwest",
+            "target": "banded iron formation",
+            "label": []
+        },
+        {
+            "source": "gravel",
+            "target": "sand",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "gravel",
+            "target": "silt",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "gravel",
+            "target": "clay",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "basalt",
+            "target": "metagabbro",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "andalusite",
+            "target": "staurolite",
+            "label": [
+                "("
+            ]
+        },
+        {
+            "source": "andalusite",
+            "target": "siltstone",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "andalusite",
+            "target": "schist",
+            "label": [
+                "includes"
+            ]
+        },
+        {
+            "source": "breccia",
+            "target": "chert",
+            "label": []
+        },
+        {
+            "source": "southern cross",
+            "target": "perth",
+            "label": []
+        },
+        {
+            "source": "oxide",
+            "target": "quartz",
+            "label": [
+                "alternating with"
+            ]
+        },
+        {
+            "source": "volcanic rock",
+            "target": "metasedimentary rock",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "metabasalt",
+            "target": "granitoid",
+            "label": [
+                "over"
+            ]
+        },
+        {
+            "source": "quartz vein",
+            "target": "clay",
+            "label": [
+                "debris"
+            ]
+        },
+        {
+            "source": "quartz vein",
+            "target": "goethite",
+            "label": []
+        },
+        {
+            "source": "laterite",
+            "target": "sand",
+            "label": [
+                "quartzofeldspathic"
+            ]
+        },
+        {
+            "source": "gabbro",
+            "target": "metasedimentary rock",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "bullfinch",
+            "target": "southern cross",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "grunerite",
+            "target": "magnetite",
+            "label": [
+                "indicated"
+            ]
+        },
+        {
+            "source": "quartzite",
+            "target": "quartz",
+            "label": [
+                "and metamorphosed"
+            ]
+        },
+        {
+            "source": "conglomerate",
+            "target": "sandstone",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "conglomerate",
+            "target": "metasedimentary rock",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "tungsten",
+            "target": "zinc",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "lead",
+            "target": "copper",
+            "label": [
+                "and"
+            ]
+        },
+        {
+            "source": "zinc",
+            "target": "lead",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "zinc",
+            "target": "base metal",
+            "label": []
+        },
+        {
+            "source": "zinc",
+            "target": "gold",
+            "label": []
+        },
+        {
+            "source": "greenstone",
+            "target": "banded iron formation",
+            "label": [
+                "is characterised by"
+            ]
+        },
+        {
             "source": "greenstone",
             "target": "volcanic rock",
+            "label": [
+                "consisting of"
+            ]
+        },
+        {
+            "source": "greenstone",
+            "target": "clastic sedimentary rock",
             "label": [
                 "consisting of"
             ]
@@ -2044,99 +1538,35 @@
         },
         {
             "source": "greenstone",
-            "target": "iron deposit",
-            "label": [
-                "are associated with"
-            ]
-        },
-        {
-            "source": "butcher bird monzogranite",
-            "target": "granitoid",
+            "target": "jackson",
             "label": []
         },
         {
-            "source": "yilgarn block",
-            "target": "archaean",
-            "label": []
-        },
-        {
-            "source": "volcanic rock",
-            "target": "metasedimentary rock",
+            "source": "base metal",
+            "target": "long",
             "label": [
-                "with"
+                "regarding"
             ]
         },
         {
-            "source": "gravel",
-            "target": "quartz vein",
+            "source": "claystone",
+            "target": "shale",
             "label": [
-                "with"
+                "and"
             ]
         },
         {
-            "source": "gravel",
-            "target": "clay",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "clay",
-            "target": "quartz vein",
-            "label": []
-        },
-        {
-            "source": "sand",
-            "target": "laterite",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "sand",
+            "source": "metagabbro",
             "target": "granitoid",
             "label": [
                 "over"
             ]
         },
         {
-            "source": "laterite",
-            "target": "sand",
-            "label": []
-        },
-        {
-            "source": "laterite",
-            "target": "granitoid",
+            "source": "chlorite",
+            "target": "schist",
             "label": [
-                "over"
-            ]
-        },
-        {
-            "source": "quartz",
-            "target": "oxide",
-            "label": [
-                "containing varying amounts of"
-            ]
-        },
-        {
-            "source": "quartz",
-            "target": "iron",
-            "label": [
-                "containing varying amounts of"
-            ]
-        },
-        {
-            "source": "andalusite",
-            "target": "cordierite",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "metasandstone",
-            "target": "siltstone",
-            "label": [
-                "includes"
+                ""
             ]
         }
     ]

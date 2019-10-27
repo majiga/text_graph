@@ -1,0 +1,652 @@
+{
+    "nodes": [
+        {
+            "id": "laterite",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "bedrock",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": 5
+        },
+        {
+            "id": "iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 7
+        },
+        {
+            "id": "greenstone belt",
+            "group": "STRAT",
+            "degree": 14
+        },
+        {
+            "id": "basaltic",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "regolith",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "homestead",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "koolyanobbing",
+            "group": "LOCATION",
+            "degree": 6
+        },
+        {
+            "id": "nickel",
+            "group": "MINERAL",
+            "degree": 5
+        },
+        {
+            "id": "jackson",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "iron ore deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 4
+        },
+        {
+            "id": "jaspilite",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "sulphur",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "copper",
+            "group": "MINERAL",
+            "degree": 4
+        },
+        {
+            "id": "zinc",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "ironstone",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "coolgardie",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "amphibolite",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "actinolite",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "host rock",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "kalgoorlie",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "marda complex",
+            "group": "STRAT",
+            "degree": 7
+        },
+        {
+            "id": "basalt",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "windarling",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "sedimentary rock",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "metasedimentary",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "goldfields",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "greenstone",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "chert",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "alluvium",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "sand",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "granitoid",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "gold deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 0
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "igneous rock",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "granite",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "southern cross",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "chromium",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "mount jackson",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "comet vale",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "goethite",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "hematite",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "porphyry",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "olivine",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "yilgarn craton",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "finucane",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "gneiss",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "windimurra",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "dolerite",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "lag",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "colluvium",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "archean",
+            "group": "TIMESCALE",
+            "degree": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "laterite",
+            "target": "bedrock",
+            "label": [
+                "and partially ferrugunised"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "nickel",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "host rock",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "copper",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "olivine",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "finucane",
+            "label": [
+                "ltd"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "nickel",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "iron",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "coolgardie",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "banded iron formation",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "greenstone belt",
+            "target": "regolith",
+            "label": [
+                "6 2.2"
+            ]
+        },
+        {
+            "source": "greenstone belt",
+            "target": "dolerite",
+            "label": [
+                "is cut by"
+            ]
+        },
+        {
+            "source": "greenstone belt",
+            "target": "coolgardie",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "greenstone belt",
+            "target": "nickel",
+            "label": [
+                "on"
+            ]
+        },
+        {
+            "source": "greenstone belt",
+            "target": "jackson",
+            "label": [
+                "extending from"
+            ]
+        },
+        {
+            "source": "greenstone belt",
+            "target": "southern cross",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "greenstone belt",
+            "target": "granitoid",
+            "label": [
+                "enclosing"
+            ]
+        },
+        {
+            "source": "greenstone belt",
+            "target": "marda complex",
+            "label": []
+        },
+        {
+            "source": "greenstone belt",
+            "target": "colluvium",
+            "label": []
+        },
+        {
+            "source": "greenstone belt",
+            "target": "alluvium",
+            "label": []
+        },
+        {
+            "source": "greenstone belt",
+            "target": "sand",
+            "label": []
+        },
+        {
+            "source": "basaltic",
+            "target": "porphyry",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "regolith",
+            "target": "laterite",
+            "label": []
+        },
+        {
+            "source": "regolith",
+            "target": "homestead",
+            "label": []
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "iron ore",
+            "label": [
+                "type"
+            ]
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "jackson",
+            "label": [
+                "have been outlined at"
+            ]
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "windarling",
+            "label": [
+                "have been outlined at"
+            ]
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "marda complex",
+            "label": []
+        },
+        {
+            "source": "nickel",
+            "target": "laterite",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "nickel",
+            "target": "greenstone belt",
+            "label": []
+        },
+        {
+            "source": "jackson",
+            "target": "marda complex",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron ore deposit",
+            "target": "jackson",
+            "label": [
+                "have been outlined at"
+            ]
+        },
+        {
+            "source": "iron ore deposit",
+            "target": "windarling",
+            "label": [
+                "have been outlined at"
+            ]
+        },
+        {
+            "source": "iron ore deposit",
+            "target": "banded iron formation",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "jaspilite",
+            "target": "iron ore deposit",
+            "label": [
+                "hills"
+            ]
+        },
+        {
+            "source": "copper",
+            "target": "gold",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "copper",
+            "target": "marda complex",
+            "label": [
+                "bore prospect in the northern"
+            ]
+        },
+        {
+            "source": "zinc",
+            "target": "copper",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "amphibolite",
+            "target": "actinolite",
+            "label": [
+                "facies metamorphism (chlorite and"
+            ]
+        },
+        {
+            "source": "host rock",
+            "target": "greenstone belt",
+            "label": []
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "southern cross",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "marda complex",
+            "target": "koolyanobbing",
+            "label": []
+        },
+        {
+            "source": "windarling",
+            "target": "marda complex",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "marda complex",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "iron ore",
+            "label": []
+        },
+        {
+            "source": "alluvium",
+            "target": "sand",
+            "label": [
+                "and aeolian"
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "laterite",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "granitoid",
+            "label": [
+                "overlies"
+            ]
+        },
+        {
+            "source": "granitoid",
+            "target": "greenstone belt",
+            "label": []
+        },
+        {
+            "source": "igneous rock",
+            "target": "sedimentary rock",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "granite",
+            "target": "coolgardie",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "southern cross",
+            "target": "koolyanobbing",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "southern cross",
+            "target": "gneiss",
+            "label": []
+        },
+        {
+            "source": "comet vale",
+            "target": "host rock",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "goethite",
+            "target": "hematite",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "colluvium",
+            "target": "laterite",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "archean",
+            "target": "granitoid",
+            "label": [
+                ""
+            ]
+        }
+    ]
+}

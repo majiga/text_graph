@@ -1,0 +1,898 @@
+{
+    "nodes": [
+        {
+            "id": "sediment",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "karara",
+            "group": "LOCATION",
+            "degree": 27
+        },
+        {
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": 11
+        },
+        {
+            "id": "regolith",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "gravel",
+            "group": "ROCK",
+            "degree": 10
+        },
+        {
+            "id": "magnetite",
+            "group": "MINERAL",
+            "degree": 11
+        },
+        {
+            "id": "long",
+            "group": "LOCATION",
+            "degree": 10
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "mid west",
+            "group": "LOCATION",
+            "degree": 5
+        },
+        {
+            "id": "windaning formation",
+            "group": "STRAT",
+            "degree": 1
+        },
+        {
+            "id": "koolanooka",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "gindalbie",
+            "group": "LOCATION",
+            "degree": 8
+        },
+        {
+            "id": "iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 8
+        },
+        {
+            "id": "yalgoo",
+            "group": "LOCATION",
+            "degree": 5
+        },
+        {
+            "id": "geraldton",
+            "group": "LOCATION",
+            "degree": 12
+        },
+        {
+            "id": "oxide",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "metal",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "hematite",
+            "group": "MINERAL",
+            "degree": 10
+        },
+        {
+            "id": "murchison",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "silica",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "lead",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "silcrete",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "ferricrete",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "clay",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "perenjori",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "hamersley",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "pilbara",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "silt",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "south west",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "dollar",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "lag",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "saprock",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "laterite",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "gilgai",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "greenstone belt",
+            "group": "STRAT",
+            "degree": 1
+        },
+        {
+            "id": "homestead",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "jasper",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "quartz",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "sand",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "sulphur",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "direct shipping ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 4
+        },
+        {
+            "id": "eneabba",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "morawa",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "saprolite",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "rothsay",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "goethite",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "golconda formation",
+            "group": "STRAT",
+            "degree": 1
+        },
+        {
+            "id": "colluvium",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "quaternary",
+            "group": "TIMESCALE",
+            "degree": 1
+        },
+        {
+            "id": "mingenew",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "greenstone",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "premier",
+            "group": "LOCATION",
+            "degree": 0
+        },
+        {
+            "id": "chert",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "yandanooka",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "luke creek group",
+            "group": "STRAT",
+            "degree": 1
+        },
+        {
+            "id": "archean",
+            "group": "TIMESCALE",
+            "degree": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "sediment",
+            "target": "karara",
+            "label": []
+        },
+        {
+            "source": "karara",
+            "target": "magnetite",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "iron ore",
+            "label": [
+                "hosts"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "iron",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "homestead",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "hematite",
+            "label": [
+                "covers"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "south west",
+            "label": [
+                "will be transmitted through"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "eneabba",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "koolanooka",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "geraldton",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "gindalbie",
+            "label": [
+                "commented"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "long",
+            "label": [
+                "have finalised"
+            ]
+        },
+        {
+            "source": "karara",
+            "target": "morawa",
+            "label": []
+        },
+        {
+            "source": "karara",
+            "target": "banded iron formation",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "gravel",
+            "label": [
+                "rich"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "ferricrete",
+            "label": [
+                "rich"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "pilbara",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "lag",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "sediment",
+            "label": [
+                "may have accumulated within"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "karara",
+            "label": [
+                "from"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "gindalbie",
+            "label": []
+        },
+        {
+            "source": "iron",
+            "target": "south west",
+            "label": []
+        },
+        {
+            "source": "regolith",
+            "target": "magnetite",
+            "label": []
+        },
+        {
+            "source": "gravel",
+            "target": "hematite",
+            "label": [
+                "including"
+            ]
+        },
+        {
+            "source": "gravel",
+            "target": "iron",
+            "label": []
+        },
+        {
+            "source": "gravel",
+            "target": "sand",
+            "label": []
+        },
+        {
+            "source": "gravel",
+            "target": "silt",
+            "label": []
+        },
+        {
+            "source": "gravel",
+            "target": "clay",
+            "label": []
+        },
+        {
+            "source": "gravel",
+            "target": "karara",
+            "label": []
+        },
+        {
+            "source": "magnetite",
+            "target": "hematite",
+            "label": [
+                "underlying"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "iron ore",
+            "label": [
+                "hosted"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "long",
+            "label": [
+                "expected to deliver"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "karara",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "pilbara",
+            "label": [
+                "will be based on"
+            ]
+        },
+        {
+            "source": "magnetite",
+            "target": "direct shipping ore",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "long",
+            "target": "lead",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "long",
+            "target": "iron ore",
+            "label": [
+                "term"
+            ]
+        },
+        {
+            "source": "long",
+            "target": "magnetite",
+            "label": [
+                "life,"
+            ]
+        },
+        {
+            "source": "long",
+            "target": "karara",
+            "label": [
+                "around"
+            ]
+        },
+        {
+            "source": "gold",
+            "target": "karara",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "mid west",
+            "target": "long",
+            "label": [
+                "generating"
+            ]
+        },
+        {
+            "source": "mid west",
+            "target": "iron ore",
+            "label": []
+        },
+        {
+            "source": "mid west",
+            "target": "karara",
+            "label": []
+        },
+        {
+            "source": "windaning formation",
+            "target": "jasper",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "koolanooka",
+            "target": "eneabba",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "gindalbie",
+            "target": "metal",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "gindalbie",
+            "target": "karara",
+            "label": []
+        },
+        {
+            "source": "gindalbie",
+            "target": "geraldton",
+            "label": []
+        },
+        {
+            "source": "gindalbie",
+            "target": "long",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "karara",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "gindalbie",
+            "label": [
+                "managed by"
+            ]
+        },
+        {
+            "source": "iron ore",
+            "target": "geraldton",
+            "label": [
+                "at"
+            ]
+        },
+        {
+            "source": "yalgoo",
+            "target": "greenstone belt",
+            "label": [
+                "singleton"
+            ]
+        },
+        {
+            "source": "geraldton",
+            "target": "perenjori",
+            "label": [
+                "on"
+            ]
+        },
+        {
+            "source": "geraldton",
+            "target": "karara",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "geraldton",
+            "target": "rothsay",
+            "label": [
+                "on"
+            ]
+        },
+        {
+            "source": "geraldton",
+            "target": "yalgoo",
+            "label": []
+        },
+        {
+            "source": "geraldton",
+            "target": "direct shipping ore",
+            "label": []
+        },
+        {
+            "source": "geraldton",
+            "target": "iron ore",
+            "label": []
+        },
+        {
+            "source": "metal",
+            "target": "gindalbie",
+            "label": [
+                "ltd"
+            ]
+        },
+        {
+            "source": "metal",
+            "target": "karara",
+            "label": [
+                "centered around"
+            ]
+        },
+        {
+            "source": "perth",
+            "target": "geraldton",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "perth",
+            "target": "gold",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "perth",
+            "target": "direct shipping ore",
+            "label": []
+        },
+        {
+            "source": "perth",
+            "target": "magnetite",
+            "label": []
+        },
+        {
+            "source": "hematite",
+            "target": "goethite",
+            "label": [
+                "and"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "mid west",
+            "label": [
+                "located in"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "long",
+            "label": [
+                "expected to deliver"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "karara",
+            "label": [
+                "from"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "hamersley",
+            "label": [
+                "will be based on"
+            ]
+        },
+        {
+            "source": "hematite",
+            "target": "magnetite",
+            "label": []
+        },
+        {
+            "source": "murchison",
+            "target": "greenstone",
+            "label": [
+                "province of w.a. the regional"
+            ]
+        },
+        {
+            "source": "lead",
+            "target": "long",
+            "label": []
+        },
+        {
+            "source": "clay",
+            "target": "gravel",
+            "label": [
+                "as"
+            ]
+        },
+        {
+            "source": "clay",
+            "target": "sediment",
+            "label": [
+                "derived from"
+            ]
+        },
+        {
+            "source": "perenjori",
+            "target": "yalgoo",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "hamersley",
+            "target": "iron",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "dollar",
+            "target": "mid west",
+            "label": []
+        },
+        {
+            "source": "saprock",
+            "target": "regolith",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "gilgai",
+            "target": "karara",
+            "label": [
+                "AT"
+            ]
+        },
+        {
+            "source": "quartz",
+            "target": "sand",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "sand",
+            "target": "gravel",
+            "label": [
+                "as"
+            ]
+        },
+        {
+            "source": "direct shipping ore",
+            "target": "gold",
+            "label": []
+        },
+        {
+            "source": "eneabba",
+            "target": "karara",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "morawa",
+            "target": "geraldton",
+            "label": [
+                "from"
+            ]
+        },
+        {
+            "source": "morawa",
+            "target": "mingenew",
+            "label": []
+        },
+        {
+            "source": "morawa",
+            "target": "gravel",
+            "label": []
+        },
+        {
+            "source": "rothsay",
+            "target": "yalgoo",
+            "label": [
+                "within"
+            ]
+        },
+        {
+            "source": "goethite",
+            "target": "hematite",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "quaternary",
+            "target": "colluvium",
+            "label": [
+                "age"
+            ]
+        },
+        {
+            "source": "mingenew",
+            "target": "geraldton",
+            "label": []
+        },
+        {
+            "source": "yandanooka",
+            "target": "mingenew",
+            "label": [
+                "near"
+            ]
+        },
+        {
+            "source": "luke creek group",
+            "target": "golconda formation",
+            "label": "[parent_of]"
+        },
+        {
+            "source": "archean",
+            "target": "yalgoo",
+            "label": [
+                ""
+            ]
+        }
+    ]
+}

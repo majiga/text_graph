@@ -8,7 +8,12 @@
         {
             "id": "iron ore",
             "group": "ORE_DEPOSIT",
-            "degree": 12
+            "degree": 11
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": 7
         },
         {
             "id": "sandstone",
@@ -18,12 +23,7 @@
         {
             "id": "iron formation",
             "group": "ROCK",
-            "degree": 9
-        },
-        {
-            "id": "gold",
-            "group": "MINERAL",
-            "degree": 7
+            "degree": 8
         },
         {
             "id": "quartz",
@@ -38,12 +38,12 @@
         {
             "id": "shale",
             "group": "ROCK",
-            "degree": 9
+            "degree": 8
         },
         {
             "id": "fraser",
             "group": "LOCATION",
-            "degree": 14
+            "degree": 5
         },
         {
             "id": "base metal",
@@ -58,17 +58,17 @@
         {
             "id": "horseshoe",
             "group": "LOCATION",
-            "degree": 3
+            "degree": 2
+        },
+        {
+            "id": "chert",
+            "group": "ROCK",
+            "degree": 5
         },
         {
             "id": "iron",
             "group": "MINERAL",
             "degree": 4
-        },
-        {
-            "id": "labouchere formation",
-            "group": "STRAT",
-            "degree": 3
         },
         {
             "id": "metasedimentary",
@@ -88,7 +88,7 @@
         {
             "id": "peak hill",
             "group": "LOCATION",
-            "degree": 13
+            "degree": 17
         },
         {
             "id": "sediment",
@@ -96,24 +96,9 @@
             "degree": 5
         },
         {
-            "id": "degrussa",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "copper",
-            "group": "MINERAL",
-            "degree": 2
-        },
-        {
             "id": "robinson range formation",
             "group": "STRAT",
             "degree": 9
-        },
-        {
-            "id": "banded iron formation",
-            "group": "ROCK",
-            "degree": 4
         },
         {
             "id": "jasper",
@@ -126,9 +111,19 @@
             "degree": 5
         },
         {
+            "id": "sulphur",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
             "id": "proterozoic",
             "group": "TIMESCALE",
             "degree": 6
+        },
+        {
+            "id": "degrussa",
+            "group": "LOCATION",
+            "degree": 2
         },
         {
             "id": "yilgarn block",
@@ -138,6 +133,11 @@
         {
             "id": "siltstone",
             "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "copper",
+            "group": "MINERAL",
             "degree": 2
         },
         {
@@ -163,17 +163,12 @@
         {
             "id": "hematite",
             "group": "MINERAL",
-            "degree": 6
+            "degree": 4
         },
         {
             "id": "pilbara region",
             "group": "LOCATION",
             "degree": 2
-        },
-        {
-            "id": "sulphur",
-            "group": "MINERAL",
-            "degree": 0
         },
         {
             "id": "earaheedy group",
@@ -204,11 +199,6 @@
             "id": "feldspar",
             "group": "MINERAL",
             "degree": 1
-        },
-        {
-            "id": "chert",
-            "group": "ROCK",
-            "degree": 6
         },
         {
             "id": "precious metal",
@@ -251,6 +241,11 @@
             "degree": 1
         },
         {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
             "id": "narracoota volcanics",
             "group": "STRAT",
             "degree": 2
@@ -281,6 +276,11 @@
             "degree": 4
         },
         {
+            "id": "laterite",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
             "id": "gascoyne",
             "group": "LOCATION",
             "degree": 0
@@ -291,13 +291,13 @@
             "degree": 1
         },
         {
-            "id": "precambrian",
-            "group": "TIMESCALE",
-            "degree": 1
+            "id": "labouchere formation",
+            "group": "STRAT",
+            "degree": 3
         },
         {
-            "id": "laterite",
-            "group": "ROCK",
+            "id": "precambrian",
+            "group": "TIMESCALE",
             "degree": 1
         },
         {
@@ -360,7 +360,7 @@
             "source": "iron ore",
             "target": "peak hill",
             "label": [
-                "goldfield\\/mineral field"
+                "within"
             ]
         },
         {
@@ -375,13 +375,6 @@
             "target": "midwest",
             "label": [
                 "in"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "fraser",
-            "label": [
-                "within"
             ]
         },
         {
@@ -402,51 +395,6 @@
             "label": [
                 "overlying"
             ]
-        },
-        {
-            "source": "sandstone",
-            "target": "feldspar",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "sandstone",
-            "target": "horseshoe",
-            "label": []
-        },
-        {
-            "source": "iron formation",
-            "target": "hematite",
-            "label": [
-                "massive"
-            ]
-        },
-        {
-            "source": "iron formation",
-            "target": "earaheedy group",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron formation",
-            "target": "robinson range formation",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "iron formation",
-            "target": "precambrian",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "iron formation",
-            "target": "peak hill",
-            "label": []
         },
         {
             "source": "gold",
@@ -475,6 +423,44 @@
             "label": [
                 "within"
             ]
+        },
+        {
+            "source": "sandstone",
+            "target": "feldspar",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "sandstone",
+            "target": "horseshoe",
+            "label": []
+        },
+        {
+            "source": "iron formation",
+            "target": "earaheedy group",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "iron formation",
+            "target": "robinson range formation",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "iron formation",
+            "target": "precambrian",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "iron formation",
+            "target": "peak hill",
+            "label": []
         },
         {
             "source": "quartz",
@@ -537,54 +523,37 @@
         },
         {
             "source": "fraser",
-            "target": "labouchere formation",
-            "label": [
-                "group tenements .11 4.1.1"
-            ]
-        },
-        {
-            "source": "fraser",
-            "target": "peak hill",
-            "label": [
-                "and"
-            ]
-        },
-        {
-            "source": "fraser",
             "target": "midwest",
             "label": [
                 "syncline (see figures 1 & 2"
             ]
         },
         {
-            "source": "fraser",
-            "target": "shale",
-            "label": [
-                "is"
-            ]
-        },
-        {
-            "source": "fraser",
-            "target": "horseshoe",
-            "label": [
-                "has highlighted"
-            ]
-        },
-        {
-            "source": "fraser",
-            "target": "iron ore",
-            "label": []
-        },
-        {
-            "source": "fraser",
-            "target": "padbury group",
-            "label": []
-        },
-        {
             "source": "base metal",
             "target": "peak hill",
             "label": [
                 "continues around"
+            ]
+        },
+        {
+            "source": "chert",
+            "target": "shale",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "chert",
+            "target": "hematite",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "chert",
+            "target": "jasper",
+            "label": [
+                "of"
             ]
         },
         {
@@ -616,15 +585,17 @@
             ]
         },
         {
-            "source": "labouchere formation",
-            "target": "sediment",
-            "label": []
+            "source": "peak hill",
+            "target": "iron ore",
+            "label": [
+                "(sg50 8) keywords"
+            ]
         },
         {
             "source": "peak hill",
             "target": "horseshoe",
             "label": [
-                "and"
+                "has highlighted"
             ]
         },
         {
@@ -649,23 +620,9 @@
             ]
         },
         {
-            "source": "degrussa",
-            "target": "copper",
-            "label": [
-                "high grade"
-            ]
-        },
-        {
-            "source": "degrussa",
-            "target": "fraser",
+            "source": "peak hill",
+            "target": "padbury group",
             "label": []
-        },
-        {
-            "source": "copper",
-            "target": "gold",
-            "label": [
-                ""
-            ]
         },
         {
             "source": "robinson range formation",
@@ -697,27 +654,6 @@
             "source": "robinson range formation",
             "target": "robinson range beds",
             "label": "[current_of]"
-        },
-        {
-            "source": "banded iron formation",
-            "target": "granular iron formation",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "midwest",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "goldfields",
-            "label": [
-                "of"
-            ]
         },
         {
             "source": "jasper",
@@ -772,10 +708,29 @@
             "label": []
         },
         {
+            "source": "degrussa",
+            "target": "copper",
+            "label": [
+                "high grade"
+            ]
+        },
+        {
+            "source": "degrussa",
+            "target": "peak hill",
+            "label": []
+        },
+        {
             "source": "siltstone",
             "target": "quartz",
             "label": [
                 "with"
+            ]
+        },
+        {
+            "source": "copper",
+            "target": "gold",
+            "label": [
+                ""
             ]
         },
         {
@@ -809,7 +764,7 @@
         },
         {
             "source": "magnetite",
-            "target": "fraser",
+            "target": "peak hill",
             "label": [
                 "of"
             ]
@@ -819,13 +774,6 @@
             "target": "sandstone",
             "label": [
                 "cemented"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "chert",
-            "label": [
-                ""
             ]
         },
         {
@@ -867,27 +815,6 @@
             "label": []
         },
         {
-            "source": "chert",
-            "target": "shale",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "chert",
-            "target": "hematite",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "chert",
-            "target": "jasper",
-            "label": [
-                "of"
-            ]
-        },
-        {
             "source": "precious metal",
             "target": "base metal",
             "label": [
@@ -911,6 +838,27 @@
         {
             "source": "iron ore deposit",
             "target": "peak hill",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "granular iron formation",
+            "label": [
+                "in"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "midwest",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "goldfields",
             "label": [
                 "of"
             ]
@@ -959,6 +907,18 @@
             "label": [
                 "1:250,000 sheet"
             ]
+        },
+        {
+            "source": "labouchere formation",
+            "target": "peak hill",
+            "label": [
+                "OF"
+            ]
+        },
+        {
+            "source": "labouchere formation",
+            "target": "sediment",
+            "label": []
         },
         {
             "source": "wilthorpe formation",

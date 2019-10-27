@@ -1,24 +1,14 @@
 {
     "nodes": [
         {
-            "id": "quartz",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "perth",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
             "id": "sediment",
             "group": "ROCK",
-            "degree": 2
+            "degree": 6
         },
         {
-            "id": "iron ore",
-            "group": "ORE_DEPOSIT",
-            "degree": 0
+            "id": "honeyeater basalt",
+            "group": "STRAT",
+            "degree": 1
         },
         {
             "id": "goethite",
@@ -26,9 +16,109 @@
             "degree": 0
         },
         {
+            "id": "quartzite",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "greenschist",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "atlas iron",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "granitoid",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "sand",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "gibson",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "shale",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
             "id": "iron",
             "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "quartz",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "tin",
+            "group": "MINERAL",
             "degree": 1
+        },
+        {
+            "id": "iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 2
+        },
+        {
+            "id": "pincunah hill formation",
+            "group": "STRAT",
+            "degree": 6
+        },
+        {
+            "id": "silica",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "base metal",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "iron deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 0
+        },
+        {
+            "id": "euro basalt",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "greenstone belt",
+            "group": "STRAT",
+            "degree": 3
+        },
+        {
+            "id": "pilbara",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "grey",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
+            "degree": 2
         },
         {
             "id": "marble bar",
@@ -36,32 +126,112 @@
             "degree": 1
         },
         {
-            "id": "pilbara block",
+            "id": "greenstone",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "corboy formation",
+            "group": "STRAT",
+            "degree": 4
+        },
+        {
+            "id": "peridotite",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "pyramid hill formation",
+            "group": "STRAT",
+            "degree": 1
+        },
+        {
+            "id": "chert",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "pilbara craton",
             "group": "LOCATION",
             "degree": 1
         },
         {
             "id": "sedimentary rock",
             "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "greenstone belt",
-            "group": "STRAT",
-            "degree": 0
-        },
-        {
-            "id": "chert",
-            "group": "ROCK",
             "degree": 1
         },
         {
-            "id": "greenstone",
+            "id": "mesozoic",
+            "group": "TIMESCALE",
+            "degree": 0
+        },
+        {
+            "id": "granitic rock",
             "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "sulphur springs group",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "pilbara block",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "pilbara supergroup",
+            "group": "STRAT",
+            "degree": 5
+        },
+        {
+            "id": "emerald mine greenstone complex",
+            "group": "STRAT",
+            "degree": 6
+        },
+        {
+            "id": "warrawoona group",
+            "group": "STRAT",
             "degree": 4
         },
         {
             "id": "south west",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "colluvium",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "bedrock",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "gorge creek formation",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "gorge creek group",
+            "group": "STRAT",
+            "degree": 6
+        },
+        {
+            "id": "granite",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "port hedland",
             "group": "LOCATION",
             "degree": 1
         },
@@ -71,159 +241,9 @@
             "degree": 1
         },
         {
-            "id": "corboy formation",
-            "group": "STRAT",
-            "degree": 3
-        },
-        {
-            "id": "gibson",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "base metal",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "gold",
-            "group": "MINERAL",
-            "degree": 2
-        },
-        {
-            "id": "granite",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "pilbara",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "soil",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "bedrock",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "granitoid",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "euro basalt",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "peridotite",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "pincunah hill formation",
-            "group": "STRAT",
-            "degree": 4
-        },
-        {
-            "id": "quartzite",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "tin",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "sulphur springs group",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "port hedland",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "greenschist",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "atlas iron",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "thinly bedded red and black banded iron formation",
-            "group": "STRAT",
-            "degree": 0
-        },
-        {
-            "id": "banded iron formation",
-            "group": "STRAT",
-            "degree": 6
-        },
-        {
-            "id": "shaw granitoid complex",
-            "group": "STRAT",
-            "degree": 0
-        },
-        {
-            "id": "emerald mine greenstone complex",
-            "group": "STRAT",
-            "degree": 0
-        },
-        {
-            "id": "gorge creek formation",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "gorge creek group",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "atlas iron limited",
-            "group": "ORG",
-            "degree": 0
-        },
-        {
-            "id": "atlas irons iron ore suite",
-            "group": "STRAT",
-            "degree": 0
-        },
-        {
-            "id": "pilbara supergroup",
-            "group": "STRAT",
-            "degree": 3
-        },
-        {
-            "id": "warrawoona group",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "ibanez, fender and gibson prospects",
-            "group": "PROSPECT",
-            "degree": 0
-        },
-        {
-            "id": "de grey supergroup",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
             "id": "soanesville group",
             "group": "STRAT",
-            "degree": 2
+            "degree": 4
         },
         {
             "id": "cardinal formation",
@@ -231,12 +251,29 @@
             "degree": 2
         },
         {
+            "id": "de grey supergroup",
+            "group": "STRAT",
+            "degree": 1
+        },
+        {
             "id": "kelly group",
             "group": "STRAT",
             "degree": 2
+        },
+        {
+            "id": "archean",
+            "group": "TIMESCALE",
+            "degree": 1
         }
     ],
     "links": [
+        {
+            "source": "sediment",
+            "target": "gorge creek formation",
+            "label": [
+                "of"
+            ]
+        },
         {
             "source": "sediment",
             "target": "corboy formation",
@@ -245,11 +282,157 @@
             ]
         },
         {
-            "source": "iron",
-            "target": "banded iron formation",
+            "source": "sediment",
+            "target": "warrawoona group",
             "label": [
-                "occur in",
+                "of"
+            ]
+        },
+        {
+            "source": "greenschist",
+            "target": "granitoid",
+            "label": [
+                "to"
+            ]
+        },
+        {
+            "source": "atlas iron",
+            "target": "iron ore",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "gibson",
+            "target": "perth",
+            "label": []
+        },
+        {
+            "source": "gibson",
+            "target": "pincunah hill formation",
+            "label": []
+        },
+        {
+            "source": "iron",
+            "target": "pincunah hill formation",
+            "label": [
+                "hosted by"
+            ]
+        },
+        {
+            "source": "iron",
+            "target": "granite",
+            "label": []
+        },
+        {
+            "source": "iron ore",
+            "target": "atlas iron",
+            "label": [
+                "undertaken by"
+            ]
+        },
+        {
+            "source": "pincunah hill formation",
+            "target": "emerald mine greenstone complex",
+            "label": [
                 "in"
+            ]
+        },
+        {
+            "source": "pincunah hill formation",
+            "target": "iron",
+            "label": []
+        },
+        {
+            "source": "base metal",
+            "target": "banded iron formation",
+            "label": []
+        },
+        {
+            "source": "gold",
+            "target": "base metal",
+            "label": [
+                "and"
+            ]
+        },
+        {
+            "source": "euro basalt",
+            "target": "warrawoona group",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "greenstone belt",
+            "target": "gold",
+            "label": []
+        },
+        {
+            "source": "greenstone belt",
+            "target": "greenstone",
+            "label": []
+        },
+        {
+            "source": "pilbara",
+            "target": "tin",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "pilbara",
+            "target": "atlas iron",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "perth",
+            "target": "atlas iron",
+            "label": [
+                "for"
+            ]
+        },
+        {
+            "source": "greenstone",
+            "target": "bedrock",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "greenstone",
+            "target": "granitoid",
+            "label": [
+                "with"
+            ]
+        },
+        {
+            "source": "corboy formation",
+            "target": "sediment",
+            "label": [
+                ""
+            ]
+        },
+        {
+            "source": "chert",
+            "target": "pincunah hill formation",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "chert",
+            "target": "quartzite",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "sulphur springs group",
+            "target": "pilbara supergroup",
+            "label": [
+                "of"
             ]
         },
         {
@@ -260,114 +443,14 @@
             ]
         },
         {
-            "source": "chert",
-            "target": "banded iron formation",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "greenstone",
-            "target": "bedrock",
+            "source": "pilbara supergroup",
+            "target": "grey",
             "label": []
         },
         {
-            "source": "greenstone",
-            "target": "granitoid",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "south west",
-            "target": "iron ore deposit",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "corboy formation",
-            "target": "sediment",
-            "label": []
-        },
-        {
-            "source": "gibson",
-            "target": "banded iron formation",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "base metal",
-            "target": "gold",
-            "label": []
-        },
-        {
-            "source": "gold",
-            "target": "base metal",
-            "label": []
-        },
-        {
-            "source": "pilbara",
-            "target": "atlas iron",
-            "label": [
-                "for"
-            ]
-        },
-        {
-            "source": "soil",
-            "target": "greenstone",
-            "label": [
-                "covering"
-            ]
-        },
-        {
-            "source": "soil",
-            "target": "bedrock",
-            "label": [
-                "covering"
-            ]
-        },
-        {
-            "source": "bedrock",
-            "target": "greenstone",
-            "label": []
-        },
-        {
-            "source": "pincunah hill formation",
-            "target": "quartzite",
-            "label": [
-                "overlain by"
-            ]
-        },
-        {
-            "source": "pincunah hill formation",
-            "target": "banded iron formation",
-            "label": []
-        },
-        {
-            "source": "port hedland",
-            "target": "pilbara",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "quartzite",
-            "label": [
-                "overlain by"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "pincunah hill formation",
-            "label": []
-        },
-        {
-            "source": "gorge creek group",
-            "target": "gorge creek formation",
-            "label": "[current_of]"
+            "source": "pilbara supergroup",
+            "target": "warrawoona group",
+            "label": "[parent_of]"
         },
         {
             "source": "pilbara supergroup",
@@ -380,14 +463,89 @@
             "label": "[parent_of]"
         },
         {
-            "source": "pilbara supergroup",
-            "target": "warrawoona group",
-            "label": "[parent_of]"
+            "source": "emerald mine greenstone complex",
+            "target": "sediment",
+            "label": [
+                "comprises"
+            ]
         },
         {
-            "source": "de grey supergroup",
-            "target": "gorge creek group",
-            "label": "[parent_of]"
+            "source": "emerald mine greenstone complex",
+            "target": "banded iron formation",
+            "label": [
+                "contains"
+            ]
+        },
+        {
+            "source": "emerald mine greenstone complex",
+            "target": "chert",
+            "label": [
+                "contains"
+            ]
+        },
+        {
+            "source": "emerald mine greenstone complex",
+            "target": "shale",
+            "label": [
+                "contains"
+            ]
+        },
+        {
+            "source": "warrawoona group",
+            "target": "corboy formation",
+            "label": [
+                "separated by"
+            ]
+        },
+        {
+            "source": "south west",
+            "target": "iron ore deposit",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "banded iron formation",
+            "target": "quartzite",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "gorge creek group",
+            "target": "sediment",
+            "label": [
+                "is subdivided into"
+            ]
+        },
+        {
+            "source": "gorge creek group",
+            "target": "sedimentary rock",
+            "label": [
+                "of"
+            ]
+        },
+        {
+            "source": "gorge creek group",
+            "target": "greenstone belt",
+            "label": []
+        },
+        {
+            "source": "gorge creek group",
+            "target": "emerald mine greenstone complex",
+            "label": []
+        },
+        {
+            "source": "gorge creek group",
+            "target": "gorge creek formation",
+            "label": "[current_of]"
+        },
+        {
+            "source": "port hedland",
+            "target": "pilbara",
+            "label": [
+                "in"
+            ]
         },
         {
             "source": "soanesville group",
@@ -400,14 +558,36 @@
             "label": "[parent_of]"
         },
         {
+            "source": "soanesville group",
+            "target": "honeyeater basalt",
+            "label": "[parent_of]"
+        },
+        {
+            "source": "soanesville group",
+            "target": "pyramid hill formation",
+            "label": "[parent_of]"
+        },
+        {
             "source": "cardinal formation",
             "target": "pincunah hill formation",
             "label": "[current_of]"
         },
         {
+            "source": "de grey supergroup",
+            "target": "gorge creek group",
+            "label": "[parent_of]"
+        },
+        {
             "source": "kelly group",
             "target": "euro basalt",
             "label": "[parent_of]"
+        },
+        {
+            "source": "archean",
+            "target": "pilbara craton",
+            "label": [
+                ""
+            ]
         }
     ]
 }
