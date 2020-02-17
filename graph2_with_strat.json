@@ -1,136 +1,111 @@
 {
     "nodes": [
         {
+            "id": "hamersley group",
+            "group": "STRAT",
+            "degree": 1
+        },
+        {
+            "id": "fortescue group",
+            "group": "STRAT",
+            "degree": 1
+        },
+        {
+            "id": "iron deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 1
+        },
+        {
+            "id": "hamersley province",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
             "id": "nammuldi member",
             "group": "STRAT",
-            "degree": 5
-        },
-        {
-            "id": "iron",
-            "group": "MINERAL",
-            "degree": 4
-        },
-        {
-            "id": "banded iron formation",
-            "group": "ROCK",
-            "degree": 4
+            "degree": 1
         },
         {
             "id": "bif",
             "group": "ROCK",
-            "degree": 4
+            "degree": 6
         },
         {
-            "id": "carbonate",
-            "group": "MINERAL",
+            "id": "shales",
+            "group": "ROCK",
             "degree": 3
+        },
+        {
+            "id": "macleod member",
+            "group": "STRAT",
+            "degree": 2
         },
         {
             "id": "chert",
             "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "shale",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "black shales",
-            "group": "ROCK",
             "degree": 2
         },
         {
-            "id": "volcanic rocks",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "jeerinah formation",
+            "id": "mount newman member",
             "group": "STRAT",
-            "degree": 2
+            "degree": 1
+        },
+        {
+            "id": "carbonates",
+            "group": "MINERAL",
+            "degree": 1
         }
     ],
     "links": [
         {
-            "source": "nammuldi member",
-            "target": "iron",
-            "label": "is characterised by"
+            "source": "hamersley group",
+            "target": "fortescue group",
+            "label": "overlies"
         },
         {
-            "source": "nammuldi member",
-            "target": "banded iron formation",
-            "label": "is characterised by"
+            "source": "iron deposits",
+            "target": "hamersley province",
+            "label": "in"
         },
         {
             "source": "nammuldi member",
             "target": "bif",
-            "label": "is characterised by"
-        },
-        {
-            "source": "nammuldi member",
-            "target": "black shales",
-            "label": "are"
-        },
-        {
-            "source": "nammuldi member",
-            "target": "volcanic rocks",
-            "label": "are"
-        },
-        {
-            "source": "iron",
-            "target": "carbonate",
-            "label": "separated by"
-        },
-        {
-            "source": "iron",
-            "target": "chert",
-            "label": "separated by"
-        },
-        {
-            "source": "iron",
-            "target": "shale",
-            "label": "separated by"
-        },
-        {
-            "source": "banded iron formation",
-            "target": "carbonate",
-            "label": "separated by"
-        },
-        {
-            "source": "banded iron formation",
-            "target": "chert",
-            "label": "separated by"
-        },
-        {
-            "source": "banded iron formation",
-            "target": "shale",
-            "label": "separated by"
+            "label": "consists of"
         },
         {
             "source": "bif",
-            "target": "carbonate",
-            "label": "separated by"
+            "target": "shales",
+            "label": "interbedded with,carbonate with,with"
         },
         {
             "source": "bif",
+            "target": "carbonates",
+            "label": "with"
+        },
+        {
+            "source": "shales",
+            "target": "bif",
+            "label": "podded"
+        },
+        {
+            "source": "macleod member",
+            "target": "bif",
+            "label": "consists of"
+        },
+        {
+            "source": "macleod member",
             "target": "chert",
-            "label": "separated by"
+            "label": "consists of"
         },
         {
-            "source": "bif",
-            "target": "shale",
-            "label": "separated by"
+            "source": "chert",
+            "target": "shales",
+            "label": "carbonate with"
         },
         {
-            "source": "black shales",
-            "target": "jeerinah formation",
-            "label": "belonging to"
-        },
-        {
-            "source": "volcanic rocks",
-            "target": "jeerinah formation",
-            "label": "belonging to,are found in"
+            "source": "mount newman member",
+            "target": "bif",
+            "label": "consists of"
         }
     ]
 }

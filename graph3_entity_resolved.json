@@ -1,23 +1,38 @@
 {
     "nodes": [
         {
+            "id": "hamersley group",
+            "group": "STRAT",
+            "degree": 7
+        },
+        {
+            "id": "fortescue group",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "iron deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 1
+        },
+        {
+            "id": "hamersley province",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
             "id": "nammuldi member",
             "group": "STRAT",
-            "degree": 5
+            "degree": 2
         },
         {
-            "id": "iron",
-            "group": "MINERAL",
-            "degree": 4
-        },
-        {
-            "id": "banded iron formation",
+            "id": "shales",
             "group": "ROCK",
-            "degree": 4
+            "degree": 1
         },
         {
-            "id": "carbonate",
-            "group": "MINERAL",
+            "id": "macleod member",
+            "group": "STRAT",
             "degree": 2
         },
         {
@@ -26,32 +41,17 @@
             "degree": 2
         },
         {
-            "id": "shale",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "black shales",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "volcanic rocks",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "jeerinah formation",
+            "id": "mount newman member",
             "group": "STRAT",
-            "degree": 3
+            "degree": 1
+        },
+        {
+            "id": "carbonates",
+            "group": "MINERAL",
+            "degree": 0
         },
         {
             "id": "hamersley group, lower",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "fortescue group",
             "group": "STRAT",
             "degree": 2
         },
@@ -68,84 +68,59 @@
         {
             "id": "marra mamba iron formation",
             "group": "STRAT",
-            "degree": 2
+            "degree": 4
         },
         {
-            "id": "hamersley group",
-            "group": "STRAT",
-            "degree": 6
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": 1
         }
     ],
     "links": [
         {
-            "source": "nammuldi member",
-            "target": "iron",
-            "label": "is characterised by"
+            "source": "hamersley group",
+            "target": "fortescue group",
+            "label": "overlies"
+        },
+        {
+            "source": "hamersley group",
+            "target": "hamersley group, lower",
+            "label": "parent_of"
+        },
+        {
+            "source": "hamersley group",
+            "target": "hamersley group, upper",
+            "label": "parent_of"
+        },
+        {
+            "source": "hamersley group",
+            "target": "marra mamba iron formation",
+            "label": "parent_of"
+        },
+        {
+            "source": "iron deposits",
+            "target": "hamersley province",
+            "label": "in"
         },
         {
             "source": "nammuldi member",
             "target": "banded iron formation",
-            "label": "is characterised by"
+            "label": "consists of"
         },
         {
-            "source": "nammuldi member",
-            "target": "black shales",
-            "label": "are"
-        },
-        {
-            "source": "nammuldi member",
-            "target": "volcanic rocks",
-            "label": "are"
-        },
-        {
-            "source": "iron",
-            "target": "carbonate",
-            "label": "separated by"
-        },
-        {
-            "source": "iron",
+            "source": "macleod member",
             "target": "chert",
-            "label": "separated by"
+            "label": "consists of"
         },
         {
-            "source": "iron",
-            "target": "shale",
-            "label": "separated by"
-        },
-        {
-            "source": "banded iron formation",
-            "target": "carbonate",
-            "label": "separated by"
-        },
-        {
-            "source": "banded iron formation",
-            "target": "chert",
-            "label": "separated by"
-        },
-        {
-            "source": "banded iron formation",
-            "target": "shale",
-            "label": "separated by"
-        },
-        {
-            "source": "black shales",
-            "target": "jeerinah formation",
-            "label": "belonging to"
-        },
-        {
-            "source": "volcanic rocks",
-            "target": "jeerinah formation",
-            "label": "belonging to,are found in"
+            "source": "chert",
+            "target": "shales",
+            "label": "carbonate with"
         },
         {
             "source": "hamersley group, lower",
             "target": "hamersley group",
             "label": "current_of"
-        },
-        {
-            "source": "fortescue group",
-            "target": "jeerinah formation",
-            "label": "parent_of"
         },
         {
             "source": "mount bruce supergroup",
@@ -164,22 +139,17 @@
         },
         {
             "source": "marra mamba iron formation",
+            "target": "macleod member",
+            "label": "parent_of"
+        },
+        {
+            "source": "marra mamba iron formation",
+            "target": "mount newman member",
+            "label": "parent_of"
+        },
+        {
+            "source": "marra mamba iron formation",
             "target": "nammuldi member",
-            "label": "parent_of"
-        },
-        {
-            "source": "hamersley group",
-            "target": "hamersley group, lower",
-            "label": "parent_of"
-        },
-        {
-            "source": "hamersley group",
-            "target": "hamersley group, upper",
-            "label": "parent_of"
-        },
-        {
-            "source": "hamersley group",
-            "target": "marra mamba iron formation",
             "label": "parent_of"
         }
     ]
