@@ -160,47 +160,47 @@
         {
             "source": "marra mamba iron formation",
             "target": "nammuldi member",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "fortescue group",
             "target": "jeerinah formation",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "mount bruce supergroup",
             "target": "fortescue group",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "mount bruce supergroup",
             "target": "hamersley group",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "hamersley group, upper",
             "target": "hamersley group",
-            "label": "[current_of]"
+            "label": "current_of"
         },
         {
             "source": "hamersley group",
             "target": "hamersley group, lower",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "hamersley group",
             "target": "hamersley group, upper",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "hamersley group",
             "target": "marra mamba iron formation",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "hamersley group, lower",
             "target": "hamersley group",
-            "label": "[current_of]"
+            "label": "current_of"
         }
     ]
 }
