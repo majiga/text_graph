@@ -1,0 +1,136 @@
+{
+    "nodes": [
+        {
+            "id": "nammuldi member",
+            "group": "STRAT",
+            "degree": 5
+        },
+        {
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": 4
+        },
+        {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "bif",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "carbonate",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "chert",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "shale",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "black shales",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "volcanic rocks",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "jeerinah formation",
+            "group": "STRAT",
+            "degree": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "nammuldi member",
+            "target": "iron",
+            "label": "is characterised by"
+        },
+        {
+            "source": "nammuldi member",
+            "target": "banded iron formation",
+            "label": "is characterised by"
+        },
+        {
+            "source": "nammuldi member",
+            "target": "bif",
+            "label": "is characterised by"
+        },
+        {
+            "source": "nammuldi member",
+            "target": "black shales",
+            "label": "are"
+        },
+        {
+            "source": "nammuldi member",
+            "target": "volcanic rocks",
+            "label": "are"
+        },
+        {
+            "source": "iron",
+            "target": "carbonate",
+            "label": "separated by"
+        },
+        {
+            "source": "iron",
+            "target": "chert",
+            "label": "separated by"
+        },
+        {
+            "source": "iron",
+            "target": "shale",
+            "label": "separated by"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "carbonate",
+            "label": "separated by"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "chert",
+            "label": "separated by"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "shale",
+            "label": "separated by"
+        },
+        {
+            "source": "bif",
+            "target": "carbonate",
+            "label": "separated by"
+        },
+        {
+            "source": "bif",
+            "target": "chert",
+            "label": "separated by"
+        },
+        {
+            "source": "bif",
+            "target": "shale",
+            "label": "separated by"
+        },
+        {
+            "source": "black shales",
+            "target": "jeerinah formation",
+            "label": "belonging to"
+        },
+        {
+            "source": "volcanic rocks",
+            "target": "jeerinah formation",
+            "label": "belonging to,are found in"
+        }
+    ]
+}
