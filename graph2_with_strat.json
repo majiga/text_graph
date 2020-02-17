@@ -3,12 +3,12 @@
         {
             "id": "hamersley group",
             "group": "STRAT",
-            "degree": 1
+            "degree": 7
         },
         {
             "id": "fortescue group",
             "group": "STRAT",
-            "degree": 1
+            "degree": 2
         },
         {
             "id": "iron deposits",
@@ -23,7 +23,7 @@
         {
             "id": "nammuldi member",
             "group": "STRAT",
-            "degree": 1
+            "degree": 2
         },
         {
             "id": "bif",
@@ -38,7 +38,7 @@
         {
             "id": "macleod member",
             "group": "STRAT",
-            "degree": 2
+            "degree": 3
         },
         {
             "id": "chert",
@@ -48,12 +48,32 @@
         {
             "id": "mount newman member",
             "group": "STRAT",
-            "degree": 1
+            "degree": 2
         },
         {
             "id": "carbonates",
             "group": "MINERAL",
             "degree": 1
+        },
+        {
+            "id": "hamersley group, lower",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "mount bruce supergroup",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "hamersley group, upper",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "marra mamba iron formation",
+            "group": "STRAT",
+            "degree": 4
         }
     ],
     "links": [
@@ -61,6 +81,21 @@
             "source": "hamersley group",
             "target": "fortescue group",
             "label": "overlies"
+        },
+        {
+            "source": "hamersley group",
+            "target": "hamersley group, lower",
+            "label": "parent_of"
+        },
+        {
+            "source": "hamersley group",
+            "target": "hamersley group, upper",
+            "label": "parent_of"
+        },
+        {
+            "source": "hamersley group",
+            "target": "marra mamba iron formation",
+            "label": "parent_of"
         },
         {
             "source": "iron deposits",
@@ -106,6 +141,41 @@
             "source": "mount newman member",
             "target": "bif",
             "label": "consists of"
+        },
+        {
+            "source": "hamersley group, lower",
+            "target": "hamersley group",
+            "label": "current_of"
+        },
+        {
+            "source": "mount bruce supergroup",
+            "target": "fortescue group",
+            "label": "parent_of"
+        },
+        {
+            "source": "mount bruce supergroup",
+            "target": "hamersley group",
+            "label": "parent_of"
+        },
+        {
+            "source": "hamersley group, upper",
+            "target": "hamersley group",
+            "label": "current_of"
+        },
+        {
+            "source": "marra mamba iron formation",
+            "target": "macleod member",
+            "label": "parent_of"
+        },
+        {
+            "source": "marra mamba iron formation",
+            "target": "mount newman member",
+            "label": "parent_of"
+        },
+        {
+            "source": "marra mamba iron formation",
+            "target": "nammuldi member",
+            "label": "parent_of"
         }
     ]
 }
