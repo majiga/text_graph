@@ -26,11 +26,6 @@
             "degree": 18
         },
         {
-            "id": "metal",
-            "group": "ROCK",
-            "degree": 14
-        },
-        {
             "id": "goethite",
             "group": "MINERAL",
             "degree": 15
@@ -647,13 +642,6 @@
         },
         {
             "source": "iron ore",
-            "target": "metal",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "iron ore",
             "target": "hamersley basin",
             "label": [
                 "of"
@@ -765,13 +753,6 @@
         },
         {
             "source": "sinter",
-            "target": "metal",
-            "label": [
-                "grate"
-            ]
-        },
-        {
-            "source": "sinter",
             "target": "brockman",
             "label": [
                 "in"
@@ -806,53 +787,6 @@
         {
             "source": "sinter",
             "target": "iron ore",
-            "label": []
-        },
-        {
-            "source": "metal",
-            "target": "iron ore",
-            "label": [
-                "holds"
-            ]
-        },
-        {
-            "source": "metal",
-            "target": "christmas creek",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "metal",
-            "target": "silica",
-            "label": [
-                "were of"
-            ]
-        },
-        {
-            "source": "metal",
-            "target": "sinter",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "metal",
-            "target": "magnetite",
-            "label": [
-                "containing"
-            ]
-        },
-        {
-            "source": "metal",
-            "target": "iron",
-            "label": [
-                "are"
-            ]
-        },
-        {
-            "source": "metal",
-            "target": "shale",
             "label": []
         },
         {
@@ -988,11 +922,6 @@
         {
             "source": "christmas creek",
             "target": "limonite",
-            "label": []
-        },
-        {
-            "source": "christmas creek",
-            "target": "metal",
             "label": []
         },
         {
@@ -1188,11 +1117,6 @@
         },
         {
             "source": "west angelas",
-            "target": "metal",
-            "label": []
-        },
-        {
-            "source": "west angelas",
             "target": "granules",
             "label": []
         },
@@ -1244,11 +1168,6 @@
             "label": [
                 "as"
             ]
-        },
-        {
-            "source": "crystal",
-            "target": "metal",
-            "label": []
         },
         {
             "source": "jeerinah formation",
@@ -1552,13 +1471,6 @@
             ]
         },
         {
-            "source": "newman",
-            "target": "metal",
-            "label": [
-                "has"
-            ]
-        },
-        {
             "source": "hamersley province",
             "target": "iron ore",
             "label": [
@@ -1631,11 +1543,6 @@
         {
             "source": "hamersley basin",
             "target": "magnetite",
-            "label": []
-        },
-        {
-            "source": "silicate",
-            "target": "metal",
             "label": []
         },
         {
