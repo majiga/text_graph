@@ -28,12 +28,12 @@
         {
             "id": "shales",
             "group": "ROCK",
-            "degree": 1
+            "degree": 3
         },
         {
             "id": "macleod member",
             "group": "STRAT",
-            "degree": 2
+            "degree": 3
         },
         {
             "id": "chert",
@@ -43,15 +43,15 @@
         {
             "id": "mount newman member",
             "group": "STRAT",
-            "degree": 1
+            "degree": 2
         },
         {
             "id": "carbonates",
             "group": "MINERAL",
-            "degree": 0
+            "degree": 1
         },
         {
-            "id": "hamersley group, lower",
+            "id": "hamersley group, upper",
             "group": "STRAT",
             "degree": 2
         },
@@ -61,7 +61,7 @@
             "degree": 2
         },
         {
-            "id": "hamersley group, upper",
+            "id": "hamersley group, lower",
             "group": "STRAT",
             "degree": 2
         },
@@ -73,7 +73,7 @@
         {
             "id": "banded iron formation",
             "group": "ROCK",
-            "degree": 1
+            "degree": 6
         }
     ],
     "links": [
@@ -108,8 +108,18 @@
             "label": "consists of"
         },
         {
+            "source": "shales",
+            "target": "banded iron formation",
+            "label": "podded"
+        },
+        {
             "source": "macleod member",
             "target": "chert",
+            "label": "consists of"
+        },
+        {
+            "source": "macleod member",
+            "target": "banded iron formation",
             "label": "consists of"
         },
         {
@@ -118,7 +128,12 @@
             "label": "carbonate with"
         },
         {
-            "source": "hamersley group, lower",
+            "source": "mount newman member",
+            "target": "banded iron formation",
+            "label": "consists of"
+        },
+        {
+            "source": "hamersley group, upper",
             "target": "hamersley group",
             "label": "current_of"
         },
@@ -133,7 +148,7 @@
             "label": "parent_of"
         },
         {
-            "source": "hamersley group, upper",
+            "source": "hamersley group, lower",
             "target": "hamersley group",
             "label": "current_of"
         },
@@ -151,6 +166,16 @@
             "source": "marra mamba iron formation",
             "target": "nammuldi member",
             "label": "parent_of"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "shales",
+            "label": "interbedded with,carbonate with,with"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "carbonates",
+            "label": "with"
         }
     ]
 }
