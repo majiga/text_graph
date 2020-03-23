@@ -1,104 +1,19 @@
 {
     "nodes": [
         {
-            "id": "quartz vein",
+            "id": "granites",
             "group": "ROCK",
             "degree": 2
-        },
-        {
-            "id": "panorama formation",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "iron",
-            "group": "MINERAL",
-            "degree": 3
-        },
-        {
-            "id": "laterite",
-            "group": "ROCK",
-            "degree": 1
         },
         {
             "id": "greenstone belt",
             "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "pilbara craton",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "gold",
-            "group": "MINERAL",
-            "degree": 3
-        },
-        {
-            "id": "port hedland",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "iron ore",
-            "group": "ORE_DEPOSIT",
-            "degree": 1
-        },
-        {
-            "id": "hematite",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "pincunah hill formation",
-            "group": "STRAT",
-            "degree": 3
-        },
-        {
-            "id": "dalton suite",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "gorge creek group",
-            "group": "STRAT",
-            "degree": 2
+            "degree": 15
         },
         {
             "id": "warrawoona group",
             "group": "STRAT",
-            "degree": 6
-        },
-        {
-            "id": "iron formation",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "marble bar",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "atlas iron",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "mt bruce supergroup",
-            "group": "STRAT",
-            "degree": 0
-        },
-        {
-            "id": "pilbara region",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "base metal",
-            "group": "MINERAL",
-            "degree": 1
+            "degree": 7
         },
         {
             "id": "euro basalt",
@@ -106,37 +21,137 @@
             "degree": 4
         },
         {
+            "id": "metasediments",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "chert",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "iron formation",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "felsic volcanics",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "panorama formation",
+            "group": "STRAT",
+            "degree": 3
+        },
+        {
+            "id": "mafic volcanics",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "hematite",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "direct shipping ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 1
+        },
+        {
+            "id": "pilbara region",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "western australia",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "port hedland",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "batholith",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "pilbara",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "pincunah hill formation",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "laterite",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "pilbara block",
+            "group": "LOCATION",
+            "degree": 5
+        },
+        {
             "id": "granite",
             "group": "ROCK",
             "degree": 3
         },
         {
-            "id": "goethite",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "pilbara",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "sons of gwalia",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "chert",
+            "id": "greenstone",
             "group": "ROCK",
-            "degree": 0
+            "degree": 3
         },
         {
-            "id": "pilbara block",
-            "group": "LOCATION",
-            "degree": 1
+            "id": "mafic volcanic rocks",
+            "group": "ROCK",
+            "degree": 5
         },
         {
-            "id": "banded iron formation",
+            "id": "ultramafic rocks",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": 4
+        },
+        {
+            "id": "base metals",
+            "group": "ORE_DEPOSIT",
+            "degree": 2
+        },
+        {
+            "id": "dalton suite",
+            "group": "STRAT",
+            "degree": 5
+        },
+        {
+            "id": "base metal",
+            "group": "ORE_DEPOSIT",
+            "degree": 2
+        },
+        {
+            "id": "basalt",
             "group": "ROCK",
             "degree": 2
         },
@@ -146,42 +161,32 @@
             "degree": 1
         },
         {
-            "id": "gabbro",
-            "group": "ROCK",
-            "degree": 0
+            "id": "atlas iron",
+            "group": "LOCATION",
+            "degree": 3
         },
         {
-            "id": "volcanic rock",
-            "group": "ROCK",
+            "id": "pilbara craton",
+            "group": "LOCATION",
             "degree": 2
         },
         {
-            "id": "basalt",
-            "group": "ROCK",
-            "degree": 0
+            "id": "mt bruce supergroup",
+            "group": "STRAT",
+            "degree": 2
         },
         {
-            "id": "soanesville group",
-            "group": "STRAT",
+            "id": "sons of gwalia",
+            "group": "LOCATION",
             "degree": 1
         },
         {
-            "id": "cardinal formation",
-            "group": "STRAT",
-            "degree": 2
+            "id": "iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 1
         },
         {
             "id": "pilbara supergroup",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "de grey supergroup",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "salgash subgroup",
             "group": "STRAT",
             "degree": 2
         },
@@ -191,198 +196,361 @@
             "degree": 2
         },
         {
-            "id": "channel iron deposit",
-            "group": "ORE_DEPOSIT",
+            "id": "cardinal formation",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "salgash subgroup",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "soanesville group",
+            "group": "STRAT",
             "degree": 1
         },
         {
             "id": "archean",
             "group": "TIMESCALE",
-            "degree": 1
+            "degree": 4
+        },
+        {
+            "id": "channel iron deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 2
         }
     ],
     "links": [
         {
-            "source": "panorama formation",
-            "target": "euro basalt",
-            "label": [
-                "identified by"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "pincunah hill formation",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "laterite",
-            "target": "channel iron deposit",
-            "label": []
+            "source": "granites",
+            "target": "archean",
+            "label": ""
         },
         {
             "source": "greenstone belt",
-            "target": "volcanic rock",
-            "label": [
-                "consists of"
-            ]
+            "target": "mafic volcanic rocks",
+            "label": "consists of"
         },
         {
-            "source": "gold",
-            "target": "base metal",
-            "label": [
-                "and"
-            ]
+            "source": "greenstone belt",
+            "target": "granites",
+            "label": ""
         },
         {
-            "source": "gold",
-            "target": "quartz vein",
-            "label": [
-                "was hosted within"
-            ]
+            "source": "greenstone belt",
+            "target": "chert",
+            "label": ""
         },
         {
-            "source": "port hedland",
-            "target": "pilbara",
-            "label": [
-                "within"
-            ]
+            "source": "greenstone belt",
+            "target": "greenstone",
+            "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "atlas iron",
-            "label": [
-                "undertaken by"
-            ]
+            "source": "greenstone belt",
+            "target": "ultramafic rocks",
+            "label": ""
         },
         {
-            "source": "pincunah hill formation",
-            "target": "iron",
-            "label": []
-        },
-        {
-            "source": "dalton suite",
-            "target": "quartz vein",
-            "label": [
-                "was hosted within"
-            ]
-        },
-        {
-            "source": "dalton suite",
-            "target": "gold",
-            "label": [
-                "whereas"
-            ]
-        },
-        {
-            "source": "warrawoona group",
-            "target": "gorge creek group",
-            "label": [
-                "and"
-            ]
+            "source": "greenstone belt",
+            "target": "sons of gwalia",
+            "label": ""
         },
         {
             "source": "warrawoona group",
             "target": "euro basalt",
-            "label": []
+            "label": "consisting of,"
+        },
+        {
+            "source": "warrawoona group",
+            "target": "felsic volcanics",
+            "label": ""
         },
         {
             "source": "warrawoona group",
             "target": "salgash subgroup",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "iron formation",
-            "target": "warrawoona group",
-            "label": [
-                "("
-            ]
-        },
-        {
-            "source": "pilbara region",
-            "target": "port hedland",
-            "label": []
+            "label": "parent_of"
         },
         {
             "source": "euro basalt",
             "target": "warrawoona group",
-            "label": [
-                "of"
-            ]
+            "label": "of"
         },
         {
-            "source": "granite",
-            "target": "pilbara block",
-            "label": [
-                "in"
-            ]
+            "source": "euro basalt",
+            "target": "basalt",
+            "label": ""
         },
         {
-            "source": "granite",
+            "source": "metasediments",
             "target": "greenstone belt",
-            "label": []
+            "label": "of,"
+        },
+        {
+            "source": "chert",
+            "target": "greenstone belt",
+            "label": "of"
+        },
+        {
+            "source": "chert",
+            "target": "iron formation",
+            "label": ""
+        },
+        {
+            "source": "iron formation",
+            "target": "greenstone belt",
+            "label": "of"
+        },
+        {
+            "source": "felsic volcanics",
+            "target": "panorama formation",
+            "label": "of,"
+        },
+        {
+            "source": "panorama formation",
+            "target": "mafic volcanics",
+            "label": ""
+        },
+        {
+            "source": "mafic volcanics",
+            "target": "warrawoona group",
+            "label": "in"
         },
         {
             "source": "banded iron formation",
             "target": "iron",
-            "label": [
-                "returned"
-            ]
+            "label": "returned,"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "hematite",
+            "label": "of,"
         },
         {
             "source": "banded iron formation",
             "target": "quartz",
-            "label": [
-                "consists of"
-            ]
+            "label": ""
         },
         {
-            "source": "volcanic rock",
-            "target": "iron formation",
-            "label": []
-        },
-        {
-            "source": "soanesville group",
-            "target": "cardinal formation",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "cardinal formation",
+            "source": "iron",
             "target": "pincunah hill formation",
-            "label": "[current_of]"
+            "label": "within,"
+        },
+        {
+            "source": "iron",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "direct shipping ore",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "pilbara region",
+            "target": "western australia",
+            "label": "of,"
+        },
+        {
+            "source": "western australia",
+            "target": "port hedland",
+            "label": "of"
+        },
+        {
+            "source": "port hedland",
+            "target": "pilbara",
+            "label": "within"
+        },
+        {
+            "source": "port hedland",
+            "target": "pilbara region",
+            "label": ""
+        },
+        {
+            "source": "batholith",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "batholith",
+            "target": "pilbara craton",
+            "label": ""
+        },
+        {
+            "source": "batholith",
+            "target": "granite",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "atlas iron",
+            "label": ""
+        },
+        {
+            "source": "laterite",
+            "target": "channel iron deposit",
+            "label": "of,"
+        },
+        {
+            "source": "pilbara block",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "granite",
+            "target": "pilbara block",
+            "label": "in"
+        },
+        {
+            "source": "granite",
+            "target": "mt bruce supergroup",
+            "label": ""
+        },
+        {
+            "source": "greenstone",
+            "target": "pilbara block",
+            "label": "in"
+        },
+        {
+            "source": "greenstone",
+            "target": "batholith",
+            "label": ""
+        },
+        {
+            "source": "mafic volcanic rocks",
+            "target": "ultramafic rocks",
+            "label": "interlayered with"
+        },
+        {
+            "source": "mafic volcanic rocks",
+            "target": "chert",
+            "label": "interlayered with"
+        },
+        {
+            "source": "mafic volcanic rocks",
+            "target": "iron formation",
+            "label": "interlayered with"
+        },
+        {
+            "source": "mafic volcanic rocks",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "ultramafic rocks",
+            "target": "dalton suite",
+            "label": ""
+        },
+        {
+            "source": "ultramafic rocks",
+            "target": "chert",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "base metal",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "dalton suite",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "base metals",
+            "label": ""
+        },
+        {
+            "source": "base metals",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "dalton suite",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "dalton suite",
+            "target": "base metal",
+            "label": ""
+        },
+        {
+            "source": "dalton suite",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "basalt",
+            "target": "warrawoona group",
+            "label": ""
+        },
+        {
+            "source": "atlas iron",
+            "target": "port hedland",
+            "label": ""
+        },
+        {
+            "source": "pilbara craton",
+            "target": "pilbara block",
+            "label": ""
+        },
+        {
+            "source": "mt bruce supergroup",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "atlas iron",
+            "label": ""
         },
         {
             "source": "pilbara supergroup",
             "target": "kelly group",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "pilbara supergroup",
             "target": "warrawoona group",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "de grey supergroup",
-            "target": "gorge creek group",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "salgash subgroup",
-            "target": "panorama formation",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "kelly group",
             "target": "euro basalt",
-            "label": "[parent_of]"
+            "label": "parent_of"
+        },
+        {
+            "source": "cardinal formation",
+            "target": "pincunah hill formation",
+            "label": "current_of"
+        },
+        {
+            "source": "salgash subgroup",
+            "target": "panorama formation",
+            "label": "parent_of"
+        },
+        {
+            "source": "soanesville group",
+            "target": "cardinal formation",
+            "label": "parent_of"
         },
         {
             "source": "archean",
-            "target": "granite",
-            "label": [
-                ""
-            ]
+            "target": "pilbara block",
+            "label": "in"
+        },
+        {
+            "source": "archean",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "channel iron deposit",
+            "target": "laterite",
+            "label": ""
         }
     ]
 }

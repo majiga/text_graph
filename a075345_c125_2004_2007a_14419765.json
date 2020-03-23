@@ -1,82 +1,87 @@
 {
     "nodes": [
         {
-            "id": "pilbara",
+            "id": "hamersley basin",
             "group": "LOCATION",
-            "degree": 10
+            "degree": 4
         },
         {
-            "id": "iron",
-            "group": "MINERAL",
-            "degree": 15
-        },
-        {
-            "id": "hematite",
-            "group": "MINERAL",
-            "degree": 21
+            "id": "pilbara region",
+            "group": "LOCATION",
+            "degree": 6
         },
         {
             "id": "iron ore",
             "group": "ORE_DEPOSIT",
-            "degree": 26
+            "degree": 32
         },
         {
-            "id": "sinter",
-            "group": "ROCK",
-            "degree": 18
-        },
-        {
-            "id": "goethite",
-            "group": "MINERAL",
+            "id": "western australia",
+            "group": "LOCATION",
             "degree": 15
-        },
-        {
-            "id": "martite",
-            "group": "MINERAL",
-            "degree": 9
-        },
-        {
-            "id": "long",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "christmas creek",
-            "group": "LOCATION",
-            "degree": 22
         },
         {
             "id": "marra mamba iron formation",
             "group": "STRAT",
-            "degree": 12
+            "degree": 22
         },
         {
-            "id": "nammuldi member",
+            "id": "hamersley group",
             "group": "STRAT",
-            "degree": 6
+            "degree": 15
         },
         {
-            "id": "nammuldi",
+            "id": "proterozoic",
+            "group": "TIMESCALE",
+            "degree": 2
+        },
+        {
+            "id": "iron deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 4
+        },
+        {
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": 39
+        },
+        {
+            "id": "christmas creek",
+            "group": "LOCATION",
+            "degree": 39
+        },
+        {
+            "id": "newman",
+            "group": "LOCATION",
+            "degree": 5
+        },
+        {
+            "id": "roy hill",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "hamersley",
             "group": "LOCATION",
             "degree": 3
         },
         {
-            "id": "sediment",
-            "group": "ROCK",
-            "degree": 6
-        },
-        {
-            "id": "tertiary",
-            "group": "TIMESCALE",
+            "id": "fortescue group",
+            "group": "STRAT",
             "degree": 3
         },
         {
-            "id": "gold",
-            "group": "MINERAL",
-            "degree": 0
+            "id": "banded iron formations",
+            "group": "ROCK",
+            "degree": 2
         },
         {
-            "id": "oxide",
+            "id": "dolerite",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "dolomites",
             "group": "MINERAL",
             "degree": 3
         },
@@ -86,284 +91,69 @@
             "degree": 13
         },
         {
-            "id": "west angelas",
-            "group": "LOCATION",
-            "degree": 5
+            "id": "acid volcanic rocks",
+            "group": "ROCK",
+            "degree": 2
         },
         {
-            "id": "magnetite",
-            "group": "MINERAL",
+            "id": "hamersley province",
+            "group": "LOCATION",
             "degree": 8
         },
         {
-            "id": "hamersley",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "crystal",
-            "group": "MINERAL",
-            "degree": 9
-        },
-        {
-            "id": "jeerinah formation",
+            "id": "nammuldi member",
             "group": "STRAT",
-            "degree": 6
+            "degree": 17
         },
         {
-            "id": "silt",
+            "id": "shales",
             "group": "ROCK",
-            "degree": 2
+            "degree": 18
         },
         {
-            "id": "granules",
-            "group": "ROCK",
+            "id": "macleod member",
+            "group": "STRAT",
             "degree": 4
         },
         {
             "id": "chert",
             "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "black shale",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "kaolinite",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "mt bruce supergroup",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "fortescue group",
-            "group": "STRAT",
-            "degree": 4
-        },
-        {
-            "id": "coal",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "limestone",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "banded iron formation",
-            "group": "ROCK",
-            "degree": 5
-        },
-        {
-            "id": "macleod member",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "hamersley group",
-            "group": "STRAT",
-            "degree": 11
-        },
-        {
-            "id": "iron ore deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": 5
-        },
-        {
-            "id": "grey",
-            "group": "LOCATION",
-            "degree": 8
-        },
-        {
-            "id": "regolith",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "brockman",
-            "group": "LOCATION",
             "degree": 6
         },
         {
-            "id": "colluvium",
-            "group": "ROCK",
-            "degree": 4
-        },
-        {
-            "id": "mount tom price",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "iron formation",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "silica",
-            "group": "MINERAL",
-            "degree": 2
-        },
-        {
-            "id": "marandoo",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "quartz",
-            "group": "MINERAL",
+            "id": "mount newman member",
+            "group": "STRAT",
             "degree": 3
         },
         {
-            "id": "alluvium",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "clay",
-            "group": "ROCK",
-            "degree": 10
-        },
-        {
-            "id": "carbonate",
+            "id": "carbonates",
             "group": "MINERAL",
-            "degree": 2
-        },
-        {
-            "id": "diamond",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "newman",
-            "group": "LOCATION",
-            "degree": 3
-        },
-        {
-            "id": "hamersley province",
-            "group": "LOCATION",
-            "degree": 4
-        },
-        {
-            "id": "ironstone",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "magnesite",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "mixed",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "pisolite",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "dolerite",
-            "group": "ROCK",
-            "degree": 4
-        },
-        {
-            "id": "robe",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "paraburdoo",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "dolomite",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "pilbara craton",
-            "group": "LOCATION",
             "degree": 7
         },
         {
-            "id": "hamersley basin",
+            "id": "hematite",
+            "group": "MINERAL",
+            "degree": 40
+        },
+        {
+            "id": "goethite",
+            "group": "MINERAL",
+            "degree": 32
+        },
+        {
+            "id": "martite",
+            "group": "MINERAL",
+            "degree": 16
+        },
+        {
+            "id": "microplaty hematite",
+            "group": "MINERAL",
+            "degree": 24
+        },
+        {
+            "id": "nammuldi",
             "group": "LOCATION",
-            "degree": 3
-        },
-        {
-            "id": "silicate",
-            "group": "MINERAL",
-            "degree": 3
-        },
-        {
-            "id": "iron deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": 4
-        },
-        {
-            "id": "proterozoic",
-            "group": "TIMESCALE",
-            "degree": 3
-        },
-        {
-            "id": "sulphur",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "perth",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "lime",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "limonite",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "tungsten",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "yilgarn craton",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "channel iron deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": 1
-        },
-        {
-            "id": "oakover formation",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "silcrete",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "brockman iron formation",
-            "group": "STRAT",
-            "degree": 2
+            "degree": 9
         },
         {
             "id": "nullagine",
@@ -371,39 +161,14 @@
             "degree": 1
         },
         {
-            "id": "mining area c",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "koolyanobbing",
-            "group": "LOCATION",
-            "degree": 6
-        },
-        {
-            "id": "pilbara region",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "metasomatic",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "quaternary",
-            "group": "TIMESCALE",
-            "degree": 1
-        },
-        {
-            "id": "pyrite",
+            "id": "diamond",
             "group": "MINERAL",
-            "degree": 0
+            "degree": 9
         },
         {
-            "id": "gamma",
-            "group": "LOCATION",
-            "degree": 0
+            "id": "bifs",
+            "group": "ROCK",
+            "degree": 3
         },
         {
             "id": "roy hill shale member",
@@ -411,49 +176,289 @@
             "degree": 3
         },
         {
-            "id": "goldsworthy",
+            "id": "cloud break mine",
             "group": "LOCATION",
-            "degree": 1
+            "degree": 0
         },
         {
-            "id": "mount newman member",
+            "id": "pilbara",
+            "group": "LOCATION",
+            "degree": 20
+        },
+        {
+            "id": "mt bruce supergroup",
             "group": "STRAT",
-            "degree": 1
+            "degree": 4
         },
         {
-            "id": "volcanic rock",
+            "id": "pilbara craton",
+            "group": "LOCATION",
+            "degree": 8
+        },
+        {
+            "id": "granite",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "greenstones",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "jeerinah formation",
+            "group": "STRAT",
+            "degree": 6
+        },
+        {
+            "id": "black shales",
             "group": "ROCK",
             "degree": 2
         },
         {
-            "id": "hamersley range",
-            "group": "LOCATION",
-            "degree": 0
+            "id": "volcanic rocks",
+            "group": "ROCK",
+            "degree": 3
         },
         {
-            "id": "acid volcanic rock",
+            "id": "tertiary",
+            "group": "TIMESCALE",
+            "degree": 9
+        },
+        {
+            "id": "clay",
+            "group": "ROCK",
+            "degree": 10
+        },
+        {
+            "id": "sediments",
+            "group": "ROCK",
+            "degree": 13
+        },
+        {
+            "id": "oxide",
+            "group": "MINERAL",
+            "degree": 5
+        },
+        {
+            "id": "magnetite",
+            "group": "MINERAL",
+            "degree": 13
+        },
+        {
+            "id": "goethite ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 3
+        },
+        {
+            "id": "silt",
             "group": "ROCK",
             "degree": 1
         },
         {
-            "id": "tom price",
-            "group": "LOCATION",
-            "degree": 1
+            "id": "sand",
+            "group": "ROCK",
+            "degree": 2
         },
         {
-            "id": "port hedland",
-            "group": "LOCATION",
-            "degree": 0
+            "id": "quaternary",
+            "group": "TIMESCALE",
+            "degree": 3
         },
         {
-            "id": "granite greenstone",
+            "id": "australia",
+            "group": "LOCATION",
+            "degree": 14
+        },
+        {
+            "id": "iron ores",
+            "group": "ORE_DEPOSIT",
+            "degree": 16
+        },
+        {
+            "id": "sinter",
+            "group": "ROCK",
+            "degree": 26
+        },
+        {
+            "id": "brockman",
+            "group": "LOCATION",
+            "degree": 10
+        },
+        {
+            "id": "clays",
+            "group": "ROCK",
+            "degree": 12
+        },
+        {
+            "id": "oakover formation",
+            "group": "STRAT",
+            "degree": 6
+        },
+        {
+            "id": "alluvium",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "mixed",
+            "group": "ROCK",
+            "degree": 8
+        },
+        {
+            "id": "west angelas",
+            "group": "LOCATION",
+            "degree": 12
+        },
+        {
+            "id": "pyrolusite",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "pyrite",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "dolomite",
+            "group": "MINERAL",
+            "degree": 7
+        },
+        {
+            "id": "crystals",
+            "group": "MINERAL",
+            "degree": 11
+        },
+        {
+            "id": "oxides",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "silicates",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "robe",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "silicate",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
+            "degree": 6
+        },
+        {
+            "id": "quartz",
+            "group": "MINERAL",
+            "degree": 7
+        },
+        {
+            "id": "goethite ores",
+            "group": "ORE_DEPOSIT",
+            "degree": 4
+        },
+        {
+            "id": "kaolinite",
+            "group": "MINERAL",
+            "degree": 4
+        },
+        {
+            "id": "brockman iron formation",
+            "group": "STRAT",
+            "degree": 4
+        },
+        {
+            "id": "iron ore deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 13
+        },
+        {
+            "id": "granules",
+            "group": "ROCK",
+            "degree": 7
+        },
+        {
+            "id": "pisolite",
             "group": "ROCK",
             "degree": 1
+        },
+        {
+            "id": "hamersley iron province",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "yilgarn craton",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "koolyanobbing",
+            "group": "LOCATION",
+            "degree": 4
         },
         {
             "id": "genesis",
             "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "iron formation",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "martites",
+            "group": "MINERAL",
             "degree": 2
+        },
+        {
+            "id": "limonite",
+            "group": "ORE_DEPOSIT",
+            "degree": 7
+        },
+        {
+            "id": "limestone",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "lime",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "anthracite",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "coal",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "crystal",
+            "group": "MINERAL",
+            "degree": 7
+        },
+        {
+            "id": "silica",
+            "group": "MINERAL",
+            "degree": 5
+        },
+        {
+            "id": "iron deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 3
         },
         {
             "id": "marble bar",
@@ -461,17 +466,102 @@
             "degree": 1
         },
         {
-            "id": "mount bruce supergroup",
-            "group": "STRAT",
+            "id": "ironstone",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "diamonds",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "carbonate",
+            "group": "MINERAL",
             "degree": 2
         },
         {
-            "id": "hamersley group, upper",
-            "group": "STRAT",
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": 26
+        },
+        {
+            "id": "colluvium",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "regolith",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "calcrete",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "ferricrete",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "calcite",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "gibbsite",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "marandoo",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "cid channel iron deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 2
+        },
+        {
+            "id": "microplaty hematite microplaty hematite",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "goldsworthy",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "channel iron deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 12
+        },
+        {
+            "id": "did deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 2
+        },
+        {
+            "id": "mount tom price",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "paraburdoo",
+            "group": "LOCATION",
             "degree": 2
         },
         {
             "id": "roy hill member",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "mount bruce supergroup",
             "group": "STRAT",
             "degree": 2
         },
@@ -481,1204 +571,2141 @@
             "degree": 2
         },
         {
+            "id": "hamersley group, upper",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
             "id": "archean",
             "group": "TIMESCALE",
-            "degree": 1
+            "degree": 9
         }
     ],
     "links": [
         {
-            "source": "pilbara",
-            "target": "iron ore",
-            "label": [
-                "bedded"
-            ]
+            "source": "hamersley basin",
+            "target": "pilbara region",
+            "label": "in"
         },
         {
-            "source": "pilbara",
-            "target": "iron ore deposit",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "pilbara",
-            "target": "iron",
-            "label": [
-                "lump"
-            ]
-        },
-        {
-            "source": "pilbara",
-            "target": "christmas creek",
-            "label": [
-                "than"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "oxide",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "banded iron formation",
-            "label": [
-                "rich"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "pilbara",
-            "label": [
-                "including"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "nammuldi",
-            "label": []
-        },
-        {
-            "source": "iron",
-            "target": "martite",
-            "label": []
-        },
-        {
-            "source": "iron",
-            "target": "sediment",
-            "label": []
-        },
-        {
-            "source": "hematite",
+            "source": "hamersley basin",
             "target": "goethite",
-            "label": [
-                "of"
-            ]
+            "label": ""
         },
         {
-            "source": "hematite",
-            "target": "christmas creek",
-            "label": [
-                "At"
-            ]
+            "source": "pilbara region",
+            "target": "western australia",
+            "label": "of,"
         },
         {
-            "source": "hematite",
-            "target": "grey",
-            "label": [
-                "blue"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "martite",
-            "label": [
-                "can refer to"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "marra mamba iron formation",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "brockman",
-            "label": [
-                "resemble"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "pilbara",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "crystal",
-            "label": [
-                "have"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "sinter",
-            "label": [
-                "to"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "magnetite",
-            "label": []
-        },
-        {
-            "source": "hematite",
-            "target": "channel iron deposit",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "hematite",
-            "label": [
-                "in"
-            ]
+            "source": "pilbara region",
+            "target": "iron deposit",
+            "label": ""
         },
         {
             "source": "iron ore",
             "target": "pilbara region",
-            "label": [
-                "in"
-            ]
+            "label": "in,"
         },
         {
             "source": "iron ore",
             "target": "hamersley basin",
-            "label": [
-                "of"
-            ]
+            "label": "of,"
         },
         {
             "source": "iron ore",
             "target": "iron",
-            "label": [
-                "in"
-            ]
+            "label": "characterised,limited,"
+        },
+        {
+            "source": "iron ore",
+            "target": "oxide",
+            "label": "characterised"
+        },
+        {
+            "source": "iron ore",
+            "target": "australia",
+            "label": "in,across,produced in,"
+        },
+        {
+            "source": "iron ore",
+            "target": "microplaty hematite",
+            "label": "in,"
         },
         {
             "source": "iron ore",
             "target": "marra mamba iron formation",
-            "label": [
-                "in"
-            ]
+            "label": "in,"
         },
         {
             "source": "iron ore",
-            "target": "martite",
-            "label": [
-                "with"
-            ]
+            "target": "hematite",
+            "label": "hardness"
         },
         {
             "source": "iron ore",
-            "target": "pilbara",
-            "label": [
-                "from"
-            ]
+            "target": "goethite",
+            "label": "hardness,"
+        },
+        {
+            "source": "iron ore",
+            "target": "iron ores",
+            "label": "subdivided,"
         },
         {
             "source": "iron ore",
             "target": "perth",
-            "label": [
-                "in"
-            ]
+            "label": "in,"
         },
         {
             "source": "iron ore",
-            "target": "christmas creek",
-            "label": [
-                "derived from"
-            ]
+            "target": "ironstone",
+            "label": ""
         },
         {
             "source": "iron ore",
-            "target": "hamersley",
-            "label": [
-                "in"
-            ]
+            "target": "tertiary",
+            "label": ""
         },
         {
             "source": "iron ore",
-            "target": "hamersley province",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "grey",
-            "label": []
-        },
-        {
-            "source": "iron ore",
-            "target": "long",
-            "label": []
+            "target": "pilbara",
+            "label": ""
         },
         {
             "source": "iron ore",
             "target": "sinter",
-            "label": []
+            "label": ""
         },
         {
             "source": "iron ore",
-            "target": "banded iron formation",
-            "label": []
+            "target": "did deposits",
+            "label": ""
         },
         {
-            "source": "sinter",
-            "target": "granules",
-            "label": [
-                ""
-            ]
+            "source": "western australia",
+            "target": "pilbara",
+            "label": "including"
         },
         {
-            "source": "sinter",
-            "target": "magnetite",
-            "label": [
-                "for"
-            ]
-        },
-        {
-            "source": "sinter",
-            "target": "iron",
-            "label": [
-                "by"
-            ]
-        },
-        {
-            "source": "sinter",
-            "target": "christmas creek",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "sinter",
-            "target": "brockman",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "sinter",
-            "target": "limestone",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "sinter",
-            "target": "coal",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "sinter",
-            "target": "crystal",
-            "label": [
-                "contains"
-            ]
-        },
-        {
-            "source": "sinter",
-            "target": "hematite",
-            "label": []
-        },
-        {
-            "source": "sinter",
+            "source": "western australia",
             "target": "iron ore",
-            "label": []
+            "label": "including,in"
         },
         {
-            "source": "goethite",
-            "target": "crystal",
-            "label": [
-                ""
-            ]
+            "source": "western australia",
+            "target": "perth",
+            "label": "in"
         },
         {
-            "source": "goethite",
-            "target": "hematite",
-            "label": [
-                "in"
-            ]
+            "source": "western australia",
+            "target": "hamersley basin",
+            "label": ""
         },
         {
-            "source": "goethite",
-            "target": "martite",
-            "label": [
-                "with"
-            ]
+            "source": "western australia",
+            "target": "pilbara region",
+            "label": ""
         },
         {
-            "source": "goethite",
-            "target": "shale",
-            "label": [
-                "interbedded with"
-            ]
+            "source": "western australia",
+            "target": "nammuldi member",
+            "label": ""
         },
         {
-            "source": "goethite",
-            "target": "christmas creek",
-            "label": [
-                "of"
-            ]
+            "source": "western australia",
+            "target": "hamersley province",
+            "label": ""
         },
         {
-            "source": "goethite",
-            "target": "grey",
-            "label": [
-                "to"
-            ]
+            "source": "marra mamba iron formation",
+            "target": "hamersley group",
+            "label": "of"
         },
         {
-            "source": "goethite",
-            "target": "brockman",
-            "label": [
-                "from"
-            ]
+            "source": "marra mamba iron formation",
+            "target": "iron ore",
+            "label": "for"
         },
         {
-            "source": "goethite",
-            "target": "pilbara",
-            "label": []
+            "source": "marra mamba iron formation",
+            "target": "western australia",
+            "label": "ranges"
         },
         {
-            "source": "martite",
+            "source": "marra mamba iron formation",
+            "target": "microplaty hematite",
+            "label": "ranges,"
+        },
+        {
+            "source": "marra mamba iron formation",
             "target": "goethite",
-            "label": [
-                "with"
-            ]
+            "label": "ranges,"
         },
         {
-            "source": "martite",
-            "target": "hematite",
-            "label": [
-                "of"
-            ]
+            "source": "marra mamba iron formation",
+            "target": "iron deposits",
+            "label": ""
         },
         {
-            "source": "martite",
-            "target": "christmas creek",
-            "label": []
-        },
-        {
-            "source": "long",
-            "target": "sinter",
-            "label": [
-                "have conducted"
-            ]
-        },
-        {
-            "source": "christmas creek",
-            "target": "marra mamba iron formation",
-            "label": [
-                "confirming that"
-            ]
-        },
-        {
-            "source": "christmas creek",
-            "target": "shale",
-            "label": [
-                "was interbedded with"
-            ]
-        },
-        {
-            "source": "christmas creek",
-            "target": "sinter",
-            "label": [
-                "can be rated as"
-            ]
-        },
-        {
-            "source": "christmas creek",
-            "target": "granules",
-            "label": [
-                "is"
-            ]
-        },
-        {
-            "source": "christmas creek",
-            "target": "hematite",
-            "label": [
-                "could outperform"
-            ]
-        },
-        {
-            "source": "christmas creek",
-            "target": "pilbara",
-            "label": []
-        },
-        {
-            "source": "christmas creek",
-            "target": "magnetite",
-            "label": []
-        },
-        {
-            "source": "christmas creek",
-            "target": "martite",
-            "label": []
-        },
-        {
-            "source": "christmas creek",
-            "target": "limonite",
-            "label": []
+            "source": "marra mamba iron formation",
+            "target": "sediments",
+            "label": ""
         },
         {
             "source": "marra mamba iron formation",
             "target": "nammuldi member",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "marra mamba iron formation",
-            "target": "hamersley group",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "marra mamba iron formation",
-            "target": "proterozoic",
-            "label": []
-        },
-        {
-            "source": "marra mamba iron formation",
-            "target": "iron deposit",
-            "label": []
+            "label": "termed,"
         },
         {
             "source": "marra mamba iron formation",
             "target": "macleod member",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "marra mamba iron formation",
             "target": "mount newman member",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "marra mamba iron formation",
             "target": "archean",
-            "label": [
-                "of"
-            ]
+            "label": "of,"
         },
         {
-            "source": "nammuldi member",
-            "target": "shale",
-            "label": [
-                "of"
-            ]
+            "source": "marra mamba iron formation",
+            "target": "hamersley province",
+            "label": ""
         },
         {
-            "source": "nammuldi member",
-            "target": "black shale",
-            "label": [
-                "are"
-            ]
+            "source": "marra mamba iron formation",
+            "target": "greenstones",
+            "label": ""
         },
         {
-            "source": "nammuldi member",
-            "target": "volcanic rock",
-            "label": [
-                "are"
-            ]
-        },
-        {
-            "source": "nammuldi member",
-            "target": "marra mamba iron formation",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "nammuldi member",
-            "target": "iron",
-            "label": []
-        },
-        {
-            "source": "nammuldi",
-            "target": "iron formation",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "nammuldi",
-            "target": "shale",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "sediment",
-            "target": "silt",
-            "label": [
-                "characterised by"
-            ]
-        },
-        {
-            "source": "tertiary",
-            "target": "sediment",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "tertiary",
-            "target": "colluvium",
-            "label": [
-                "aged"
-            ]
-        },
-        {
-            "source": "tertiary",
-            "target": "alluvium",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "oxide",
-            "target": "crystal",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "oxide",
+            "source": "marra mamba iron formation",
             "target": "hematite",
-            "label": [
-                "to"
-            ]
-        },
-        {
-            "source": "shale",
-            "target": "jeerinah formation",
-            "label": [
-                "(top member of"
-            ]
-        },
-        {
-            "source": "shale",
-            "target": "dolerite",
-            "label": [
-                "has been intruded by"
-            ]
-        },
-        {
-            "source": "shale",
-            "target": "roy hill shale member",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "shale",
-            "target": "clay",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "shale",
-            "target": "goethite",
-            "label": [
-                "as"
-            ]
-        },
-        {
-            "source": "shale",
-            "target": "hematite",
-            "label": [
-                "mixed with"
-            ]
-        },
-        {
-            "source": "west angelas",
-            "target": "iron ore",
-            "label": [
-                "Compared With"
-            ]
-        },
-        {
-            "source": "west angelas",
-            "target": "goethite",
-            "label": [
-                "contain"
-            ]
-        },
-        {
-            "source": "west angelas",
-            "target": "christmas creek",
-            "label": [
-                "as"
-            ]
-        },
-        {
-            "source": "west angelas",
-            "target": "granules",
-            "label": []
-        },
-        {
-            "source": "magnetite",
-            "target": "hematite",
-            "label": [
-                "to"
-            ]
-        },
-        {
-            "source": "magnetite",
-            "target": "goethite",
-            "label": [
-                "to"
-            ]
-        },
-        {
-            "source": "hamersley",
-            "target": "iron",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "crystal",
-            "target": "grey",
-            "label": [
-                "showing"
-            ]
-        },
-        {
-            "source": "crystal",
-            "target": "hematite",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "crystal",
-            "target": "quartz",
-            "label": [
-                "as"
-            ]
-        },
-        {
-            "source": "crystal",
-            "target": "clay",
-            "label": [
-                "as"
-            ]
-        },
-        {
-            "source": "jeerinah formation",
-            "target": "roy hill member",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "silt",
-            "target": "sediment",
-            "label": [
-                "sand"
-            ]
-        },
-        {
-            "source": "granules",
-            "target": "christmas creek",
-            "label": [
-                "nf4088 nf4094 1290c 1330c"
-            ]
-        },
-        {
-            "source": "chert",
-            "target": "magnetite",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "black shale",
-            "target": "jeerinah formation",
-            "label": [
-                "belonging to"
-            ]
-        },
-        {
-            "source": "fortescue group",
-            "target": "mt bruce supergroup",
-            "label": [
-                "also within the"
-            ]
-        },
-        {
-            "source": "fortescue group",
-            "target": "jeerinah formation",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "limestone",
-            "target": "lime",
-            "label": [
-                ", dolomite, burnt"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "dolerite",
-            "label": [
-                "has been intruded by"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "carbonate",
-            "label": []
-        },
-        {
-            "source": "banded iron formation",
-            "target": "shale",
-            "label": []
+            "label": ""
         },
         {
             "source": "hamersley group",
             "target": "proterozoic",
-            "label": [
-                "to"
-            ]
+            "label": "to"
+        },
+        {
+            "source": "hamersley group",
+            "target": "iron deposits",
+            "label": "to"
         },
         {
             "source": "hamersley group",
             "target": "fortescue group",
-            "label": [
-                "overlies"
-            ]
+            "label": "overlies,"
         },
         {
             "source": "hamersley group",
             "target": "mt bruce supergroup",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "hamersley group",
-            "target": "brockman iron formation",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "hamersley group",
-            "target": "hamersley group, lower",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "hamersley group",
-            "target": "hamersley group, upper",
-            "label": "[parent_of]"
+            "label": "within"
         },
         {
             "source": "hamersley group",
             "target": "marra mamba iron formation",
-            "label": "[parent_of]"
+            "label": ""
         },
         {
-            "source": "iron ore deposit",
-            "target": "pilbara",
-            "label": [
-                "in"
-            ]
+            "source": "hamersley group",
+            "target": "brockman iron formation",
+            "label": "parent_of"
         },
         {
-            "source": "iron ore deposit",
-            "target": "genesis",
-            "label": [
-                "for"
-            ]
+            "source": "hamersley group",
+            "target": "hamersley group, lower",
+            "label": "parent_of"
         },
         {
-            "source": "grey",
-            "target": "martite",
-            "label": [
-                "to"
-            ]
+            "source": "hamersley group",
+            "target": "hamersley group, upper",
+            "label": "parent_of"
         },
         {
-            "source": "grey",
-            "target": "goethite",
-            "label": []
+            "source": "hamersley group",
+            "target": "archean",
+            "label": ""
         },
         {
-            "source": "grey",
-            "target": "hematite",
-            "label": []
+            "source": "proterozoic",
+            "target": "hamersley group",
+            "label": ""
         },
         {
-            "source": "brockman",
-            "target": "iron ore",
-            "label": [
-                ""
-            ]
+            "source": "iron deposits",
+            "target": "hamersley province",
+            "label": "in"
         },
         {
-            "source": "brockman",
-            "target": "pilbara craton",
-            "label": [
-                "in"
-            ]
+            "source": "iron",
+            "target": "hamersley",
+            "label": "to,"
         },
         {
-            "source": "brockman",
-            "target": "koolyanobbing",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "colluvium",
-            "target": "iron",
-            "label": []
-        },
-        {
-            "source": "colluvium",
+            "source": "iron",
             "target": "chert",
-            "label": []
+            "label": "enriched,"
         },
         {
-            "source": "colluvium",
+            "source": "iron",
             "target": "shale",
-            "label": []
+            "label": "enriched"
         },
         {
-            "source": "mount tom price",
-            "target": "pilbara craton",
-            "label": [
-                "in"
-            ]
+            "source": "iron",
+            "target": "oxide",
+            "label": "characterised,"
         },
         {
-            "source": "mount tom price",
-            "target": "koolyanobbing",
-            "label": [
-                "in"
-            ]
+            "source": "iron",
+            "target": "martite",
+            "label": "within"
         },
         {
-            "source": "iron formation",
-            "target": "iron ore",
-            "label": [
-                "hosted"
-            ]
+            "source": "iron",
+            "target": "goethite ore",
+            "label": "within"
         },
         {
-            "source": "silica",
-            "target": "sinter",
-            "label": [
-                "used were obtained from"
-            ]
+            "source": "iron",
+            "target": "oxides",
+            "label": "composed of,"
         },
         {
-            "source": "marandoo",
-            "target": "pilbara craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "marandoo",
-            "target": "koolyanobbing",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "quartz",
-            "target": "iron ore",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "alluvium",
-            "target": "clay",
-            "label": [
-                "including"
-            ]
-        },
-        {
-            "source": "clay",
-            "target": "sediment",
-            "label": [
-                "rich"
-            ]
-        },
-        {
-            "source": "clay",
-            "target": "christmas creek",
-            "label": [
-                ", as per"
-            ]
-        },
-        {
-            "source": "clay",
-            "target": "oakover formation",
-            "label": [
-                "To"
-            ]
-        },
-        {
-            "source": "clay",
+            "source": "iron",
             "target": "goethite",
-            "label": [
-                "as"
-            ]
+            "label": ""
         },
         {
-            "source": "clay",
-            "target": "quartz",
-            "label": [
-                "is"
-            ]
+            "source": "iron",
+            "target": "iron ore",
+            "label": ""
         },
         {
-            "source": "clay",
-            "target": "silicate",
-            "label": [
-                "were"
-            ]
+            "source": "iron",
+            "target": "sinter",
+            "label": ""
         },
         {
-            "source": "carbonate",
-            "target": "chert",
-            "label": [
-                "rich"
-            ]
+            "source": "iron",
+            "target": "nammuldi member",
+            "label": ""
         },
         {
-            "source": "diamond",
-            "target": "christmas creek",
-            "label": []
+            "source": "iron",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "brockman",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "mount tom price",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "diamond",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "nammuldi",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "archean",
+            "label": "belongs to"
+        },
+        {
+            "source": "iron",
+            "target": "banded iron formation",
+            "label": "enriched,within,in,"
+        },
+        {
+            "source": "iron",
+            "target": "marra mamba iron formation",
+            "label": ""
+        },
+        {
+            "source": "christmas creek",
+            "target": "marra mamba iron formation",
+            "label": "confirming"
+        },
+        {
+            "source": "christmas creek",
+            "target": "iron ores",
+            "label": "hosted,"
+        },
+        {
+            "source": "christmas creek",
+            "target": "shale",
+            "label": "of"
+        },
+        {
+            "source": "christmas creek",
+            "target": "nammuldi member",
+            "label": "prospects within"
+        },
+        {
+            "source": "christmas creek",
+            "target": "pilbara",
+            "label": "compared to,"
+        },
+        {
+            "source": "christmas creek",
+            "target": "iron ore",
+            "label": "compared to,"
+        },
+        {
+            "source": "christmas creek",
+            "target": "shales",
+            "label": "interbedded with"
+        },
+        {
+            "source": "christmas creek",
+            "target": "sinter",
+            "label": "for,"
+        },
+        {
+            "source": "christmas creek",
+            "target": "granules",
+            "label": "fired,"
+        },
+        {
+            "source": "christmas creek",
+            "target": "hematite",
+            "label": "could outperform,"
+        },
+        {
+            "source": "christmas creek",
+            "target": "diamond",
+            "label": "determined from,"
+        },
+        {
+            "source": "christmas creek",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "christmas creek",
+            "target": "australia",
+            "label": ""
+        },
+        {
+            "source": "christmas creek",
+            "target": "microplaty hematite",
+            "label": ""
+        },
+        {
+            "source": "christmas creek",
+            "target": "goethite",
+            "label": ""
+        },
+        {
+            "source": "christmas creek",
+            "target": "west angelas",
+            "label": ""
+        },
+        {
+            "source": "christmas creek",
+            "target": "crystals",
+            "label": ""
+        },
+        {
+            "source": "christmas creek",
+            "target": "martite",
+            "label": ""
+        },
+        {
+            "source": "christmas creek",
+            "target": "magnetite",
+            "label": ""
         },
         {
             "source": "newman",
-            "target": "goldsworthy",
-            "label": [
-                ""
-            ]
+            "target": "roy hill",
+            "label": "on,"
+        },
+        {
+            "source": "newman",
+            "target": "christmas creek",
+            "label": ""
         },
         {
             "source": "newman",
             "target": "marble bar",
-            "label": [
-                "along"
-            ]
+            "label": ""
         },
         {
-            "source": "hamersley province",
-            "target": "iron ore",
-            "label": [
-                "in"
-            ]
+            "source": "newman",
+            "target": "goldsworthy",
+            "label": ""
         },
         {
-            "source": "hamersley province",
-            "target": "perth",
-            "label": [
-                "in"
-            ]
+            "source": "roy hill",
+            "target": "christmas creek",
+            "label": ""
         },
         {
-            "source": "mixed",
-            "target": "grey",
-            "label": [
-                "minor colours (orange,"
-            ]
+            "source": "roy hill",
+            "target": "nammuldi",
+            "label": ""
         },
         {
-            "source": "mixed",
-            "target": "sediment",
-            "label": [
-                "clasts te"
-            ]
-        },
-        {
-            "source": "paraburdoo",
-            "target": "pilbara craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "paraburdoo",
-            "target": "koolyanobbing",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "dolomite",
-            "target": "dolerite",
-            "label": [
-                "has been intruded by"
-            ]
-        },
-        {
-            "source": "pilbara craton",
-            "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "pilbara craton",
+            "source": "hamersley",
             "target": "iron",
-            "label": [
-                "in"
-            ]
+            "label": ""
         },
         {
-            "source": "hamersley basin",
-            "target": "iron ore",
-            "label": [
-                ""
-            ]
+            "source": "hamersley",
+            "target": "christmas creek",
+            "label": ""
         },
         {
-            "source": "hamersley basin",
-            "target": "magnetite",
-            "label": []
+            "source": "fortescue group",
+            "target": "jeerinah formation",
+            "label": "parent_of"
         },
         {
-            "source": "silicate",
+            "source": "banded iron formations",
+            "target": "dolerite",
+            "label": "intruded by,"
+        },
+        {
+            "source": "dolerite",
+            "target": "shale",
+            "label": ""
+        },
+        {
+            "source": "dolomites",
+            "target": "dolerite",
+            "label": "intruded by"
+        },
+        {
+            "source": "dolomites",
+            "target": "banded iron formations",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "dolerite",
+            "label": "intruded by"
+        },
+        {
+            "source": "shale",
+            "target": "hematite",
+            "label": "mixed with"
+        },
+        {
+            "source": "shale",
+            "target": "nammuldi",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "carbonate",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "colluvium",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "clay",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "acid volcanic rocks",
+            "target": "dolerite",
+            "label": "intruded by"
+        },
+        {
+            "source": "acid volcanic rocks",
+            "target": "dolomites",
+            "label": ""
+        },
+        {
+            "source": "hamersley province",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "hamersley province",
+            "target": "iron deposits",
+            "label": ""
+        },
+        {
+            "source": "hamersley province",
+            "target": "iron formation",
+            "label": ""
+        },
+        {
+            "source": "hamersley province",
+            "target": "australia",
+            "label": ""
+        },
+        {
+            "source": "nammuldi member",
+            "target": "jeerinah formation",
+            "label": "belonging to,"
+        },
+        {
+            "source": "nammuldi member",
+            "target": "western australia",
+            "label": "ranges"
+        },
+        {
+            "source": "nammuldi member",
+            "target": "marra mamba iron formation",
+            "label": "of,"
+        },
+        {
+            "source": "nammuldi member",
+            "target": "microplaty hematite",
+            "label": "ranges,"
+        },
+        {
+            "source": "nammuldi member",
+            "target": "goethite",
+            "label": "ranges"
+        },
+        {
+            "source": "nammuldi member",
+            "target": "shales",
+            "label": ""
+        },
+        {
+            "source": "nammuldi member",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "nammuldi member",
+            "target": "shale",
+            "label": ""
+        },
+        {
+            "source": "nammuldi member",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "nammuldi member",
+            "target": "banded iron formation",
+            "label": "consists of"
+        },
+        {
+            "source": "shales",
+            "target": "bifs",
+            "label": "enriched,"
+        },
+        {
+            "source": "shales",
+            "target": "roy hill shale member",
+            "label": "of"
+        },
+        {
+            "source": "shales",
+            "target": "chert",
+            "label": "fill,"
+        },
+        {
+            "source": "shales",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "shales",
+            "target": "nammuldi member",
+            "label": ""
+        },
+        {
+            "source": "shales",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "shales",
+            "target": "goethite",
+            "label": ""
+        },
+        {
+            "source": "shales",
+            "target": "clays",
+            "label": ""
+        },
+        {
+            "source": "shales",
+            "target": "banded iron formation",
+            "label": "podded,"
+        },
+        {
+            "source": "macleod member",
+            "target": "chert",
+            "label": "consists of"
+        },
+        {
+            "source": "macleod member",
+            "target": "banded iron formation",
+            "label": "consists of,"
+        },
+        {
+            "source": "chert",
+            "target": "macleod member",
+            "label": ""
+        },
+        {
+            "source": "chert",
+            "target": "shale",
+            "label": ""
+        },
+        {
+            "source": "mount newman member",
+            "target": "carbonates",
+            "label": ""
+        },
+        {
+            "source": "mount newman member",
+            "target": "banded iron formation",
+            "label": "consists of"
+        },
+        {
+            "source": "carbonates",
+            "target": "shales",
+            "label": ""
+        },
+        {
+            "source": "carbonates",
+            "target": "dolomite",
+            "label": ""
+        },
+        {
+            "source": "carbonates",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "carbonates",
+            "target": "banded iron formation",
+            "label": "in"
+        },
+        {
+            "source": "hematite",
+            "target": "goethite",
+            "label": "grading into,(with variable degrees of alteration between these minerals),of,"
+        },
+        {
+            "source": "hematite",
+            "target": "microplaty hematite",
+            "label": "(commonly disseminated throughout the christmas creek deposit),can refer to,"
+        },
+        {
+            "source": "hematite",
+            "target": "martite",
+            "label": "can refer to,"
+        },
+        {
+            "source": "hematite",
+            "target": "crystals",
+            "label": "vary from,"
+        },
+        {
+            "source": "hematite",
+            "target": "brockman",
+            "label": "from"
+        },
+        {
+            "source": "hematite",
             "target": "sinter",
-            "label": []
+            "label": "mix to,to,"
         },
         {
-            "source": "iron deposit",
-            "target": "hamersley province",
-            "label": [
-                "in"
-            ]
+            "source": "hematite",
+            "target": "limonite",
+            "label": "belonging to,"
         },
         {
-            "source": "iron deposit",
-            "target": "pilbara region",
-            "label": [
-                "is located within"
-            ]
+            "source": "hematite",
+            "target": "bifs",
+            "label": ""
         },
         {
-            "source": "proterozoic",
-            "target": "iron deposit",
-            "label": [
-                ""
-            ]
+            "source": "hematite",
+            "target": "iron ores",
+            "label": ""
         },
         {
-            "source": "oakover formation",
-            "target": "silcrete",
-            "label": [
-                "(including calcrete,"
-            ]
+            "source": "hematite",
+            "target": "christmas creek",
+            "label": ""
         },
         {
-            "source": "brockman iron formation",
-            "target": "iron ore deposit",
-            "label": [
-                "hosted"
-            ]
+            "source": "hematite",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "silicates",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "goethite ores",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "iron ore deposits",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "crystal",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "martites",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "banded iron formation",
+            "label": "may occur at,"
+        },
+        {
+            "source": "hematite",
+            "target": "channel iron deposit",
+            "label": "with"
+        },
+        {
+            "source": "goethite",
+            "target": "martite",
+            "label": "with,to,"
+        },
+        {
+            "source": "goethite",
+            "target": "hematite",
+            "label": "with,note,compared to,in,locked within,"
+        },
+        {
+            "source": "goethite",
+            "target": "microplaty hematite",
+            "label": "with,to,"
+        },
+        {
+            "source": "goethite",
+            "target": "shales",
+            "label": "interbedded with"
+        },
+        {
+            "source": "goethite",
+            "target": "christmas creek",
+            "label": "blended with,of,compared to,"
+        },
+        {
+            "source": "goethite",
+            "target": "west angelas",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "goethite ores",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "mixed",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "clays",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "sinter",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "iron ore deposits",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "banded iron formation",
+            "label": "may occur at,"
+        },
+        {
+            "source": "martite",
+            "target": "hematite",
+            "label": "with,of,in,"
+        },
+        {
+            "source": "martite",
+            "target": "microplaty hematite",
+            "label": "with,interlocking,include,"
+        },
+        {
+            "source": "martite",
+            "target": "goethite",
+            "label": "in,of,with,include,"
+        },
+        {
+            "source": "martite",
+            "target": "crystals",
+            "label": "interlocking,"
+        },
+        {
+            "source": "martite",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "martite",
+            "target": "goethite ore",
+            "label": ""
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "marra mamba iron formation",
+            "label": "in,from,"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "nammuldi member",
+            "label": "from,"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "brockman",
+            "label": "resemble"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "iron ore",
+            "label": "resemble"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "goethite",
+            "label": "of,in,"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "martite",
+            "label": "interlocking,"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "crystals",
+            "label": "interlocking"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "hematite",
+            "label": "of,in,"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "pilbara",
+            "label": "in,"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "christmas creek",
+            "label": "identified at,spread throughout,"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "sinter",
+            "label": ""
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "microplaty hematite microplaty hematite",
+            "label": ""
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "iron ore deposits",
+            "label": ""
+        },
+        {
+            "source": "nammuldi",
+            "target": "roy hill",
+            "label": "with"
+        },
+        {
+            "source": "nammuldi",
+            "target": "shale",
+            "label": "with,"
+        },
+        {
+            "source": "nammuldi",
+            "target": "mixed",
+            "label": "show,"
+        },
+        {
+            "source": "nammuldi",
+            "target": "channel iron deposit",
+            "label": "mineralised,"
         },
         {
             "source": "nullagine",
             "target": "christmas creek",
-            "label": [
-                "passing through"
-            ]
+            "label": "passing through,"
         },
         {
-            "source": "koolyanobbing",
+            "source": "diamond",
+            "target": "christmas creek",
+            "label": "from,"
+        },
+        {
+            "source": "diamond",
+            "target": "west angelas",
+            "label": ""
+        },
+        {
+            "source": "diamond",
+            "target": "australia",
+            "label": ""
+        },
+        {
+            "source": "bifs",
+            "target": "shales",
+            "label": "above,"
+        },
+        {
+            "source": "roy hill shale member",
+            "target": "shales",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "iron ore",
+            "label": "for fortescue metals group limited,"
+        },
+        {
+            "source": "pilbara",
+            "target": "iron ores",
+            "label": "conditioned,bedded,"
+        },
+        {
+            "source": "pilbara",
+            "target": "christmas creek",
+            "label": "including at"
+        },
+        {
+            "source": "pilbara",
+            "target": "australia",
+            "label": "produced in"
+        },
+        {
+            "source": "pilbara",
+            "target": "microplaty hematite",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "diamond",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "goethite",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "iron ore deposits",
+            "label": ""
+        },
+        {
+            "source": "mt bruce supergroup",
+            "target": "pilbara craton",
+            "label": ""
+        },
+        {
+            "source": "mt bruce supergroup",
+            "target": "archean",
+            "label": "overlies"
+        },
+        {
+            "source": "pilbara craton",
             "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
+            "label": "in,"
         },
         {
-            "source": "koolyanobbing",
+            "source": "pilbara craton",
             "target": "iron",
-            "label": [
-                "in"
-            ]
+            "label": "in"
+        },
+        {
+            "source": "pilbara craton",
+            "target": "hamersley group",
+            "label": ""
+        },
+        {
+            "source": "granite",
+            "target": "pilbara craton",
+            "label": "of"
+        },
+        {
+            "source": "granite",
+            "target": "mt bruce supergroup",
+            "label": ""
+        },
+        {
+            "source": "greenstones",
+            "target": "pilbara craton",
+            "label": "of"
+        },
+        {
+            "source": "greenstones",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "jeerinah formation",
+            "target": "volcanic rocks",
+            "label": ""
+        },
+        {
+            "source": "jeerinah formation",
+            "target": "roy hill member",
+            "label": "parent_of"
+        },
+        {
+            "source": "black shales",
+            "target": "jeerinah formation",
+            "label": "belonging to"
+        },
+        {
+            "source": "volcanic rocks",
+            "target": "jeerinah formation",
+            "label": "belonging to"
+        },
+        {
+            "source": "volcanic rocks",
+            "target": "black shales",
+            "label": ""
+        },
+        {
+            "source": "tertiary",
+            "target": "clay",
+            "label": "become"
+        },
+        {
+            "source": "tertiary",
+            "target": "clays",
+            "label": "including"
+        },
+        {
+            "source": "tertiary",
+            "target": "oakover formation",
+            "label": "including"
+        },
+        {
+            "source": "tertiary",
+            "target": "iron formation",
+            "label": ""
+        },
+        {
+            "source": "tertiary",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "clay",
+            "target": "goethite",
+            "label": "in"
+        },
+        {
+            "source": "clay",
+            "target": "tertiary",
+            "label": ""
+        },
+        {
+            "source": "clay",
+            "target": "quaternary",
+            "label": ""
+        },
+        {
+            "source": "clay",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "clay",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "clay",
+            "label": "become"
+        },
+        {
+            "source": "sediments",
+            "target": "silt",
+            "label": "characterised by,"
+        },
+        {
+            "source": "sediments",
+            "target": "sand",
+            "label": "characterised by,"
+        },
+        {
+            "source": "sediments",
+            "target": "clays",
+            "label": "including,"
+        },
+        {
+            "source": "sediments",
+            "target": "oakover formation",
+            "label": "including"
+        },
+        {
+            "source": "sediments",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "chert",
+            "label": ""
+        },
+        {
+            "source": "oxide",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "oxide",
+            "target": "crystals",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "goethite",
+            "label": "to hematite,"
+        },
+        {
+            "source": "magnetite",
+            "target": "sinter",
+            "label": "conducted,"
+        },
+        {
+            "source": "magnetite",
+            "target": "martite",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "limonite",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "banded iron formation",
+            "label": "within"
+        },
+        {
+            "source": "sand",
+            "target": "sediments",
+            "label": ""
         },
         {
             "source": "quaternary",
             "target": "clay",
-            "label": [
-                ""
-            ]
+            "label": "of"
         },
         {
-            "source": "roy hill shale member",
-            "target": "jeerinah formation",
-            "label": [
-                "(top member of the"
-            ]
+            "source": "quaternary",
+            "target": "sediments",
+            "label": "of,"
         },
         {
-            "source": "volcanic rock",
-            "target": "jeerinah formation",
-            "label": [
-                "belonging to"
-            ]
+            "source": "australia",
+            "target": "iron",
+            "label": "on,"
         },
         {
-            "source": "acid volcanic rock",
-            "target": "dolerite",
-            "label": [
-                "has been intruded by"
-            ]
+            "source": "australia",
+            "target": "iron ore",
+            "label": "of,"
         },
         {
-            "source": "tom price",
-            "target": "iron ore deposit",
-            "label": [
-                "hosted"
-            ]
+            "source": "australia",
+            "target": "microplaty hematite",
+            "label": ""
         },
         {
-            "source": "granite greenstone",
+            "source": "australia",
+            "target": "sinter",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "magnetite",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "channel iron deposit",
+            "label": ""
+        },
+        {
+            "source": "iron ores",
+            "target": "martite",
+            "label": "with"
+        },
+        {
+            "source": "iron ores",
+            "target": "goethite",
+            "label": "with,"
+        },
+        {
+            "source": "iron ores",
+            "target": "pilbara",
+            "label": "in,from,"
+        },
+        {
+            "source": "iron ores",
+            "target": "hamersley province",
+            "label": "in,of,"
+        },
+        {
+            "source": "iron ores",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "iron ores",
+            "target": "oxide",
+            "label": ""
+        },
+        {
+            "source": "iron ores",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "sinter",
+            "target": "magnetite",
+            "label": "for,"
+        },
+        {
+            "source": "sinter",
+            "target": "iron",
+            "label": "by,in,"
+        },
+        {
+            "source": "sinter",
+            "target": "christmas creek",
+            "label": "on,of,"
+        },
+        {
+            "source": "sinter",
+            "target": "brockman",
+            "label": "in,"
+        },
+        {
+            "source": "sinter",
+            "target": "coal",
+            "label": "of,"
+        },
+        {
+            "source": "sinter",
+            "target": "crystal",
+            "label": "contains"
+        },
+        {
+            "source": "sinter",
+            "target": "iron ores",
+            "label": ""
+        },
+        {
+            "source": "sinter",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "sinter",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "sinter",
+            "target": "granules",
+            "label": ""
+        },
+        {
+            "source": "sinter",
+            "target": "limonite",
+            "label": ""
+        },
+        {
+            "source": "sinter",
+            "target": "goethite ores",
+            "label": ""
+        },
+        {
+            "source": "sinter",
+            "target": "channel iron deposit",
+            "label": "in"
+        },
+        {
+            "source": "brockman",
+            "target": "granules",
+            "label": "tend to,"
+        },
+        {
+            "source": "brockman",
+            "target": "iron ores",
+            "label": ""
+        },
+        {
+            "source": "brockman",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "brockman",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "brockman",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "clays",
+            "target": "cid channel iron deposits",
+            "label": ""
+        },
+        {
+            "source": "clays",
+            "target": "silicate",
+            "label": ""
+        },
+        {
+            "source": "clays",
+            "target": "shales",
+            "label": ""
+        },
+        {
+            "source": "clays",
+            "target": "channel iron deposit",
+            "label": "(including calcrete, silcrete and calcareous sediments)"
+        },
+        {
+            "source": "clays",
+            "target": "banded iron formation",
+            "label": "in"
+        },
+        {
+            "source": "oakover formation",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "oakover formation",
+            "target": "channel iron deposit",
+            "label": "(including calcrete, silcrete and calcareous sediments)"
+        },
+        {
+            "source": "alluvium",
+            "target": "clays",
+            "label": "including"
+        },
+        {
+            "source": "alluvium",
+            "target": "oakover formation",
+            "label": "including"
+        },
+        {
+            "source": "alluvium",
+            "target": "mixed",
+            "label": ""
+        },
+        {
+            "source": "mixed",
+            "target": "clays",
+            "label": "including"
+        },
+        {
+            "source": "mixed",
+            "target": "oakover formation",
+            "label": "including"
+        },
+        {
+            "source": "mixed",
+            "target": "martite",
+            "label": "to,"
+        },
+        {
+            "source": "mixed",
+            "target": "goethite",
+            "label": "to"
+        },
+        {
+            "source": "mixed",
+            "target": "tertiary",
+            "label": ""
+        },
+        {
+            "source": "west angelas",
+            "target": "goethite",
+            "label": "contain"
+        },
+        {
+            "source": "west angelas",
+            "target": "christmas creek",
+            "label": "to,"
+        },
+        {
+            "source": "west angelas",
+            "target": "iron ores",
+            "label": "compared with,"
+        },
+        {
+            "source": "west angelas",
+            "target": "marandoo",
+            "label": ""
+        },
+        {
+            "source": "west angelas",
+            "target": "microplaty hematite",
+            "label": ""
+        },
+        {
+            "source": "west angelas",
+            "target": "diamond",
+            "label": ""
+        },
+        {
+            "source": "west angelas",
+            "target": "robe",
+            "label": ""
+        },
+        {
+            "source": "west angelas",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "pyrolusite",
+            "target": "pyrite",
+            "label": "of"
+        },
+        {
+            "source": "pyrolusite",
+            "target": "dolomite",
+            "label": "of"
+        },
+        {
+            "source": "pyrite",
+            "target": "pyrolusite",
+            "label": ""
+        },
+        {
+            "source": "dolomite",
+            "target": "lime",
+            "label": "burnt"
+        },
+        {
+            "source": "dolomite",
+            "target": "anthracite",
+            "label": "burnt"
+        },
+        {
+            "source": "dolomite",
+            "target": "gibbsite",
+            "label": ""
+        },
+        {
+            "source": "dolomite",
+            "target": "pyrite",
+            "label": ""
+        },
+        {
+            "source": "dolomite",
+            "target": "limestone",
+            "label": ""
+        },
+        {
+            "source": "crystals",
+            "target": "christmas creek",
+            "label": "at"
+        },
+        {
+            "source": "crystals",
+            "target": "hematite",
+            "label": "of,"
+        },
+        {
+            "source": "crystals",
+            "target": "martite",
+            "label": ""
+        },
+        {
+            "source": "crystals",
+            "target": "brockman iron formation",
+            "label": ""
+        },
+        {
+            "source": "crystals",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "crystals",
+            "target": "sinter",
+            "label": ""
+        },
+        {
+            "source": "oxides",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "oxides",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "silicates",
+            "target": "banded iron formation",
+            "label": "in,"
+        },
+        {
+            "source": "robe",
+            "target": "west angelas",
+            "label": "conditioned compared to,"
+        },
+        {
+            "source": "silicate",
+            "target": "banded iron formation",
+            "label": "in,"
+        },
+        {
+            "source": "perth",
+            "target": "diamond",
+            "label": ""
+        },
+        {
+            "source": "perth",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "perth",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "iron ore",
+            "label": "on,"
+        },
+        {
+            "source": "quartz",
+            "target": "kaolinite",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "crystal",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "goethite",
+            "label": ""
+        },
+        {
+            "source": "goethite ores",
+            "target": "brockman",
+            "label": "from"
+        },
+        {
+            "source": "kaolinite",
+            "target": "clays",
+            "label": "contained"
+        },
+        {
+            "source": "kaolinite",
+            "target": "shales",
+            "label": "contained,"
+        },
+        {
+            "source": "kaolinite",
+            "target": "carbonates",
+            "label": ""
+        },
+        {
+            "source": "brockman iron formation",
+            "target": "iron ore deposits",
+            "label": "hosted"
+        },
+        {
+            "source": "brockman iron formation",
+            "target": "microplaty hematite",
+            "label": ""
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "pilbara",
+            "label": "in"
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "australia",
+            "label": "from,"
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "genesis",
+            "label": "for"
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "marra mamba iron formation",
+            "label": ""
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "goethite",
+            "label": ""
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "granules",
+            "target": "sinter",
+            "label": "fired in,"
+        },
+        {
+            "source": "granules",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "granules",
+            "target": "channel iron deposit",
+            "label": ""
+        },
+        {
+            "source": "hamersley iron province",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "hamersley iron province",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "marandoo",
+            "label": ""
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "yilgarn craton",
+            "label": "in"
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "iron",
+            "label": "in"
+        },
+        {
+            "source": "koolyanobbing",
             "target": "pilbara craton",
-            "label": [
-                "of"
-            ]
+            "label": ""
         },
         {
             "source": "genesis",
             "target": "iron ore",
-            "label": [
-                "in"
-            ]
+            "label": "in,"
         },
         {
-            "source": "mount bruce supergroup",
-            "target": "fortescue group",
-            "label": "[parent_of]"
+            "source": "genesis",
+            "target": "perth",
+            "label": "in"
         },
         {
-            "source": "mount bruce supergroup",
-            "target": "hamersley group",
-            "label": "[parent_of]"
+            "source": "iron formation",
+            "target": "iron ores",
+            "label": "hosted"
         },
         {
-            "source": "hamersley group, upper",
-            "target": "hamersley group",
-            "label": "[current_of]"
+            "source": "iron formation",
+            "target": "nammuldi",
+            "label": ""
+        },
+        {
+            "source": "iron formation",
+            "target": "alluvium",
+            "label": ""
+        },
+        {
+            "source": "martites",
+            "target": "magnetite",
+            "label": "structured,"
+        },
+        {
+            "source": "limonite",
+            "target": "magnetite",
+            "label": "structured"
+        },
+        {
+            "source": "limonite",
+            "target": "hematite",
+            "label": "for,"
+        },
+        {
+            "source": "limonite",
+            "target": "martite",
+            "label": ""
+        },
+        {
+            "source": "limonite",
+            "target": "silica",
+            "label": ""
+        },
+        {
+            "source": "limestone",
+            "target": "lime",
+            "label": "burnt"
+        },
+        {
+            "source": "limestone",
+            "target": "anthracite",
+            "label": "burnt,"
+        },
+        {
+            "source": "anthracite",
+            "target": "lime",
+            "label": ""
+        },
+        {
+            "source": "coal",
+            "target": "sinter",
+            "label": ""
+        },
+        {
+            "source": "crystal",
+            "target": "iron ore deposits",
+            "label": ""
+        },
+        {
+            "source": "crystal",
+            "target": "goethite",
+            "label": ""
+        },
+        {
+            "source": "crystal",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "crystal",
+            "target": "sinter",
+            "label": ""
+        },
+        {
+            "source": "silica",
+            "target": "clay",
+            "label": ""
+        },
+        {
+            "source": "silica",
+            "target": "diamond",
+            "label": ""
+        },
+        {
+            "source": "silica",
+            "target": "sinter",
+            "label": ""
+        },
+        {
+            "source": "silica",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "iron deposit",
+            "target": "pilbara region",
+            "label": "located within"
+        },
+        {
+            "source": "iron deposit",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "carbonate",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "nammuldi member",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "shales",
+            "label": "interbedded with,with interbedded,"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "carbonates",
+            "label": "with interbedded,"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "magnetite",
+            "label": "with"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "iron ore deposits",
+            "label": "derived"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "iron ores",
+            "label": "derived"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "goethite ore",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "genesis",
+            "label": ""
+        },
+        {
+            "source": "colluvium",
+            "target": "tertiary",
+            "label": ""
+        },
+        {
+            "source": "colluvium",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "regolith",
+            "target": "calcrete",
+            "label": ""
+        },
+        {
+            "source": "calcrete",
+            "target": "ferricrete",
+            "label": ""
+        },
+        {
+            "source": "calcite",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "marandoo",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "marandoo",
+            "target": "paraburdoo",
+            "label": ""
+        },
+        {
+            "source": "cid channel iron deposits",
+            "target": "alluvium",
+            "label": ""
+        },
+        {
+            "source": "goldsworthy",
+            "target": "newman",
+            "label": ""
+        },
+        {
+            "source": "channel iron deposit",
+            "target": "pisolite",
+            "label": ""
+        },
+        {
+            "source": "channel iron deposit",
+            "target": "granules",
+            "label": "tend to"
+        },
+        {
+            "source": "channel iron deposit",
+            "target": "nammuldi",
+            "label": "above,"
+        },
+        {
+            "source": "channel iron deposit",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "channel iron deposit",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "did deposits",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "mount tom price",
+            "target": "koolyanobbing",
+            "label": ""
+        },
+        {
+            "source": "paraburdoo",
+            "target": "iron",
+            "label": ""
         },
         {
             "source": "roy hill member",
             "target": "roy hill shale member",
-            "label": "[current_of]"
+            "label": "current_of"
+        },
+        {
+            "source": "mount bruce supergroup",
+            "target": "fortescue group",
+            "label": "parent_of"
+        },
+        {
+            "source": "mount bruce supergroup",
+            "target": "hamersley group",
+            "label": "parent_of"
         },
         {
             "source": "hamersley group, lower",
             "target": "hamersley group",
-            "label": "[current_of]"
+            "label": "current_of"
+        },
+        {
+            "source": "hamersley group, upper",
+            "target": "hamersley group",
+            "label": "current_of"
+        },
+        {
+            "source": "archean",
+            "target": "marra mamba iron formation",
+            "label": "aged"
+        },
+        {
+            "source": "archean",
+            "target": "pilbara craton",
+            "label": "of"
+        },
+        {
+            "source": "archean",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "archean",
+            "target": "granite",
+            "label": ""
         }
     ]
 }

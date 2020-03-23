@@ -1,229 +1,169 @@
 {
     "nodes": [
         {
-            "id": "laterite",
-            "group": "ROCK",
-            "degree": 5
-        },
-        {
-            "id": "bedrock",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "gold",
-            "group": "MINERAL",
-            "degree": 5
-        },
-        {
-            "id": "iron ore",
-            "group": "ORE_DEPOSIT",
-            "degree": 7
-        },
-        {
-            "id": "greenstone belt",
-            "group": "STRAT",
-            "degree": 14
-        },
-        {
-            "id": "basaltic",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "regolith",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "homestead",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "koolyanobbing",
-            "group": "LOCATION",
-            "degree": 6
-        },
-        {
-            "id": "nickel",
-            "group": "MINERAL",
-            "degree": 5
-        },
-        {
-            "id": "jackson",
-            "group": "LOCATION",
-            "degree": 4
-        },
-        {
-            "id": "iron ore deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": 4
-        },
-        {
-            "id": "jaspilite",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "sulphur",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "copper",
-            "group": "MINERAL",
-            "degree": 4
-        },
-        {
-            "id": "zinc",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "ironstone",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "coolgardie",
-            "group": "LOCATION",
-            "degree": 3
-        },
-        {
-            "id": "amphibolite",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "actinolite",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "host rock",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "kalgoorlie",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "marda complex",
-            "group": "STRAT",
-            "degree": 7
-        },
-        {
-            "id": "basalt",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "windarling",
-            "group": "LOCATION",
-            "degree": 3
-        },
-        {
-            "id": "sedimentary rock",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "metasedimentary",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
             "id": "banded iron formation",
             "group": "ROCK",
-            "degree": 4
-        },
-        {
-            "id": "goldfields",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "greenstone",
-            "group": "ROCK",
-            "degree": 0
+            "degree": 23
         },
         {
             "id": "chert",
             "group": "ROCK",
-            "degree": 0
+            "degree": 3
+        },
+        {
+            "id": "mafic volcanics",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "greenstone belt",
+            "group": "STRAT",
+            "degree": 34
+        },
+        {
+            "id": "dolerite dykes",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "sedimentary rocks",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "colluvium",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "laterite",
+            "group": "ROCK",
+            "degree": 12
         },
         {
             "id": "alluvium",
             "group": "ROCK",
-            "degree": 2
+            "degree": 3
         },
         {
-            "id": "sand",
+            "id": "aeolian sand",
             "group": "ROCK",
-            "degree": 4
+            "degree": 3
+        },
+        {
+            "id": "bedrock",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "nickel",
+            "group": "MINERAL",
+            "degree": 18
+        },
+        {
+            "id": "western australia",
+            "group": "LOCATION",
+            "degree": 9
+        },
+        {
+            "id": "copper",
+            "group": "MINERAL",
+            "degree": 8
         },
         {
             "id": "iron",
             "group": "MINERAL",
-            "degree": 1
+            "degree": 5
         },
         {
-            "id": "granitoid",
-            "group": "ROCK",
-            "degree": 4
-        },
-        {
-            "id": "gold deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": 0
-        },
-        {
-            "id": "perth",
+            "id": "coolgardie",
             "group": "LOCATION",
-            "degree": 0
+            "degree": 8
         },
         {
-            "id": "igneous rock",
+            "id": "regolith",
             "group": "ROCK",
-            "degree": 1
+            "degree": 11
         },
         {
-            "id": "granite",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "southern cross",
-            "group": "LOCATION",
-            "degree": 4
-        },
-        {
-            "id": "chromium",
+            "id": "gold",
             "group": "MINERAL",
-            "degree": 0
+            "degree": 13
         },
         {
-            "id": "mount jackson",
-            "group": "LOCATION",
-            "degree": 0
+            "id": "iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 21
         },
         {
-            "id": "comet vale",
-            "group": "LOCATION",
-            "degree": 1
+            "id": "nickel sulphide",
+            "group": "MINERAL",
+            "degree": 10
         },
         {
             "id": "goethite",
             "group": "MINERAL",
-            "degree": 1
+            "degree": 3
         },
         {
             "id": "hematite",
             "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "ultramafic rocks",
+            "group": "ROCK",
+            "degree": 6
+        },
+        {
+            "id": "ultramafic sequence",
+            "group": "ROCK",
+            "degree": 14
+        },
+        {
+            "id": "southwest",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "kalgoorlie",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "southern cross",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "granites",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "australia",
+            "group": "LOCATION",
             "degree": 1
+        },
+        {
+            "id": "nickel sulphides",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "lode deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 3
+        },
+        {
+            "id": "host rocks",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "basaltic rocks",
+            "group": "ROCK",
+            "degree": 2
         },
         {
             "id": "porphyry",
@@ -231,18 +171,168 @@
             "degree": 1
         },
         {
+            "id": "iron ore deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 5
+        },
+        {
+            "id": "jackson",
+            "group": "LOCATION",
+            "degree": 5
+        },
+        {
+            "id": "marda complex",
+            "group": "STRAT",
+            "degree": 6
+        },
+        {
+            "id": "ultramafic sequences",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "nickel sulphide deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 1
+        },
+        {
             "id": "olivine",
             "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "zinc",
+            "group": "MINERAL",
+            "degree": 6
+        },
+        {
+            "id": "vhms",
+            "group": "ORE_DEPOSIT",
+            "degree": 4
+        },
+        {
+            "id": "sulphide",
+            "group": "MINERAL",
+            "degree": 4
+        },
+        {
+            "id": "mount jackson",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "windarling",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "manganese",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
             "degree": 1
+        },
+        {
+            "id": "greenstone belts",
+            "group": "STRAT",
+            "degree": 3
+        },
+        {
+            "id": "southern cross province",
+            "group": "LOCATION",
+            "degree": 7
         },
         {
             "id": "yilgarn craton",
             "group": "LOCATION",
-            "degree": 0
+            "degree": 3
+        },
+        {
+            "id": "granitoids",
+            "group": "ROCK",
+            "degree": 6
+        },
+        {
+            "id": "igneous rocks",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "bifs",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "greenschist",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "amphibolite",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "metasedimentary sequence",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "sulphur",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "chromium",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "basalt",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "greenstone",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "banded iron formations",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "sedimentary sequences",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "goldfields",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "gold deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 2
+        },
+        {
+            "id": "homestead",
+            "group": "LOCATION",
+            "degree": 1
         },
         {
             "id": "finucane",
             "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "jaspilite",
+            "group": "ROCK",
             "degree": 1
         },
         {
@@ -251,402 +341,851 @@
             "degree": 1
         },
         {
-            "id": "windimurra",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "dolerite",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "lag",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "colluvium",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
             "id": "archean",
             "group": "TIMESCALE",
-            "degree": 1
+            "degree": 6
         }
     ],
     "links": [
         {
-            "source": "laterite",
+            "source": "banded iron formation",
+            "target": "chert",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "marda complex",
+            "label": "in"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "regolith",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "iron ore deposits",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "iron ore",
+            "label": "derived,hosted,"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "sedimentary rocks",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "nickel",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "goethite",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
             "target": "bedrock",
-            "label": [
-                "and partially ferrugunised"
-            ]
+            "label": ""
         },
         {
-            "source": "gold",
-            "target": "nickel",
-            "label": [
-                "for"
-            ]
+            "source": "banded iron formation",
+            "target": "hematite",
+            "label": ""
         },
         {
-            "source": "gold",
-            "target": "host rock",
-            "label": [
-                "in"
-            ]
+            "source": "banded iron formation",
+            "target": "jackson",
+            "label": ""
         },
         {
-            "source": "gold",
-            "target": "copper",
-            "label": [
-                "in"
-            ]
+            "source": "chert",
+            "target": "bifs",
+            "label": ""
         },
         {
-            "source": "gold",
-            "target": "olivine",
-            "label": []
+            "source": "chert",
+            "target": "greenstone belt",
+            "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "finucane",
-            "label": [
-                "ltd"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "nickel",
-            "label": [
-                "for"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "iron",
-            "label": [
-                "to"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "coolgardie",
-            "label": [
-                "to"
-            ]
-        },
-        {
-            "source": "iron ore",
+            "source": "mafic volcanics",
             "target": "banded iron formation",
-            "label": [
-                "of"
-            ]
+            "label": ""
+        },
+        {
+            "source": "greenstone belt",
+            "target": "dolerite dykes",
+            "label": "cut by,"
         },
         {
             "source": "greenstone belt",
             "target": "regolith",
-            "label": [
-                "6 2.2"
-            ]
+            "label": "setting"
         },
         {
             "source": "greenstone belt",
-            "target": "dolerite",
-            "label": [
-                "is cut by"
-            ]
+            "target": "ultramafic rocks",
+            "label": "of,"
         },
         {
             "source": "greenstone belt",
             "target": "coolgardie",
-            "label": [
-                "within"
-            ]
+            "label": "within"
+        },
+        {
+            "source": "greenstone belt",
+            "target": "nickel sulphide",
+            "label": "on,"
+        },
+        {
+            "source": "greenstone belt",
+            "target": "jackson",
+            "label": "extending from"
+        },
+        {
+            "source": "greenstone belt",
+            "target": "greenstone belts",
+            "label": "of"
+        },
+        {
+            "source": "greenstone belt",
+            "target": "granitoids",
+            "label": "enclosing"
+        },
+        {
+            "source": "greenstone belt",
+            "target": "metasedimentary sequence",
+            "label": ""
+        },
+        {
+            "source": "greenstone belt",
+            "target": "marda complex",
+            "label": ""
+        },
+        {
+            "source": "greenstone belt",
+            "target": "sedimentary rocks",
+            "label": ""
+        },
+        {
+            "source": "greenstone belt",
+            "target": "laterite",
+            "label": ""
+        },
+        {
+            "source": "greenstone belt",
+            "target": "gold",
+            "label": ""
         },
         {
             "source": "greenstone belt",
             "target": "nickel",
-            "label": [
-                "on"
-            ]
+            "label": ""
         },
         {
             "source": "greenstone belt",
-            "target": "jackson",
-            "label": [
-                "extending from"
-            ]
+            "target": "goldfields",
+            "label": ""
         },
         {
             "source": "greenstone belt",
-            "target": "southern cross",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "greenstone belt",
-            "target": "granitoid",
-            "label": [
-                "enclosing"
-            ]
-        },
-        {
-            "source": "greenstone belt",
-            "target": "marda complex",
-            "label": []
-        },
-        {
-            "source": "greenstone belt",
-            "target": "colluvium",
-            "label": []
-        },
-        {
-            "source": "greenstone belt",
-            "target": "alluvium",
-            "label": []
-        },
-        {
-            "source": "greenstone belt",
-            "target": "sand",
-            "label": []
-        },
-        {
-            "source": "basaltic",
-            "target": "porphyry",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "regolith",
-            "target": "laterite",
-            "label": []
-        },
-        {
-            "source": "regolith",
-            "target": "homestead",
-            "label": []
-        },
-        {
-            "source": "koolyanobbing",
-            "target": "iron ore",
-            "label": [
-                "type"
-            ]
-        },
-        {
-            "source": "koolyanobbing",
-            "target": "jackson",
-            "label": [
-                "have been outlined at"
-            ]
-        },
-        {
-            "source": "koolyanobbing",
-            "target": "windarling",
-            "label": [
-                "have been outlined at"
-            ]
-        },
-        {
-            "source": "koolyanobbing",
-            "target": "marda complex",
-            "label": []
-        },
-        {
-            "source": "nickel",
-            "target": "laterite",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "nickel",
-            "target": "greenstone belt",
-            "label": []
-        },
-        {
-            "source": "jackson",
-            "target": "marda complex",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron ore deposit",
-            "target": "jackson",
-            "label": [
-                "have been outlined at"
-            ]
-        },
-        {
-            "source": "iron ore deposit",
-            "target": "windarling",
-            "label": [
-                "have been outlined at"
-            ]
-        },
-        {
-            "source": "iron ore deposit",
             "target": "banded iron formation",
-            "label": [
-                "within"
-            ]
+            "label": ""
         },
         {
-            "source": "jaspilite",
-            "target": "iron ore deposit",
-            "label": [
-                "hills"
-            ]
+            "source": "greenstone belt",
+            "target": "archean",
+            "label": ""
         },
         {
-            "source": "copper",
-            "target": "gold",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "copper",
-            "target": "marda complex",
-            "label": [
-                "bore prospect in the northern"
-            ]
-        },
-        {
-            "source": "zinc",
-            "target": "copper",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "amphibolite",
-            "target": "actinolite",
-            "label": [
-                "facies metamorphism (chlorite and"
-            ]
-        },
-        {
-            "source": "host rock",
-            "target": "greenstone belt",
-            "label": []
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "southern cross",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "marda complex",
-            "target": "koolyanobbing",
-            "label": []
-        },
-        {
-            "source": "windarling",
-            "target": "marda complex",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "marda complex",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "iron ore",
-            "label": []
-        },
-        {
-            "source": "alluvium",
-            "target": "sand",
-            "label": [
-                "and aeolian"
-            ]
-        },
-        {
-            "source": "sand",
-            "target": "laterite",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "sand",
-            "target": "granitoid",
-            "label": [
-                "overlies"
-            ]
-        },
-        {
-            "source": "granitoid",
-            "target": "greenstone belt",
-            "label": []
-        },
-        {
-            "source": "igneous rock",
-            "target": "sedimentary rock",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "granite",
-            "target": "coolgardie",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "southern cross",
-            "target": "koolyanobbing",
-            "label": [
-                "to"
-            ]
-        },
-        {
-            "source": "southern cross",
-            "target": "gneiss",
-            "label": []
-        },
-        {
-            "source": "comet vale",
-            "target": "host rock",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "goethite",
-            "target": "hematite",
-            "label": [
-                ""
-            ]
+            "source": "sedimentary rocks",
+            "target": "igneous rocks",
+            "label": ""
         },
         {
             "source": "colluvium",
             "target": "laterite",
-            "label": [
-                "of"
-            ]
+            "label": "of"
+        },
+        {
+            "source": "colluvium",
+            "target": "aeolian sand",
+            "label": ""
+        },
+        {
+            "source": "colluvium",
+            "target": "alluvium",
+            "label": ""
+        },
+        {
+            "source": "laterite",
+            "target": "bedrock",
+            "label": "ferrugunised"
+        },
+        {
+            "source": "laterite",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "laterite",
+            "target": "colluvium",
+            "label": ""
+        },
+        {
+            "source": "laterite",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "alluvium",
+            "target": "laterite",
+            "label": "of"
+        },
+        {
+            "source": "alluvium",
+            "target": "bedrock",
+            "label": ""
+        },
+        {
+            "source": "aeolian sand",
+            "target": "laterite",
+            "label": "of"
+        },
+        {
+            "source": "aeolian sand",
+            "target": "granitoids",
+            "label": ""
+        },
+        {
+            "source": "bedrock",
+            "target": "granitoids",
+            "label": ""
+        },
+        {
+            "source": "nickel",
+            "target": "western australia",
+            "label": "districts"
+        },
+        {
+            "source": "nickel",
+            "target": "ultramafic sequence",
+            "label": "along,in,"
+        },
+        {
+            "source": "nickel",
+            "target": "ultramafic sequences",
+            "label": "in"
+        },
+        {
+            "source": "nickel",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "nickel",
+            "target": "laterite",
+            "label": ""
+        },
+        {
+            "source": "nickel",
+            "target": "basaltic rocks",
+            "label": ""
+        },
+        {
+            "source": "nickel",
+            "target": "ultramafic rocks",
+            "label": ""
+        },
+        {
+            "source": "nickel",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "nickel",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "perth",
+            "label": "of,"
+        },
+        {
+            "source": "western australia",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "copper",
+            "target": "western australia",
+            "label": "districts"
+        },
+        {
+            "source": "copper",
+            "target": "ultramafic sequence",
+            "label": "along,"
+        },
+        {
+            "source": "copper",
+            "target": "vhms",
+            "label": "stratabound,"
+        },
+        {
+            "source": "copper",
+            "target": "zinc",
+            "label": "stratabound"
+        },
+        {
+            "source": "copper",
+            "target": "sulphide",
+            "label": "stratabound"
+        },
+        {
+            "source": "copper",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "western australia",
+            "label": "districts"
+        },
+        {
+            "source": "iron",
+            "target": "copper",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "banded iron formation",
+            "label": "of,"
+        },
+        {
+            "source": "coolgardie",
+            "target": "western australia",
+            "label": "districts"
+        },
+        {
+            "source": "coolgardie",
+            "target": "nickel",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "granites",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "regolith",
+            "target": "bedrock",
+            "label": "of underlying,"
+        },
+        {
+            "source": "regolith",
+            "target": "ultramafic sequence",
+            "label": "over,"
+        },
+        {
+            "source": "regolith",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "regolith",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "regolith",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "nickel",
+            "label": "for,"
+        },
+        {
+            "source": "gold",
+            "target": "lode deposits",
+            "label": "controlled,"
+        },
+        {
+            "source": "gold",
+            "target": "vhms",
+            "label": "stratabound"
+        },
+        {
+            "source": "gold",
+            "target": "zinc",
+            "label": "stratabound,"
+        },
+        {
+            "source": "gold",
+            "target": "sulphide",
+            "label": "stratabound"
+        },
+        {
+            "source": "gold",
+            "target": "nickel sulphide",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "regolith",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "nickel",
+            "label": "for"
+        },
+        {
+            "source": "iron ore",
+            "target": "nickel sulphide",
+            "label": "for,"
+        },
+        {
+            "source": "iron ore",
+            "target": "laterite",
+            "label": "for"
+        },
+        {
+            "source": "iron ore",
+            "target": "banded iron formation",
+            "label": "of,"
+        },
+        {
+            "source": "iron ore",
+            "target": "mount jackson",
+            "label": "at"
+        },
+        {
+            "source": "iron ore",
+            "target": "windarling",
+            "label": "at"
+        },
+        {
+            "source": "iron ore",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "ultramafic rocks",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "ultramafic sequence",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "marda complex",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "finucane",
+            "label": ""
+        },
+        {
+            "source": "nickel sulphide",
+            "target": "ultramafic sequence",
+            "label": "of,"
+        },
+        {
+            "source": "nickel sulphide",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "nickel sulphide",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "nickel sulphide",
+            "target": "banded iron formations",
+            "label": ""
+        },
+        {
+            "source": "nickel sulphide",
+            "target": "ultramafic sequences",
+            "label": ""
+        },
+        {
+            "source": "nickel sulphide",
+            "target": "nickel",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "sulphur",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "banded iron formation",
+            "label": "of"
+        },
+        {
+            "source": "hematite",
+            "target": "banded iron formation",
+            "label": "of,"
+        },
+        {
+            "source": "ultramafic rocks",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "ultramafic rocks",
+            "target": "olivine",
+            "label": ""
+        },
+        {
+            "source": "ultramafic sequence",
+            "target": "nickel sulphide",
+            "label": "for,"
+        },
+        {
+            "source": "ultramafic sequence",
+            "target": "southwest",
+            "label": "located,"
+        },
+        {
+            "source": "ultramafic sequence",
+            "target": "regolith",
+            "label": "under,"
+        },
+        {
+            "source": "ultramafic sequence",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "ultramafic sequence",
+            "target": "zinc",
+            "label": ""
+        },
+        {
+            "source": "ultramafic sequence",
+            "target": "basalt",
+            "label": ""
+        },
+        {
+            "source": "ultramafic sequence",
+            "target": "nickel",
+            "label": ""
+        },
+        {
+            "source": "ultramafic sequence",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "southwest",
+            "target": "ultramafic sequence",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "southern cross",
+            "label": "of,"
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "southern cross",
+            "target": "australia",
+            "label": "to koolyanobbing,"
+        },
+        {
+            "source": "granites",
+            "target": "coolgardie",
+            "label": "within"
+        },
+        {
+            "source": "granites",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "nickel sulphides",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "lode deposits",
+            "target": "host rocks",
+            "label": "in"
+        },
+        {
+            "source": "lode deposits",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "host rocks",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "basaltic rocks",
+            "target": "porphyry",
+            "label": "within,"
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "jackson",
+            "label": "outlined at"
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "mount jackson",
+            "label": ""
+        },
+        {
+            "source": "jackson",
+            "target": "marda complex",
+            "label": "windarling in,"
+        },
+        {
+            "source": "jackson",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "marda complex",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "marda complex",
+            "target": "windarling",
+            "label": ""
+        },
+        {
+            "source": "ultramafic sequences",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "ultramafic sequences",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "nickel sulphide deposits",
+            "target": "ultramafic sequences",
+            "label": "in,"
+        },
+        {
+            "source": "olivine",
+            "target": "ultramafic rocks",
+            "label": "enriched"
+        },
+        {
+            "source": "zinc",
+            "target": "vhms",
+            "label": "stratabound"
+        },
+        {
+            "source": "zinc",
+            "target": "sulphide",
+            "label": "stratabound,"
+        },
+        {
+            "source": "zinc",
+            "target": "chromium",
+            "label": ""
+        },
+        {
+            "source": "vhms",
+            "target": "sedimentary sequences",
+            "label": ""
+        },
+        {
+            "source": "sulphide",
+            "target": "copper",
+            "label": ""
+        },
+        {
+            "source": "mount jackson",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "greenstone belts",
+            "target": "southern cross province",
+            "label": "within"
+        },
+        {
+            "source": "southern cross province",
+            "target": "yilgarn craton",
+            "label": "of"
+        },
+        {
+            "source": "southern cross province",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "southern cross province",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "southern cross province",
+            "target": "granitoids",
+            "label": ""
+        },
+        {
+            "source": "southern cross province",
+            "target": "archean",
+            "label": "of"
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "greenstone belts",
+            "label": ""
+        },
+        {
+            "source": "granitoids",
+            "target": "laterite",
+            "label": ""
+        },
+        {
+            "source": "granitoids",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "igneous rocks",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "bifs",
+            "target": "regolith",
+            "label": ""
+        },
+        {
+            "source": "greenschist",
+            "target": "amphibolite",
+            "label": ""
+        },
+        {
+            "source": "sulphur",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "chromium",
+            "target": "nickel",
+            "label": ""
+        },
+        {
+            "source": "basalt",
+            "target": "nickel",
+            "label": ""
+        },
+        {
+            "source": "greenstone",
+            "target": "laterite",
+            "label": ""
+        },
+        {
+            "source": "banded iron formations",
+            "target": "regolith",
+            "label": ""
+        },
+        {
+            "source": "sedimentary sequences",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "goldfields",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "gold deposits",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "gold deposits",
+            "target": "homestead",
+            "label": ""
+        },
+        {
+            "source": "jaspilite",
+            "target": "iron ore deposits",
+            "label": ""
+        },
+        {
+            "source": "gneiss",
+            "target": "archean",
+            "label": ""
         },
         {
             "source": "archean",
-            "target": "granitoid",
-            "label": [
-                ""
-            ]
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "archean",
+            "target": "yilgarn craton",
+            "label": ""
+        },
+        {
+            "source": "archean",
+            "target": "southern cross province",
+            "label": ""
         }
     ]
 }

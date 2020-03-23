@@ -1,143 +1,358 @@
 {
     "nodes": [
         {
-            "id": "sediment",
+            "id": "iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 35
+        },
+        {
+            "id": "brockman",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": 44
+        },
+        {
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": 22
+        },
+        {
+            "id": "ash",
             "group": "ROCK",
-            "degree": 16
+            "degree": 14
+        },
+        {
+            "id": "hamersley group",
+            "group": "STRAT",
+            "degree": 28
         },
         {
             "id": "paraburdoo",
             "group": "LOCATION",
+            "degree": 30
+        },
+        {
+            "id": "hamersley iron province",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "hematite",
+            "group": "MINERAL",
+            "degree": 8
+        },
+        {
+            "id": "microplaty hematite",
+            "group": "MINERAL",
+            "degree": 5
+        },
+        {
+            "id": "pebbles",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "mount mcgrath formation",
+            "group": "STRAT",
+            "degree": 5
+        },
+        {
+            "id": "hydrothermal",
+            "group": "MINERAL",
             "degree": 14
         },
         {
-            "id": "gravel",
-            "group": "ROCK",
+            "id": "capricorn orogen",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "hamersley",
+            "group": "LOCATION",
+            "degree": 27
+        },
+        {
+            "id": "paraburdoo mine",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "brockman iron formation",
+            "group": "STRAT",
+            "degree": 5
+        },
+        {
+            "id": "dales gorge members",
+            "group": "STRAT",
             "degree": 1
         },
         {
-            "id": "hamersley range",
+            "id": "hamersley basin",
+            "group": "LOCATION",
+            "degree": 11
+        },
+        {
+            "id": "proterozoic",
+            "group": "TIMESCALE",
+            "degree": 7
+        },
+        {
+            "id": "sediments",
+            "group": "ROCK",
+            "degree": 26
+        },
+        {
+            "id": "base metals",
+            "group": "ORE_DEPOSIT",
+            "degree": 14
+        },
+        {
+            "id": "chert",
+            "group": "ROCK",
+            "degree": 0
+        },
+        {
+            "id": "tertiary",
+            "group": "TIMESCALE",
+            "degree": 11
+        },
+        {
+            "id": "quaternary",
+            "group": "TIMESCALE",
+            "degree": 6
+        },
+        {
+            "id": "gossans",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "mt mcgrath formation",
+            "group": "STRAT",
+            "degree": 18
+        },
+        {
+            "id": "dolomite",
+            "group": "MINERAL",
+            "degree": 5
+        },
+        {
+            "id": "wittenoom dolomite",
+            "group": "STRAT",
+            "degree": 3
+        },
+        {
+            "id": "duck creek dolomite",
+            "group": "STRAT",
+            "degree": 8
+        },
+        {
+            "id": "homestead",
             "group": "LOCATION",
             "degree": 0
         },
         {
             "id": "regolith",
             "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "boulders",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "mt mcgrath formation",
-            "group": "STRAT",
-            "degree": 11
-        },
-        {
-            "id": "brockman iron formation",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "hamersley basin",
-            "group": "LOCATION",
-            "degree": 5
-        },
-        {
-            "id": "sedimentary rock",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "quartz",
-            "group": "MINERAL",
-            "degree": 3
-        },
-        {
-            "id": "gold",
-            "group": "MINERAL",
-            "degree": 19
-        },
-        {
-            "id": "hematite",
-            "group": "MINERAL",
-            "degree": 5
-        },
-        {
-            "id": "wyloo group",
-            "group": "STRAT",
-            "degree": 11
-        },
-        {
-            "id": "hamersley",
-            "group": "LOCATION",
             "degree": 9
         },
         {
-            "id": "iron",
+            "id": "carbonates",
             "group": "MINERAL",
-            "degree": 9
-        },
-        {
-            "id": "iron ore",
-            "group": "ORE_DEPOSIT",
-            "degree": 17
-        },
-        {
-            "id": "jackson",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "cullens",
-            "group": "STRAT",
-            "degree": 5
-        },
-        {
-            "id": "gold deposit",
-            "group": "ORE_DEPOSIT",
             "degree": 1
         },
         {
-            "id": "hydrothermal",
+            "id": "mud",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "siltstones",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "pyrite",
             "group": "MINERAL",
-            "degree": 5
+            "degree": 8
+        },
+        {
+            "id": "arsenopyrite",
+            "group": "MINERAL",
+            "degree": 4
         },
         {
             "id": "mercury",
             "group": "MINERAL",
-            "degree": 2
+            "degree": 7
         },
         {
-            "id": "base metal",
+            "id": "sulphides",
             "group": "MINERAL",
             "degree": 10
         },
         {
-            "id": "shale",
-            "group": "ROCK",
-            "degree": 1
+            "id": "tetrahedrite",
+            "group": "MINERAL",
+            "degree": 3
         },
         {
-            "id": "sand",
+            "id": "tennantite",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "chalcopyrite",
+            "group": "MINERAL",
+            "degree": 4
+        },
+        {
+            "id": "enargite",
+            "group": "MINERAL",
+            "degree": 4
+        },
+        {
+            "id": "schist",
             "group": "ROCK",
-            "degree": 2
+            "degree": 6
+        },
+        {
+            "id": "cainozoic",
+            "group": "TIMESCALE",
+            "degree": 4
+        },
+        {
+            "id": "wyloo group",
+            "group": "STRAT",
+            "degree": 17
         },
         {
             "id": "silt",
             "group": "ROCK",
-            "degree": 2
+            "degree": 7
         },
         {
-            "id": "wittenoom dolomite",
-            "group": "STRAT",
+            "id": "sand",
+            "group": "ROCK",
             "degree": 4
+        },
+        {
+            "id": "gravel",
+            "group": "ROCK",
+            "degree": 6
         },
         {
             "id": "calcrete",
             "group": "ROCK",
+            "degree": 8
+        },
+        {
+            "id": "cullens",
+            "group": "STRAT",
+            "degree": 14
+        },
+        {
+            "id": "sediment",
+            "group": "ROCK",
+            "degree": 15
+        },
+        {
+            "id": "alluvium",
+            "group": "ROCK",
+            "degree": 7
+        },
+        {
+            "id": "colluvium",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "lacustrine deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 2
+        },
+        {
+            "id": "calcretes",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": 8
+        },
+        {
+            "id": "cobbles",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "clay",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "gold deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 3
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "western australia",
+            "group": "LOCATION",
+            "degree": 18
+        },
+        {
+            "id": "genesis",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "hamersley province",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "fortescue group",
+            "group": "STRAT",
+            "degree": 4
+        },
+        {
+            "id": "pilbara craton",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "ashburton basin",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "paleoproterozoic",
+            "group": "TIMESCALE",
+            "degree": 3
+        },
+        {
+            "id": "ashburton province",
+            "group": "LOCATION",
+            "degree": 6
+        },
+        {
+            "id": "capricorn",
+            "group": "LOCATION",
+            "degree": 7
+        },
+        {
+            "id": "wyloo",
+            "group": "LOCATION",
             "degree": 5
         },
         {
@@ -146,104 +361,54 @@
             "degree": 0
         },
         {
-            "id": "brockman",
+            "id": "goldsworthy",
             "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "duck creek dolomite",
-            "group": "STRAT",
-            "degree": 7
-        },
-        {
-            "id": "fortescue group",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "lead",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "dales gorge member",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "siltstone",
-            "group": "ROCK",
-            "degree": 4
-        },
-        {
-            "id": "host rock",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "quaternary",
-            "group": "TIMESCALE",
             "degree": 5
         },
         {
-            "id": "tertiary",
-            "group": "TIMESCALE",
-            "degree": 6
-        },
-        {
-            "id": "iron deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": 3
-        },
-        {
-            "id": "dolomite",
-            "group": "MINERAL",
-            "degree": 3
-        },
-        {
-            "id": "proterozoic",
-            "group": "TIMESCALE",
-            "degree": 3
-        },
-        {
-            "id": "alluvium",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "american",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "colluvium",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "cainozoic",
-            "group": "TIMESCALE",
-            "degree": 2
-        },
-        {
-            "id": "mud",
-            "group": "ROCK",
-            "degree": 1
+            "id": "nullagine",
+            "group": "LOCATION",
+            "degree": 5
         },
         {
             "id": "snow",
             "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "jackson",
+            "group": "LOCATION",
             "degree": 2
         },
         {
-            "id": "clay",
+            "id": "host rocks",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "dolomites",
+            "group": "MINERAL",
+            "degree": 7
+        },
+        {
+            "id": "cherts",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "silcrete",
             "group": "ROCK",
             "degree": 1
         },
         {
-            "id": "carbonate",
+            "id": "quartz",
             "group": "MINERAL",
-            "degree": 3
+            "degree": 6
+        },
+        {
+            "id": "sulphide",
+            "group": "MINERAL",
+            "degree": 5
         },
         {
             "id": "iron formation",
@@ -251,28 +416,53 @@
             "degree": 2
         },
         {
-            "id": "hamersley province",
-            "group": "LOCATION",
-            "degree": 1
+            "id": "gold deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 2
         },
         {
             "id": "sericite",
             "group": "MINERAL",
-            "degree": 2
-        },
-        {
-            "id": "schist",
-            "group": "ROCK",
             "degree": 5
         },
         {
-            "id": "hamersley group",
-            "group": "STRAT",
-            "degree": 17
+            "id": "oxide",
+            "group": "MINERAL",
+            "degree": 2
         },
         {
-            "id": "silver",
+            "id": "channar mine",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "martite",
             "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "iron deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 2
+        },
+        {
+            "id": "wyloo groups",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "irons",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "iron formations",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "iron ore deposits",
+            "group": "ORE_DEPOSIT",
             "degree": 1
         },
         {
@@ -281,143 +471,148 @@
             "degree": 1
         },
         {
-            "id": "long",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "marra mamba iron formation",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "lag",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "silcrete",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "mount mcgrath formation",
-            "group": "STRAT",
-            "degree": 4
-        },
-        {
-            "id": "ironstone",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "metal",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "capricorn",
-            "group": "LOCATION",
-            "degree": 4
-        },
-        {
-            "id": "pyrite",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "goldsworthy",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "chert",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "iron ore deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": 0
-        },
-        {
-            "id": "homestead",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "gamma",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "pebbles",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "basalt",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "goethite",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "pilbara craton",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "gossan",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "lacustrine deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": 1
-        },
-        {
-            "id": "freshwater",
+            "id": "carbonate",
             "group": "MINERAL",
             "degree": 1
         },
         {
             "id": "cheela springs basalt",
             "group": "STRAT",
-            "degree": 3
+            "degree": 4
         },
         {
-            "id": "cobbles",
+            "id": "ironstones",
             "group": "ROCK",
             "degree": 2
         },
         {
-            "id": "gold mineral",
-            "group": "MINERAL",
-            "degree": 3
+            "id": "wyloo group mt mcgrath formation",
+            "group": "STRAT",
+            "degree": 2
         },
         {
-            "id": "paleoproterozoic",
-            "group": "TIMESCALE",
+            "id": "hamersley groups",
+            "group": "STRAT",
             "degree": 1
+        },
+        {
+            "id": "sedimentary rocks",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "base metal",
+            "group": "ORE_DEPOSIT",
+            "degree": 7
+        },
+        {
+            "id": "leads",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "sandstones",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "shales",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "mt mcgrath formations",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "basalt",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "ankerite",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "haematite",
+            "group": "MINERAL",
+            "degree": 2
         },
         {
             "id": "chlorite",
             "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "pilbara",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "australia",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "wyloo groups mt mcgrath formation",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "wyloo dome",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "uranium",
+            "group": "ORE_DEPOSIT",
+            "degree": 1
+        },
+        {
+            "id": "silver",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "shale",
+            "group": "ROCK",
             "degree": 2
         },
         {
             "id": "breccia",
             "group": "ROCK",
-            "degree": 0
+            "degree": 2
         },
         {
-            "id": "enargite",
-            "group": "MINERAL",
+            "id": "felsic tuffs",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "wyloo group duck creek dolomite",
+            "group": "STRAT",
+            "degree": 1
+        },
+        {
+            "id": "lags",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "hamersley group, lower",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "wittenoom formation",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "shingle creek group",
+            "group": "STRAT",
             "degree": 1
         },
         {
@@ -434,997 +629,1803 @@
             "id": "hamersley group, upper",
             "group": "STRAT",
             "degree": 2
-        },
-        {
-            "id": "wittenoom formation",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "shingle creek group",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "hamersley group, lower",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "banded iron formation",
-            "group": "ROCK",
-            "degree": 1
         }
     ],
     "links": [
         {
-            "source": "sediment",
-            "target": "gold",
-            "label": [
-                "hosted"
-            ]
-        },
-        {
-            "source": "sediment",
-            "target": "lag",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "sediment",
-            "target": "hamersley group",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "sediment",
-            "target": "hydrothermal",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "sediment",
-            "target": "cullens",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "sediment",
-            "target": "mt mcgrath formation",
-            "label": []
-        },
-        {
-            "source": "paraburdoo",
-            "target": "newman",
-            "label": [
-                "mt"
-            ]
-        },
-        {
-            "source": "paraburdoo",
-            "target": "iron ore",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "paraburdoo",
-            "target": "gold",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "paraburdoo",
-            "target": "hamersley",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "paraburdoo",
-            "target": "sediment",
-            "label": [
-                "is"
-            ]
-        },
-        {
-            "source": "regolith",
-            "target": "sediment",
-            "label": [
-                "stream"
-            ]
-        },
-        {
-            "source": "mt mcgrath formation",
-            "target": "sediment",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "mt mcgrath formation",
-            "target": "wyloo group",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "mt mcgrath formation",
-            "target": "ironstone",
-            "label": [
-                "sandstones"
-            ]
-        },
-        {
-            "source": "brockman iron formation",
-            "target": "dales gorge member",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "hamersley basin",
-            "target": "paraburdoo",
-            "label": []
-        },
-        {
-            "source": "sedimentary rock",
-            "target": "mt mcgrath formation",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "quartz",
-            "target": "sedimentary rock",
-            "label": [
-                "felspathic"
-            ]
-        },
-        {
-            "source": "quartz",
-            "target": "chlorite",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "gold",
-            "target": "iron ore",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "gold",
-            "target": "base metal",
-            "label": [
-                "and"
-            ]
-        },
-        {
-            "source": "gold",
-            "target": "iron",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "gold",
-            "target": "metal",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "gold",
-            "target": "hamersley",
-            "label": [
-                "extended over"
-            ]
-        },
-        {
-            "source": "gold",
-            "target": "paraburdoo",
-            "label": [
-                "as"
-            ]
-        },
-        {
-            "source": "gold",
-            "target": "pyrite",
-            "label": [
-                "bound in"
-            ]
-        },
-        {
-            "source": "gold",
-            "target": "capricorn",
-            "label": [
-                "related to"
-            ]
-        },
-        {
-            "source": "gold",
-            "target": "jackson",
-            "label": [
-                "is summarised by"
-            ]
-        },
-        {
-            "source": "gold",
-            "target": "regolith",
-            "label": [
-                "were"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "pebbles",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "mount mcgrath formation",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "hamersley province",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "banded iron formation",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "wyloo group",
-            "target": "sediment",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "wyloo group",
-            "target": "duck creek dolomite",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "wyloo group",
-            "target": "mt mcgrath formation",
-            "label": [
-                "will be"
-            ]
-        },
-        {
-            "source": "wyloo group",
-            "target": "paraburdoo",
-            "label": []
-        },
-        {
-            "source": "wyloo group",
-            "target": "mount mcgrath formation",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "hamersley",
-            "target": "iron",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "hamersley",
-            "target": "wyloo group",
-            "label": [
-                "and"
-            ]
-        },
-        {
-            "source": "hamersley",
-            "target": "iron deposit",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "hamersley",
-            "target": "iron formation",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "mud",
-            "label": [
-                "rich"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "paraburdoo",
-            "label": [
-                "1992 1996"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "iron ore",
-            "label": [
-                "for"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "hamersley basin",
-            "label": []
-        },
-        {
-            "source": "iron",
-            "target": "hamersley group",
-            "label": []
-        },
-        {
-            "source": "iron ore",
-            "target": "goldsworthy",
-            "label": [
-                "projects"
-            ]
-        },
-        {
             "source": "iron ore",
             "target": "brockman",
-            "label": [
-                "in"
-            ]
+            "label": "in,"
         },
         {
             "source": "iron ore",
-            "target": "paraburdoo",
-            "label": [
-                "of"
-            ]
+            "target": "paraburdoo mine",
+            "label": "in"
         },
         {
             "source": "iron ore",
-            "target": "base metal",
-            "label": [
-                "In"
-            ]
+            "target": "base metals",
+            "label": "for,in,"
         },
         {
             "source": "iron ore",
             "target": "tertiary",
-            "label": [
-                "in"
-            ]
+            "label": "in"
+        },
+        {
+            "source": "iron ore",
+            "target": "quaternary",
+            "label": "in,"
+        },
+        {
+            "source": "iron ore",
+            "target": "sediments",
+            "label": "(regolith and sediment),"
+        },
+        {
+            "source": "iron ore",
+            "target": "paraburdoo",
+            "label": "of,in,"
         },
         {
             "source": "iron ore",
             "target": "cullens",
-            "label": [
-                "within"
-            ]
+            "label": "within,"
         },
         {
             "source": "iron ore",
-            "target": "regolith",
-            "label": []
-        },
-        {
-            "source": "iron ore",
-            "target": "snow",
-            "label": []
+            "target": "ash",
+            "label": "on"
         },
         {
             "source": "iron ore",
             "target": "gold",
-            "label": []
+            "label": "within,"
         },
         {
             "source": "iron ore",
-            "target": "sediment",
-            "label": []
-        },
-        {
-            "source": "jackson",
-            "target": "gold",
-            "label": [
-                "as"
-            ]
-        },
-        {
-            "source": "cullens",
-            "target": "gold",
-            "label": [
-                "ashburton"
-            ]
-        },
-        {
-            "source": "cullens",
-            "target": "iron ore",
-            "label": [
-                "for"
-            ]
-        },
-        {
-            "source": "gold deposit",
-            "target": "sediment",
-            "label": []
-        },
-        {
-            "source": "hydrothermal",
-            "target": "wyloo group",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "hydrothermal",
-            "target": "duck creek dolomite",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "hydrothermal",
-            "target": "hamersley",
-            "label": [
-                "over"
-            ]
-        },
-        {
-            "source": "mercury",
-            "target": "schist",
-            "label": [
-                "overprints"
-            ]
-        },
-        {
-            "source": "base metal",
-            "target": "silver",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "base metal",
-            "target": "gold",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "base metal",
-            "target": "iron ore",
-            "label": [
-                "were"
-            ]
-        },
-        {
-            "source": "base metal",
-            "target": "gossan",
-            "label": [
-                "from"
-            ]
-        },
-        {
-            "source": "base metal",
-            "target": "hamersley",
-            "label": [
-                "were"
-            ]
-        },
-        {
-            "source": "base metal",
             "target": "goldsworthy",
-            "label": [
-                "were"
-            ]
+            "label": "in,"
         },
         {
-            "source": "base metal",
+            "source": "iron ore",
+            "target": "nullagine",
+            "label": "in"
+        },
+        {
+            "source": "iron ore",
             "target": "snow",
-            "label": [
-                "were"
-            ]
+            "label": "in,"
         },
         {
-            "source": "sand",
-            "target": "gravel",
-            "label": [
-                ""
-            ]
+            "source": "iron ore",
+            "target": "hamersley",
+            "label": "in,"
         },
         {
-            "source": "silt",
-            "target": "sand",
-            "label": [
-                ""
-            ]
+            "source": "iron ore",
+            "target": "iron",
+            "label": "in,"
         },
         {
-            "source": "wittenoom dolomite",
-            "target": "duck creek dolomite",
-            "label": []
+            "source": "iron ore",
+            "target": "hamersley group",
+            "label": ""
         },
         {
-            "source": "wittenoom dolomite",
-            "target": "hydrothermal",
-            "label": []
+            "source": "iron ore",
+            "target": "base metal",
+            "label": ""
         },
         {
-            "source": "wittenoom dolomite",
-            "target": "iron ore",
-            "label": []
+            "source": "iron ore",
+            "target": "western australia",
+            "label": ""
         },
         {
-            "source": "calcrete",
-            "target": "quaternary",
-            "label": [
-                "with"
-            ]
+            "source": "iron ore",
+            "target": "channar mine",
+            "label": ""
         },
         {
             "source": "brockman",
             "target": "iron",
-            "label": [
-                ""
-            ]
+            "label": ""
         },
         {
-            "source": "duck creek dolomite",
-            "target": "sediment",
-            "label": [
-                ""
-            ]
+            "source": "brockman",
+            "target": "iron ore",
+            "label": ""
         },
         {
-            "source": "duck creek dolomite",
-            "target": "wyloo group",
-            "label": [
-                ""
-            ]
+            "source": "gold",
+            "target": "iron",
+            "label": "tr,of weathered,"
         },
         {
-            "source": "duck creek dolomite",
+            "source": "gold",
+            "target": "ash",
+            "label": "tr"
+        },
+        {
+            "source": "gold",
             "target": "hamersley",
-            "label": [
-                "with"
-            ]
+            "label": "extended over,"
         },
         {
-            "source": "lead",
-            "target": "base metal",
-            "label": []
-        },
-        {
-            "source": "siltstone",
-            "target": "mt mcgrath formation",
-            "label": [
-                "("
-            ]
-        },
-        {
-            "source": "siltstone",
-            "target": "chert",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "host rock",
-            "target": "siltstone",
-            "label": [
-                "are"
-            ]
-        },
-        {
-            "source": "host rock",
-            "target": "dolomite",
-            "label": [
-                "are"
-            ]
-        },
-        {
-            "source": "quaternary",
-            "target": "alluvium",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "quaternary",
-            "target": "hamersley basin",
-            "label": [
-                "into"
-            ]
-        },
-        {
-            "source": "tertiary",
-            "target": "quaternary",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "tertiary",
-            "target": "sediment",
-            "label": [
-                "detrital"
-            ]
-        },
-        {
-            "source": "tertiary",
-            "target": "calcrete",
-            "label": [
-                "deposits czk"
-            ]
-        },
-        {
-            "source": "tertiary",
-            "target": "silcrete",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "iron deposit",
-            "target": "hamersley basin",
-            "label": []
-        },
-        {
-            "source": "iron deposit",
+            "source": "gold",
             "target": "paraburdoo",
-            "label": []
+            "label": "in,of,along,with,remaining beneath,"
         },
         {
-            "source": "dolomite",
-            "target": "tertiary",
-            "label": [
-                "covered by"
-            ]
+            "source": "gold",
+            "target": "carbonates",
+            "label": "of weathered,"
         },
         {
-            "source": "proterozoic",
-            "target": "wyloo group",
-            "label": [
-                "(c. 1840 ma, the age of the"
-            ]
+            "source": "gold",
+            "target": "mud",
+            "label": "of weathered"
         },
         {
-            "source": "proterozoic",
+            "source": "gold",
+            "target": "siltstones",
+            "label": "of weathered,"
+        },
+        {
+            "source": "gold",
+            "target": "pyrite",
+            "label": "bound in"
+        },
+        {
+            "source": "gold",
+            "target": "iron ore",
+            "label": "of,on,"
+        },
+        {
+            "source": "gold",
+            "target": "perth",
+            "label": "of,"
+        },
+        {
+            "source": "gold",
+            "target": "western australia",
+            "label": "of,in"
+        },
+        {
+            "source": "gold",
+            "target": "paleoproterozoic",
+            "label": "in"
+        },
+        {
+            "source": "gold",
+            "target": "ashburton province",
+            "label": "in"
+        },
+        {
+            "source": "gold",
+            "target": "capricorn",
+            "label": "related to,"
+        },
+        {
+            "source": "gold",
+            "target": "jackson",
+            "label": "summarised by"
+        },
+        {
+            "source": "gold",
+            "target": "base metals",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "enargite",
+            "label": ""
+        },
+        {
+            "source": "gold",
             "target": "sediment",
-            "label": [
-                ""
-            ]
+            "label": ""
         },
         {
-            "source": "alluvium",
-            "target": "calcrete",
-            "label": [
-                "including"
-            ]
-        },
-        {
-            "source": "colluvium",
-            "target": "quaternary",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "colluvium",
-            "target": "calcrete",
-            "label": [
-                "including"
-            ]
-        },
-        {
-            "source": "cainozoic",
-            "target": "colluvium",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "cainozoic",
+            "source": "gold",
             "target": "wyloo group",
-            "label": [
-                "cover"
-            ]
+            "label": ""
         },
         {
-            "source": "carbonate",
-            "target": "duck creek dolomite",
-            "label": [
-                "units ("
-            ]
+            "source": "gold",
+            "target": "snow",
+            "label": ""
         },
         {
-            "source": "carbonate",
+            "source": "gold",
+            "target": "sulphide",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "wyloo group duck creek dolomite",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "ash",
+            "label": "tr"
+        },
+        {
+            "source": "iron",
+            "target": "hamersley group",
+            "label": "of"
+        },
+        {
+            "source": "iron",
+            "target": "iron ore",
+            "label": "of,for"
+        },
+        {
+            "source": "iron",
             "target": "gold",
-            "label": []
+            "label": ""
         },
         {
-            "source": "sericite",
-            "target": "schist",
-            "label": [
-                "quartzkaolinitegraphitesiderite alteration assemblage overprints the sub green"
-            ]
+            "source": "iron",
+            "target": "paraburdoo",
+            "label": ""
         },
         {
-            "source": "schist",
-            "target": "mt mcgrath formation",
-            "label": [
-                "on"
-            ]
+            "source": "iron",
+            "target": "capricorn orogen",
+            "label": ""
         },
         {
-            "source": "schist",
-            "target": "cheela springs basalt",
-            "label": [
-                "on"
-            ]
+            "source": "iron",
+            "target": "hamersley",
+            "label": ""
         },
         {
-            "source": "schist",
-            "target": "quartz",
-            "label": [
-                "of"
-            ]
+            "source": "iron",
+            "target": "nullagine",
+            "label": ""
         },
         {
-            "source": "hamersley group",
-            "target": "iron formation",
-            "label": [
-                "banded"
-            ]
+            "source": "iron",
+            "target": "hamersley basin",
+            "label": ""
         },
         {
-            "source": "hamersley group",
-            "target": "ironstone",
-            "label": [
-                ""
-            ]
+            "source": "iron",
+            "target": "sediments",
+            "label": ""
         },
         {
-            "source": "hamersley group",
+            "source": "iron",
+            "target": "base metal",
+            "label": ""
+        },
+        {
+            "source": "ash",
+            "target": "regolith",
+            "label": "focused on"
+        },
+        {
+            "source": "ash",
             "target": "sediment",
-            "label": [
-                ""
-            ]
+            "label": "focused on"
+        },
+        {
+            "source": "ash",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "ash",
+            "target": "wyloo group",
+            "label": ""
+        },
+        {
+            "source": "ash",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "ash",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "ash",
+            "target": "banded iron formation",
+            "label": ""
         },
         {
             "source": "hamersley group",
             "target": "paraburdoo",
-            "label": [
-                "on"
-            ]
+            "label": "rocks on"
         },
         {
             "source": "hamersley group",
             "target": "proterozoic",
-            "label": [
-                "overlying"
-            ]
+            "label": "overlying"
+        },
+        {
+            "source": "hamersley group",
+            "target": "sediments",
+            "label": "overlying,(regolith and sediment)"
         },
         {
             "source": "hamersley group",
             "target": "hamersley basin",
-            "label": [
-                "along"
-            ]
+            "label": "rocks along"
+        },
+        {
+            "source": "hamersley group",
+            "target": "goldsworthy",
+            "label": ""
         },
         {
             "source": "hamersley group",
             "target": "iron ore",
-            "label": []
+            "label": ""
+        },
+        {
+            "source": "hamersley group",
+            "target": "iron formations",
+            "label": ""
+        },
+        {
+            "source": "hamersley group",
+            "target": "ironstones",
+            "label": ""
+        },
+        {
+            "source": "hamersley group",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "hamersley group",
+            "target": "hamersley",
+            "label": ""
+        },
+        {
+            "source": "hamersley group",
+            "target": "iron",
+            "label": ""
         },
         {
             "source": "hamersley group",
             "target": "brockman iron formation",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "hamersley group",
             "target": "hamersley group, lower",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "hamersley group",
             "target": "hamersley group, upper",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "hamersley group",
-            "target": "marra mamba iron formation",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "hamersley group",
             "target": "wittenoom formation",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
-            "source": "long",
-            "target": "paraburdoo",
-            "label": []
+            "source": "paraburdoo",
+            "target": "hamersley iron province",
+            "label": "within"
         },
         {
-            "source": "mount mcgrath formation",
-            "target": "paraburdoo",
-            "label": [
-                "near"
-            ]
+            "source": "paraburdoo",
+            "target": "hamersley",
+            "label": "mined by,between,"
         },
         {
-            "source": "mount mcgrath formation",
-            "target": "mt mcgrath formation",
-            "label": "[current_of]"
+            "source": "paraburdoo",
+            "target": "iron ore",
+            "label": "made,"
         },
         {
-            "source": "ironstone",
-            "target": "shale",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "capricorn",
+            "source": "paraburdoo",
             "target": "gold",
-            "label": [
-                "controlled"
-            ]
+            "label": "of,hosted disseminated,"
         },
         {
-            "source": "chert",
-            "target": "dolomite",
-            "label": [
-                "with"
-            ]
+            "source": "paraburdoo",
+            "target": "hamersley group",
+            "label": ""
+        },
+        {
+            "source": "paraburdoo",
+            "target": "ashburton basin",
+            "label": ""
+        },
+        {
+            "source": "paraburdoo",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "paraburdoo",
+            "target": "hamersley basin",
+            "label": ""
+        },
+        {
+            "source": "paraburdoo",
+            "target": "cullens",
+            "label": ""
+        },
+        {
+            "source": "paraburdoo",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "paraburdoo",
+            "target": "gold deposit",
+            "label": ""
+        },
+        {
+            "source": "paraburdoo",
+            "target": "mt mcgrath formation",
+            "label": ""
+        },
+        {
+            "source": "paraburdoo",
+            "target": "wyloo group",
+            "label": ""
+        },
+        {
+            "source": "hamersley iron province",
+            "target": "paraburdoo",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "microplaty hematite",
+            "label": "containing"
+        },
+        {
+            "source": "hematite",
+            "target": "hamersley province",
+            "label": "of"
+        },
+        {
+            "source": "hematite",
+            "target": "western australia",
+            "label": "of,"
+        },
+        {
+            "source": "hematite",
+            "target": "mount mcgrath formation",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "banded iron formation",
+            "label": "in,"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "mount mcgrath formation",
+            "label": "in"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "paraburdoo",
+            "label": "in"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "proterozoic",
+            "label": ""
         },
         {
             "source": "pebbles",
-            "target": "hematite",
-            "label": [
-                "containing"
-            ]
+            "target": "microplaty hematite",
+            "label": "containing"
         },
         {
-            "source": "pilbara craton",
-            "target": "capricorn",
-            "label": []
+            "source": "pebbles",
+            "target": "paraburdoo",
+            "label": ""
         },
         {
-            "source": "gossan",
+            "source": "mount mcgrath formation",
+            "target": "pebbles",
+            "label": ""
+        },
+        {
+            "source": "mount mcgrath formation",
             "target": "mt mcgrath formation",
-            "label": [
-                "in"
-            ]
+            "label": "current_of"
         },
         {
-            "source": "lacustrine deposit",
-            "target": "calcrete",
-            "label": [
-                "to"
-            ]
+            "source": "hydrothermal",
+            "target": "capricorn orogen",
+            "label": "along"
         },
         {
-            "source": "freshwater",
+            "source": "hydrothermal",
+            "target": "wyloo group",
+            "label": "in,over"
+        },
+        {
+            "source": "hydrothermal",
+            "target": "mt mcgrath formation",
+            "label": "in"
+        },
+        {
+            "source": "hydrothermal",
+            "target": "duck creek dolomite",
+            "label": "in"
+        },
+        {
+            "source": "hydrothermal",
+            "target": "sediments",
+            "label": "in,over,"
+        },
+        {
+            "source": "hydrothermal",
+            "target": "hamersley",
+            "label": "over"
+        },
+        {
+            "source": "hydrothermal",
             "target": "gold",
-            "label": []
+            "label": ""
         },
         {
-            "source": "cheela springs basalt",
-            "target": "mt mcgrath formation",
-            "label": [
-                "(wb)"
-            ]
+            "source": "hydrothermal",
+            "target": "ash",
+            "label": ""
         },
         {
-            "source": "cobbles",
-            "target": "silt",
-            "label": [
-                "gravel"
-            ]
+            "source": "hydrothermal",
+            "target": "regolith",
+            "label": ""
         },
         {
-            "source": "cobbles",
-            "target": "clay",
-            "label": [
-                "gravel"
-            ]
+            "source": "hydrothermal",
+            "target": "iron formations",
+            "label": ""
         },
         {
-            "source": "gold mineral",
-            "target": "carbonate",
-            "label": [
-                "of"
-            ]
+            "source": "capricorn orogen",
+            "target": "gold",
+            "label": "controlled"
         },
         {
-            "source": "gold mineral",
+            "source": "hamersley",
+            "target": "iron ore",
+            "label": "for,"
+        },
+        {
+            "source": "hamersley",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "hamersley",
             "target": "iron",
-            "label": [
-                "of"
-            ]
+            "label": ""
         },
         {
-            "source": "gold mineral",
-            "target": "siltstone",
-            "label": [
-                "of"
-            ]
+            "source": "hamersley",
+            "target": "tertiary",
+            "label": ""
         },
         {
-            "source": "paleoproterozoic",
-            "target": "capricorn",
-            "label": [
-                "related to"
-            ]
+            "source": "hamersley",
+            "target": "brockman iron formation",
+            "label": ""
         },
         {
-            "source": "chlorite",
-            "target": "sericite",
-            "label": [
-                "illitic"
-            ]
+            "source": "hamersley",
+            "target": "irons",
+            "label": ""
+        },
+        {
+            "source": "hamersley",
+            "target": "hamersley group",
+            "label": ""
+        },
+        {
+            "source": "hamersley",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "hamersley",
+            "target": "hydrothermal",
+            "label": ""
+        },
+        {
+            "source": "hamersley",
+            "target": "paraburdoo",
+            "label": ""
+        },
+        {
+            "source": "hamersley",
+            "target": "iron formations",
+            "label": ""
+        },
+        {
+            "source": "hamersley",
+            "target": "base metals",
+            "label": ""
+        },
+        {
+            "source": "paraburdoo mine",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "brockman iron formation",
+            "target": "dales gorge members",
+            "label": "associated with,"
+        },
+        {
+            "source": "brockman iron formation",
+            "target": "cullens",
+            "label": ""
+        },
+        {
+            "source": "hamersley basin",
+            "target": "iron ore",
+            "label": "to explore for,"
+        },
+        {
+            "source": "hamersley basin",
+            "target": "iron deposits",
+            "label": ""
+        },
+        {
+            "source": "hamersley basin",
+            "target": "paraburdoo",
+            "label": ""
+        },
+        {
+            "source": "hamersley basin",
+            "target": "newman",
+            "label": ""
+        },
+        {
+            "source": "proterozoic",
+            "target": "western australia",
+            "label": "in,"
+        },
+        {
+            "source": "proterozoic",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "proterozoic",
+            "target": "hamersley",
+            "label": ""
+        },
+        {
+            "source": "proterozoic",
+            "target": "felsic tuffs",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "hamersley group",
+            "label": "of,"
+        },
+        {
+            "source": "sediments",
+            "target": "iron ore",
+            "label": "of,"
+        },
+        {
+            "source": "sediments",
+            "target": "ash",
+            "label": "of,"
+        },
+        {
+            "source": "sediments",
+            "target": "mercury",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "calcrete",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "wyloo group",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "hamersley",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "basalt",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "wyloo groups mt mcgrath formation",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "mt mcgrath formation",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "lags",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "paraburdoo",
+            "label": ""
+        },
+        {
+            "source": "base metals",
+            "target": "gossans",
+            "label": "from"
+        },
+        {
+            "source": "base metals",
+            "target": "hamersley",
+            "label": "extended over"
+        },
+        {
+            "source": "base metals",
+            "target": "iron ore",
+            "label": "on"
+        },
+        {
+            "source": "base metals",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "base metals",
+            "target": "cullens",
+            "label": ""
+        },
+        {
+            "source": "base metals",
+            "target": "goldsworthy",
+            "label": ""
+        },
+        {
+            "source": "base metals",
+            "target": "paraburdoo",
+            "label": ""
+        },
+        {
+            "source": "base metals",
+            "target": "leads",
+            "label": ""
+        },
+        {
+            "source": "tertiary",
+            "target": "hamersley basin",
+            "label": "into"
+        },
+        {
+            "source": "tertiary",
+            "target": "quaternary",
+            "label": "with,"
+        },
+        {
+            "source": "tertiary",
+            "target": "alluvium",
+            "label": "with"
+        },
+        {
+            "source": "tertiary",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "tertiary",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "tertiary",
+            "target": "dolomites",
+            "label": ""
+        },
+        {
+            "source": "quaternary",
+            "target": "hamersley basin",
+            "label": "into,"
+        },
+        {
+            "source": "quaternary",
+            "target": "calcrete",
+            "label": ""
+        },
+        {
+            "source": "gossans",
+            "target": "mt mcgrath formation",
+            "label": "in"
+        },
+        {
+            "source": "gossans",
+            "target": "base metals",
+            "label": ""
+        },
+        {
+            "source": "mt mcgrath formation",
+            "target": "gossans",
+            "label": ""
+        },
+        {
+            "source": "mt mcgrath formation",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "mt mcgrath formation",
+            "target": "wyloo",
+            "label": ""
+        },
+        {
+            "source": "mt mcgrath formation",
+            "target": "cainozoic",
+            "label": ""
+        },
+        {
+            "source": "mt mcgrath formation",
+            "target": "sediment",
+            "label": ""
+        },
+        {
+            "source": "mt mcgrath formation",
+            "target": "brockman iron formation",
+            "label": ""
+        },
+        {
+            "source": "mt mcgrath formation",
+            "target": "duck creek dolomite",
+            "label": ""
+        },
+        {
+            "source": "dolomite",
+            "target": "wittenoom dolomite",
+            "label": "referred to"
+        },
+        {
+            "source": "dolomite",
+            "target": "dolomites",
+            "label": "with"
+        },
+        {
+            "source": "dolomite",
+            "target": "tertiary",
+            "label": ""
+        },
+        {
+            "source": "wittenoom dolomite",
+            "target": "duck creek dolomite",
+            "label": "may,"
+        },
+        {
+            "source": "duck creek dolomite",
+            "target": "dolomite",
+            "label": ""
+        },
+        {
+            "source": "duck creek dolomite",
+            "target": "wyloo group mt mcgrath formation",
+            "label": ""
+        },
+        {
+            "source": "duck creek dolomite",
+            "target": "ash",
+            "label": ""
+        },
+        {
+            "source": "duck creek dolomite",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "regolith",
+            "target": "hydrothermal",
+            "label": "of"
+        },
+        {
+            "source": "regolith",
+            "target": "hamersley group",
+            "label": "of"
+        },
+        {
+            "source": "regolith",
+            "target": "banded iron formation",
+            "label": "of"
+        },
+        {
+            "source": "regolith",
+            "target": "sediment",
+            "label": ""
+        },
+        {
+            "source": "mud",
+            "target": "paraburdoo",
+            "label": ""
+        },
+        {
+            "source": "siltstones",
+            "target": "dolomites",
+            "label": "with"
+        },
+        {
+            "source": "siltstones",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "siltstones",
+            "target": "cherts",
+            "label": ""
+        },
+        {
+            "source": "pyrite",
+            "target": "mt mcgrath formation",
+            "label": ""
+        },
+        {
+            "source": "pyrite",
+            "target": "tennantite",
+            "label": ""
+        },
+        {
+            "source": "pyrite",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "pyrite",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "arsenopyrite",
+            "target": "mercury",
+            "label": "of"
+        },
+        {
+            "source": "arsenopyrite",
+            "target": "sulphides",
+            "label": "of"
+        },
+        {
+            "source": "arsenopyrite",
+            "target": "chalcopyrite",
+            "label": ""
+        },
+        {
+            "source": "mercury",
+            "target": "schist",
+            "label": "associated"
+        },
+        {
+            "source": "sulphides",
+            "target": "schist",
+            "label": "associated"
+        },
+        {
+            "source": "sulphides",
+            "target": "quartz",
+            "label": "in"
+        },
+        {
+            "source": "sulphides",
+            "target": "sulphide",
+            "label": "in,"
+        },
+        {
+            "source": "sulphides",
+            "target": "cheela springs basalt",
+            "label": ""
+        },
+        {
+            "source": "tetrahedrite",
+            "target": "mercury",
+            "label": "of"
+        },
+        {
+            "source": "tetrahedrite",
+            "target": "sulphides",
+            "label": "of"
+        },
+        {
+            "source": "tetrahedrite",
+            "target": "pyrite",
+            "label": ""
+        },
+        {
+            "source": "tennantite",
+            "target": "mercury",
+            "label": "of"
+        },
+        {
+            "source": "tennantite",
+            "target": "sulphides",
+            "label": "of,"
+        },
+        {
+            "source": "chalcopyrite",
+            "target": "mercury",
+            "label": "of"
+        },
+        {
+            "source": "chalcopyrite",
+            "target": "sulphides",
+            "label": "of"
+        },
+        {
+            "source": "chalcopyrite",
+            "target": "pyrite",
+            "label": ""
         },
         {
             "source": "enargite",
             "target": "mercury",
-            "label": [
-                "of"
-            ]
+            "label": "of"
         },
         {
-            "source": "cullens diamictite\"\"",
+            "source": "enargite",
+            "target": "sulphides",
+            "label": "of"
+        },
+        {
+            "source": "enargite",
+            "target": "schist",
+            "label": ""
+        },
+        {
+            "source": "schist",
+            "target": "arsenopyrite",
+            "label": ""
+        },
+        {
+            "source": "schist",
+            "target": "sericite",
+            "label": ""
+        },
+        {
+            "source": "cainozoic",
+            "target": "wyloo group",
+            "label": "cover,"
+        },
+        {
+            "source": "cainozoic",
+            "target": "colluvium",
+            "label": ""
+        },
+        {
+            "source": "wyloo group",
+            "target": "mt mcgrath formation",
+            "label": "will"
+        },
+        {
+            "source": "wyloo group",
+            "target": "duck creek dolomite",
+            "label": "parent_of"
+        },
+        {
+            "source": "wyloo group",
+            "target": "wyloo",
+            "label": "contain"
+        },
+        {
+            "source": "wyloo group",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "wyloo group",
+            "target": "hamersley",
+            "label": ""
+        },
+        {
+            "source": "wyloo group",
+            "target": "sediment",
+            "label": ""
+        },
+        {
+            "source": "wyloo group",
+            "target": "hamersley group",
+            "label": ""
+        },
+        {
+            "source": "wyloo group",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "wyloo group",
+            "target": "gold deposits",
+            "label": ""
+        },
+        {
+            "source": "wyloo group",
+            "target": "mount mcgrath formation",
+            "label": "parent_of"
+        },
+        {
+            "source": "silt",
+            "target": "sand",
+            "label": "covered by consolidated to semi consolidated,"
+        },
+        {
+            "source": "silt",
+            "target": "gravel",
+            "label": "covered by consolidated to semi consolidated,"
+        },
+        {
+            "source": "silt",
+            "target": "sediments",
+            "label": "covered by consolidated to semi consolidated"
+        },
+        {
+            "source": "silt",
+            "target": "calcrete",
+            "label": "covered by consolidated to semi consolidated"
+        },
+        {
+            "source": "silt",
+            "target": "cobbles",
+            "label": ""
+        },
+        {
+            "source": "sand",
+            "target": "regolith",
+            "label": ""
+        },
+        {
+            "source": "gravel",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "gravel",
+            "target": "silt",
+            "label": ""
+        },
+        {
+            "source": "gravel",
+            "target": "sand",
+            "label": ""
+        },
+        {
+            "source": "gravel",
+            "target": "clay",
+            "label": ""
+        },
+        {
+            "source": "calcrete",
+            "target": "quaternary",
+            "label": "with"
+        },
+        {
+            "source": "calcrete",
+            "target": "alluvium",
+            "label": "with"
+        },
+        {
+            "source": "calcrete",
+            "target": "sand",
+            "label": ""
+        },
+        {
+            "source": "cullens",
+            "target": "sediment",
+            "label": "over,"
+        },
+        {
+            "source": "cullens",
+            "target": "gold",
+            "label": "for,located between,"
+        },
+        {
+            "source": "cullens",
+            "target": "iron ore",
+            "label": "for,located between,"
+        },
+        {
+            "source": "cullens",
+            "target": "paraburdoo",
+            "label": "located between"
+        },
+        {
+            "source": "cullens",
+            "target": "iron formation",
+            "label": "over"
+        },
+        {
+            "source": "cullens",
+            "target": "mt mcgrath formation",
+            "label": ""
+        },
+        {
+            "source": "cullens",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "sediment",
+            "target": "hydrothermal",
+            "label": "of"
+        },
+        {
+            "source": "sediment",
+            "target": "gold",
+            "label": "hosted disseminated,"
+        },
+        {
+            "source": "sediment",
             "target": "cullens",
-            "label": "[current_of]"
+            "label": ""
         },
         {
-            "source": "mount bruce supergroup",
+            "source": "sediment",
+            "target": "mt mcgrath formation",
+            "label": ""
+        },
+        {
+            "source": "sediment",
+            "target": "wyloo",
+            "label": ""
+        },
+        {
+            "source": "sediment",
+            "target": "ash",
+            "label": ""
+        },
+        {
+            "source": "sediment",
+            "target": "gold deposits",
+            "label": ""
+        },
+        {
+            "source": "alluvium",
+            "target": "calcrete",
+            "label": "including"
+        },
+        {
+            "source": "alluvium",
+            "target": "tertiary",
+            "label": ""
+        },
+        {
+            "source": "alluvium",
+            "target": "colluvium",
+            "label": ""
+        },
+        {
+            "source": "alluvium",
+            "target": "cainozoic",
+            "label": ""
+        },
+        {
+            "source": "colluvium",
+            "target": "quaternary",
+            "label": "with"
+        },
+        {
+            "source": "colluvium",
+            "target": "alluvium",
+            "label": "with,"
+        },
+        {
+            "source": "colluvium",
+            "target": "calcrete",
+            "label": "including,"
+        },
+        {
+            "source": "lacustrine deposits",
+            "target": "calcretes",
+            "label": "to"
+        },
+        {
+            "source": "calcretes",
+            "target": "lacustrine deposits",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "regolith",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "hamersley group",
+            "label": "of"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "iron ore",
+            "label": "of"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "wyloo groups",
+            "label": ""
+        },
+        {
+            "source": "cobbles",
+            "target": "gravel",
+            "label": "in,"
+        },
+        {
+            "source": "cobbles",
+            "target": "silt",
+            "label": "in"
+        },
+        {
+            "source": "cobbles",
+            "target": "clay",
+            "label": "in"
+        },
+        {
+            "source": "gold deposit",
+            "target": "gold",
+            "label": "in,"
+        },
+        {
+            "source": "perth",
+            "target": "gold deposit",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "capricorn",
+            "label": "related to"
+        },
+        {
+            "source": "western australia",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "regolith",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "hamersley province",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "pilbara craton",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "ashburton basin",
+            "label": ""
+        },
+        {
+            "source": "western australia",
             "target": "fortescue group",
-            "label": "[parent_of]"
+            "label": ""
         },
         {
-            "source": "mount bruce supergroup",
+            "source": "western australia",
+            "target": "hamersley basin",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "ashburton province",
+            "label": ""
+        },
+        {
+            "source": "genesis",
+            "target": "hematite",
+            "label": "of"
+        },
+        {
+            "source": "hamersley province",
+            "target": "genesis",
+            "label": ""
+        },
+        {
+            "source": "fortescue group",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "pilbara craton",
+            "target": "fortescue group",
+            "label": ""
+        },
+        {
+            "source": "ashburton basin",
+            "target": "western australia",
+            "label": "of,"
+        },
+        {
+            "source": "ashburton basin",
+            "target": "hamersley basin",
+            "label": ""
+        },
+        {
+            "source": "paleoproterozoic",
+            "target": "capricorn",
+            "label": "related to"
+        },
+        {
+            "source": "paleoproterozoic",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "ashburton province",
+            "target": "capricorn",
+            "label": "related to"
+        },
+        {
+            "source": "ashburton province",
+            "target": "sediment",
+            "label": "recognised,"
+        },
+        {
+            "source": "ashburton province",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "capricorn",
+            "target": "ashburton province",
+            "label": "making,"
+        },
+        {
+            "source": "capricorn",
+            "target": "gold",
+            "label": "making,"
+        },
+        {
+            "source": "wyloo",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "wyloo",
             "target": "hamersley group",
-            "label": "[parent_of]"
+            "label": ""
         },
         {
-            "source": "hamersley group, upper",
+            "source": "goldsworthy",
+            "target": "paraburdoo",
+            "label": ""
+        },
+        {
+            "source": "goldsworthy",
+            "target": "hamersley",
+            "label": ""
+        },
+        {
+            "source": "nullagine",
             "target": "hamersley group",
-            "label": "[current_of]"
+            "label": ""
         },
         {
-            "source": "wittenoom formation",
-            "target": "wittenoom dolomite",
-            "label": "[current_of]"
+            "source": "nullagine",
+            "target": "base metal",
+            "label": ""
         },
         {
-            "source": "shingle creek group",
-            "target": "cheela springs basalt",
-            "label": "[parent_of]"
+            "source": "snow",
+            "target": "nullagine",
+            "label": ""
+        },
+        {
+            "source": "jackson",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "host rocks",
+            "target": "dolomites",
+            "label": "with"
+        },
+        {
+            "source": "host rocks",
+            "target": "dolomite",
+            "label": ""
+        },
+        {
+            "source": "dolomites",
+            "target": "tertiary",
+            "label": "covered by"
+        },
+        {
+            "source": "dolomites",
+            "target": "silcrete",
+            "label": "covered by,"
+        },
+        {
+            "source": "cherts",
+            "target": "dolomites",
+            "label": "with"
+        },
+        {
+            "source": "cherts",
+            "target": "host rocks",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "mt mcgrath formation",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "sulphides",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "haematite",
+            "label": ""
+        },
+        {
+            "source": "sulphide",
+            "target": "gold",
+            "label": "remains below,"
+        },
+        {
+            "source": "sulphide",
+            "target": "oxide",
+            "label": ""
+        },
+        {
+            "source": "iron formation",
+            "target": "cullens",
+            "label": ""
+        },
+        {
+            "source": "sericite",
+            "target": "schist",
+            "label": "overprints"
+        },
+        {
+            "source": "sericite",
+            "target": "ankerite",
+            "label": ""
+        },
+        {
+            "source": "sericite",
+            "target": "chlorite",
+            "label": ""
+        },
+        {
+            "source": "oxide",
+            "target": "sulphide",
+            "label": "overlying"
+        },
+        {
+            "source": "channar mine",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "martite",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "iron deposits",
+            "target": "hamersley",
+            "label": ""
+        },
+        {
+            "source": "wyloo groups",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "irons",
+            "target": "hamersley",
+            "label": ""
+        },
+        {
+            "source": "iron formations",
+            "target": "hamersley",
+            "label": ""
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "paraburdoo",
+            "label": ""
+        },
+        {
+            "source": "carbonate",
+            "target": "paraburdoo",
+            "label": ""
+        },
+        {
+            "source": "cheela springs basalt",
+            "target": "pyrite",
+            "label": ""
+        },
+        {
+            "source": "cheela springs basalt",
+            "target": "mt mcgrath formation",
+            "label": ""
+        },
+        {
+            "source": "wyloo group mt mcgrath formation",
+            "target": "hydrothermal",
+            "label": ""
+        },
+        {
+            "source": "hamersley groups",
+            "target": "wyloo group",
+            "label": ""
+        },
+        {
+            "source": "sedimentary rocks",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "base metal",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "base metal",
+            "target": "base metals",
+            "label": ""
+        },
+        {
+            "source": "base metal",
+            "target": "hamersley",
+            "label": ""
+        },
+        {
+            "source": "base metal",
+            "target": "leads",
+            "label": ""
+        },
+        {
+            "source": "sandstones",
+            "target": "shales",
+            "label": ""
+        },
+        {
+            "source": "sandstones",
+            "target": "shale",
+            "label": ""
+        },
+        {
+            "source": "shales",
+            "target": "mt mcgrath formations",
+            "label": ""
+        },
+        {
+            "source": "mt mcgrath formations",
+            "target": "ironstones",
+            "label": ""
+        },
+        {
+            "source": "ankerite",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "haematite",
+            "target": "sericite",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "capricorn",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "wyloo groups mt mcgrath formation",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "wyloo dome",
+            "target": "paraburdoo",
+            "label": ""
+        },
+        {
+            "source": "uranium",
+            "target": "silver",
+            "label": ""
+        },
+        {
+            "source": "silver",
+            "target": "base metals",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "breccia",
+            "label": ""
+        },
+        {
+            "source": "breccia",
+            "target": "proterozoic",
+            "label": ""
+        },
+        {
+            "source": "lags",
+            "target": "sediment",
+            "label": ""
         },
         {
             "source": "hamersley group, lower",
             "target": "hamersley group",
-            "label": "[current_of]"
+            "label": "current_of"
+        },
+        {
+            "source": "wittenoom formation",
+            "target": "wittenoom dolomite",
+            "label": "current_of"
+        },
+        {
+            "source": "shingle creek group",
+            "target": "cheela springs basalt",
+            "label": "parent_of"
+        },
+        {
+            "source": "cullens diamictite\"\"",
+            "target": "cullens",
+            "label": "current_of"
+        },
+        {
+            "source": "mount bruce supergroup",
+            "target": "fortescue group",
+            "label": "parent_of"
+        },
+        {
+            "source": "mount bruce supergroup",
+            "target": "hamersley group",
+            "label": "parent_of"
+        },
+        {
+            "source": "hamersley group, upper",
+            "target": "hamersley group",
+            "label": "current_of"
         }
     ]
 }

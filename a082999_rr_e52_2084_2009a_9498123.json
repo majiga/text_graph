@@ -3,87 +3,207 @@
         {
             "id": "murchison",
             "group": "LOCATION",
+            "degree": 5
+        },
+        {
+            "id": "western australia",
+            "group": "LOCATION",
+            "degree": 20
+        },
+        {
+            "id": "manganese ores",
+            "group": "ORE_DEPOSIT",
             "degree": 2
         },
         {
-            "id": "iron ore",
-            "group": "ORE_DEPOSIT",
-            "degree": 10
-        },
-        {
-            "id": "gold",
-            "group": "MINERAL",
+            "id": "conglomerate",
+            "group": "ROCK",
             "degree": 5
         },
         {
             "id": "iron formation",
             "group": "ROCK",
-            "degree": 9
+            "degree": 6
         },
         {
-            "id": "sandstone",
+            "id": "sediments",
             "group": "ROCK",
-            "degree": 6
+            "degree": 13
+        },
+        {
+            "id": "boulder",
+            "group": "LOCATION",
+            "degree": 2
         },
         {
             "id": "quartz",
             "group": "MINERAL",
-            "degree": 5
+            "degree": 8
         },
         {
-            "id": "granular iron formation",
+            "id": "sandstone",
             "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "goethite",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "peak hill",
-            "group": "LOCATION",
-            "degree": 11
+            "degree": 13
         },
         {
             "id": "iron",
             "group": "MINERAL",
-            "degree": 5
-        },
-        {
-            "id": "meekatharra",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "dolomite",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "sediment",
-            "group": "ROCK",
             "degree": 7
         },
         {
-            "id": "jasper",
+            "id": "silica",
             "group": "MINERAL",
-            "degree": 4
+            "degree": 5
         },
         {
-            "id": "sulphur",
-            "group": "MINERAL",
-            "degree": 0
+            "id": "shale",
+            "group": "ROCK",
+            "degree": 20
         },
         {
-            "id": "labouchere formation",
+            "id": "peak hill",
+            "group": "LOCATION",
+            "degree": 21
+        },
+        {
+            "id": "manganese",
+            "group": "MINERAL",
+            "degree": 30
+        },
+        {
+            "id": "robinson range",
             "group": "STRAT",
+            "degree": 34
+        },
+        {
+            "id": "iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": 23
+        },
+        {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": 22
+        },
+        {
+            "id": "sedimentary sequences",
+            "group": "ROCK",
             "degree": 2
+        },
+        {
+            "id": "millidie creek formation",
+            "group": "STRAT",
+            "degree": 8
         },
         {
             "id": "midwest",
             "group": "LOCATION",
+            "degree": 23
+        },
+        {
+            "id": "calcrete",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "dolomite",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "iron ore deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 5
+        },
+        {
+            "id": "padbury group",
+            "group": "STRAT",
+            "degree": 16
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": 15
+        },
+        {
+            "id": "horseshoe",
+            "group": "LOCATION",
+            "degree": 6
+        },
+        {
+            "id": "base metals",
+            "group": "ORE_DEPOSIT",
+            "degree": 6
+        },
+        {
+            "id": "sulphur",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "robinson range formation",
+            "group": "STRAT",
+            "degree": 12
+        },
+        {
+            "id": "sedimentary rocks",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "hematite",
+            "group": "MINERAL",
+            "degree": 12
+        },
+        {
+            "id": "iron formations",
+            "group": "ROCK",
+            "degree": 11
+        },
+        {
+            "id": "pilbara",
+            "group": "LOCATION",
             "degree": 4
+        },
+        {
+            "id": "ironstone",
+            "group": "ROCK",
+            "degree": 7
+        },
+        {
+            "id": "robinson ranges",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "goethite ores",
+            "group": "ORE_DEPOSIT",
+            "degree": 1
+        },
+        {
+            "id": "proterozoic",
+            "group": "TIMESCALE",
+            "degree": 9
+        },
+        {
+            "id": "iron ores",
+            "group": "ORE_DEPOSIT",
+            "degree": 6
+        },
+        {
+            "id": "meekatharra",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "fraser",
+            "group": "LOCATION",
+            "degree": 7
+        },
+        {
+            "id": "chert",
+            "group": "ROCK",
+            "degree": 13
         },
         {
             "id": "chlorite",
@@ -91,74 +211,54 @@
             "degree": 2
         },
         {
-            "id": "hematite",
+            "id": "jasper",
             "group": "MINERAL",
-            "degree": 7
+            "degree": 5
         },
         {
-            "id": "chert",
+            "id": "granules",
             "group": "ROCK",
-            "degree": 7
+            "degree": 4
         },
         {
-            "id": "shale",
-            "group": "ROCK",
-            "degree": 8
+            "id": "nabberu basin",
+            "group": "LOCATION",
+            "degree": 4
         },
         {
-            "id": "proterozoic",
+            "id": "precambrian",
             "group": "TIMESCALE",
-            "degree": 6
+            "degree": 5
         },
         {
-            "id": "robinson range formation",
+            "id": "labouchere formation",
             "group": "STRAT",
-            "degree": 9
+            "degree": 5
         },
         {
-            "id": "fraser",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "padbury group",
-            "group": "STRAT",
-            "degree": 6
-        },
-        {
-            "id": "horseshoe",
-            "group": "LOCATION",
+            "id": "feldspar",
+            "group": "MINERAL",
             "degree": 3
-        },
-        {
-            "id": "yilgarn block",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "banded iron formation",
-            "group": "ROCK",
-            "degree": 7
         },
         {
             "id": "siltstone",
             "group": "ROCK",
-            "degree": 2
+            "degree": 4
         },
         {
             "id": "base metal",
-            "group": "MINERAL",
-            "degree": 2
+            "group": "ORE_DEPOSIT",
+            "degree": 9
         },
         {
-            "id": "oxide",
-            "group": "MINERAL",
-            "degree": 1
+            "id": "uranium",
+            "group": "ORE_DEPOSIT",
+            "degree": 6
         },
         {
-            "id": "silica",
-            "group": "MINERAL",
-            "degree": 3
+            "id": "earaheedy group",
+            "group": "STRAT",
+            "degree": 5
         },
         {
             "id": "pilbara region",
@@ -166,28 +266,73 @@
             "degree": 2
         },
         {
-            "id": "pilbara",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "earaheedy group",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "conglomerate",
+            "id": "granular iron formation",
             "group": "ROCK",
             "degree": 2
+        },
+        {
+            "id": "iron ore deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 1
+        },
+        {
+            "id": "sandstones",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "conglomerates",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "muds",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "wilthorpe conglomerate",
+            "group": "STRAT",
+            "degree": 3
+        },
+        {
+            "id": "magnetite",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "homestead",
+            "group": "LOCATION",
+            "degree": 1
+        },
+        {
+            "id": "banded iron formations",
+            "group": "ROCK",
+            "degree": 1
         },
         {
             "id": "precious metal",
             "group": "ORE_DEPOSIT",
-            "degree": 0
+            "degree": 3
         },
         {
             "id": "granite",
             "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "precious metals",
+            "group": "ORE_DEPOSIT",
+            "degree": 1
+        },
+        {
+            "id": "yilgarn block",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "gascoyne province",
+            "group": "LOCATION",
             "degree": 1
         },
         {
@@ -196,114 +341,29 @@
             "degree": 1
         },
         {
-            "id": "feldspar",
+            "id": "silicates",
             "group": "MINERAL",
             "degree": 1
         },
         {
-            "id": "silicate",
+            "id": "oxide",
             "group": "MINERAL",
             "degree": 1
         },
         {
-            "id": "ironstone",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "mud",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "robinson range beds",
-            "group": "STRAT",
+            "id": "capricorn orogen",
+            "group": "LOCATION",
             "degree": 1
         },
         {
-            "id": "nabberu basin",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "homestead",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "iron ore deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": 2
-        },
-        {
-            "id": "boulder",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "wilthorpe conglomerate",
-            "group": "STRAT",
+            "id": "sediment",
+            "group": "ROCK",
             "degree": 1
         },
         {
-            "id": "jack hills",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "millidie creek formation",
-            "group": "STRAT",
-            "degree": 3
-        },
-        {
-            "id": "magnetite",
+            "id": "goethite",
             "group": "MINERAL",
-            "degree": 2
-        },
-        {
-            "id": "yilgarn craton",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "telfer",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "granules",
-            "group": "ROCK",
-            "degree": 4
-        },
-        {
-            "id": "sedimentary rock",
-            "group": "ROCK",
             "degree": 1
-        },
-        {
-            "id": "gascoyne",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "goldfields",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "precambrian",
-            "group": "TIMESCALE",
-            "degree": 1
-        },
-        {
-            "id": "metal",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "capricorn",
-            "group": "LOCATION",
-            "degree": 0
         },
         {
             "id": "wilthorpe formation",
@@ -313,589 +373,1279 @@
         {
             "id": "archean",
             "group": "TIMESCALE",
+            "degree": 4
+        },
+        {
+            "id": "direct shipping ore",
+            "group": "ORE_DEPOSIT",
             "degree": 1
         }
     ],
     "links": [
         {
             "source": "murchison",
-            "target": "iron ore",
-            "label": [
-                ""
-            ]
+            "target": "western australia",
+            "label": "of,"
         },
         {
             "source": "murchison",
             "target": "fraser",
-            "label": [
-                "with"
-            ]
+            "label": "with"
         },
         {
-            "source": "iron ore",
+            "source": "western australia",
+            "target": "robinson range",
+            "label": "on"
+        },
+        {
+            "source": "western australia",
+            "target": "proterozoic",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "meekatharra",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "manganese",
+            "label": ""
+        },
+        {
+            "source": "western australia",
             "target": "peak hill",
-            "label": [
-                "goldfield\\/mineral field"
-            ]
+            "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "midwest",
-            "label": [
-                "in"
-            ]
+            "source": "western australia",
+            "target": "precambrian",
+            "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "robinson range formation",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "iron ore",
-            "target": "pilbara region",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "iron ore",
+            "source": "western australia",
             "target": "fraser",
-            "label": []
+            "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "banded iron formation",
-            "label": [
-                "overlying"
-            ]
+            "source": "conglomerate",
+            "target": "iron formation",
+            "label": "mapped around"
         },
         {
-            "source": "gold",
-            "target": "base metal",
-            "label": [
-                "and"
-            ]
+            "source": "conglomerate",
+            "target": "sediments",
+            "label": "dipping"
         },
         {
-            "source": "gold",
-            "target": "peak hill",
-            "label": [
-                "continues around"
-            ]
-        },
-        {
-            "source": "gold",
-            "target": "iron ore",
-            "label": [
-                "outside"
-            ]
+            "source": "conglomerate",
+            "target": "padbury group",
+            "label": ""
         },
         {
             "source": "iron formation",
             "target": "shale",
-            "label": [
-                "separated by"
-            ]
+            "label": "separated by"
         },
         {
             "source": "iron formation",
-            "target": "earaheedy group",
-            "label": [
-                "in"
-            ]
+            "target": "conglomerate",
+            "label": ""
         },
         {
             "source": "iron formation",
-            "target": "precambrian",
-            "label": [
-                "of"
-            ]
+            "target": "sandstones",
+            "label": ""
         },
         {
-            "source": "iron formation",
+            "source": "sediments",
+            "target": "millidie creek formation",
+            "label": "of"
+        },
+        {
+            "source": "sediments",
+            "target": "western australia",
+            "label": "in,"
+        },
+        {
+            "source": "sediments",
+            "target": "conglomerate",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "robinson range",
+            "label": ""
+        },
+        {
+            "source": "sediments",
             "target": "robinson range formation",
-            "label": []
+            "label": ""
         },
         {
-            "source": "iron formation",
-            "target": "iron ore",
-            "label": []
-        },
-        {
-            "source": "sandstone",
-            "target": "feldspar",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "sandstone",
-            "target": "horseshoe",
-            "label": []
+            "source": "boulder",
+            "target": "iron formation",
+            "label": "to,"
         },
         {
             "source": "quartz",
             "target": "sandstone",
-            "label": [
-                "cemented"
-            ]
+            "label": "cemented,with,"
+        },
+        {
+            "source": "quartz",
+            "target": "feldspar",
+            "label": "with,"
+        },
+        {
+            "source": "quartz",
+            "target": "iron",
+            "label": ""
         },
         {
             "source": "quartz",
             "target": "siltstone",
-            "label": [
-                ""
-            ]
+            "label": ""
         },
         {
             "source": "quartz",
+            "target": "shale",
+            "label": ""
+        },
+        {
+            "source": "sandstone",
             "target": "silica",
-            "label": [
-                "cemented"
-            ]
+            "label": "grained"
         },
         {
-            "source": "granular iron formation",
-            "target": "robinson range formation",
-            "label": [
-                "of"
-            ]
+            "source": "sandstone",
+            "target": "feldspar",
+            "label": "with"
         },
         {
-            "source": "granular iron formation",
-            "target": "chert",
-            "label": []
+            "source": "sandstone",
+            "target": "quartz",
+            "label": ""
         },
         {
-            "source": "peak hill",
-            "target": "gold",
-            "label": [
-                "had"
-            ]
+            "source": "sandstone",
+            "target": "shale",
+            "label": ""
         },
         {
-            "source": "peak hill",
-            "target": "horseshoe",
-            "label": [
-                "and"
-            ]
+            "source": "iron",
+            "target": "sandstone",
+            "label": "cemented"
         },
         {
-            "source": "peak hill",
-            "target": "proterozoic",
-            "label": [
-                "became"
-            ]
+            "source": "iron",
+            "target": "silica",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "earaheedy group",
+            "label": ""
         },
         {
             "source": "iron",
             "target": "oxide",
-            "label": [
-                ""
-            ]
+            "label": ""
         },
         {
             "source": "iron",
-            "target": "silicate",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "sandstone",
-            "label": [
-                "cemented"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "silica",
-            "label": [
-                "cemented"
-            ]
-        },
-        {
-            "source": "sediment",
-            "target": "millidie creek formation",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "jasper",
-            "target": "ironstone",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "labouchere formation",
-            "target": "sediment",
-            "label": []
-        },
-        {
-            "source": "midwest",
-            "target": "pilbara region",
-            "label": [
-                "to"
-            ]
-        },
-        {
-            "source": "midwest",
-            "target": "iron ore",
-            "label": [
-                "outside"
-            ]
-        },
-        {
-            "source": "chlorite",
             "target": "hematite",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "shale",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "magnetite",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "jasper",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "hematite",
-            "target": "iron",
-            "label": [
-                "returned"
-            ]
-        },
-        {
-            "source": "chert",
-            "target": "chlorite",
-            "label": [
-                "and green"
-            ]
-        },
-        {
-            "source": "chert",
-            "target": "shale",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "chert",
-            "target": "hematite",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "chert",
-            "target": "jasper",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "shale",
-            "target": "peak hill",
-            "label": [
-                "found on"
-            ]
-        },
-        {
-            "source": "shale",
-            "target": "jasper",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "shale",
-            "target": "quartz",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "proterozoic",
-            "target": "sediment",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "proterozoic",
-            "target": "nabberu basin",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "proterozoic",
-            "target": "telfer",
-            "label": [
-                "region (behind the"
-            ]
-        },
-        {
-            "source": "proterozoic",
-            "target": "yilgarn block",
-            "label": []
-        },
-        {
-            "source": "proterozoic",
-            "target": "archean",
-            "label": []
-        },
-        {
-            "source": "robinson range formation",
-            "target": "sediment",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "robinson range formation",
-            "target": "peak hill",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "robinson range formation",
-            "target": "robinson range beds",
-            "label": "[current_of]"
-        },
-        {
-            "source": "padbury group",
-            "target": "sediment",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "padbury group",
-            "target": "iron formation",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "padbury group",
-            "target": "labouchere formation",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "padbury group",
-            "target": "millidie creek formation",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "padbury group",
-            "target": "robinson range formation",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "padbury group",
-            "target": "wilthorpe formation",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "horseshoe",
-            "target": "peak hill",
-            "label": [
-                "lights and"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "sediment",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "midwest",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "goldfields",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "millidie creek formation",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "shale",
-            "label": [
-                "separated by"
-            ]
-        },
-        {
-            "source": "siltstone",
-            "target": "quartz",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "base metal",
-            "target": "peak hill",
-            "label": [
-                "continues around"
-            ]
+            "label": ""
         },
         {
             "source": "silica",
             "target": "sandstone",
-            "label": [
-                "cemented"
-            ]
+            "label": "cemented"
         },
         {
-            "source": "earaheedy group",
+            "source": "silica",
+            "target": "conglomerates",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "peak hill",
+            "label": "found on"
+        },
+        {
+            "source": "shale",
+            "target": "jasper",
+            "label": "of,"
+        },
+        {
+            "source": "shale",
+            "target": "quartz",
+            "label": "with,"
+        },
+        {
+            "source": "shale",
+            "target": "sandstone",
+            "label": "with"
+        },
+        {
+            "source": "shale",
+            "target": "calcrete",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "chlorite",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "granules",
+            "label": ""
+        },
+        {
+            "source": "peak hill",
+            "target": "robinson range",
+            "label": "into,"
+        },
+        {
+            "source": "peak hill",
+            "target": "proterozoic",
+            "label": "became,"
+        },
+        {
+            "source": "peak hill",
+            "target": "horseshoe",
+            "label": "discovered during,"
+        },
+        {
+            "source": "peak hill",
+            "target": "western australia",
+            "label": "of,on,"
+        },
+        {
+            "source": "peak hill",
+            "target": "shale",
+            "label": ""
+        },
+        {
+            "source": "peak hill",
+            "target": "precious metal",
+            "label": ""
+        },
+        {
+            "source": "peak hill",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "peak hill",
+            "target": "manganese",
+            "label": ""
+        },
+        {
+            "source": "peak hill",
+            "target": "iron ore deposits",
+            "label": ""
+        },
+        {
+            "source": "manganese",
+            "target": "robinson range",
+            "label": "within,"
+        },
+        {
+            "source": "manganese",
+            "target": "shale",
+            "label": "stained"
+        },
+        {
+            "source": "manganese",
+            "target": "sandstone",
+            "label": "stained"
+        },
+        {
+            "source": "manganese",
+            "target": "peak hill",
+            "label": "continues around,"
+        },
+        {
+            "source": "manganese",
+            "target": "horseshoe",
+            "label": "continues around"
+        },
+        {
+            "source": "manganese",
+            "target": "silica",
+            "label": "of,"
+        },
+        {
+            "source": "manganese",
+            "target": "sulphur",
+            "label": "of"
+        },
+        {
+            "source": "manganese",
             "target": "robinson range formation",
-            "label": [
-                "would be expected from"
-            ]
+            "label": "of"
         },
         {
-            "source": "conglomerate",
+            "source": "manganese",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "manganese",
+            "target": "iron ore deposit",
+            "label": ""
+        },
+        {
+            "source": "manganese",
+            "target": "manganese ores",
+            "label": ""
+        },
+        {
+            "source": "manganese",
+            "target": "sedimentary sequences",
+            "label": ""
+        },
+        {
+            "source": "manganese",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "manganese",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "manganese",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "manganese",
+            "target": "midwest",
+            "label": ""
+        },
+        {
+            "source": "manganese",
+            "target": "fraser",
+            "label": ""
+        },
+        {
+            "source": "manganese",
+            "target": "uranium",
+            "label": ""
+        },
+        {
+            "source": "robinson range",
+            "target": "iron ore",
+            "label": "for,"
+        },
+        {
+            "source": "robinson range",
+            "target": "padbury group",
+            "label": "of,"
+        },
+        {
+            "source": "robinson range",
+            "target": "sediments",
+            "label": "of,"
+        },
+        {
+            "source": "robinson range",
+            "target": "western australia",
+            "label": "of,"
+        },
+        {
+            "source": "robinson range",
+            "target": "gold",
+            "label": "explored for,"
+        },
+        {
+            "source": "robinson range",
+            "target": "base metal",
+            "label": "explored for,"
+        },
+        {
+            "source": "robinson range",
+            "target": "uranium",
+            "label": "explored for"
+        },
+        {
+            "source": "robinson range",
+            "target": "midwest",
+            "label": "explored for,"
+        },
+        {
+            "source": "robinson range",
+            "target": "murchison",
+            "label": ""
+        },
+        {
+            "source": "robinson range",
+            "target": "manganese",
+            "label": ""
+        },
+        {
+            "source": "robinson range",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "robinson range",
+            "target": "banded iron formations",
+            "label": ""
+        },
+        {
+            "source": "robinson range",
+            "target": "peak hill",
+            "label": ""
+        },
+        {
+            "source": "robinson range",
+            "target": "labouchere formation",
+            "label": ""
+        },
+        {
+            "source": "robinson range",
+            "target": "iron ores",
+            "label": ""
+        },
+        {
+            "source": "robinson range",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "midwest",
+            "label": "from,"
+        },
+        {
+            "source": "iron ore",
+            "target": "robinson ranges",
+            "label": "at,in"
+        },
+        {
+            "source": "iron ore",
+            "target": "robinson range formation",
+            "label": "of,confined to"
+        },
+        {
+            "source": "iron ore",
+            "target": "sediments",
+            "label": "confined to,"
+        },
+        {
+            "source": "iron ore",
+            "target": "manganese",
+            "label": "of,"
+        },
+        {
+            "source": "iron ore",
+            "target": "pilbara region",
+            "label": "in"
+        },
+        {
+            "source": "iron ore",
+            "target": "manganese ores",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "robinson range",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "goethite ores",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "murchison",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "banded iron formation",
+            "label": "overlying,"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "sediments",
+            "label": "of"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "midwest",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "millidie creek formation",
+            "label": "of,"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "shale",
+            "label": "by"
+        },
+        {
+            "source": "banded iron formation",
             "target": "iron formation",
-            "label": [
-                "are mapped around"
-            ]
+            "label": ""
         },
         {
-            "source": "conglomerate",
-            "target": "sediment",
-            "label": [
-                "dipping"
-            ]
-        },
-        {
-            "source": "granite",
+            "source": "banded iron formation",
             "target": "robinson range formation",
-            "label": []
+            "label": "of,"
         },
         {
-            "source": "perth",
-            "target": "meekatharra",
-            "label": []
+            "source": "banded iron formation",
+            "target": "chert",
+            "label": "by"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "chlorite",
+            "label": "by"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "hematite",
+            "label": "by"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "manganese",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "magnetite",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "earaheedy group",
+            "label": ""
+        },
+        {
+            "source": "sedimentary sequences",
+            "target": "millidie creek formation",
+            "label": "of,"
+        },
+        {
+            "source": "millidie creek formation",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "millidie creek formation",
+            "target": "shale",
+            "label": ""
+        },
+        {
+            "source": "millidie creek formation",
+            "target": "robinson range",
+            "label": ""
+        },
+        {
+            "source": "midwest",
+            "target": "iron ore",
+            "label": "limited,"
+        },
+        {
+            "source": "midwest",
+            "target": "manganese",
+            "label": "limited,"
+        },
+        {
+            "source": "midwest",
+            "target": "peak hill",
+            "label": "limited"
+        },
+        {
+            "source": "midwest",
+            "target": "padbury group",
+            "label": "limited"
+        },
+        {
+            "source": "midwest",
+            "target": "millidie creek formation",
+            "label": "limited,"
+        },
+        {
+            "source": "midwest",
+            "target": "robinson range formation",
+            "label": "limited"
+        },
+        {
+            "source": "midwest",
+            "target": "sedimentary rocks",
+            "label": "limited"
+        },
+        {
+            "source": "midwest",
+            "target": "hematite",
+            "label": "limited"
+        },
+        {
+            "source": "midwest",
+            "target": "shale",
+            "label": "limited"
+        },
+        {
+            "source": "midwest",
+            "target": "pilbara",
+            "label": "to,"
+        },
+        {
+            "source": "midwest",
+            "target": "robinson range",
+            "label": ""
+        },
+        {
+            "source": "midwest",
+            "target": "iron formations",
+            "label": ""
+        },
+        {
+            "source": "midwest",
+            "target": "ironstone",
+            "label": ""
+        },
+        {
+            "source": "midwest",
+            "target": "iron ores",
+            "label": ""
+        },
+        {
+            "source": "midwest",
+            "target": "banded iron formation",
+            "label": "limited"
+        },
+        {
+            "source": "calcrete",
+            "target": "dolomite",
+            "label": "over,"
+        },
+        {
+            "source": "dolomite",
+            "target": "manganese",
+            "label": ""
+        },
+        {
+            "source": "dolomite",
+            "target": "sandstone",
+            "label": ""
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "banded iron formation",
+            "label": "located within,"
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "robinson range",
+            "label": "of,"
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "peak hill",
+            "label": "of"
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "padbury group",
+            "target": "iron formations",
+            "label": "outlined by"
+        },
+        {
+            "source": "padbury group",
+            "target": "robinson range",
+            "label": ""
+        },
+        {
+            "source": "padbury group",
+            "target": "sedimentary rocks",
+            "label": ""
+        },
+        {
+            "source": "padbury group",
+            "target": "manganese",
+            "label": ""
+        },
+        {
+            "source": "padbury group",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "padbury group",
+            "target": "gascoyne province",
+            "label": ""
+        },
+        {
+            "source": "padbury group",
+            "target": "labouchere formation",
+            "label": "parent_of"
+        },
+        {
+            "source": "padbury group",
+            "target": "millidie creek formation",
+            "label": "parent_of"
+        },
+        {
+            "source": "padbury group",
+            "target": "robinson range formation",
+            "label": "parent_of"
+        },
+        {
+            "source": "padbury group",
+            "target": "wilthorpe formation",
+            "label": "parent_of"
+        },
+        {
+            "source": "gold",
+            "target": "peak hill",
+            "label": "continues around,"
+        },
+        {
+            "source": "gold",
+            "target": "horseshoe",
+            "label": "continues around"
+        },
+        {
+            "source": "gold",
+            "target": "western australia",
+            "label": "in"
+        },
+        {
+            "source": "gold",
+            "target": "iron ores",
+            "label": "for"
+        },
+        {
+            "source": "gold",
+            "target": "manganese",
+            "label": "for,"
+        },
+        {
+            "source": "gold",
+            "target": "base metals",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "base metal",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "horseshoe",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "base metals",
+            "target": "peak hill",
+            "label": "continues around"
+        },
+        {
+            "source": "base metals",
+            "target": "horseshoe",
+            "label": "continues around,"
+        },
+        {
+            "source": "base metals",
+            "target": "iron ores",
+            "label": "for"
+        },
+        {
+            "source": "base metals",
+            "target": "manganese",
+            "label": "for"
+        },
+        {
+            "source": "sulphur",
+            "target": "manganese",
+            "label": ""
+        },
+        {
+            "source": "robinson range formation",
+            "target": "padbury group",
+            "label": "of,"
+        },
+        {
+            "source": "robinson range formation",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "robinson range formation",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "sedimentary rocks",
+            "target": "midwest",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "jasper",
+            "label": "of"
+        },
+        {
+            "source": "hematite",
+            "target": "padbury group",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "robinson range formation",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "chert",
+            "label": ""
+        },
+        {
+            "source": "iron formations",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "iron formations",
+            "target": "precambrian",
+            "label": "of"
+        },
+        {
+            "source": "iron formations",
+            "target": "earaheedy group",
+            "label": "in"
+        },
+        {
+            "source": "iron formations",
+            "target": "padbury group",
+            "label": ""
+        },
+        {
+            "source": "iron formations",
+            "target": "nabberu basin",
+            "label": ""
+        },
+        {
+            "source": "iron formations",
+            "target": "robinson range",
+            "label": ""
+        },
+        {
+            "source": "iron formations",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "robinson range",
+            "label": "of"
+        },
+        {
+            "source": "pilbara",
+            "target": "ironstone",
+            "label": "of"
         },
         {
             "source": "ironstone",
             "target": "granules",
-            "label": [
-                "contain"
-            ]
+            "label": "contain"
         },
         {
-            "source": "nabberu basin",
-            "target": "iron formation",
-            "label": [
-                "associated"
-            ]
+            "source": "ironstone",
+            "target": "robinson range",
+            "label": ""
         },
         {
-            "source": "iron ore deposit",
-            "target": "banded iron formation",
-            "label": [
-                "are located within"
-            ]
+            "source": "ironstone",
+            "target": "granular iron formation",
+            "label": ""
         },
         {
-            "source": "iron ore deposit",
-            "target": "peak hill",
-            "label": [
-                "of"
-            ]
+            "source": "robinson ranges",
+            "target": "iron ore",
+            "label": ""
         },
         {
-            "source": "boulder",
-            "target": "sandstone",
-            "label": [
-                ""
-            ]
+            "source": "proterozoic",
+            "target": "sediments",
+            "label": "in"
         },
         {
-            "source": "boulder",
-            "target": "iron formation",
-            "label": [
-                "are"
-            ]
+            "source": "proterozoic",
+            "target": "western australia",
+            "label": "in,of"
         },
         {
-            "source": "magnetite",
-            "target": "chert",
-            "label": [
-                ""
-            ]
+            "source": "proterozoic",
+            "target": "nabberu basin",
+            "label": "of"
         },
         {
-            "source": "telfer",
+            "source": "proterozoic",
+            "target": "iron formations",
+            "label": "of,"
+        },
+        {
+            "source": "proterozoic",
+            "target": "precambrian",
+            "label": "of"
+        },
+        {
+            "source": "proterozoic",
             "target": "gold",
-            "label": [
-                "for"
-            ]
+            "label": ""
+        },
+        {
+            "source": "proterozoic",
+            "target": "robinson range",
+            "label": ""
+        },
+        {
+            "source": "iron ores",
+            "target": "midwest",
+            "label": "in"
+        },
+        {
+            "source": "iron ores",
+            "target": "base metals",
+            "label": ""
+        },
+        {
+            "source": "meekatharra",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "meekatharra",
+            "target": "perth",
+            "label": ""
+        },
+        {
+            "source": "meekatharra",
+            "target": "robinson range",
+            "label": ""
+        },
+        {
+            "source": "fraser",
+            "target": "peak hill",
+            "label": "of"
+        },
+        {
+            "source": "fraser",
+            "target": "western australia",
+            "label": "of,"
+        },
+        {
+            "source": "fraser",
+            "target": "robinson range",
+            "label": ""
+        },
+        {
+            "source": "fraser",
+            "target": "murchison",
+            "label": ""
+        },
+        {
+            "source": "chert",
+            "target": "jasper",
+            "label": "of"
+        },
+        {
+            "source": "chert",
+            "target": "peak hill",
+            "label": ""
+        },
+        {
+            "source": "chert",
+            "target": "ironstone",
+            "label": ""
+        },
+        {
+            "source": "chert",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "chert",
+            "target": "shale",
+            "label": ""
+        },
+        {
+            "source": "chert",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "chert",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "jasper",
+            "target": "ironstone",
+            "label": "of,"
+        },
+        {
+            "source": "jasper",
+            "target": "chert",
+            "label": ""
         },
         {
             "source": "granules",
             "target": "chert",
-            "label": [
-                "of"
-            ]
+            "label": "of"
         },
         {
             "source": "granules",
             "target": "shale",
-            "label": []
+            "label": ""
         },
         {
-            "source": "granules",
-            "target": "hematite",
-            "label": []
+            "source": "nabberu basin",
+            "target": "western australia",
+            "label": "of,"
         },
         {
-            "source": "sedimentary rock",
+            "source": "nabberu basin",
+            "target": "precambrian",
+            "label": "of"
+        },
+        {
+            "source": "labouchere formation",
+            "target": "robinson range",
+            "label": "on"
+        },
+        {
+            "source": "labouchere formation",
+            "target": "horseshoe",
+            "label": ""
+        },
+        {
+            "source": "feldspar",
+            "target": "sandstone",
+            "label": ""
+        },
+        {
+            "source": "siltstone",
+            "target": "quartz",
+            "label": "with,"
+        },
+        {
+            "source": "siltstone",
+            "target": "sandstone",
+            "label": "with"
+        },
+        {
+            "source": "siltstone",
+            "target": "robinson range",
+            "label": ""
+        },
+        {
+            "source": "base metal",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "base metal",
+            "target": "precious metals",
+            "label": ""
+        },
+        {
+            "source": "base metal",
+            "target": "uranium",
+            "label": ""
+        },
+        {
+            "source": "base metal",
+            "target": "manganese",
+            "label": ""
+        },
+        {
+            "source": "base metal",
+            "target": "precious metal",
+            "label": ""
+        },
+        {
+            "source": "uranium",
             "target": "peak hill",
-            "label": [
-                "1:250,000 sheet"
-            ]
+            "label": ""
+        },
+        {
+            "source": "uranium",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "uranium",
+            "target": "base metal",
+            "label": ""
+        },
+        {
+            "source": "earaheedy group",
+            "target": "iron formations",
+            "label": ""
+        },
+        {
+            "source": "earaheedy group",
+            "target": "robinson range formation",
+            "label": ""
+        },
+        {
+            "source": "pilbara region",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "granular iron formation",
+            "target": "robinson range formation",
+            "label": "of,"
+        },
+        {
+            "source": "sandstones",
+            "target": "boulder",
+            "label": ""
+        },
+        {
+            "source": "conglomerates",
+            "target": "sandstone",
+            "label": ""
+        },
+        {
+            "source": "muds",
+            "target": "wilthorpe conglomerate",
+            "label": ""
+        },
+        {
+            "source": "wilthorpe conglomerate",
+            "target": "chert",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "shale",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "homestead",
+            "target": "midwest",
+            "label": ""
+        },
+        {
+            "source": "precious metal",
+            "target": "base metal",
+            "label": ""
+        },
+        {
+            "source": "granite",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "yilgarn block",
+            "target": "peak hill",
+            "label": ""
+        },
+        {
+            "source": "yilgarn block",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "silicates",
+            "target": "chert",
+            "label": ""
+        },
+        {
+            "source": "capricorn orogen",
+            "target": "precambrian",
+            "label": ""
+        },
+        {
+            "source": "sediment",
+            "target": "labouchere formation",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "hematite",
+            "label": ""
         },
         {
             "source": "wilthorpe formation",
             "target": "wilthorpe conglomerate",
-            "label": "[current_of]"
+            "label": "current_of"
+        },
+        {
+            "source": "archean",
+            "target": "robinson range",
+            "label": ""
+        },
+        {
+            "source": "archean",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "direct shipping ore",
+            "target": "midwest",
+            "label": ""
         }
     ]
 }
