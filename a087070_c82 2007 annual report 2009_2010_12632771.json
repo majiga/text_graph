@@ -3,22 +3,22 @@
         {
             "id": "perth",
             "group": "LOCATION",
-            "degree": 7
+            "degree": 6
         },
         {
             "id": "geraldton",
             "group": "LOCATION",
-            "degree": 19
+            "degree": 17
         },
         {
             "id": "karara",
             "group": "LOCATION",
-            "degree": 40
+            "degree": 42
         },
         {
             "id": "iron ore",
             "group": "ORE_DEPOSIT",
-            "degree": 19
+            "degree": 21
         },
         {
             "id": "magnetite",
@@ -28,12 +28,12 @@
         {
             "id": "mid west",
             "group": "LOCATION",
-            "degree": 11
+            "degree": 10
         },
         {
             "id": "hematite",
             "group": "MINERAL",
-            "degree": 17
+            "degree": 16
         },
         {
             "id": "western australia",
@@ -43,7 +43,7 @@
         {
             "id": "direct shipping ore",
             "group": "ORE_DEPOSIT",
-            "degree": 11
+            "degree": 13
         },
         {
             "id": "koolanooka",
@@ -53,7 +53,7 @@
         {
             "id": "iron",
             "group": "MINERAL",
-            "degree": 19
+            "degree": 20
         },
         {
             "id": "lag",
@@ -63,7 +63,7 @@
         {
             "id": "silica",
             "group": "MINERAL",
-            "degree": 4
+            "degree": 3
         },
         {
             "id": "sulphur",
@@ -78,7 +78,7 @@
         {
             "id": "south west",
             "group": "LOCATION",
-            "degree": 4
+            "degree": 5
         },
         {
             "id": "magnetite deposit",
@@ -88,12 +88,12 @@
         {
             "id": "laterite",
             "group": "ROCK",
-            "degree": 3
+            "degree": 5
         },
         {
             "id": "ferricrete",
             "group": "ROCK",
-            "degree": 3
+            "degree": 4
         },
         {
             "id": "silcrete",
@@ -103,32 +103,32 @@
         {
             "id": "morawa",
             "group": "LOCATION",
-            "degree": 7
+            "degree": 10
         },
         {
             "id": "gindalbie",
             "group": "LOCATION",
-            "degree": 12
+            "degree": 9
         },
         {
             "id": "murchison",
             "group": "LOCATION",
-            "degree": 5
+            "degree": 6
         },
         {
             "id": "eneabba",
             "group": "LOCATION",
-            "degree": 5
+            "degree": 3
         },
         {
             "id": "karara mine",
             "group": "LOCATION",
-            "degree": 3
+            "degree": 2
         },
         {
             "id": "windaning formation",
             "group": "STRAT",
-            "degree": 7
+            "degree": 9
         },
         {
             "id": "jasper",
@@ -138,17 +138,17 @@
         {
             "id": "gold",
             "group": "MINERAL",
-            "degree": 4
+            "degree": 3
         },
         {
             "id": "mingenew",
             "group": "LOCATION",
-            "degree": 3
+            "degree": 4
         },
         {
             "id": "yalgoo",
             "group": "LOCATION",
-            "degree": 4
+            "degree": 5
         },
         {
             "id": "greenstone belt",
@@ -158,22 +158,17 @@
         {
             "id": "golconda formation",
             "group": "STRAT",
-            "degree": 2
+            "degree": 3
         },
         {
             "id": "perenjori",
             "group": "LOCATION",
-            "degree": 7
+            "degree": 3
         },
         {
             "id": "rothsay",
             "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "clays",
-            "group": "ROCK",
-            "degree": 8
+            "degree": 4
         },
         {
             "id": "mafic volcanics",
@@ -183,17 +178,17 @@
         {
             "id": "sediments",
             "group": "ROCK",
-            "degree": 8
+            "degree": 5
         },
         {
             "id": "chert",
             "group": "ROCK",
-            "degree": 2
+            "degree": 1
         },
         {
             "id": "saprolite",
             "group": "ROCK",
-            "degree": 2
+            "degree": 1
         },
         {
             "id": "goethite",
@@ -213,17 +208,17 @@
         {
             "id": "silt",
             "group": "ROCK",
-            "degree": 3
+            "degree": 4
         },
         {
             "id": "sand",
             "group": "ROCK",
-            "degree": 5
+            "degree": 6
         },
         {
             "id": "clay",
             "group": "ROCK",
-            "degree": 3
+            "degree": 9
         },
         {
             "id": "regolith",
@@ -233,27 +228,22 @@
         {
             "id": "diamond",
             "group": "MINERAL",
-            "degree": 3
+            "degree": 5
         },
         {
             "id": "quartz",
             "group": "MINERAL",
-            "degree": 3
+            "degree": 2
         },
         {
             "id": "saprock",
             "group": "ROCK",
-            "degree": 4
+            "degree": 3
         },
         {
-            "id": "sands",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "gravels",
-            "group": "ROCK",
-            "degree": 5
+            "id": "quaternary",
+            "group": "TIMESCALE",
+            "degree": 2
         },
         {
             "id": "colluvium",
@@ -261,29 +251,19 @@
             "degree": 2
         },
         {
-            "id": "silts",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "quaternary",
-            "group": "TIMESCALE",
-            "degree": 1
+            "id": "pilbara",
+            "group": "LOCATION",
+            "degree": 7
         },
         {
             "id": "hamersley",
             "group": "LOCATION",
-            "degree": 3
-        },
-        {
-            "id": "pilbara",
-            "group": "LOCATION",
-            "degree": 6
+            "degree": 2
         },
         {
             "id": "oxide",
             "group": "MINERAL",
-            "degree": 2
+            "degree": 1
         },
         {
             "id": "yandanooka",
@@ -293,11 +273,16 @@
         {
             "id": "dollar",
             "group": "MINERAL",
-            "degree": 3
+            "degree": 1
         },
         {
             "id": "lead",
             "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "greenstone sequence",
+            "group": "ROCK",
             "degree": 1
         },
         {
@@ -306,8 +291,8 @@
             "degree": 1
         },
         {
-            "id": "greenstone sequence",
-            "group": "ROCK",
+            "id": "supergene",
+            "group": "ORE_DEPOSIT",
             "degree": 1
         },
         {
@@ -323,7 +308,7 @@
         {
             "id": "banded iron formation",
             "group": "ROCK",
-            "degree": 18
+            "degree": 21
         },
         {
             "id": "archean",
@@ -335,12 +320,12 @@
         {
             "source": "perth",
             "target": "geraldton",
-            "label": "to,"
+            "label": "to"
         },
         {
             "source": "perth",
             "target": "gold",
-            "label": "for,"
+            "label": "for"
         },
         {
             "source": "perth",
@@ -351,11 +336,6 @@
             "source": "perth",
             "target": "magnetite",
             "label": "will produce"
-        },
-        {
-            "source": "perth",
-            "target": "western australia",
-            "label": ""
         },
         {
             "source": "geraldton",
@@ -365,7 +345,7 @@
         {
             "source": "geraldton",
             "target": "karara",
-            "label": "with,"
+            "label": "with"
         },
         {
             "source": "geraldton",
@@ -375,7 +355,12 @@
         {
             "source": "geraldton",
             "target": "rothsay",
-            "label": "on,"
+            "label": "on"
+        },
+        {
+            "source": "geraldton",
+            "target": "magnetite",
+            "label": ""
         },
         {
             "source": "geraldton",
@@ -389,53 +374,43 @@
         },
         {
             "source": "geraldton",
-            "target": "gindalbie",
-            "label": ""
-        },
-        {
-            "source": "geraldton",
             "target": "iron ore",
             "label": ""
         },
         {
             "source": "geraldton",
-            "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "geraldton",
-            "target": "perth western australia",
+            "target": "yalgoo",
             "label": ""
         },
         {
             "source": "karara",
             "target": "koolanooka",
-            "label": "to,"
+            "label": "to"
         },
         {
             "source": "karara",
             "target": "geraldton",
-            "label": "to,of,"
+            "label": "to,of"
         },
         {
             "source": "karara",
             "target": "morawa",
-            "label": "to,"
+            "label": "to"
         },
         {
             "source": "karara",
             "target": "hematite",
-            "label": "covers,"
+            "label": "covers"
         },
         {
             "source": "karara",
             "target": "iron ore",
-            "label": "hosts,"
+            "label": "hosts"
         },
         {
             "source": "karara",
             "target": "western australia",
-            "label": "in,"
+            "label": "in"
         },
         {
             "source": "karara",
@@ -444,11 +419,6 @@
         },
         {
             "source": "karara",
-            "target": "mid west",
-            "label": ""
-        },
-        {
-            "source": "karara",
             "target": "gindalbie",
             "label": ""
         },
@@ -459,17 +429,7 @@
         },
         {
             "source": "karara",
-            "target": "homestead",
-            "label": ""
-        },
-        {
-            "source": "karara",
-            "target": "gravel",
-            "label": ""
-        },
-        {
-            "source": "karara",
-            "target": "sediments",
+            "target": "direct shipping ore",
             "label": ""
         },
         {
@@ -479,12 +439,12 @@
         },
         {
             "source": "karara",
-            "target": "pilbara",
+            "target": "diamond",
             "label": ""
         },
         {
             "source": "karara",
-            "target": "magnetite",
+            "target": "hamersley",
             "label": ""
         },
         {
@@ -494,63 +454,53 @@
         },
         {
             "source": "karara",
+            "target": "magnetite",
+            "label": ""
+        },
+        {
+            "source": "karara",
+            "target": "mid west",
+            "label": ""
+        },
+        {
+            "source": "karara",
             "target": "yandanooka",
             "label": ""
         },
         {
             "source": "karara",
-            "target": "dollar",
+            "target": "pilbara",
             "label": ""
         },
         {
             "source": "karara",
-            "target": "eneabba",
+            "target": "lead",
             "label": ""
         },
         {
             "source": "karara",
-            "target": "mingenew",
-            "label": ""
-        },
-        {
-            "source": "karara",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "karara",
-            "target": "direct shipping ore",
+            "target": "banded iron formation",
             "label": ""
         },
         {
             "source": "iron ore",
             "target": "karara",
-            "label": "from,"
+            "label": "from"
         },
         {
             "source": "iron ore",
             "target": "gindalbie",
-            "label": "signed with,"
+            "label": "signed with"
         },
         {
             "source": "iron ore",
             "target": "western australia",
-            "label": "of,"
+            "label": "of"
         },
         {
             "source": "iron ore",
             "target": "lag",
-            "label": "comprised,"
-        },
-        {
-            "source": "iron ore",
-            "target": "geraldton",
-            "label": ""
-        },
-        {
-            "source": "iron ore",
-            "target": "windaning formation",
-            "label": ""
+            "label": "comprised"
         },
         {
             "source": "iron ore",
@@ -569,18 +519,33 @@
         },
         {
             "source": "iron ore",
+            "target": "perth",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "diamond",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
             "target": "direct shipping ore",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "banded iron formation",
             "label": ""
         },
         {
             "source": "magnetite",
             "target": "mid west",
-            "label": "located in,"
+            "label": "located in"
         },
         {
             "source": "magnetite",
             "target": "karara",
-            "label": "from,of,"
+            "label": "from,of"
         },
         {
             "source": "magnetite",
@@ -589,17 +554,7 @@
         },
         {
             "source": "magnetite",
-            "target": "direct shipping ore",
-            "label": "hosted"
-        },
-        {
-            "source": "magnetite",
-            "target": "perth western australia",
-            "label": ""
-        },
-        {
-            "source": "magnetite",
-            "target": "gravel",
+            "target": "western australia",
             "label": ""
         },
         {
@@ -609,7 +564,7 @@
         },
         {
             "source": "magnetite",
-            "target": "oxide",
+            "target": "perth western australia",
             "label": ""
         },
         {
@@ -619,27 +574,42 @@
         },
         {
             "source": "magnetite",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "direct shipping ore",
+            "label": "hosted"
+        },
+        {
+            "source": "magnetite",
             "target": "banded iron formation",
             "label": ""
         },
         {
             "source": "mid west",
             "target": "western australia",
-            "label": "of,"
+            "label": "of"
         },
         {
             "source": "mid west",
-            "target": "magnetite",
+            "target": "karara",
             "label": ""
         },
         {
             "source": "mid west",
-            "target": "iron ore",
+            "target": "gindalbie",
             "label": ""
         },
         {
             "source": "mid west",
-            "target": "banded iron formation",
+            "target": "windaning formation",
+            "label": ""
+        },
+        {
+            "source": "mid west",
+            "target": "geraldton",
             "label": ""
         },
         {
@@ -650,16 +620,16 @@
         {
             "source": "hematite",
             "target": "karara",
-            "label": "from,"
+            "label": "from"
         },
         {
             "source": "hematite",
             "target": "magnetite",
-            "label": "followed by,plus,"
+            "label": "followed by,plus"
         },
         {
             "source": "hematite",
-            "target": "iron ore",
+            "target": "perth western australia",
             "label": ""
         },
         {
@@ -669,7 +639,7 @@
         },
         {
             "source": "hematite",
-            "target": "pilbara",
+            "target": "hamersley",
             "label": ""
         },
         {
@@ -680,16 +650,11 @@
         {
             "source": "hematite",
             "target": "banded iron formation",
-            "label": "within,"
+            "label": "within"
         },
         {
-            "source": "western australia",
-            "target": "magnetite",
-            "label": ""
-        },
-        {
-            "source": "western australia",
-            "target": "karara",
+            "source": "hematite",
+            "target": "direct shipping ore",
             "label": ""
         },
         {
@@ -699,12 +664,22 @@
         },
         {
             "source": "western australia",
+            "target": "murchison",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "karara",
+            "label": ""
+        },
+        {
+            "source": "western australia",
             "target": "perth",
             "label": ""
         },
         {
             "source": "western australia",
-            "target": "mid west",
+            "target": "direct shipping ore",
             "label": ""
         },
         {
@@ -714,28 +689,28 @@
         },
         {
             "source": "direct shipping ore",
-            "target": "magnetite",
-            "label": ""
-        },
-        {
-            "source": "direct shipping ore",
             "target": "iron",
             "label": ""
         },
         {
             "source": "direct shipping ore",
-            "target": "perth",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "direct shipping ore",
+            "target": "supergene",
             "label": ""
         },
         {
             "source": "iron",
             "target": "lag",
-            "label": "within,"
+            "label": "within"
         },
         {
             "source": "iron",
             "target": "silica",
-            "label": "with,"
+            "label": "with"
         },
         {
             "source": "iron",
@@ -749,17 +724,22 @@
         },
         {
             "source": "iron",
-            "target": "karara",
-            "label": ""
-        },
-        {
-            "source": "iron",
             "target": "gravel",
             "label": ""
         },
         {
             "source": "iron",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "iron",
             "target": "magnetite",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "karara",
             "label": ""
         },
         {
@@ -779,7 +759,7 @@
         },
         {
             "source": "iron",
-            "target": "gravels",
+            "target": "banded iron formation",
             "label": ""
         },
         {
@@ -789,23 +769,28 @@
         },
         {
             "source": "lag",
-            "target": "diamond",
+            "target": "iron ore",
             "label": ""
         },
         {
             "source": "silica",
-            "target": "sulphur",
+            "target": "banded iron formation",
             "label": ""
         },
         {
-            "source": "silica",
-            "target": "saprolite",
+            "source": "sulphur",
+            "target": "silica",
             "label": ""
         },
         {
             "source": "gravel",
             "target": "hematite",
             "label": "including"
+        },
+        {
+            "source": "gravel",
+            "target": "karara",
+            "label": ""
         },
         {
             "source": "gravel",
@@ -819,22 +804,22 @@
         },
         {
             "source": "gravel",
-            "target": "ferricrete",
-            "label": ""
-        },
-        {
-            "source": "gravel",
-            "target": "quartz",
-            "label": ""
-        },
-        {
-            "source": "gravel",
-            "target": "silt",
+            "target": "magnetite",
             "label": ""
         },
         {
             "source": "gravel",
             "target": "morawa",
+            "label": ""
+        },
+        {
+            "source": "gravel",
+            "target": "colluvium",
+            "label": ""
+        },
+        {
+            "source": "gravel",
+            "target": "gindalbie",
             "label": ""
         },
         {
@@ -849,7 +834,7 @@
         },
         {
             "source": "south west",
-            "target": "perth western australia",
+            "target": "diamond",
             "label": ""
         },
         {
@@ -870,11 +855,21 @@
         {
             "source": "laterite",
             "target": "silcrete",
-            "label": "comprised,"
+            "label": "comprised"
         },
         {
             "source": "laterite",
+            "target": "sand",
+            "label": ""
+        },
+        {
+            "source": "ferricrete",
             "target": "gravel",
+            "label": ""
+        },
+        {
+            "source": "ferricrete",
+            "target": "laterite",
             "label": ""
         },
         {
@@ -885,7 +880,7 @@
         {
             "source": "morawa",
             "target": "geraldton",
-            "label": "to,"
+            "label": "to"
         },
         {
             "source": "morawa",
@@ -898,13 +893,28 @@
             "label": ""
         },
         {
-            "source": "gindalbie",
-            "target": "karara",
-            "label": "developing,of,centered around,"
+            "source": "morawa",
+            "target": "mingenew",
+            "label": ""
+        },
+        {
+            "source": "morawa",
+            "target": "rothsay",
+            "label": ""
+        },
+        {
+            "source": "morawa",
+            "target": "iron ore",
+            "label": ""
         },
         {
             "source": "gindalbie",
-            "target": "hematite",
+            "target": "karara",
+            "label": "developing,of,centered around"
+        },
+        {
+            "source": "gindalbie",
+            "target": "geraldton",
             "label": ""
         },
         {
@@ -914,28 +924,13 @@
         },
         {
             "source": "gindalbie",
-            "target": "geraldton",
-            "label": ""
-        },
-        {
-            "source": "gindalbie",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "gindalbie",
             "target": "direct shipping ore",
-            "label": ""
-        },
-        {
-            "source": "gindalbie",
-            "target": "banded iron formation",
             "label": ""
         },
         {
             "source": "murchison",
             "target": "western australia",
-            "label": "of,"
+            "label": "of"
         },
         {
             "source": "murchison",
@@ -958,11 +953,6 @@
             "label": ""
         },
         {
-            "source": "karara mine",
-            "target": "eneabba",
-            "label": ""
-        },
-        {
             "source": "windaning formation",
             "target": "jasper",
             "label": "of"
@@ -971,6 +961,16 @@
             "source": "windaning formation",
             "target": "magnetite",
             "label": "to host"
+        },
+        {
+            "source": "windaning formation",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "windaning formation",
+            "target": "banded iron formation",
+            "label": ""
         },
         {
             "source": "windaning formation",
@@ -988,18 +988,28 @@
             "label": ""
         },
         {
+            "source": "gold",
+            "target": "karara",
+            "label": ""
+        },
+        {
             "source": "mingenew",
             "target": "geraldton",
-            "label": "at,"
+            "label": "at"
+        },
+        {
+            "source": "mingenew",
+            "target": "karara",
+            "label": ""
         },
         {
             "source": "yalgoo",
             "target": "murchison",
-            "label": "in,"
+            "label": "in"
         },
         {
             "source": "yalgoo",
-            "target": "perenjori",
+            "target": "morawa",
             "label": ""
         },
         {
@@ -1008,58 +1018,28 @@
             "label": "in"
         },
         {
+            "source": "golconda formation",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
             "source": "perenjori",
             "target": "yalgoo",
             "label": "within"
         },
         {
-            "source": "perenjori",
+            "source": "rothsay",
+            "target": "yalgoo",
+            "label": "within"
+        },
+        {
+            "source": "rothsay",
             "target": "iron ore",
             "label": ""
         },
         {
-            "source": "perenjori",
-            "target": "gindalbie",
-            "label": ""
-        },
-        {
-            "source": "perenjori",
-            "target": "morawa",
-            "label": ""
-        },
-        {
-            "source": "rothsay",
-            "target": "yalgoo",
-            "label": "within,"
-        },
-        {
-            "source": "clays",
-            "target": "mafic volcanics",
-            "label": "derived from"
-        },
-        {
-            "source": "clays",
-            "target": "sediments",
-            "label": "derived from"
-        },
-        {
-            "source": "clays",
-            "target": "chert",
-            "label": "(interpreted as mafic volcanics)"
-        },
-        {
-            "source": "clays",
-            "target": "quaternary",
-            "label": ""
-        },
-        {
-            "source": "clays",
-            "target": "banded iron formation",
-            "label": ""
-        },
-        {
             "source": "mafic volcanics",
-            "target": "sediments",
+            "target": "banded iron formation",
             "label": ""
         },
         {
@@ -1073,21 +1053,6 @@
             "label": ""
         },
         {
-            "source": "sediments",
-            "target": "saprock",
-            "label": ""
-        },
-        {
-            "source": "sediments",
-            "target": "banded iron formation",
-            "label": ""
-        },
-        {
-            "source": "chert",
-            "target": "clays",
-            "label": ""
-        },
-        {
             "source": "goethite",
             "target": "hematite",
             "label": ""
@@ -1099,7 +1064,7 @@
         },
         {
             "source": "perth western australia",
-            "target": "hematite",
+            "target": "magnetite",
             "label": ""
         },
         {
@@ -1108,13 +1073,23 @@
             "label": ""
         },
         {
+            "source": "perth western australia",
+            "target": "south west",
+            "label": ""
+        },
+        {
+            "source": "homestead",
+            "target": "karara",
+            "label": ""
+        },
+        {
             "source": "silt",
             "target": "karara",
             "label": ""
         },
         {
             "source": "silt",
-            "target": "sand",
+            "target": "laterite",
             "label": ""
         },
         {
@@ -1128,9 +1103,34 @@
             "label": ""
         },
         {
+            "source": "sand",
+            "target": "quaternary",
+            "label": ""
+        },
+        {
             "source": "clay",
             "target": "iron",
             "label": ""
+        },
+        {
+            "source": "clay",
+            "target": "silt",
+            "label": ""
+        },
+        {
+            "source": "clay",
+            "target": "mafic volcanics",
+            "label": "derived from"
+        },
+        {
+            "source": "clay",
+            "target": "sediments",
+            "label": "derived from"
+        },
+        {
+            "source": "clay",
+            "target": "chert",
+            "label": "(interpreted as mafic volcanics)"
         },
         {
             "source": "regolith",
@@ -1139,12 +1139,12 @@
         },
         {
             "source": "regolith",
-            "target": "saprock",
+            "target": "magnetite",
             "label": ""
         },
         {
             "source": "regolith",
-            "target": "magnetite",
+            "target": "saprock",
             "label": ""
         },
         {
@@ -1178,48 +1178,23 @@
             "label": ""
         },
         {
-            "source": "sands",
-            "target": "gravels",
-            "label": ""
-        },
-        {
-            "source": "gravels",
-            "target": "colluvium",
-            "label": ""
-        },
-        {
-            "source": "gravels",
-            "target": "clays",
+            "source": "quaternary",
+            "target": "clay",
             "label": ""
         },
         {
             "source": "colluvium",
-            "target": "silts",
+            "target": "silt",
             "label": ""
         },
         {
-            "source": "silts",
-            "target": "gravels",
-            "label": ""
-        },
-        {
-            "source": "hamersley",
+            "source": "pilbara",
             "target": "hematite",
             "label": ""
         },
         {
-            "source": "hamersley",
-            "target": "iron",
-            "label": ""
-        },
-        {
             "source": "pilbara",
             "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "pilbara",
-            "target": "hamersley",
             "label": ""
         },
         {
@@ -1228,8 +1203,8 @@
             "label": ""
         },
         {
-            "source": "oxide",
-            "target": "banded iron formation",
+            "source": "pilbara",
+            "target": "karara",
             "label": ""
         },
         {
@@ -1239,22 +1214,12 @@
         },
         {
             "source": "dollar",
-            "target": "mid west",
-            "label": ""
-        },
-        {
-            "source": "dollar",
-            "target": "geraldton",
-            "label": ""
-        },
-        {
-            "source": "lead",
             "target": "karara",
             "label": ""
         },
         {
-            "source": "granitoid",
-            "target": "greenstone sequence",
+            "source": "greenstone sequence",
+            "target": "granitoid",
             "label": ""
         },
         {
@@ -1265,17 +1230,12 @@
         {
             "source": "banded iron formation",
             "target": "golconda formation",
-            "label": "hosted by,within,"
+            "label": "hosted by,within"
         },
         {
             "source": "banded iron formation",
             "target": "magnetite",
-            "label": "to host,"
-        },
-        {
-            "source": "banded iron formation",
-            "target": "clays",
-            "label": "with,"
+            "label": "to host"
         },
         {
             "source": "banded iron formation",
@@ -1284,12 +1244,12 @@
         },
         {
             "source": "banded iron formation",
-            "target": "windaning formation",
+            "target": "sediments",
             "label": ""
         },
         {
             "source": "banded iron formation",
-            "target": "karara",
+            "target": "oxide",
             "label": ""
         },
         {
@@ -1304,12 +1264,22 @@
         },
         {
             "source": "banded iron formation",
-            "target": "silica",
+            "target": "goethite",
             "label": ""
         },
         {
             "source": "banded iron formation",
-            "target": "goethite",
+            "target": "windaning formation",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "clay",
+            "label": "with"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "gravel",
             "label": ""
         },
         {
