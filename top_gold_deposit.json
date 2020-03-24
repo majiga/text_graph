@@ -80,7 +80,7 @@
         {
             "source": "sulphide",
             "target": "gold",
-            "label": "hosted,of,related,associated with"
+            "label": "hosted,related,associated with"
         },
         {
             "source": "sulphide",
@@ -195,12 +195,12 @@
         {
             "source": "gold",
             "target": "quartz",
-            "label": "along,observed in,occurs in,identified associated with,associated with,occurs within,of,in,identified in"
+            "label": "observed in,occurs in,associated with,occurs within,identified in"
         },
         {
             "source": "gold",
             "target": "gold deposit",
-            "label": "deduced from,for,at"
+            "label": "deduced from,at"
         },
         {
             "source": "gold",
@@ -215,12 +215,12 @@
         {
             "source": "gold",
             "target": "coolgardie",
-            "label": "mined in,within,occurrences,discovered in,in,of,exists in,at"
+            "label": "mined in,within,occurrences,discovered in,of,exists in,at,in"
         },
         {
             "source": "gold",
             "target": "sulphide",
-            "label": ",of,associated with"
+            "label": "of,associated with"
         },
         {
             "source": "gold",
@@ -240,7 +240,7 @@
         {
             "source": "gold",
             "target": "quartz vein",
-            "label": ",associated with,established in"
+            "label": "associated with,established in"
         },
         {
             "source": "gold",
@@ -280,7 +280,7 @@
         {
             "source": "amphibolite",
             "target": "coolgardie",
-            "label": "facies,in,hosted"
+            "label": "in,hosted in"
         },
         {
             "source": "amphibolite",
@@ -340,7 +340,7 @@
         {
             "source": "quartz",
             "target": "sulphide",
-            "label": ",with"
+            "label": "with"
         },
         {
             "source": "quartz",
@@ -365,7 +365,7 @@
         {
             "source": "coolgardie",
             "target": "gold",
-            "label": "including,associated with,for,to,on,of"
+            "label": "including,associated with,for,on,of"
         },
         {
             "source": "coolgardie",
@@ -545,7 +545,7 @@
         {
             "source": "kalgoorlie",
             "target": "coolgardie",
-            "label": "of,austminex"
+            "label": "of"
         },
         {
             "source": "kalgoorlie",
@@ -590,7 +590,7 @@
         {
             "source": "archean",
             "target": "coolgardie",
-            "label": "facies,in,recognised in,within"
+            "label": "recognised in,within"
         },
         {
             "source": "archean",
