@@ -1,0 +1,56 @@
+{
+    "nodes": [
+        {
+            "id": "laterite",
+            "group": "ROCK",
+            "degree": "8"
+        },
+        {
+            "id": "magnetite",
+            "group": "MINERAL",
+            "degree": "21"
+        },
+        {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": "50"
+        },
+        {
+            "id": "pilbara",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "hematite",
+            "group": "MINERAL",
+            "degree": "10"
+        },
+        {
+            "id": "archean",
+            "group": "TIMESCALE",
+            "degree": "100"
+        }
+    ],
+    "links": [
+        {
+            "source": "magnetite",
+            "target": "hematite",
+            "label": ",to"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "laterite",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "archean",
+            "label": ""
+        }
+    ]
+}
