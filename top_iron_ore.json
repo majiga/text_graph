@@ -105,12 +105,12 @@
         {
             "source": "goethite",
             "target": "hematite",
-            "label": ",with,note,compared to,in,locked within"
+            "label": "compared to,locked within,in,with,note"
         },
         {
             "source": "goethite",
             "target": "banded iron formation",
-            "label": "within,topping,of,with,on,of,interbedded with,may occur at"
+            "label": "interbedded with,of,topping,with,on,within,may occur at"
         },
         {
             "source": "goethite",
@@ -165,12 +165,12 @@
         {
             "source": "magnetite",
             "target": "banded iron formation",
-            "label": ",within"
+            "label": "within"
         },
         {
             "source": "magnetite",
             "target": "goethite",
-            "label": ",to hematite"
+            "label": "to hematite"
         },
         {
             "source": "laterite",
@@ -180,12 +180,12 @@
         {
             "source": "banded iron formation",
             "target": "magnetite",
-            "label": "to host,with,recovered"
+            "label": "with,recovered,to host"
         },
         {
             "source": "banded iron formation",
             "target": "goethite",
-            "label": ",to,undergone weathering with"
+            "label": "undergone weathering with,to"
         },
         {
             "source": "banded iron formation",
@@ -195,12 +195,12 @@
         {
             "source": "banded iron formation",
             "target": "robinson range formation",
-            "label": ",of"
+            "label": "of"
         },
         {
             "source": "banded iron formation",
             "target": "hematite",
-            "label": ",to,undergone weathering with,by,of"
+            "label": "of,undergone weathering with,by,to"
         },
         {
             "source": "banded iron formation",
@@ -265,7 +265,7 @@
         {
             "source": "iron ore deposits",
             "target": "banded iron formation",
-            "label": ",located within"
+            "label": "located within"
         },
         {
             "source": "iron ore deposits",
@@ -330,7 +330,7 @@
         {
             "source": "hematite",
             "target": "magnetite",
-            "label": "followed by,plus,of"
+            "label": "of,followed by,plus"
         },
         {
             "source": "hematite",
@@ -340,7 +340,7 @@
         {
             "source": "hematite",
             "target": "banded iron formation",
-            "label": "within,in,observed within,topping,of,of,interbedded with,may occur at"
+            "label": "interbedded with,observed within,in,of,topping,within,may occur at"
         },
         {
             "source": "hematite",
@@ -355,7 +355,7 @@
         {
             "source": "hematite",
             "target": "goethite",
-            "label": "with,grading into,(with variable degrees of alteration between these minerals),of"
+            "label": "of,(with variable degrees of alteration between these minerals),with,grading into"
         },
         {
             "source": "hematite",

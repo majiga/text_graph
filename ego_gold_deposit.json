@@ -2040,7 +2040,7 @@
         {
             "source": "greenstone",
             "target": "western australia",
-            "label": "of,of,in"
+            "label": "of,in"
         },
         {
             "source": "greenstone",
@@ -2320,12 +2320,12 @@
         {
             "source": "kalgoorlie",
             "target": "carosue dam",
-            "label": "via,from"
+            "label": "from,via"
         },
         {
             "source": "kalgoorlie",
             "target": "western australia",
-            "label": ",in,of,in,of"
+            "label": ",of,in"
         },
         {
             "source": "kalgoorlie",
@@ -2335,7 +2335,7 @@
         {
             "source": "kalgoorlie",
             "target": "coolgardie",
-            "label": "austminex,of"
+            "label": "of,austminex"
         },
         {
             "source": "kalgoorlie",
@@ -2420,7 +2420,7 @@
         {
             "source": "western australia",
             "target": "gold",
-            "label": "on,for"
+            "label": "for,on"
         },
         {
             "source": "western australia",
@@ -2450,7 +2450,7 @@
         {
             "source": "western australia",
             "target": "archean",
-            "label": "on,subdivided into"
+            "label": "subdivided into,on"
         },
         {
             "source": "western australia",
@@ -2665,7 +2665,7 @@
         {
             "source": "coolgardie",
             "target": "western australia",
-            "label": "to,certificates coolgardie,for,of,in,for,of"
+            "label": "certificates coolgardie,for,to,of,in"
         },
         {
             "source": "coolgardie",
@@ -2675,7 +2675,7 @@
         {
             "source": "coolgardie",
             "target": "greenstone belt",
-            "label": "for,demonstrated,of"
+            "label": "of,for,demonstrated"
         },
         {
             "source": "coolgardie",
@@ -2705,17 +2705,17 @@
         {
             "source": "coolgardie",
             "target": "archean",
-            "label": "on,in,on,within"
+            "label": "in,on,within"
         },
         {
             "source": "coolgardie",
             "target": "lode",
-            "label": "associated with,associated with,,intersects"
+            "label": ",associated with,intersects"
         },
         {
             "source": "coolgardie",
             "target": "gold",
-            "label": "associated with,including,on,for,of,for,on,associated with,including,to,associated with,on,for"
+            "label": "including,associated with,for,to,on,of"
         },
         {
             "source": "coolgardie",
@@ -2730,7 +2730,7 @@
         {
             "source": "coolgardie",
             "target": "goldfields",
-            "label": "in,of,located in,in,undulating by"
+            "label": "undulating by,of,located in,in"
         },
         {
             "source": "coolgardie",
@@ -2835,7 +2835,7 @@
         {
             "source": "coolgardie",
             "target": "basalt",
-            "label": "of,jack sit within,sits within,,of"
+            "label": "jack sit within,of,sits within,"
         },
         {
             "source": "coolgardie",
@@ -2875,7 +2875,7 @@
         {
             "source": "coolgardie",
             "target": "burbanks",
-            "label": ",including,jack sit within,sits within"
+            "label": ",jack sit within,sits within,including"
         },
         {
             "source": "coolgardie",
@@ -2965,7 +2965,7 @@
         {
             "source": "gold",
             "target": "supergene",
-            "label": "at,come from,in"
+            "label": "in,come from,at"
         },
         {
             "source": "gold",
@@ -2975,32 +2975,32 @@
         {
             "source": "gold",
             "target": "porphyry",
-            "label": "distributed within,in"
+            "label": "in,distributed within"
         },
         {
             "source": "gold",
             "target": "pyrite",
-            "label": "of,associated with,associated with,with,at"
+            "label": "of,associated with,with,at"
         },
         {
             "source": "gold",
             "target": "quartz",
-            "label": "of,occurs in,associated with,along,identified associated with,of,in,occurs within,observed in,identified in,associated with,of"
+            "label": "along,observed in,occurs in,identified associated with,associated with,occurs within,of,in,identified in"
         },
         {
             "source": "gold",
             "target": "laverton",
-            "label": "acquired,in,acquired"
+            "label": "acquired,in"
         },
         {
             "source": "gold",
             "target": "gold deposit",
-            "label": "for,at,deduced from"
+            "label": "deduced from,for,at"
         },
         {
             "source": "gold",
             "target": "carosue dam",
-            "label": "at,in,of"
+            "label": "of,in,at"
         },
         {
             "source": "gold",
@@ -3045,7 +3045,7 @@
         {
             "source": "gold",
             "target": "arsenopyrite",
-            "label": ",associated with,associated with,at"
+            "label": ",associated with,at"
         },
         {
             "source": "gold",
@@ -3065,7 +3065,7 @@
         {
             "source": "gold",
             "target": "lode",
-            "label": ",occurs in,in,of,weathering,,occurs within,to,of"
+            "label": ",weathering,occurs in,to,occurs within,of,in"
         },
         {
             "source": "gold",
@@ -3085,7 +3085,7 @@
         {
             "source": "gold",
             "target": "western australia",
-            "label": ",at,of,in"
+            "label": ",of,in,at"
         },
         {
             "source": "gold",
@@ -3100,17 +3100,17 @@
         {
             "source": "gold",
             "target": "dolerite",
-            "label": ",in,on,developed within"
+            "label": ",developed within,in,on"
         },
         {
             "source": "gold",
             "target": "coolgardie",
-            "label": "in,mined in,of,within,occurrences,discovered in,at,in,discovered in,of,exists in,mined in,discovered in,of,in,mined in,within,at"
+            "label": "mined in,within,occurrences,discovered in,in,of,exists in,at"
         },
         {
             "source": "gold",
             "target": "perseverance",
-            "label": "at,from"
+            "label": "from,at"
         },
         {
             "source": "gold",
@@ -3120,12 +3120,12 @@
         {
             "source": "gold",
             "target": "sulphide",
-            "label": ",associated with,of"
+            "label": ",of,associated with"
         },
         {
             "source": "gold",
             "target": "diorite",
-            "label": "in,intersected in,,in,through"
+            "label": ",in,intersected in,through"
         },
         {
             "source": "gold",
@@ -3140,7 +3140,7 @@
         {
             "source": "gold",
             "target": "pyrrhotite",
-            "label": "associated with,hosted in,at"
+            "label": "at,associated with,hosted in"
         },
         {
             "source": "gold",
@@ -3180,7 +3180,7 @@
         {
             "source": "gold",
             "target": "arsenic",
-            "label": "in,au"
+            "label": "au,in"
         },
         {
             "source": "gold",
@@ -3210,7 +3210,7 @@
         {
             "source": "gold",
             "target": "yilgarn craton",
-            "label": "at,in"
+            "label": "in,at"
         },
         {
             "source": "gold",
@@ -3220,7 +3220,7 @@
         {
             "source": "gold",
             "target": "gabbro",
-            "label": "in,in differentiated,in"
+            "label": "in differentiated,in"
         },
         {
             "source": "gold",
@@ -3230,7 +3230,7 @@
         {
             "source": "gold",
             "target": "quartz vein",
-            "label": ",established in,associated with"
+            "label": ",associated with,established in"
         },
         {
             "source": "gold",
@@ -3350,7 +3350,7 @@
         {
             "source": "gold",
             "target": "greenstone belt",
-            "label": ",in,,in,within"
+            "label": ",in,within"
         },
         {
             "source": "gold",
@@ -3410,7 +3410,7 @@
         {
             "source": "gold",
             "target": "australia",
-            "label": "associated,report on,report for,of,in"
+            "label": "associated,report for,report on,of,in"
         },
         {
             "source": "gold",
@@ -3470,7 +3470,7 @@
         {
             "source": "gold",
             "target": "banded iron formation",
-            "label": "within,associated with,of underlying,hosted"
+            "label": "associated with,of underlying,hosted,within"
         },
         {
             "source": "gold",
@@ -3810,7 +3810,7 @@
         {
             "source": "yilgarn craton",
             "target": "western australia",
-            "label": "in,selected"
+            "label": "selected,in"
         },
         {
             "source": "yilgarn craton",
@@ -4140,7 +4140,7 @@
         {
             "source": "archean",
             "target": "kalgoorlie terrane",
-            "label": ",of,into,of"
+            "label": ",of,into"
         },
         {
             "source": "archean",
@@ -4160,7 +4160,7 @@
         {
             "source": "archean",
             "target": "coolgardie",
-            "label": "in,facies,within,in,facies,in,recognised in,facies,within"
+            "label": "facies,in,recognised in,within"
         },
         {
             "source": "archean",
@@ -4180,7 +4180,7 @@
         {
             "source": "archean",
             "target": "western australia",
-            "label": "in,facies,in,facies,to,granites of,in,facies"
+            "label": "facies,granites of,in,to"
         },
         {
             "source": "archean",
@@ -4260,7 +4260,7 @@
         {
             "source": "archean",
             "target": "proterozoic",
-            "label": "to,intruded by,within"
+            "label": "intruded by,to,within"
         },
         {
             "source": "archean",
@@ -4545,7 +4545,7 @@
         {
             "source": "lode",
             "target": "quartz",
-            "label": "comprises,,continue to,of,associated with"
+            "label": ",continue to,associated with,comprises,of"
         },
         {
             "source": "lode",
@@ -4570,7 +4570,7 @@
         {
             "source": "lode",
             "target": "gold",
-            "label": "indicate,nt develop,,to,with,of"
+            "label": ",indicate,to,with,nt develop,of"
         },
         {
             "source": "lode",
@@ -4580,7 +4580,7 @@
         {
             "source": "lode",
             "target": "sulphide",
-            "label": "continue to,of,associated with"
+            "label": "of,continue to,associated with"
         },
         {
             "source": "lode",
@@ -4590,7 +4590,7 @@
         {
             "source": "lode",
             "target": "big blow",
-            "label": "drilling at,in,for,,at,for,in"
+            "label": ",drilling at,for,in,at"
         },
         {
             "source": "lode",
@@ -5035,7 +5035,7 @@
         {
             "source": "lode gold deposit",
             "target": "coolgardie",
-            "label": "in,recognized in,in,recognized in,in,recognised in"
+            "label": "recognized in,in,recognised in"
         },
         {
             "source": "lode gold deposit",
@@ -5185,7 +5185,7 @@
         {
             "source": "gold deposit",
             "target": "gold",
-            "label": "with,of,,characterized by,of,,characterized by,including,of,reported in,characterised by,for"
+            "label": ",including,for,reported in,characterised by,with,characterized by,of"
         },
         {
             "source": "gold deposit",
@@ -5200,7 +5200,7 @@
         {
             "source": "gold deposit",
             "target": "lode",
-            "label": ",associated with,of"
+            "label": ",of,associated with"
         },
         {
             "source": "gold deposit",
@@ -5210,7 +5210,7 @@
         {
             "source": "gold deposit",
             "target": "coolgardie",
-            "label": "in,,of,in,in,of,for,,of,in"
+            "label": ",of,for,in"
         },
         {
             "source": "gold deposit",
@@ -5235,12 +5235,12 @@
         {
             "source": "gold deposit",
             "target": "yilgarn craton",
-            "label": ",in,of"
+            "label": ",of,in"
         },
         {
             "source": "gold deposit",
             "target": "western australia",
-            "label": "in,of,in,of,for,,in"
+            "label": ",of,for,in"
         },
         {
             "source": "gold deposit",
@@ -5605,12 +5605,12 @@
         {
             "source": "quartz",
             "target": "lode",
-            "label": ",surrounds,deformed,along"
+            "label": ",along,surrounds,deformed"
         },
         {
             "source": "quartz",
             "target": "pyrite",
-            "label": ",feldspar with,with disseminated"
+            "label": ",with disseminated,feldspar with"
         },
         {
             "source": "quartz",
@@ -5655,7 +5655,7 @@
         {
             "source": "quartz",
             "target": "pyrrhotite",
-            "label": "featuring,to,disseminated,printed by"
+            "label": "printed by,disseminated,featuring,to"
         },
         {
             "source": "quartz",
@@ -5670,7 +5670,7 @@
         {
             "source": "quartz",
             "target": "dolerite",
-            "label": "veins in,stockworks within,in,within"
+            "label": "veins in,within,in,stockworks within"
         },
         {
             "source": "quartz",
@@ -5725,7 +5725,7 @@
         {
             "source": "quartz",
             "target": "host rock",
-            "label": "in,veins in,in,veins in"
+            "label": "veins in,in"
         },
         {
             "source": "quartz",
@@ -5755,7 +5755,7 @@
         {
             "source": "quartz",
             "target": "silica",
-            "label": "composed of,of,deformed"
+            "label": "deformed,of,composed of"
         },
         {
             "source": "quartz",
@@ -6115,7 +6115,7 @@
         {
             "source": "perth",
             "target": "kalgoorlie",
-            "label": "of,from,of,from"
+            "label": "of,from"
         },
         {
             "source": "perth",
@@ -6170,7 +6170,7 @@
         {
             "source": "kalgoorlie terrane",
             "target": "coolgardie",
-            "label": "in,subdivided into,in"
+            "label": "subdivided into,in"
         },
         {
             "source": "kalgoorlie terrane",
@@ -6195,7 +6195,7 @@
         {
             "source": "kalgoorlie terrane",
             "target": "ora banda",
-            "label": ",at,subdivided into,at"
+            "label": ",subdivided into,at"
         },
         {
             "source": "kalgoorlie terrane",
@@ -6320,7 +6320,7 @@
         {
             "source": "hydrothermal",
             "target": "gold",
-            "label": "in,produced,around"
+            "label": "around,in,produced"
         },
         {
             "source": "hydrothermal",
@@ -6560,12 +6560,12 @@
         {
             "source": "amphibolite",
             "target": "coolgardie",
-            "label": "in,facies,hosted,in,facies,hosted,in,facies,hosted"
+            "label": "facies,in,hosted"
         },
         {
             "source": "amphibolite",
             "target": "western australia",
-            "label": "in,facies,hosted,in,facies,hosted,in,facies,hosted"
+            "label": "facies,in,hosted"
         },
         {
             "source": "amphibolite",
@@ -7415,7 +7415,7 @@
         {
             "source": "big blow",
             "target": "coolgardie",
-            "label": "at,of,of,jack sit within,sits within"
+            "label": "jack sit within,of,sits within,at"
         },
         {
             "source": "big blow",
@@ -7475,12 +7475,12 @@
         {
             "source": "big blow",
             "target": "basalt",
-            "label": ",jack sit within,prospects,sits within"
+            "label": ",jack sit within,sits within,prospects"
         },
         {
             "source": "big blow",
             "target": "burbanks",
-            "label": ",jack sit within,prospects,sits within"
+            "label": ",jack sit within,sits within,prospects"
         },
         {
             "source": "big blow",
@@ -7600,7 +7600,7 @@
         {
             "source": "greenstone belt",
             "target": "yilgarn craton",
-            "label": ",of,of"
+            "label": ",of"
         },
         {
             "source": "greenstone belt",
@@ -7620,7 +7620,7 @@
         {
             "source": "greenstone belt",
             "target": "coolgardie",
-            "label": "in,in,within"
+            "label": "in,within"
         },
         {
             "source": "greenstone belt",
@@ -7710,7 +7710,7 @@
         {
             "source": "supergene",
             "target": "gold",
-            "label": ",characterized by,in,quartz veins containing,characterised by"
+            "label": ",quartz veins containing,characterised by,characterized by,in"
         },
         {
             "source": "supergene",
@@ -7935,7 +7935,7 @@
         {
             "source": "dolerite",
             "target": "coolgardie",
-            "label": "within,of"
+            "label": "of,within"
         },
         {
             "source": "dolerite",
@@ -8095,7 +8095,7 @@
         {
             "source": "perseverance",
             "target": "sulphide",
-            "label": "from,corresponds to,represents,occurs on"
+            "label": "corresponds to,from,represents,occurs on"
         },
         {
             "source": "perseverance",
@@ -8115,7 +8115,7 @@
         {
             "source": "perseverance",
             "target": "lode",
-            "label": "represents,of"
+            "label": "of,represents"
         },
         {
             "source": "perseverance",
@@ -8130,7 +8130,7 @@
         {
             "source": "perseverance",
             "target": "diorite",
-            "label": ",of,offsets,occur on"
+            "label": ",of,occur on,offsets"
         },
         {
             "source": "perseverance",
@@ -8240,12 +8240,12 @@
         {
             "source": "basalt",
             "target": "big blow",
-            "label": ",recognized at,recognised at"
+            "label": ",recognised at,recognized at"
         },
         {
             "source": "basalt",
             "target": "quartz",
-            "label": "in,with"
+            "label": "with,in"
         },
         {
             "source": "basalt",
@@ -8310,7 +8310,7 @@
         {
             "source": "basalt",
             "target": "diorite",
-            "label": ",throughout,with mineralised"
+            "label": ",with mineralised,throughout"
         },
         {
             "source": "basalt",
@@ -8480,7 +8480,7 @@
         {
             "source": "burbanks",
             "target": "big blow",
-            "label": "recognized at,recognised at,include"
+            "label": "recognised at,include,recognized at"
         },
         {
             "source": "burbanks",
@@ -8780,7 +8780,7 @@
         {
             "source": "sulphide",
             "target": "pyrrhotite",
-            "label": "featuring,include,at,disseminated"
+            "label": "include,featuring,disseminated,at"
         },
         {
             "source": "sulphide",
@@ -8975,7 +8975,7 @@
         {
             "source": "pyrite",
             "target": "quartz",
-            "label": "with,appear to overprint an,surrounds"
+            "label": "with,surrounds,appear to overprint an"
         },
         {
             "source": "pyrite",
@@ -8995,7 +8995,7 @@
         {
             "source": "pyrite",
             "target": "pyrrhotite",
-            "label": "appear to overprint an,in,after"
+            "label": "after,in,appear to overprint an"
         },
         {
             "source": "pyrite",
@@ -9820,7 +9820,7 @@
         {
             "source": "diorite",
             "target": "perseverance",
-            "label": "at,at,,developed"
+            "label": ",developed,at"
         },
         {
             "source": "diorite",
@@ -9995,7 +9995,7 @@
         {
             "source": "pyrrhotite",
             "target": "quartz",
-            "label": "appear to overprint an,in,of,in"
+            "label": "of,in,appear to overprint an"
         },
         {
             "source": "pyrrhotite",
@@ -10295,7 +10295,7 @@
         {
             "source": "talc",
             "target": "chlorite",
-            "label": "dominated,ucts"
+            "label": "ucts,dominated"
         },
         {
             "source": "talc",
@@ -10595,7 +10595,7 @@
         {
             "source": "quartz vein",
             "target": "quartz",
-            "label": ",in,offset across,of"
+            "label": ",of,in,offset across"
         },
         {
             "source": "quartz vein",
@@ -11610,7 +11610,7 @@
         {
             "source": "tin",
             "target": "greenbushes",
-            "label": ",at,in"
+            "label": ",in,at"
         },
         {
             "source": "tin",
