@@ -80,7 +80,7 @@
         {
             "source": "sulphide",
             "target": "gold",
-            "label": "hosted,of,related,,associated with"
+            "label": "hosted,of,related,associated with"
         },
         {
             "source": "sulphide",
@@ -120,7 +120,7 @@
         {
             "source": "lode gold deposit",
             "target": "coolgardie",
-            "label": "recognized in,in,recognised in"
+            "label": "in,recognised in"
         },
         {
             "source": "lode gold deposit",
@@ -255,7 +255,7 @@
         {
             "source": "supergene",
             "target": "gold",
-            "label": ",quartz veins containing,characterised by,characterized by,in"
+            "label": "quartz veins containing,characterised by,in"
         },
         {
             "source": "supergene",
@@ -295,7 +295,7 @@
         {
             "source": "amphibolite",
             "target": "archean",
-            "label": ",of"
+            "label": "of"
         },
         {
             "source": "amphibolite",
@@ -320,7 +320,7 @@
         {
             "source": "quartz",
             "target": "porphyry",
-            "label": ",of"
+            "label": "of"
         },
         {
             "source": "quartz",
@@ -330,7 +330,7 @@
         {
             "source": "quartz",
             "target": "quartz vein",
-            "label": ",hosted"
+            "label": "hosted"
         },
         {
             "source": "quartz",
@@ -445,12 +445,12 @@
         {
             "source": "gabbro",
             "target": "quartz vein",
-            "label": ",hosted"
+            "label": "hosted"
         },
         {
             "source": "quartz vein",
             "target": "quartz",
-            "label": ",of,in,offset across"
+            "label": "of,in,offset across"
         },
         {
             "source": "quartz vein",
@@ -470,7 +470,7 @@
         {
             "source": "gold deposit",
             "target": "gold",
-            "label": ",including,for,reported in,characterised by,with,characterized by,of"
+            "label": "including,for,reported in,characterised by,with,of"
         },
         {
             "source": "gold deposit",
@@ -480,7 +480,7 @@
         {
             "source": "gold deposit",
             "target": "coolgardie",
-            "label": ",of,for,in"
+            "label": "of,for,in"
         },
         {
             "source": "gold deposit",
@@ -495,7 +495,7 @@
         {
             "source": "gold deposit",
             "target": "yilgarn craton",
-            "label": ",of,in"
+            "label": "of,in"
         },
         {
             "source": "gold deposit",
@@ -620,12 +620,12 @@
         {
             "source": "archean",
             "target": "goldfields",
-            "label": ",in"
+            "label": "in"
         },
         {
             "source": "archean",
             "target": "gold deposit",
-            "label": ",to"
+            "label": "to"
         },
         {
             "source": "archean",
