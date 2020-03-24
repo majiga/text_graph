@@ -1,39 +1,44 @@
 {
     "nodes": [
         {
-            "id": "stubbins formation",
+            "id": "birrindudu group",
             "group": "STRAT",
             "degree": 5
         },
         {
-            "id": "orthogneiss",
+            "id": "tanami complex",
+            "group": "STRAT",
+            "degree": 7
+        },
+        {
+            "id": "sediments",
             "group": "ROCK",
-            "degree": 2
+            "degree": 11
+        },
+        {
+            "id": "western australia",
+            "group": "LOCATION",
+            "degree": 8
+        },
+        {
+            "id": "kaolinite",
+            "group": "MINERAL",
+            "degree": 4
         },
         {
             "id": "proterozoic",
             "group": "TIMESCALE",
-            "degree": 2
-        },
-        {
-            "id": "quartz vein",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "killi killi formation",
-            "group": "STRAT",
-            "degree": 5
+            "degree": 9
         },
         {
             "id": "gold",
             "group": "MINERAL",
-            "degree": 2
+            "degree": 11
         },
         {
-            "id": "porphyry",
-            "group": "ROCK",
-            "degree": 0
+            "id": "smectite",
+            "group": "MINERAL",
+            "degree": 3
         },
         {
             "id": "gold deposit",
@@ -41,144 +46,49 @@
             "degree": 3
         },
         {
-            "id": "sedimentary rock",
-            "group": "ROCK",
+            "id": "western granites",
+            "group": "STRAT",
+            "degree": 3
+        },
+        {
+            "id": "stubbins formation",
+            "group": "STRAT",
             "degree": 5
-        },
-        {
-            "id": "northern territory",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "metasedimentary rock",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "western granite",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "granite",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "paragonite",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "mica",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "birrindudu group",
-            "group": "STRAT",
-            "degree": 0
         },
         {
             "id": "quartz",
             "group": "MINERAL",
-            "degree": 4
+            "degree": 10
         },
         {
-            "id": "greenstone belt",
-            "group": "STRAT",
-            "degree": 0
-        },
-        {
-            "id": "southwest",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "killi killi beds",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "dolerite",
-            "group": "ROCK",
-            "degree": 4
-        },
-        {
-            "id": "paleoproterozoic",
-            "group": "TIMESCALE",
-            "degree": 1
-        },
-        {
-            "id": "granites tanami",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "halls creek",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "perth",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "quaternary",
-            "group": "TIMESCALE",
-            "degree": 2
-        },
-        {
-            "id": "carbonate",
+            "id": "arsenopyrite",
             "group": "MINERAL",
-            "degree": 4
-        },
-        {
-            "id": "sericite",
-            "group": "MINERAL",
-            "degree": 4
-        },
-        {
-            "id": "dickite",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "granitic rock",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "sandstone",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "tanami group",
-            "group": "STRAT",
             "degree": 5
         },
         {
-            "id": "hydroxide",
+            "id": "pyrite",
             "group": "MINERAL",
-            "degree": 2
-        },
-        {
-            "id": "iron",
-            "group": "MINERAL",
-            "degree": 1
+            "degree": 4
         },
         {
             "id": "marcasite",
             "group": "MINERAL",
-            "degree": 1
+            "degree": 5
         },
         {
-            "id": "mafic volcanic rock",
+            "id": "sericite",
+            "group": "MINERAL",
+            "degree": 6
+        },
+        {
+            "id": "schist",
             "group": "ROCK",
-            "degree": 1
+            "degree": 4
+        },
+        {
+            "id": "sandstone",
+            "group": "ROCK",
+            "degree": 2
         },
         {
             "id": "siltstone",
@@ -186,49 +96,74 @@
             "degree": 1
         },
         {
+            "id": "northern territory",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "porphyry",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "granite",
+            "group": "ROCK",
+            "degree": 9
+        },
+        {
+            "id": "carbonate",
+            "group": "MINERAL",
+            "degree": 6
+        },
+        {
+            "id": "dolerite",
+            "group": "ROCK",
+            "degree": 7
+        },
+        {
+            "id": "sedimentary rocks",
+            "group": "ROCK",
+            "degree": 8
+        },
+        {
             "id": "greenschist",
             "group": "ROCK",
-            "degree": 4
+            "degree": 7
         },
         {
-            "id": "sediment",
-            "group": "ROCK",
-            "degree": 4
-        },
-        {
-            "id": "pyrite",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "tanami complex",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "tertiary",
-            "group": "TIMESCALE",
-            "degree": 1
-        },
-        {
-            "id": "schist",
+            "id": "orthogneiss",
             "group": "ROCK",
             "degree": 3
         },
         {
-            "id": "kaolinite",
-            "group": "MINERAL",
-            "degree": 1
+            "id": "metasedimentary rocks",
+            "group": "ROCK",
+            "degree": 2
         },
         {
-            "id": "granitoid",
-            "group": "ROCK",
-            "degree": 1
+            "id": "paleoproterozoic",
+            "group": "TIMESCALE",
+            "degree": 3
         },
         {
-            "id": "shale",
+            "id": "tanami group",
+            "group": "STRAT",
+            "degree": 9
+        },
+        {
+            "id": "killi killi formation",
+            "group": "STRAT",
+            "degree": 12
+        },
+        {
+            "id": "mafic volcanic rocks",
             "group": "ROCK",
-            "degree": 1
+            "degree": 2
+        },
+        {
+            "id": "granitic rocks",
+            "group": "ROCK",
+            "degree": 2
         },
         {
             "id": "hydrothermal",
@@ -241,330 +176,626 @@
             "degree": 1
         },
         {
+            "id": "hydroxide",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
             "id": "birrindudu basin",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "granitoids",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "australia",
             "group": "LOCATION",
             "degree": 2
         },
         {
-            "id": "monzonite",
-            "group": "ROCK",
-            "degree": 0
+            "id": "killi killi beds",
+            "group": "STRAT",
+            "degree": 3
         },
         {
-            "id": "mount keith granodiorite",
-            "group": "STRAT",
+            "id": "quaternary",
+            "group": "TIMESCALE",
+            "degree": 5
+        },
+        {
+            "id": "shale",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "mica",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "tertiary",
+            "group": "TIMESCALE",
+            "degree": 2
+        },
+        {
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "dickite",
+            "group": "MINERAL",
             "degree": 1
         },
         {
             "id": "archean",
             "group": "TIMESCALE",
-            "degree": 1
+            "degree": 13
         }
     ],
     "links": [
         {
-            "source": "stubbins formation",
-            "target": "killi killi formation",
-            "label": [
-                "to"
-            ]
-        },
-        {
-            "source": "stubbins formation",
-            "target": "tanami group",
-            "label": []
-        },
-        {
-            "source": "stubbins formation",
-            "target": "gold deposit",
-            "label": []
-        },
-        {
-            "source": "stubbins formation",
-            "target": "sedimentary rock",
-            "label": []
-        },
-        {
-            "source": "orthogneiss",
-            "target": "greenschist",
-            "label": [
-                "folded"
-            ]
-        },
-        {
-            "source": "proterozoic",
-            "target": "sediment",
-            "label": [
-                "age (2500 900 ma)"
-            ]
-        },
-        {
-            "source": "quartz vein",
-            "target": "sandstone",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "killi killi formation",
-            "target": "stubbins formation",
-            "label": [
-                "overlies"
-            ]
-        },
-        {
-            "source": "killi killi formation",
-            "target": "killi killi beds",
-            "label": "[current_of]"
-        },
-        {
-            "source": "gold",
-            "target": "quartz",
-            "label": []
-        },
-        {
-            "source": "gold deposit",
-            "target": "granite",
-            "label": [
-                "at"
-            ]
-        },
-        {
-            "source": "gold deposit",
-            "target": "granites tanami",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "sedimentary rock",
-            "target": "mafic volcanic rock",
-            "label": [
-                "interbedded with"
-            ]
-        },
-        {
-            "source": "sedimentary rock",
-            "target": "dolerite",
-            "label": [
-                "interbedded with"
-            ]
-        },
-        {
-            "source": "metasedimentary rock",
-            "target": "greenschist",
-            "label": [
-                "folded"
-            ]
-        },
-        {
-            "source": "granite",
-            "target": "dolerite",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "mica",
-            "target": "paragonite",
-            "label": [
-                "compositions (muscovite,"
-            ]
-        },
-        {
-            "source": "quartz",
-            "target": "sericite",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "quartz",
-            "target": "carbonate",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "dolerite",
-            "target": "quartz",
-            "label": []
-        },
-        {
-            "source": "paleoproterozoic",
-            "target": "greenschist",
-            "label": [
-                "folded"
-            ]
-        },
-        {
-            "source": "quaternary",
-            "target": "sediment",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "carbonate",
-            "target": "dolerite",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "carbonate",
-            "target": "sedimentary rock",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "sericite",
-            "target": "carbonate",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "sericite",
-            "target": "schist",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "dickite",
-            "target": "sericite",
-            "label": [
-                "and"
-            ]
-        },
-        {
-            "source": "granitic rock",
-            "target": "killi killi formation",
-            "label": [
-                "intrude"
-            ]
-        },
-        {
-            "source": "sandstone",
-            "target": "shale",
-            "label": [
-                "and"
-            ]
-        },
-        {
-            "source": "sandstone",
-            "target": "siltstone",
-            "label": [
-                "to"
-            ]
-        },
-        {
-            "source": "tanami group",
-            "target": "sedimentary rock",
-            "label": [
-                "consists of"
-            ]
-        },
-        {
-            "source": "tanami group",
-            "target": "killi killi formation",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "tanami group",
+            "source": "birrindudu group",
             "target": "tanami complex",
-            "label": "[current_of]"
+            "label": "overlying"
         },
         {
-            "source": "iron",
-            "target": "hydroxide",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "greenschist",
-            "target": "tanami group",
-            "label": [
-                "included in"
-            ]
-        },
-        {
-            "source": "sediment",
-            "target": "birrindudu basin",
-            "label": [
-                "of"
-            ]
+            "source": "birrindudu group",
+            "target": "archean",
+            "label": "overlying"
         },
         {
             "source": "tanami complex",
-            "target": "sediment",
-            "label": [
-                "of"
-            ]
+            "target": "sediments",
+            "label": "of"
         },
         {
-            "source": "tertiary",
+            "source": "tanami complex",
+            "target": "birrindudu group",
+            "label": ""
+        },
+        {
+            "source": "tanami complex",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "birrindudu basin",
+            "label": "of"
+        },
+        {
+            "source": "sediments",
             "target": "quaternary",
-            "label": [
-                "and"
-            ]
+            "label": ""
         },
         {
-            "source": "schist",
-            "target": "pyrite",
-            "label": [
-                "with disseminated"
-            ]
+            "source": "sediments",
+            "target": "porphyry",
+            "label": ""
         },
         {
-            "source": "schist",
-            "target": "marcasite",
-            "label": [
-                "with disseminated"
-            ]
+            "source": "sediments",
+            "target": "tertiary",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "granitoids",
+            "label": ""
+        },
+        {
+            "source": "sediments",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "northern territory",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "western granites",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "tanami group",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "granite",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "killi killi formation",
+            "label": "hosted within"
         },
         {
             "source": "kaolinite",
             "target": "proterozoic",
-            "label": [
-                "in"
-            ]
+            "label": "in"
         },
         {
-            "source": "granitoid",
+            "source": "kaolinite",
+            "target": "gold",
+            "label": "in"
+        },
+        {
+            "source": "kaolinite",
+            "target": "smectite",
+            "label": ""
+        },
+        {
+            "source": "proterozoic",
+            "target": "birrindudu group",
+            "label": "of"
+        },
+        {
+            "source": "proterozoic",
+            "target": "tanami complex",
+            "label": "of"
+        },
+        {
+            "source": "proterozoic",
             "target": "birrindudu basin",
-            "label": [
-                "of"
-            ]
+            "label": "of"
+        },
+        {
+            "source": "proterozoic",
+            "target": "kaolinite",
+            "label": ""
+        },
+        {
+            "source": "proterozoic",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "australia",
+            "label": "of"
+        },
+        {
+            "source": "gold",
+            "target": "killi killi beds",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "smectite",
+            "target": "proterozoic",
+            "label": "in"
+        },
+        {
+            "source": "smectite",
+            "target": "gold",
+            "label": "in"
+        },
+        {
+            "source": "gold deposit",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "western granites",
+            "target": "gold deposit",
+            "label": ""
+        },
+        {
+            "source": "stubbins formation",
+            "target": "killi killi formation",
+            "label": "overlying,to"
+        },
+        {
+            "source": "stubbins formation",
+            "target": "sedimentary rocks",
+            "label": "of"
+        },
+        {
+            "source": "stubbins formation",
+            "target": "granite",
+            "label": ""
+        },
+        {
+            "source": "stubbins formation",
+            "target": "gold deposit",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "arsenopyrite",
+            "label": "with disseminated"
+        },
+        {
+            "source": "quartz",
+            "target": "pyrite",
+            "label": "with disseminated"
+        },
+        {
+            "source": "quartz",
+            "target": "marcasite",
+            "label": "with disseminated"
+        },
+        {
+            "source": "quartz",
+            "target": "granite",
+            "label": "associated with"
+        },
+        {
+            "source": "quartz",
+            "target": "dolerite",
+            "label": "within"
+        },
+        {
+            "source": "quartz",
+            "target": "sedimentary rocks",
+            "label": "within"
+        },
+        {
+            "source": "quartz",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "arsenopyrite",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "pyrite",
+            "target": "marcasite",
+            "label": ""
+        },
+        {
+            "source": "marcasite",
+            "target": "arsenopyrite",
+            "label": ""
+        },
+        {
+            "source": "sericite",
+            "target": "arsenopyrite",
+            "label": "with disseminated"
+        },
+        {
+            "source": "sericite",
+            "target": "pyrite",
+            "label": "with disseminated"
+        },
+        {
+            "source": "sericite",
+            "target": "marcasite",
+            "label": "with disseminated"
+        },
+        {
+            "source": "sericite",
+            "target": "schist",
+            "label": ""
+        },
+        {
+            "source": "sericite",
+            "target": "quaternary",
+            "label": ""
+        },
+        {
+            "source": "schist",
+            "target": "arsenopyrite",
+            "label": "with disseminated"
+        },
+        {
+            "source": "schist",
+            "target": "pyrite",
+            "label": "with disseminated"
+        },
+        {
+            "source": "schist",
+            "target": "marcasite",
+            "label": "with disseminated"
+        },
+        {
+            "source": "sandstone",
+            "target": "siltstone",
+            "label": "to"
+        },
+        {
+            "source": "northern territory",
+            "target": "granite",
+            "label": ""
+        },
+        {
+            "source": "porphyry",
+            "target": "sediments",
+            "label": "surrounding"
+        },
+        {
+            "source": "porphyry",
+            "target": "killi killi formation",
+            "label": ""
+        },
+        {
+            "source": "granite",
+            "target": "dolerite",
+            "label": ""
+        },
+        {
+            "source": "granite",
+            "target": "western australia",
+            "label": "in"
+        },
+        {
+            "source": "granite",
+            "target": "northern territory",
+            "label": ""
+        },
+        {
+            "source": "granite",
+            "target": "paleoproterozoic",
+            "label": ""
+        },
+        {
+            "source": "carbonate",
+            "target": "granite",
+            "label": "associated with"
+        },
+        {
+            "source": "carbonate",
+            "target": "dolerite",
+            "label": "within"
+        },
+        {
+            "source": "carbonate",
+            "target": "sedimentary rocks",
+            "label": "within"
+        },
+        {
+            "source": "carbonate",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "carbonate",
+            "target": "sericite",
+            "label": ""
+        },
+        {
+            "source": "dolerite",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "dolerite",
+            "target": "tanami group",
+            "label": ""
+        },
+        {
+            "source": "sedimentary rocks",
+            "target": "mafic volcanic rocks",
+            "label": "interbedded with"
+        },
+        {
+            "source": "sedimentary rocks",
+            "target": "dolerite",
+            "label": "interbedded with"
+        },
+        {
+            "source": "sedimentary rocks",
+            "target": "carbonate",
+            "label": ""
+        },
+        {
+            "source": "greenschist",
+            "target": "tanami group",
+            "label": "included in"
+        },
+        {
+            "source": "greenschist",
+            "target": "orthogneiss",
+            "label": ""
+        },
+        {
+            "source": "orthogneiss",
+            "target": "greenschist",
+            "label": "folded"
+        },
+        {
+            "source": "orthogneiss",
+            "target": "paleoproterozoic",
+            "label": ""
+        },
+        {
+            "source": "metasedimentary rocks",
+            "target": "greenschist",
+            "label": "folded"
+        },
+        {
+            "source": "metasedimentary rocks",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "paleoproterozoic",
+            "target": "greenschist",
+            "label": "folded"
+        },
+        {
+            "source": "tanami group",
+            "target": "western australia",
+            "label": "in"
+        },
+        {
+            "source": "tanami group",
+            "target": "sedimentary rocks",
+            "label": "consists of"
+        },
+        {
+            "source": "tanami group",
+            "target": "greenschist",
+            "label": ""
+        },
+        {
+            "source": "tanami group",
+            "target": "killi killi formation",
+            "label": "parent_of"
+        },
+        {
+            "source": "tanami group",
+            "target": "tanami complex",
+            "label": "current_of"
+        },
+        {
+            "source": "killi killi formation",
+            "target": "stubbins formation",
+            "label": "overlies"
+        },
+        {
+            "source": "killi killi formation",
+            "target": "sedimentary rocks",
+            "label": ""
+        },
+        {
+            "source": "killi killi formation",
+            "target": "killi killi beds",
+            "label": "current_of"
+        },
+        {
+            "source": "killi killi formation",
+            "target": "western granites",
+            "label": "within"
+        },
+        {
+            "source": "killi killi formation",
+            "target": "granitic rocks",
+            "label": ""
+        },
+        {
+            "source": "killi killi formation",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "killi killi formation",
+            "target": "porphyry",
+            "label": ""
+        },
+        {
+            "source": "mafic volcanic rocks",
+            "target": "dolerite",
+            "label": ""
+        },
+        {
+            "source": "granitic rocks",
+            "target": "killi killi formation",
+            "label": "intrude"
         },
         {
             "source": "hydrothermal",
             "target": "gold",
-            "label": [
-                "around"
-            ]
+            "label": "around"
         },
         {
-            "source": "aluminium",
+            "source": "hydroxide",
+            "target": "aluminium",
+            "label": ""
+        },
+        {
+            "source": "birrindudu basin",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "granitoids",
+            "target": "birrindudu basin",
+            "label": "of"
+        },
+        {
+            "source": "granitoids",
+            "target": "proterozoic",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "killi killi beds",
+            "target": "gold",
+            "label": "for"
+        },
+        {
+            "source": "quaternary",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "quaternary",
+            "target": "dickite",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "sandstone",
+            "label": ""
+        },
+        {
+            "source": "mica",
             "target": "hydroxide",
-            "label": [
-                ""
-            ]
+            "label": ""
         },
         {
-            "source": "mount keith granodiorite",
-            "target": "western granite",
-            "label": "[current_of]"
+            "source": "tertiary",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "hydroxide",
+            "label": ""
         },
         {
             "source": "archean",
-            "target": "orthogneiss",
-            "label": [
-                "leucocratic"
-            ]
+            "target": "sediments",
+            "label": "of"
+        },
+        {
+            "source": "archean",
+            "target": "greenschist",
+            "label": "folded"
+        },
+        {
+            "source": "archean",
+            "target": "birrindudu group",
+            "label": "of"
+        },
+        {
+            "source": "archean",
+            "target": "tanami complex",
+            "label": "of"
+        },
+        {
+            "source": "archean",
+            "target": "tanami group",
+            "label": ""
+        },
+        {
+            "source": "archean",
+            "target": "proterozoic",
+            "label": ""
+        },
+        {
+            "source": "archean",
+            "target": "quaternary",
+            "label": ""
         }
     ]
 }

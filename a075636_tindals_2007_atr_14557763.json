@@ -1,259 +1,119 @@
 {
     "nodes": [
         {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": 45
+        },
+        {
             "id": "coolgardie",
             "group": "LOCATION",
-            "degree": 26
+            "degree": 59
         },
         {
-            "id": "albite",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "lindsays basalt",
-            "group": "STRAT",
-            "degree": 3
-        },
-        {
-            "id": "gold deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": 13
-        },
-        {
-            "id": "kalgoorlie terrane",
+            "id": "western australia",
             "group": "LOCATION",
-            "degree": 5
+            "degree": 28
         },
         {
             "id": "big blow",
+            "group": "LOCATION",
+            "degree": 12
+        },
+        {
+            "id": "perseverance",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
+            "degree": 4
+        },
+        {
+            "id": "southwest",
             "group": "LOCATION",
             "degree": 4
         },
         {
             "id": "kalgoorlie",
             "group": "LOCATION",
-            "degree": 6
+            "degree": 15
         },
         {
-            "id": "porphyry",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "gold",
-            "group": "MINERAL",
-            "degree": 19
-        },
-        {
-            "id": "clay",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "granitoid",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "regolith",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "kambalda",
+            "id": "goldfields",
             "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "metasedimentary",
-            "group": "ROCK",
-            "degree": 1
+            "degree": 3
         },
         {
             "id": "greenstone belt",
             "group": "STRAT",
-            "degree": 9
+            "degree": 13
         },
         {
-            "id": "gabbro",
-            "group": "ROCK",
-            "degree": 9
+            "id": "kalgoorlie terrane",
+            "group": "LOCATION",
+            "degree": 11
         },
         {
-            "id": "clastic sedimentary rock",
-            "group": "ROCK",
-            "degree": 1
+            "id": "ora banda",
+            "group": "LOCATION",
+            "degree": 5
         },
         {
-            "id": "granulite",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "diamond",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "volcaniclastic rock",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "host rock",
-            "group": "ROCK",
-            "degree": 4
-        },
-        {
-            "id": "iron",
-            "group": "MINERAL",
-            "degree": 2
-        },
-        {
-            "id": "hampton formation",
+            "id": "gleesons basalt",
             "group": "STRAT",
-            "degree": 3
+            "degree": 5
         },
         {
-            "id": "bullabulling",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "granodiorite",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "yilgarn block",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "dunnsville",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "amphibolite",
-            "group": "ROCK",
+            "id": "black flag group",
+            "group": "STRAT",
             "degree": 7
         },
         {
-            "id": "greenstone",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "black shale",
-            "group": "ROCK",
-            "degree": 6
-        },
-        {
-            "id": "dolerite",
-            "group": "ROCK",
-            "degree": 6
-        },
-        {
-            "id": "granite",
+            "id": "felsic volcanics",
             "group": "ROCK",
             "degree": 3
         },
         {
-            "id": "tremolite",
-            "group": "MINERAL",
-            "degree": 2
-        },
-        {
-            "id": "shale",
+            "id": "ultramafics",
             "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "basalt",
-            "group": "ROCK",
-            "degree": 15
-        },
-        {
-            "id": "archean",
-            "group": "TIMESCALE",
-            "degree": 9
-        },
-        {
-            "id": "yilgarn craton",
-            "group": "LOCATION",
             "degree": 5
         },
         {
             "id": "burbanks",
             "group": "LOCATION",
-            "degree": 1
+            "degree": 8
         },
         {
-            "id": "black flag group",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "sediment",
+            "id": "basalt",
             "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "calooli monzogranite",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "ora banda",
-            "group": "LOCATION",
-            "degree": 2
+            "degree": 18
         },
         {
             "id": "komatiite",
             "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "hydrothermal",
-            "group": "MINERAL",
-            "degree": 5
-        },
-        {
-            "id": "quartz",
-            "group": "MINERAL",
-            "degree": 7
-        },
-        {
-            "id": "quartz vein",
-            "group": "ROCK",
             "degree": 3
         },
         {
-            "id": "perth",
-            "group": "LOCATION",
-            "degree": 2
+            "id": "lindsays basalt",
+            "group": "STRAT",
+            "degree": 12
         },
         {
-            "id": "eastern goldfield",
-            "group": "LOCATION",
-            "degree": 1
+            "id": "dolerite",
+            "group": "ROCK",
+            "degree": 10
         },
         {
-            "id": "chalice",
-            "group": "LOCATION",
+            "id": "calooli monzogranite",
+            "group": "STRAT",
             "degree": 4
         },
         {
-            "id": "norseman",
-            "group": "LOCATION",
-            "degree": 3
-        },
-        {
-            "id": "menzies",
-            "group": "LOCATION",
-            "degree": 3
+            "id": "porphyry",
+            "group": "ROCK",
+            "degree": 5
         },
         {
             "id": "kunanalling",
@@ -261,39 +121,14 @@
             "degree": 1
         },
         {
-            "id": "zircon",
+            "id": "quartz",
             "group": "MINERAL",
-            "degree": 0
+            "degree": 14
         },
         {
-            "id": "bonnie vale",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "diorite",
-            "group": "ROCK",
-            "degree": 5
-        },
-        {
-            "id": "perseverance",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "tindals diorite",
-            "group": "STRAT",
-            "degree": 0
-        },
-        {
-            "id": "boorara",
-            "group": "LOCATION",
-            "degree": 0
-        },
-        {
-            "id": "gleesons basalt",
-            "group": "STRAT",
-            "degree": 1
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": 4
         },
         {
             "id": "biotite",
@@ -301,79 +136,249 @@
             "degree": 2
         },
         {
-            "id": "olivine",
+            "id": "albite",
             "group": "MINERAL",
-            "degree": 4
+            "degree": 2
         },
         {
-            "id": "ultramafic volcanic rock",
+            "id": "archean",
+            "group": "TIMESCALE",
+            "degree": 29
+        },
+        {
+            "id": "amphibolite",
+            "group": "ROCK",
+            "degree": 22
+        },
+        {
+            "id": "gabbro",
+            "group": "ROCK",
+            "degree": 17
+        },
+        {
+            "id": "quartz vein",
+            "group": "ROCK",
+            "degree": 6
+        },
+        {
+            "id": "greenstone sequence",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "tindals diorite",
+            "group": "STRAT",
+            "degree": 2
+        },
+        {
+            "id": "regolith",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "hydrothermal",
+            "group": "MINERAL",
+            "degree": 9
+        },
+        {
+            "id": "chalice",
+            "group": "LOCATION",
+            "degree": 6
+        },
+        {
+            "id": "gold deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 16
+        },
+        {
+            "id": "granitic rocks",
+            "group": "ROCK",
+            "degree": 6
+        },
+        {
+            "id": "yilgarn craton",
+            "group": "LOCATION",
+            "degree": 9
+        },
+        {
+            "id": "granitoid",
+            "group": "ROCK",
+            "degree": 11
+        },
+        {
+            "id": "bonnie vale",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "granite",
             "group": "ROCK",
             "degree": 3
         },
         {
-            "id": "bonnievale tonalite",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "talc",
-            "group": "MINERAL",
-            "degree": 2
-        },
-        {
-            "id": "bali monzogranite",
-            "group": "STRAT",
-            "degree": 0
-        },
-        {
-            "id": "alluvial deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": 0
-        },
-        {
-            "id": "mafic rock",
+            "id": "greenstone",
             "group": "ROCK",
+            "degree": 10
+        },
+        {
+            "id": "yilgarn block",
+            "group": "LOCATION",
             "degree": 2
+        },
+        {
+            "id": "genesis",
+            "group": "LOCATION",
+            "degree": 5
+        },
+        {
+            "id": "granulite",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "dunnsville",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "supergene",
+            "group": "ORE_DEPOSIT",
+            "degree": 8
+        },
+        {
+            "id": "oxide gold deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 2
+        },
+        {
+            "id": "lode",
+            "group": "ORE_DEPOSIT",
+            "degree": 5
         },
         {
             "id": "breccia",
             "group": "ROCK",
-            "degree": 1
+            "degree": 3
         },
         {
-            "id": "alluvium",
-            "group": "ROCK",
-            "degree": 0
+            "id": "menzies terrane",
+            "group": "LOCATION",
+            "degree": 5
         },
         {
-            "id": "granitic rock",
+            "id": "norseman terrane",
+            "group": "LOCATION",
+            "degree": 6
+        },
+        {
+            "id": "menzies",
+            "group": "LOCATION",
+            "degree": 7
+        },
+        {
+            "id": "norseman",
+            "group": "LOCATION",
+            "degree": 6
+        },
+        {
+            "id": "volcaniclastic rocks",
             "group": "ROCK",
             "degree": 3
         },
         {
-            "id": "burbanks formation",
-            "group": "STRAT",
-            "degree": 2
+            "id": "clastic sedimentary rocks",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "hornblende",
+            "group": "MINERAL",
+            "degree": 10
+        },
+        {
+            "id": "actinolite",
+            "group": "MINERAL",
+            "degree": 9
+        },
+        {
+            "id": "plagioclase",
+            "group": "MINERAL",
+            "degree": 9
+        },
+        {
+            "id": "ilmenite",
+            "group": "MINERAL",
+            "degree": 9
+        },
+        {
+            "id": "mafic rocks",
+            "group": "ROCK",
+            "degree": 6
+        },
+        {
+            "id": "tremolite",
+            "group": "MINERAL",
+            "degree": 7
         },
         {
             "id": "chlorite",
             "group": "MINERAL",
-            "degree": 2
+            "degree": 6
         },
         {
-            "id": "saprolite",
-            "group": "ROCK",
-            "degree": 0
+            "id": "talc",
+            "group": "MINERAL",
+            "degree": 7
         },
         {
-            "id": "long",
-            "group": "LOCATION",
-            "degree": 1
+            "id": "carbonate",
+            "group": "MINERAL",
+            "degree": 7
+        },
+        {
+            "id": "olivine",
+            "group": "MINERAL",
+            "degree": 6
         },
         {
             "id": "anthophyllite",
             "group": "MINERAL",
-            "degree": 4
+            "degree": 6
+        },
+        {
+            "id": "ultramafic rocks",
+            "group": "ROCK",
+            "degree": 14
+        },
+        {
+            "id": "hampton formation",
+            "group": "STRAT",
+            "degree": 3
+        },
+        {
+            "id": "black shale",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "metadolerite",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "metabasalt",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "diamond",
+            "group": "MINERAL",
+            "degree": 0
+        },
+        {
+            "id": "sulphide",
+            "group": "MINERAL",
+            "degree": 1
         },
         {
             "id": "esperance",
@@ -381,13 +386,108 @@
             "degree": 1
         },
         {
-            "id": "genesis",
+            "id": "clay",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "alluvium",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "kambalda",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "rare earth element",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "bali monzogranite",
+            "group": "STRAT",
+            "degree": 3
+        },
+        {
+            "id": "batholith",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "host rock",
+            "group": "ROCK",
+            "degree": 6
+        },
+        {
+            "id": "diorite",
+            "group": "ROCK",
+            "degree": 11
+        },
+        {
+            "id": "dolerite host rocks",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "shale",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "saprolite",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "lode gold deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": 11
+        },
+        {
+            "id": "sediment",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "felsic porphyry",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "bullabulling",
+            "group": "LOCATION",
+            "degree": 3
+        },
+        {
+            "id": "boorara",
             "group": "LOCATION",
             "degree": 1
         },
         {
-            "id": "hampton hill formation",
-            "group": "STRAT",
+            "id": "ultramafic volcanic rocks",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "granodiorites",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "granitic intrusions",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "metasediments",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "australia",
+            "group": "LOCATION",
             "degree": 1
         },
         {
@@ -396,870 +496,1741 @@
             "degree": 1
         },
         {
-            "id": "bonnie vale tonalite",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
-            "id": "coolgardie group",
-            "group": "STRAT",
-            "degree": 1
-        },
-        {
             "id": "coolgardie subgroup",
             "group": "STRAT",
             "degree": 3
+        },
+        {
+            "id": "hampton hill formation",
+            "group": "STRAT",
+            "degree": 1
         }
     ],
     "links": [
         {
-            "source": "coolgardie",
-            "target": "greenstone belt",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "coolgardie",
-            "target": "gold",
-            "label": [
-                "including"
-            ]
-        },
-        {
-            "source": "coolgardie",
-            "target": "gold deposit",
-            "label": [
-                "district"
-            ]
-        },
-        {
-            "source": "coolgardie",
-            "target": "esperance",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "coolgardie",
-            "target": "perth",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "coolgardie",
-            "target": "greenstone",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "coolgardie",
-            "target": "hydrothermal",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "coolgardie",
-            "target": "gabbro",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "coolgardie",
-            "target": "bullabulling",
-            "label": [
-                "while"
-            ]
-        },
-        {
-            "source": "coolgardie",
-            "target": "long",
-            "label": [
-                "uses"
-            ]
-        },
-        {
-            "source": "coolgardie",
-            "target": "biotite",
-            "label": []
-        },
-        {
-            "source": "coolgardie",
-            "target": "basalt",
-            "label": []
-        },
-        {
-            "source": "coolgardie",
-            "target": "archean",
-            "label": [
-                "on"
-            ]
-        },
-        {
-            "source": "coolgardie",
-            "target": "eastern goldfield",
-            "label": []
-        },
-        {
-            "source": "coolgardie",
-            "target": "kunanalling",
-            "label": []
-        },
-        {
-            "source": "coolgardie",
-            "target": "kalgoorlie",
-            "label": []
-        },
-        {
-            "source": "coolgardie",
-            "target": "ora banda",
-            "label": []
-        },
-        {
-            "source": "coolgardie",
-            "target": "kambalda",
-            "label": []
-        },
-        {
-            "source": "gold deposit",
-            "target": "coolgardie",
-            "label": [
-                "are recognized in"
-            ]
-        },
-        {
-            "source": "gold deposit",
-            "target": "hydrothermal",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "gold deposit",
-            "target": "gold",
-            "label": [
-                "are characterized by"
-            ]
-        },
-        {
-            "source": "gold deposit",
-            "target": "amphibolite",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "gold deposit",
-            "target": "granulite",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "gold deposit",
-            "target": "breccia",
-            "label": [
-                "are dominated by"
-            ]
-        },
-        {
-            "source": "kalgoorlie terrane",
-            "target": "coolgardie",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "kalgoorlie terrane",
-            "target": "ora banda",
-            "label": [
-                "at"
-            ]
-        },
-        {
-            "source": "kalgoorlie terrane",
-            "target": "greenstone belt",
-            "label": [
-                "is"
-            ]
-        },
-        {
-            "source": "big blow",
-            "target": "coolgardie",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "gold deposit",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "coolgardie",
-            "label": []
-        },
-        {
             "source": "gold",
             "target": "coolgardie",
-            "label": [
-                "to"
-            ]
+            "label": "in,discovered in,of,exists in,mined in"
         },
         {
             "source": "gold",
             "target": "big blow",
-            "label": [
-                "at"
-            ]
+            "label": "at"
         },
         {
             "source": "gold",
             "target": "perseverance",
-            "label": [
-                "at"
-            ]
+            "label": "at"
         },
         {
             "source": "gold",
-            "target": "granitic rock",
-            "label": [
-                "associated with"
-            ]
+            "target": "granitic rocks",
+            "label": "associated with"
         },
         {
             "source": "gold",
             "target": "chalice",
-            "label": [
-                "at"
-            ]
+            "label": "at"
         },
         {
             "source": "gold",
             "target": "yilgarn craton",
-            "label": [
-                "at"
-            ]
+            "label": "at"
+        },
+        {
+            "source": "gold",
+            "target": "western australia",
+            "label": "at"
         },
         {
             "source": "gold",
             "target": "amphibolite",
-            "label": [
-                "in"
-            ]
+            "label": "in"
         },
         {
             "source": "gold",
             "target": "hydrothermal",
-            "label": [
-                "of"
-            ]
+            "label": "of"
         },
         {
             "source": "gold",
             "target": "gabbro",
-            "label": [
-                "in"
-            ]
+            "label": "in"
         },
         {
             "source": "gold",
-            "target": "gold deposit",
-            "label": [
-                "deduced from"
-            ]
+            "target": "supergene",
+            "label": "come from"
+        },
+        {
+            "source": "gold",
+            "target": "kalgoorlie",
+            "label": ""
         },
         {
             "source": "gold",
             "target": "archean",
-            "label": []
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "sulphide",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "host rock",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "greenstone sequence",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "oxide gold deposits",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "granitoid",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "gold deposit",
+            "label": "deduced from"
+        },
+        {
+            "source": "gold",
+            "target": "lode gold deposit",
+            "label": ""
         },
         {
             "source": "gold",
             "target": "diorite",
-            "label": []
+            "label": "in"
         },
         {
-            "source": "gold",
-            "target": "kalgoorlie",
-            "label": []
+            "source": "coolgardie",
+            "target": "perth",
+            "label": "of"
         },
         {
-            "source": "gold",
-            "target": "host rock",
-            "label": []
+            "source": "coolgardie",
+            "target": "southwest",
+            "label": "of"
         },
         {
-            "source": "granitoid",
-            "target": "chalice",
-            "label": [
-                "at"
-            ]
-        },
-        {
-            "source": "granitoid",
-            "target": "yilgarn craton",
-            "label": [
-                "at"
-            ]
-        },
-        {
-            "source": "regolith",
+            "source": "coolgardie",
             "target": "gold",
-            "label": [
-                ""
-            ]
+            "label": "for,on,associated with,including"
         },
         {
-            "source": "metasedimentary",
-            "target": "porphyry",
-            "label": [
-                "and"
-            ]
+            "source": "coolgardie",
+            "target": "western australia",
+            "label": "for,of"
         },
         {
-            "source": "greenstone belt",
-            "target": "kalgoorlie terrane",
-            "label": [
-                "into"
-            ]
-        },
-        {
-            "source": "greenstone belt",
-            "target": "menzies",
-            "label": [
-                "into"
-            ]
-        },
-        {
-            "source": "greenstone belt",
-            "target": "norseman",
-            "label": [
-                "into"
-            ]
-        },
-        {
-            "source": "greenstone belt",
-            "target": "coolgardie",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "greenstone belt",
-            "target": "granitoid",
-            "label": []
-        },
-        {
-            "source": "gabbro",
-            "target": "basalt",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "gabbro",
-            "target": "gold deposit",
-            "label": [
-                "hosted"
-            ]
-        },
-        {
-            "source": "gabbro",
-            "target": "coolgardie",
-            "label": [
-                "hosted"
-            ]
-        },
-        {
-            "source": "gabbro",
-            "target": "quartz vein",
-            "label": []
-        },
-        {
-            "source": "gabbro",
-            "target": "gold",
-            "label": []
-        },
-        {
-            "source": "granulite",
-            "target": "archean",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "volcaniclastic rock",
-            "target": "clastic sedimentary rock",
-            "label": [
-                "interbedded with"
-            ]
-        },
-        {
-            "source": "host rock",
-            "target": "dolerite",
-            "label": [
-                "as"
-            ]
-        },
-        {
-            "source": "host rock",
-            "target": "basalt",
-            "label": [
-                "as"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "host rock",
-            "label": [
-                "rich"
-            ]
-        },
-        {
-            "source": "hampton formation",
-            "target": "black flag group",
-            "label": []
-        },
-        {
-            "source": "granodiorite",
-            "target": "greenstone belt",
-            "label": []
-        },
-        {
-            "source": "amphibolite",
-            "target": "greenstone",
-            "label": [
-                "facies"
-            ]
-        },
-        {
-            "source": "amphibolite",
-            "target": "coolgardie",
-            "label": [
-                "hosted"
-            ]
-        },
-        {
-            "source": "amphibolite",
-            "target": "archean",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "amphibolite",
-            "target": "gabbro",
-            "label": []
-        },
-        {
-            "source": "amphibolite",
-            "target": "gold",
-            "label": []
-        },
-        {
-            "source": "black shale",
-            "target": "quartz",
-            "label": [
-                "associated with"
-            ]
-        },
-        {
-            "source": "black shale",
-            "target": "volcaniclastic rock",
-            "label": []
-        },
-        {
-            "source": "black shale",
-            "target": "basalt",
-            "label": []
-        },
-        {
-            "source": "black shale",
-            "target": "dolerite",
-            "label": []
-        },
-        {
-            "source": "dolerite",
-            "target": "basalt",
-            "label": [
-                "and"
-            ]
-        },
-        {
-            "source": "dolerite",
-            "target": "shale",
-            "label": []
-        },
-        {
-            "source": "granite",
-            "target": "kalgoorlie",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "granite",
-            "target": "yilgarn block",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "tremolite",
-            "target": "olivine",
-            "label": [
-                "carbonate"
-            ]
-        },
-        {
-            "source": "tremolite",
-            "target": "anthophyllite",
-            "label": [
-                "carbonate"
-            ]
-        },
-        {
-            "source": "shale",
-            "target": "sediment",
-            "label": [
-                "interflow"
-            ]
-        },
-        {
-            "source": "basalt",
-            "target": "dolerite",
-            "label": [
-                "mid"
-            ]
-        },
-        {
-            "source": "basalt",
-            "target": "burbanks formation",
-            "label": [
-                "(the"
-            ]
-        },
-        {
-            "source": "basalt",
-            "target": "big blow",
-            "label": [
-                "have been recognized at"
-            ]
-        },
-        {
-            "source": "basalt",
-            "target": "lindsays basalt",
-            "label": [
-                "from"
-            ]
-        },
-        {
-            "source": "basalt",
-            "target": "quartz vein",
-            "label": [
-                "with"
-            ]
-        },
-        {
-            "source": "basalt",
-            "target": "komatiite",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "basalt",
-            "target": "quartz",
-            "label": []
-        },
-        {
-            "source": "archean",
-            "target": "gold deposit",
-            "label": [
-                "lode"
-            ]
-        },
-        {
-            "source": "archean",
-            "target": "yilgarn craton",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "archean",
-            "target": "granite",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "archean",
-            "target": "menzies",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "archean",
-            "target": "chalice",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "yilgarn craton",
+            "source": "coolgardie",
             "target": "hydrothermal",
-            "label": [
-                "of"
-            ]
+            "label": "of"
         },
         {
-            "source": "burbanks",
-            "target": "basalt",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "black flag group",
-            "target": "kalgoorlie terrane",
-            "label": []
-        },
-        {
-            "source": "sediment",
-            "target": "lindsays basalt",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "sediment",
-            "target": "basalt",
-            "label": []
-        },
-        {
-            "source": "calooli monzogranite",
-            "target": "porphyry",
-            "label": [
-                "fiqf   bayleys"
-            ]
-        },
-        {
-            "source": "komatiite",
-            "target": "hampton formation",
-            "label": [
-                "(the"
-            ]
-        },
-        {
-            "source": "hydrothermal",
-            "target": "granitic rock",
-            "label": [
-                "associated with"
-            ]
-        },
-        {
-            "source": "quartz",
-            "target": "dolerite",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "quartz",
+            "source": "coolgardie",
             "target": "gabbro",
-            "label": [
-                "eye"
-            ]
+            "label": "of"
         },
         {
-            "source": "quartz",
-            "target": "iron",
-            "label": [
-                "in"
-            ]
+            "source": "coolgardie",
+            "target": "supergene",
+            "label": "in"
         },
         {
-            "source": "quartz",
+            "source": "coolgardie",
+            "target": "oxide gold deposits",
+            "label": "in"
+        },
+        {
+            "source": "coolgardie",
+            "target": "archean",
+            "label": "on"
+        },
+        {
+            "source": "coolgardie",
+            "target": "lode",
+            "label": "associated with"
+        },
+        {
+            "source": "coolgardie",
+            "target": "amphibolite",
+            "label": "metamorphosed to lower to middle"
+        },
+        {
+            "source": "coolgardie",
+            "target": "greenstone belt",
+            "label": "demonstrated"
+        },
+        {
+            "source": "coolgardie",
+            "target": "esperance",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "ora banda",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "rare earth element",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "porphyry",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "kunanalling",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "burbanks",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "tindals diorite",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "gold deposit",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "big blow",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "ultramafic rocks",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "boorara",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "australia",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "greenstone",
+            "label": "with"
+        },
+        {
+            "source": "coolgardie",
             "target": "basalt",
-            "label": [
-                "in"
-            ]
+            "label": "of"
         },
         {
-            "source": "quartz vein",
-            "target": "quartz",
-            "label": [
-                "in"
-            ]
+            "source": "coolgardie",
+            "target": "lode gold deposit",
+            "label": "in"
+        },
+        {
+            "source": "coolgardie",
+            "target": "bali monzogranite",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "gold",
+            "label": "on"
+        },
+        {
+            "source": "western australia",
+            "target": "hydrothermal",
+            "label": "of"
+        },
+        {
+            "source": "western australia",
+            "target": "gabbro",
+            "label": "of"
+        },
+        {
+            "source": "western australia",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "goldfields",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "granitic rocks",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "greenstone",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "amphibolite",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "yilgarn craton",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "dunnsville",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "archean",
+            "label": "on"
+        },
+        {
+            "source": "western australia",
+            "target": "granitoid",
+            "label": ""
+        },
+        {
+            "source": "big blow",
+            "target": "coolgardie",
+            "label": "of"
+        },
+        {
+            "source": "big blow",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "big blow",
+            "target": "burbanks",
+            "label": ""
+        },
+        {
+            "source": "big blow",
+            "target": "diorite",
+            "label": ""
+        },
+        {
+            "source": "big blow",
+            "target": "gold deposit",
+            "label": "of"
+        },
+        {
+            "source": "perseverance",
+            "target": "coolgardie",
+            "label": ""
         },
         {
             "source": "perth",
             "target": "kalgoorlie",
-            "label": [
-                "of"
-            ]
+            "label": "of"
         },
         {
-            "source": "chalice",
-            "target": "gold deposit",
-            "label": [
-                ""
-            ]
+            "source": "perth",
+            "target": "western australia",
+            "label": ""
         },
         {
-            "source": "norseman",
-            "target": "greenstone belt",
-            "label": [
-                ""
-            ]
+            "source": "southwest",
+            "target": "kalgoorlie",
+            "label": "of"
         },
         {
-            "source": "menzies",
+            "source": "southwest",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "western australia",
+            "label": "in,of"
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "southwest",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "perth",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "kalgoorlie terrane",
+            "label": ""
+        },
+        {
+            "source": "goldfields",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "greenstone belt",
+            "target": "gold",
+            "label": "for"
+        },
+        {
+            "source": "greenstone belt",
+            "target": "kalgoorlie terrane",
+            "label": "into"
+        },
+        {
+            "source": "greenstone belt",
+            "target": "menzies terrane",
+            "label": "into"
+        },
+        {
+            "source": "greenstone belt",
+            "target": "norseman terrane",
+            "label": "into"
+        },
+        {
+            "source": "greenstone belt",
+            "target": "coolgardie",
+            "label": "in"
+        },
+        {
+            "source": "greenstone belt",
             "target": "norseman",
-            "label": [
-                ""
-            ]
+            "label": ""
         },
         {
-            "source": "diorite",
-            "target": "black shale",
-            "label": [
-                "as"
-            ]
+            "source": "greenstone belt",
+            "target": "kalgoorlie",
+            "label": ""
         },
         {
-            "source": "diorite",
-            "target": "perseverance",
-            "label": [
-                "as"
-            ]
+            "source": "greenstone belt",
+            "target": "granodiorites",
+            "label": ""
         },
         {
-            "source": "diorite",
+            "source": "kalgoorlie terrane",
+            "target": "coolgardie",
+            "label": "in"
+        },
+        {
+            "source": "kalgoorlie terrane",
+            "target": "ora banda",
+            "label": "at"
+        },
+        {
+            "source": "kalgoorlie terrane",
+            "target": "norseman terrane",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie terrane",
+            "target": "bullabulling",
+            "label": ""
+        },
+        {
+            "source": "ora banda",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "ora banda",
+            "target": "kalgoorlie terrane",
+            "label": ""
+        },
+        {
+            "source": "gleesons basalt",
+            "target": "black flag group",
+            "label": "overlying"
+        },
+        {
+            "source": "gleesons basalt",
+            "target": "felsic volcanics",
+            "label": ""
+        },
+        {
+            "source": "gleesons basalt",
+            "target": "ultramafics",
+            "label": ""
+        },
+        {
+            "source": "black flag group",
+            "target": "felsic volcanics",
+            "label": "of"
+        },
+        {
+            "source": "black flag group",
+            "target": "kalgoorlie terrane",
+            "label": ""
+        },
+        {
+            "source": "black flag group",
+            "target": "ultramafic rocks",
+            "label": ""
+        },
+        {
+            "source": "felsic volcanics",
+            "target": "black flag group",
+            "label": ""
+        },
+        {
+            "source": "ultramafics",
+            "target": "basalt",
+            "label": ""
+        },
+        {
+            "source": "ultramafics",
+            "target": "lindsays basalt",
+            "label": "of"
+        },
+        {
+            "source": "burbanks",
             "target": "big blow",
-            "label": [
-                "as"
-            ]
+            "label": "recognized at"
         },
         {
-            "source": "diorite",
-            "target": "ultramafic volcanic rock",
-            "label": []
+            "source": "burbanks",
+            "target": "coolgardie",
+            "label": "of"
+        },
+        {
+            "source": "burbanks",
+            "target": "basalt",
+            "label": ""
+        },
+        {
+            "source": "burbanks",
+            "target": "lindsays basalt",
+            "label": "from"
+        },
+        {
+            "source": "basalt",
+            "target": "big blow",
+            "label": "recognized at"
+        },
+        {
+            "source": "basalt",
+            "target": "coolgardie",
+            "label": "of"
+        },
+        {
+            "source": "basalt",
+            "target": "quartz",
+            "label": "in"
+        },
+        {
+            "source": "basalt",
+            "target": "granitoid",
+            "label": ""
+        },
+        {
+            "source": "basalt",
+            "target": "quartz vein",
+            "label": ""
+        },
+        {
+            "source": "basalt",
+            "target": "gabbro",
+            "label": ""
+        },
+        {
+            "source": "basalt",
+            "target": "komatiite",
+            "label": "of"
+        },
+        {
+            "source": "basalt",
+            "target": "shale",
+            "label": ""
+        },
+        {
+            "source": "komatiite",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "lindsays basalt",
+            "target": "coolgardie",
+            "label": "of"
+        },
+        {
+            "source": "lindsays basalt",
+            "target": "gleesons basalt",
+            "label": ""
+        },
+        {
+            "source": "lindsays basalt",
+            "target": "ultramafics",
+            "label": "by"
+        },
+        {
+            "source": "lindsays basalt",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "lindsays basalt",
+            "target": "burbanks",
+            "label": ""
+        },
+        {
+            "source": "lindsays basalt",
+            "target": "big blow",
+            "label": ""
+        },
+        {
+            "source": "dolerite",
+            "target": "coolgardie",
+            "label": "of"
+        },
+        {
+            "source": "dolerite",
+            "target": "lindsays basalt",
+            "label": ""
+        },
+        {
+            "source": "dolerite",
+            "target": "burbanks",
+            "label": ""
+        },
+        {
+            "source": "dolerite",
+            "target": "basalt",
+            "label": ""
+        },
+        {
+            "source": "dolerite",
+            "target": "lode",
+            "label": ""
+        },
+        {
+            "source": "calooli monzogranite",
+            "target": "coolgardie",
+            "label": "of"
+        },
+        {
+            "source": "calooli monzogranite",
+            "target": "lindsays basalt",
+            "label": ""
+        },
+        {
+            "source": "calooli monzogranite",
+            "target": "bali monzogranite",
+            "label": ""
+        },
+        {
+            "source": "porphyry",
+            "target": "coolgardie",
+            "label": "of"
+        },
+        {
+            "source": "porphyry",
+            "target": "dolerite",
+            "label": ""
+        },
+        {
+            "source": "porphyry",
+            "target": "basalt",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "iron",
+            "label": "in"
+        },
+        {
+            "source": "quartz",
+            "target": "dolerite",
+            "label": "in"
+        },
+        {
+            "source": "quartz",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "diorite",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "basalt",
+            "label": "in"
+        },
+        {
+            "source": "quartz",
+            "target": "sediment",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "host rock",
+            "label": "in"
+        },
+        {
+            "source": "quartz",
+            "target": "black shale",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "basalt",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "host rock",
+            "label": ""
         },
         {
             "source": "biotite",
             "target": "albite",
-            "label": []
+            "label": "in"
         },
         {
-            "source": "ultramafic volcanic rock",
-            "target": "black shale",
-            "label": [
-                "with"
-            ]
+            "source": "albite",
+            "target": "dolerite",
+            "label": ""
         },
         {
-            "source": "ultramafic volcanic rock",
-            "target": "volcaniclastic rock",
-            "label": [
-                "with"
-            ]
+            "source": "archean",
+            "target": "coolgardie",
+            "label": "in,facies"
         },
         {
-            "source": "talc",
-            "target": "olivine",
-            "label": [
-                "carbonate"
-            ]
+            "source": "archean",
+            "target": "hydrothermal",
+            "label": "of"
         },
         {
-            "source": "talc",
-            "target": "anthophyllite",
-            "label": [
-                "carbonate"
-            ]
+            "source": "archean",
+            "target": "gold",
+            "label": "facies"
         },
         {
-            "source": "mafic rock",
-            "target": "olivine",
-            "label": [
-                "carbonate"
-            ]
+            "source": "archean",
+            "target": "yilgarn block",
+            "label": "granites of"
         },
         {
-            "source": "mafic rock",
-            "target": "anthophyllite",
-            "label": [
-                "carbonate"
-            ]
+            "source": "archean",
+            "target": "western australia",
+            "label": "in,facies"
         },
         {
-            "source": "granitic rock",
+            "source": "archean",
+            "target": "breccia",
+            "label": "dominated by"
+        },
+        {
+            "source": "archean",
+            "target": "kalgoorlie terrane",
+            "label": "of"
+        },
+        {
+            "source": "archean",
+            "target": "menzies terrane",
+            "label": "into"
+        },
+        {
+            "source": "archean",
+            "target": "norseman terrane",
+            "label": "into"
+        },
+        {
+            "source": "archean",
+            "target": "supergene",
+            "label": ""
+        },
+        {
+            "source": "archean",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "archean",
+            "target": "amphibolite",
+            "label": "in"
+        },
+        {
+            "source": "archean",
             "target": "yilgarn craton",
-            "label": [
-                "in"
-            ]
+            "label": "facies"
         },
         {
-            "source": "chlorite",
-            "target": "olivine",
-            "label": [
-                "carbonate"
-            ]
+            "source": "archean",
+            "target": "greenstone",
+            "label": ""
         },
         {
-            "source": "chlorite",
-            "target": "anthophyllite",
-            "label": [
-                "carbonate"
-            ]
+            "source": "archean",
+            "target": "gold deposit",
+            "label": ""
+        },
+        {
+            "source": "archean",
+            "target": "lode gold deposit",
+            "label": "in"
+        },
+        {
+            "source": "archean",
+            "target": "diorite",
+            "label": ""
+        },
+        {
+            "source": "amphibolite",
+            "target": "coolgardie",
+            "label": "in,facies,hosted"
+        },
+        {
+            "source": "amphibolite",
+            "target": "western australia",
+            "label": "in,facies,hosted"
+        },
+        {
+            "source": "amphibolite",
+            "target": "yilgarn craton",
+            "label": "facies"
+        },
+        {
+            "source": "amphibolite",
+            "target": "gold",
+            "label": "facies"
+        },
+        {
+            "source": "amphibolite",
+            "target": "hornblende",
+            "label": "facies with"
+        },
+        {
+            "source": "amphibolite",
+            "target": "actinolite",
+            "label": "facies with"
+        },
+        {
+            "source": "amphibolite",
+            "target": "plagioclase",
+            "label": "facies with"
+        },
+        {
+            "source": "amphibolite",
+            "target": "ilmenite",
+            "label": "facies with"
+        },
+        {
+            "source": "amphibolite",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "amphibolite",
+            "target": "genesis",
+            "label": ""
+        },
+        {
+            "source": "amphibolite",
+            "target": "greenstone",
+            "label": "facies"
+        },
+        {
+            "source": "amphibolite",
+            "target": "gold deposit",
+            "label": ""
+        },
+        {
+            "source": "amphibolite",
+            "target": "diorite",
+            "label": ""
+        },
+        {
+            "source": "gabbro",
+            "target": "quartz",
+            "label": "in"
+        },
+        {
+            "source": "gabbro",
+            "target": "gold",
+            "label": "for"
+        },
+        {
+            "source": "gabbro",
+            "target": "coolgardie",
+            "label": "hosted"
+        },
+        {
+            "source": "gabbro",
+            "target": "western australia",
+            "label": "hosted"
+        },
+        {
+            "source": "gabbro",
+            "target": "amphibolite",
+            "label": ""
+        },
+        {
+            "source": "gabbro",
+            "target": "basalt",
+            "label": ""
+        },
+        {
+            "source": "gabbro",
+            "target": "gold deposit",
+            "label": "hosted"
+        },
+        {
+            "source": "gabbro",
+            "target": "quartz vein",
+            "label": ""
+        },
+        {
+            "source": "gabbro",
+            "target": "volcaniclastic rocks",
+            "label": ""
+        },
+        {
+            "source": "quartz vein",
+            "target": "quartz",
+            "label": "in"
+        },
+        {
+            "source": "quartz vein",
+            "target": "diorite",
+            "label": ""
+        },
+        {
+            "source": "quartz vein",
+            "target": "gabbro",
+            "label": ""
+        },
+        {
+            "source": "greenstone sequence",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "tindals diorite",
+            "target": "gold",
+            "label": "for"
+        },
+        {
+            "source": "regolith",
+            "target": "gold",
+            "label": "of"
+        },
+        {
+            "source": "hydrothermal",
+            "target": "granitic rocks",
+            "label": "associated with"
+        },
+        {
+            "source": "hydrothermal",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "chalice",
+            "target": "hydrothermal",
+            "label": "of"
+        },
+        {
+            "source": "chalice",
+            "target": "gold",
+            "label": "of"
+        },
+        {
+            "source": "chalice",
+            "target": "granitoid",
+            "label": ""
+        },
+        {
+            "source": "gold deposit",
+            "target": "hydrothermal",
+            "label": "of"
+        },
+        {
+            "source": "gold deposit",
+            "target": "gold",
+            "label": "of,,characterized by"
+        },
+        {
+            "source": "gold deposit",
+            "target": "coolgardie",
+            "label": "in,of"
+        },
+        {
+            "source": "gold deposit",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "gold deposit",
+            "target": "western australia",
+            "label": "in,of"
+        },
+        {
+            "source": "gold deposit",
+            "target": "amphibolite",
+            "label": "in"
+        },
+        {
+            "source": "gold deposit",
+            "target": "granulite",
+            "label": "in"
+        },
+        {
+            "source": "gold deposit",
+            "target": "big blow",
+            "label": ""
+        },
+        {
+            "source": "granitic rocks",
+            "target": "yilgarn craton",
+            "label": "in"
+        },
+        {
+            "source": "granitic rocks",
+            "target": "western australia",
+            "label": "in"
+        },
+        {
+            "source": "granitic rocks",
+            "target": "gold deposit",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "hydrothermal",
+            "label": "of"
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "chalice",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "granulite",
+            "label": ""
+        },
+        {
+            "source": "granitoid",
+            "target": "chalice",
+            "label": "at"
+        },
+        {
+            "source": "granitoid",
+            "target": "yilgarn craton",
+            "label": "at"
+        },
+        {
+            "source": "granitoid",
+            "target": "western australia",
+            "label": "at"
+        },
+        {
+            "source": "granitoid",
+            "target": "calooli monzogranite",
+            "label": ""
+        },
+        {
+            "source": "granitoid",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "granitoid",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "granitoid",
+            "target": "amphibolite",
+            "label": ""
+        },
+        {
+            "source": "bonnie vale",
+            "target": "coolgardie",
+            "label": "of"
+        },
+        {
+            "source": "bonnie vale",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "granite",
+            "target": "kalgoorlie",
+            "label": "of"
+        },
+        {
+            "source": "granite",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "greenstone",
+            "target": "kalgoorlie",
+            "label": "of"
+        },
+        {
+            "source": "greenstone",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "greenstone",
+            "target": "granite",
+            "label": ""
+        },
+        {
+            "source": "greenstone",
+            "target": "komatiite",
+            "label": ""
+        },
+        {
+            "source": "greenstone",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "greenstone",
+            "target": "granitic intrusions",
+            "label": ""
+        },
+        {
+            "source": "yilgarn block",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "genesis",
+            "target": "amphibolite",
+            "label": "of"
+        },
+        {
+            "source": "genesis",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "genesis",
+            "target": "archean",
+            "label": "of"
         },
         {
             "source": "genesis",
             "target": "gold deposit",
-            "label": [
-                "of"
-            ]
+            "label": "of"
         },
         {
-            "source": "hampton hill formation",
+            "source": "granulite",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "dunnsville",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "supergene",
+            "target": "gold",
+            "label": "characterized by"
+        },
+        {
+            "source": "supergene",
+            "target": "coolgardie",
+            "label": "mined in"
+        },
+        {
+            "source": "supergene",
+            "target": "lode",
+            "label": ""
+        },
+        {
+            "source": "supergene",
+            "target": "metasediments",
+            "label": ""
+        },
+        {
+            "source": "supergene",
+            "target": "lode gold deposit",
+            "label": "related"
+        },
+        {
+            "source": "lode",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "lode",
+            "target": "porphyry",
+            "label": "occur in"
+        },
+        {
+            "source": "breccia",
+            "target": "lode gold deposit",
+            "label": ""
+        },
+        {
+            "source": "menzies terrane",
+            "target": "menzies",
+            "label": ""
+        },
+        {
+            "source": "norseman terrane",
+            "target": "norseman",
+            "label": ""
+        },
+        {
+            "source": "menzies",
+            "target": "kalgoorlie terrane",
+            "label": "into"
+        },
+        {
+            "source": "menzies",
+            "target": "menzies terrane",
+            "label": "into"
+        },
+        {
+            "source": "menzies",
+            "target": "norseman terrane",
+            "label": "into"
+        },
+        {
+            "source": "menzies",
+            "target": "goldfields",
+            "label": ""
+        },
+        {
+            "source": "menzies",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "norseman",
+            "target": "kalgoorlie terrane",
+            "label": "into"
+        },
+        {
+            "source": "norseman",
+            "target": "menzies terrane",
+            "label": "into"
+        },
+        {
+            "source": "norseman",
+            "target": "norseman terrane",
+            "label": "into"
+        },
+        {
+            "source": "norseman",
+            "target": "menzies",
+            "label": ""
+        },
+        {
+            "source": "volcaniclastic rocks",
+            "target": "clastic sedimentary rocks",
+            "label": "interbedded with"
+        },
+        {
+            "source": "volcaniclastic rocks",
+            "target": "black shale",
+            "label": ""
+        },
+        {
+            "source": "clastic sedimentary rocks",
+            "target": "dolerite",
+            "label": ""
+        },
+        {
+            "source": "hornblende",
+            "target": "mafic rocks",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "tremolite",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "chlorite",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "talc",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "carbonate",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "olivine",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "anthophyllite",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "actinolite",
+            "target": "mafic rocks",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "tremolite",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "chlorite",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "talc",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "carbonate",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "olivine",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "anthophyllite",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "mafic rocks",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "tremolite",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "chlorite",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "talc",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "carbonate",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "olivine",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "anthophyllite",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "ilmenite",
+            "label": ""
+        },
+        {
+            "source": "ilmenite",
+            "target": "mafic rocks",
+            "label": "in"
+        },
+        {
+            "source": "ilmenite",
+            "target": "tremolite",
+            "label": "in"
+        },
+        {
+            "source": "ilmenite",
+            "target": "chlorite",
+            "label": "in"
+        },
+        {
+            "source": "ilmenite",
+            "target": "talc",
+            "label": "in"
+        },
+        {
+            "source": "ilmenite",
+            "target": "carbonate",
+            "label": "in"
+        },
+        {
+            "source": "ilmenite",
+            "target": "olivine",
+            "label": "in"
+        },
+        {
+            "source": "ilmenite",
+            "target": "anthophyllite",
+            "label": "in"
+        },
+        {
+            "source": "mafic rocks",
+            "target": "ultramafic rocks",
+            "label": "in"
+        },
+        {
+            "source": "mafic rocks",
+            "target": "tremolite",
+            "label": ""
+        },
+        {
+            "source": "tremolite",
+            "target": "ultramafic rocks",
+            "label": "in"
+        },
+        {
+            "source": "tremolite",
+            "target": "actinolite",
+            "label": ""
+        },
+        {
+            "source": "chlorite",
+            "target": "ultramafic rocks",
+            "label": "in"
+        },
+        {
+            "source": "chlorite",
+            "target": "talc",
+            "label": ""
+        },
+        {
+            "source": "talc",
+            "target": "ultramafic rocks",
+            "label": "in"
+        },
+        {
+            "source": "talc",
+            "target": "carbonate",
+            "label": ""
+        },
+        {
+            "source": "carbonate",
+            "target": "ultramafic rocks",
+            "label": "in"
+        },
+        {
+            "source": "carbonate",
+            "target": "anthophyllite",
+            "label": ""
+        },
+        {
+            "source": "olivine",
+            "target": "ultramafic rocks",
+            "label": "in"
+        },
+        {
+            "source": "olivine",
+            "target": "hornblende",
+            "label": ""
+        },
+        {
+            "source": "anthophyllite",
+            "target": "ultramafic rocks",
+            "label": "in"
+        },
+        {
+            "source": "ultramafic rocks",
+            "target": "black flag group",
+            "label": "of"
+        },
+        {
+            "source": "ultramafic rocks",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "ultramafic rocks",
             "target": "hampton formation",
-            "label": "[current_of]"
+            "label": ""
+        },
+        {
+            "source": "ultramafic rocks",
+            "target": "lindsays basalt",
+            "label": ""
+        },
+        {
+            "source": "ultramafic rocks",
+            "target": "lode gold deposit",
+            "label": ""
+        },
+        {
+            "source": "hampton formation",
+            "target": "black flag group",
+            "label": "of"
+        },
+        {
+            "source": "black shale",
+            "target": "quartz",
+            "label": "associated with"
+        },
+        {
+            "source": "black shale",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "black shale",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "metadolerite",
+            "target": "basalt",
+            "label": "to"
+        },
+        {
+            "source": "metadolerite",
+            "target": "ultramafics",
+            "label": ""
+        },
+        {
+            "source": "metabasalt",
+            "target": "basalt",
+            "label": "to"
+        },
+        {
+            "source": "metabasalt",
+            "target": "metadolerite",
+            "label": ""
+        },
+        {
+            "source": "clay",
+            "target": "alluvium",
+            "label": ""
+        },
+        {
+            "source": "kambalda",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "kambalda",
+            "target": "ora banda",
+            "label": ""
+        },
+        {
+            "source": "bali monzogranite",
+            "target": "bullabulling",
+            "label": ""
+        },
+        {
+            "source": "batholith",
+            "target": "big blow",
+            "label": ""
+        },
+        {
+            "source": "host rock",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "host rock",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "host rock",
+            "target": "gabbro",
+            "label": ""
+        },
+        {
+            "source": "diorite",
+            "target": "perseverance",
+            "label": ""
+        },
+        {
+            "source": "diorite",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "diorite",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "diorite",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "diorite",
+            "target": "quartz vein",
+            "label": ""
+        },
+        {
+            "source": "dolerite host rocks",
+            "target": "biotite",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "sediment",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "dolerite",
+            "label": ""
+        },
+        {
+            "source": "saprolite",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "lode gold deposit",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "lode gold deposit",
+            "target": "coolgardie",
+            "label": "in,recognized in"
+        },
+        {
+            "source": "lode gold deposit",
+            "target": "breccia",
+            "label": "dominated by"
+        },
+        {
+            "source": "lode gold deposit",
+            "target": "amphibolite",
+            "label": ""
+        },
+        {
+            "source": "lode gold deposit",
+            "target": "gabbro",
+            "label": ""
+        },
+        {
+            "source": "sediment",
+            "target": "gabbro",
+            "label": ""
+        },
+        {
+            "source": "sediment",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "felsic porphyry",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "bullabulling",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "ultramafic volcanic rocks",
+            "target": "clastic sedimentary rocks",
+            "label": ""
+        },
+        {
+            "source": "metasediments",
+            "target": "metabasalt",
+            "label": ""
         },
         {
             "source": "kalgoorlie group",
             "target": "coolgardie subgroup",
-            "label": "[parent_of]"
-        },
-        {
-            "source": "bonnie vale tonalite",
-            "target": "bonnievale tonalite",
-            "label": "[current_of]"
-        },
-        {
-            "source": "coolgardie group",
-            "target": "burbanks formation",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "coolgardie subgroup",
             "target": "gleesons basalt",
-            "label": "[parent_of]"
+            "label": "parent_of"
         },
         {
             "source": "coolgardie subgroup",
             "target": "lindsays basalt",
-            "label": "[parent_of]"
+            "label": "parent_of"
+        },
+        {
+            "source": "hampton hill formation",
+            "target": "hampton formation",
+            "label": "current_of"
         }
     ]
 }

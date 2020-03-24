@@ -1,159 +1,79 @@
 {
     "nodes": [
         {
-            "id": "base metal",
-            "group": "MINERAL",
-            "degree": 9
-        },
-        {
-            "id": "silurian",
-            "group": "TIMESCALE",
-            "degree": 1
-        },
-        {
-            "id": "proterozoic",
-            "group": "TIMESCALE",
-            "degree": 7
-        },
-        {
-            "id": "quartzite",
+            "id": "granite",
             "group": "ROCK",
-            "degree": 2
+            "degree": 10
         },
         {
-            "id": "perth basin",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "southwest",
-            "group": "LOCATION",
-            "degree": 3
+            "id": "gneiss",
+            "group": "ROCK",
+            "degree": 15
         },
         {
             "id": "balingup complex",
             "group": "STRAT",
-            "degree": 12
+            "degree": 31
         },
         {
-            "id": "granite greenstone",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "yilgarn craton",
-            "group": "LOCATION",
-            "degree": 8
-        },
-        {
-            "id": "gold deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": 0
-        },
-        {
-            "id": "granitoid",
-            "group": "ROCK",
-            "degree": 3
-        },
-        {
-            "id": "balingup",
-            "group": "LOCATION",
-            "degree": 10
-        },
-        {
-            "id": "sediment",
-            "group": "ROCK",
-            "degree": 5
-        },
-        {
-            "id": "cenozoic",
-            "group": "TIMESCALE",
-            "degree": 2
-        },
-        {
-            "id": "widgiemooltha",
-            "group": "LOCATION",
-            "degree": 5
-        },
-        {
-            "id": "lacustrine sediment",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "cretaceous",
-            "group": "TIMESCALE",
-            "degree": 5
-        },
-        {
-            "id": "banded iron formation",
-            "group": "ROCK",
-            "degree": 8
-        },
-        {
-            "id": "greywacke",
-            "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "paragneiss",
-            "group": "ROCK",
-            "degree": 4
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": 18
         },
         {
             "id": "greenbushes",
             "group": "LOCATION",
-            "degree": 13
+            "degree": 25
         },
         {
-            "id": "granite",
-            "group": "ROCK",
-            "degree": 5
+            "id": "western australia",
+            "group": "LOCATION",
+            "degree": 21
         },
         {
-            "id": "greenbushes pegmatite",
-            "group": "STRAT",
-            "degree": 3
+            "id": "southwest",
+            "group": "LOCATION",
+            "degree": 10
         },
         {
-            "id": "boddington",
+            "id": "yilgarn craton",
+            "group": "LOCATION",
+            "degree": 18
+        },
+        {
+            "id": "albany",
             "group": "LOCATION",
             "degree": 5
         },
         {
-            "id": "gibralter quartz monzonite",
-            "group": "STRAT",
+            "id": "fraser",
+            "group": "LOCATION",
+            "degree": 5
+        },
+        {
+            "id": "pinjarra",
+            "group": "LOCATION",
+            "degree": 11
+        },
+        {
+            "id": "perth basin",
+            "group": "LOCATION",
             "degree": 4
         },
         {
-            "id": "pegmatite",
-            "group": "ROCK",
-            "degree": 9
+            "id": "donnybrook",
+            "group": "LOCATION",
+            "degree": 13
         },
         {
-            "id": "quartz monzonite",
-            "group": "ROCK",
-            "degree": 1
+            "id": "bridgetown",
+            "group": "LOCATION",
+            "degree": 12
         },
         {
-            "id": "laterite",
-            "group": "ROCK",
-            "degree": 2
-        },
-        {
-            "id": "iron",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "iron deposit",
+            "id": "base metal",
             "group": "ORE_DEPOSIT",
-            "degree": 1
-        },
-        {
-            "id": "greenstone belt",
-            "group": "STRAT",
-            "degree": 3
+            "degree": 16
         },
         {
             "id": "magnetite",
@@ -166,134 +86,134 @@
             "degree": 1
         },
         {
-            "id": "bridgetown",
-            "group": "LOCATION",
-            "degree": 3
+            "id": "tin",
+            "group": "MINERAL",
+            "degree": 9
         },
         {
-            "id": "donnybrook",
-            "group": "LOCATION",
-            "degree": 6
-        },
-        {
-            "id": "metasedimentary",
+            "id": "banded iron formation",
             "group": "ROCK",
-            "degree": 3
+            "degree": 19
+        },
+        {
+            "id": "pegmatite",
+            "group": "ROCK",
+            "degree": 26
+        },
+        {
+            "id": "proterozoic",
+            "group": "TIMESCALE",
+            "degree": 19
         },
         {
             "id": "migmatite",
             "group": "ROCK",
-            "degree": 2
+            "degree": 15
         },
         {
-            "id": "gold",
-            "group": "MINERAL",
-            "degree": 8
-        },
-        {
-            "id": "metagabbro",
+            "id": "granitic intrusions",
             "group": "ROCK",
-            "degree": 1
+            "degree": 9
+        },
+        {
+            "id": "cenozoic",
+            "group": "TIMESCALE",
+            "degree": 4
+        },
+        {
+            "id": "balingup",
+            "group": "LOCATION",
+            "degree": 16
+        },
+        {
+            "id": "paragneiss",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "quartzite",
+            "group": "ROCK",
+            "degree": 6
         },
         {
             "id": "orthogneiss",
             "group": "ROCK",
+            "degree": 13
+        },
+        {
+            "id": "sedimentary sequence",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "widgiemooltha",
+            "group": "LOCATION",
+            "degree": 11
+        },
+        {
+            "id": "bauxite",
+            "group": "ROCK",
+            "degree": 5
+        },
+        {
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": 9
+        },
+        {
+            "id": "metasedimentary rocks",
+            "group": "ROCK",
             "degree": 4
         },
         {
-            "id": "dolerite",
-            "group": "ROCK",
+            "id": "platinum",
+            "group": "MINERAL",
             "degree": 5
         },
         {
             "id": "kaolin",
             "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "albany",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "fraser",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
-            "id": "greenschist",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "tin",
-            "group": "MINERAL",
-            "degree": 2
-        },
-        {
-            "id": "amphibolite",
-            "group": "ROCK",
             "degree": 4
         },
         {
-            "id": "alluvial deposit",
+            "id": "alluvial deposits",
             "group": "ORE_DEPOSIT",
             "degree": 2
         },
         {
-            "id": "neoproterozoic",
-            "group": "TIMESCALE",
-            "degree": 1
-        },
-        {
-            "id": "cambrian",
-            "group": "TIMESCALE",
-            "degree": 2
-        },
-        {
-            "id": "pinjarra",
-            "group": "LOCATION",
+            "id": "greenstone belt",
+            "group": "STRAT",
             "degree": 5
         },
         {
-            "id": "logue brook granite",
-            "group": "STRAT",
+            "id": "boddington",
+            "group": "LOCATION",
+            "degree": 14
+        },
+        {
+            "id": "quartz",
+            "group": "MINERAL",
+            "degree": 3
+        },
+        {
+            "id": "sericite",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "pyrite",
+            "group": "MINERAL",
             "degree": 2
         },
         {
-            "id": "bauxite",
-            "group": "ROCK",
-            "degree": 0
-        },
-        {
-            "id": "quaternary",
+            "id": "silurian",
             "group": "TIMESCALE",
-            "degree": 1
-        },
-        {
-            "id": "collie",
-            "group": "LOCATION",
-            "degree": 1
-        },
-        {
-            "id": "silicate",
-            "group": "MINERAL",
-            "degree": 1
-        },
-        {
-            "id": "platinum",
-            "group": "MINERAL",
             "degree": 3
         },
         {
-            "id": "gneiss",
-            "group": "ROCK",
+            "id": "cretaceous",
+            "group": "TIMESCALE",
             "degree": 3
-        },
-        {
-            "id": "eastern goldfield",
-            "group": "LOCATION",
-            "degree": 0
         },
         {
             "id": "mesozoic",
@@ -301,34 +221,104 @@
             "degree": 2
         },
         {
+            "id": "precambrian",
+            "group": "TIMESCALE",
+            "degree": 4
+        },
+        {
+            "id": "greenbushes pegmatite",
+            "group": "STRAT",
+            "degree": 6
+        },
+        {
+            "id": "amphibolite",
+            "group": "ROCK",
+            "degree": 12
+        },
+        {
+            "id": "neoproterozoic",
+            "group": "TIMESCALE",
+            "degree": 2
+        },
+        {
+            "id": "cambrian",
+            "group": "TIMESCALE",
+            "degree": 2
+        },
+        {
+            "id": "hydrothermal",
+            "group": "MINERAL",
+            "degree": 4
+        },
+        {
             "id": "carbonate",
             "group": "MINERAL",
             "degree": 2
         },
         {
-            "id": "monzonite",
+            "id": "metasediments",
             "group": "ROCK",
-            "degree": 1
+            "degree": 6
         },
         {
-            "id": "metasedimentary rock",
+            "id": "ultramafic intrusions",
             "group": "ROCK",
+            "degree": 6
+        },
+        {
+            "id": "metagabbro",
+            "group": "ROCK",
+            "degree": 4
+        },
+        {
+            "id": "monzonite",
+            "group": "ROCK",
+            "degree": 8
+        },
+        {
+            "id": "quartz monzonite",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "sediment",
+            "group": "ROCK",
+            "degree": 10
+        },
+        {
+            "id": "silicates",
+            "group": "MINERAL",
+            "degree": 2
+        },
+        {
+            "id": "greywacke",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "gibralter quartz monzonite",
+            "group": "STRAT",
             "degree": 3
         },
         {
-            "id": "tertiary",
-            "group": "TIMESCALE",
+            "id": "boddington gold mine",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "gold deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 2
+        },
+        {
+            "id": "goldfields",
+            "group": "LOCATION",
+            "degree": 2
+        },
+        {
+            "id": "collie",
+            "group": "LOCATION",
             "degree": 1
-        },
-        {
-            "id": "diamond",
-            "group": "MINERAL",
-            "degree": 0
-        },
-        {
-            "id": "quartz vein",
-            "group": "ROCK",
-            "degree": 0
         },
         {
             "id": "greenstone",
@@ -336,797 +326,1521 @@
             "degree": 1
         },
         {
-            "id": "sand",
+            "id": "greenstone sequences",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "dolerite dyke",
+            "group": "ROCK",
+            "degree": 6
+        },
+        {
+            "id": "iron deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": 2
+        },
+        {
+            "id": "layered mafic intrusions",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "quartz veins",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "laterite",
+            "group": "ROCK",
+            "degree": 3
+        },
+        {
+            "id": "diamonds",
+            "group": "MINERAL",
+            "degree": 1
+        },
+        {
+            "id": "logue brook granite",
+            "group": "STRAT",
+            "degree": 1
+        },
+        {
+            "id": "granitoid",
+            "group": "ROCK",
+            "degree": 8
+        },
+        {
+            "id": "conglomerates",
             "group": "ROCK",
             "degree": 1
         },
         {
-            "id": "precambrian",
+            "id": "alluvial sand",
+            "group": "ROCK",
+            "degree": 2
+        },
+        {
+            "id": "quaternary",
             "group": "TIMESCALE",
             "degree": 2
         },
         {
-            "id": "sericite",
-            "group": "MINERAL",
-            "degree": 2
-        },
-        {
-            "id": "pyrite",
-            "group": "MINERAL",
+            "id": "tertiary",
+            "group": "TIMESCALE",
             "degree": 1
         },
         {
-            "id": "quartz",
-            "group": "MINERAL",
-            "degree": 2
-        },
-        {
-            "id": "conglomerate",
+            "id": "greenschist",
             "group": "ROCK",
-            "degree": 1
-        },
-        {
-            "id": "hydrothermal",
-            "group": "MINERAL",
             "degree": 2
         },
         {
             "id": "archean",
             "group": "TIMESCALE",
-            "degree": 1
+            "degree": 26
         }
     ],
     "links": [
         {
-            "source": "base metal",
-            "target": "greenbushes",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "base metal",
-            "target": "banded iron formation",
-            "label": [
-                "associated with"
-            ]
-        },
-        {
-            "source": "base metal",
-            "target": "metasedimentary rock",
-            "label": [
-                "associated with"
-            ]
-        },
-        {
-            "source": "base metal",
-            "target": "platinum",
-            "label": [
-                "associated with"
-            ]
-        },
-        {
-            "source": "base metal",
-            "target": "gold",
-            "label": [
-                "In"
-            ]
-        },
-        {
-            "source": "base metal",
-            "target": "sand",
-            "label": []
-        },
-        {
-            "source": "base metal",
-            "target": "conglomerate",
-            "label": []
-        },
-        {
-            "source": "silurian",
-            "target": "cretaceous",
-            "label": [
-                "to"
-            ]
-        },
-        {
-            "source": "proterozoic",
-            "target": "albany",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "proterozoic",
-            "target": "pinjarra",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "proterozoic",
-            "target": "granite",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "proterozoic",
-            "target": "pegmatite",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "proterozoic",
-            "target": "dolerite",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "quartzite",
-            "target": "paragneiss",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "perth basin",
-            "target": "lacustrine sediment",
-            "label": [
-                "(marine, fluvial, and"
-            ]
-        },
-        {
-            "source": "southwest",
-            "target": "yilgarn craton",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "southwest",
-            "target": "greenstone belt",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "balingup complex",
-            "target": "balingup",
-            "label": [
-                "(or"
-            ]
-        },
-        {
-            "source": "balingup complex",
-            "target": "yilgarn craton",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "balingup complex",
-            "target": "donnybrook",
-            "label": [
-                "along"
-            ]
-        },
-        {
-            "source": "balingup complex",
-            "target": "pinjarra",
-            "label": []
-        },
-        {
-            "source": "granite greenstone",
-            "target": "cretaceous",
-            "label": [
-                "to"
-            ]
-        },
-        {
-            "source": "yilgarn craton",
-            "target": "granite greenstone",
-            "label": [
-                "("
-            ]
-        },
-        {
-            "source": "yilgarn craton",
-            "target": "granite",
-            "label": [
-                "comprises gneiss"
-            ]
-        },
-        {
-            "source": "yilgarn craton",
-            "target": "greenstone",
-            "label": [
-                "comprises gneiss"
-            ]
-        },
-        {
-            "source": "granitoid",
-            "target": "gibralter quartz monzonite",
-            "label": [
-                "("
-            ]
-        },
-        {
-            "source": "balingup",
-            "target": "granitoid",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "balingup",
-            "target": "gneiss",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "balingup",
-            "target": "proterozoic",
-            "label": [
-                "throughout"
-            ]
-        },
-        {
-            "source": "balingup",
-            "target": "dolerite",
-            "label": []
-        },
-        {
-            "source": "sediment",
-            "target": "banded iron formation",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "sediment",
-            "target": "silicate",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "sediment",
-            "target": "greywacke",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "sediment",
-            "target": "balingup complex",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "cenozoic",
-            "target": "sediment",
-            "label": [
-                "alluvial and colluvial"
-            ]
-        },
-        {
-            "source": "cenozoic",
-            "target": "carbonate",
-            "label": [
-                "normal faulting and"
-            ]
-        },
-        {
-            "source": "widgiemooltha",
-            "target": "dolerite",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "widgiemooltha",
-            "target": "yilgarn craton",
-            "label": [
-                "intruded"
-            ]
-        },
-        {
-            "source": "widgiemooltha",
-            "target": "pegmatite",
-            "label": [
-                "of"
-            ]
-        },
-        {
-            "source": "cretaceous",
-            "target": "perth basin",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "banded iron formation",
-            "target": "iron deposit",
-            "label": []
-        },
-        {
-            "source": "paragneiss",
-            "target": "greenbushes",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "paragneiss",
-            "target": "balingup complex",
-            "label": [
-                "have been interpreted within"
-            ]
-        },
-        {
-            "source": "paragneiss",
-            "target": "banded iron formation",
-            "label": []
-        },
-        {
-            "source": "greenbushes",
-            "target": "pegmatite",
-            "label": [
-                "mineralised"
-            ]
-        },
-        {
-            "source": "greenbushes",
-            "target": "collie",
-            "label": [
-                "from"
-            ]
-        },
-        {
-            "source": "greenbushes",
-            "target": "southwest",
-            "label": [
-                "in"
-            ]
-        },
-        {
-            "source": "greenbushes",
-            "target": "widgiemooltha",
-            "label": [
-                "since"
-            ]
-        },
-        {
-            "source": "greenbushes",
-            "target": "balingup complex",
-            "label": [
-                "is located in"
-            ]
-        },
-        {
-            "source": "greenbushes",
-            "target": "gold",
-            "label": []
-        },
-        {
-            "source": "greenbushes",
-            "target": "base metal",
-            "label": []
-        },
-        {
-            "source": "greenbushes",
-            "target": "donnybrook",
-            "label": []
-        },
-        {
             "source": "granite",
-            "target": "gneiss",
-            "label": [
-                ""
-            ]
+            "target": "proterozoic",
+            "label": "derived from"
         },
         {
             "source": "granite",
             "target": "orthogneiss",
-            "label": [
-                "of"
-            ]
+            "label": "of"
         },
         {
             "source": "granite",
-            "target": "logue brook granite",
-            "label": [
-                "as"
-            ]
+            "target": "archean",
+            "label": "derived from"
         },
         {
-            "source": "greenbushes pegmatite",
-            "target": "metasedimentary",
-            "label": [
-                "occur between"
-            ]
+            "source": "granite",
+            "target": "greenstone belt",
+            "label": ""
         },
         {
-            "source": "greenbushes pegmatite",
-            "target": "amphibolite",
-            "label": [
-                "was emplaced during"
-            ]
+            "source": "gneiss",
+            "target": "proterozoic",
+            "label": "derived from,intruded by"
         },
         {
-            "source": "greenbushes pegmatite",
+            "source": "gneiss",
+            "target": "ultramafic intrusions",
+            "label": "intruded by"
+        },
+        {
+            "source": "gneiss",
+            "target": "widgiemooltha",
+            "label": "intruded by"
+        },
+        {
+            "source": "gneiss",
+            "target": "granite",
+            "label": ""
+        },
+        {
+            "source": "gneiss",
+            "target": "balingup",
+            "label": ""
+        },
+        {
+            "source": "gneiss",
+            "target": "granitic intrusions",
+            "label": ""
+        },
+        {
+            "source": "gneiss",
+            "target": "greenstone sequences",
+            "label": ""
+        },
+        {
+            "source": "gneiss",
+            "target": "archean",
+            "label": "derived from"
+        },
+        {
+            "source": "gneiss",
+            "target": "dolerite dyke",
+            "label": ""
+        },
+        {
+            "source": "gneiss",
+            "target": "pegmatite",
+            "label": "intruded by"
+        },
+        {
+            "source": "balingup complex",
+            "target": "western australia",
+            "label": "in,within"
+        },
+        {
+            "source": "balingup complex",
+            "target": "yilgarn craton",
+            "label": "within"
+        },
+        {
+            "source": "balingup complex",
+            "target": "gneiss",
+            "label": "consists of"
+        },
+        {
+            "source": "balingup complex",
+            "target": "metasediments",
+            "label": "consists of"
+        },
+        {
+            "source": "balingup complex",
             "target": "donnybrook",
-            "label": []
+            "label": "along"
         },
         {
-            "source": "boddington",
-            "target": "balingup complex",
-            "label": [
-                "terrane (east of the"
-            ]
-        },
-        {
-            "source": "boddington",
-            "target": "gold",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "boddington",
-            "target": "quartz",
-            "label": [
-                "are associated with"
-            ]
-        },
-        {
-            "source": "boddington",
-            "target": "greenbushes",
-            "label": [
-                "have been mapped throughout"
-            ]
-        },
-        {
-            "source": "gibralter quartz monzonite",
-            "target": "balingup",
-            "label": []
-        },
-        {
-            "source": "gibralter quartz monzonite",
-            "target": "balingup complex",
-            "label": []
-        },
-        {
-            "source": "gibralter quartz monzonite",
-            "target": "monzonite",
-            "label": []
-        },
-        {
-            "source": "pegmatite",
-            "target": "banded iron formation",
-            "label": [
-                "associated with"
-            ]
-        },
-        {
-            "source": "pegmatite",
-            "target": "tin",
-            "label": [
-                "hosted"
-            ]
-        },
-        {
-            "source": "pegmatite",
-            "target": "alluvial deposit",
-            "label": [
-                "and"
-            ]
-        },
-        {
-            "source": "pegmatite",
-            "target": "metasedimentary rock",
-            "label": [
-                "associated with"
-            ]
-        },
-        {
-            "source": "pegmatite",
-            "target": "platinum",
-            "label": [
-                "associated with"
-            ]
-        },
-        {
-            "source": "iron",
-            "target": "banded iron formation",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "greenstone belt",
-            "target": "boddington",
-            "label": [
-                "within"
-            ]
-        },
-        {
-            "source": "greenstone belt",
-            "target": "balingup",
-            "label": []
-        },
-        {
-            "source": "magnetite",
-            "target": "hematite",
-            "label": [
-                ""
-            ]
-        },
-        {
-            "source": "bridgetown",
-            "target": "balingup complex",
-            "label": [
-                "separates"
-            ]
-        },
-        {
-            "source": "bridgetown",
-            "target": "amphibolite",
-            "label": [
-                "were associated with"
-            ]
-        },
-        {
-            "source": "donnybrook",
+            "source": "balingup complex",
             "target": "bridgetown",
-            "label": [
-                ""
-            ]
+            "label": "along"
         },
         {
-            "source": "metasedimentary",
-            "target": "balingup complex",
-            "label": [
-                ""
-            ]
+            "source": "balingup complex",
+            "target": "banded iron formation",
+            "label": ""
         },
         {
-            "source": "metasedimentary",
-            "target": "donnybrook",
-            "label": [
-                "near"
-            ]
+            "source": "balingup complex",
+            "target": "base metal",
+            "label": ""
         },
         {
-            "source": "migmatite",
-            "target": "quartz monzonite",
-            "label": [
-                "and deformed"
-            ]
+            "source": "balingup complex",
+            "target": "greenbushes",
+            "label": ""
+        },
+        {
+            "source": "balingup complex",
+            "target": "granite",
+            "label": ""
+        },
+        {
+            "source": "balingup complex",
+            "target": "sedimentary sequence",
+            "label": ""
+        },
+        {
+            "source": "balingup complex",
+            "target": "monzonite",
+            "label": ""
+        },
+        {
+            "source": "balingup complex",
+            "target": "greenschist",
+            "label": ""
+        },
+        {
+            "source": "balingup complex",
+            "target": "sediment",
+            "label": ""
+        },
+        {
+            "source": "balingup complex",
+            "target": "archean",
+            "label": "consists of"
+        },
+        {
+            "source": "balingup complex",
+            "target": "granitoid",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "greenbushes",
+            "label": "in,within"
         },
         {
             "source": "gold",
             "target": "base metal",
-            "label": [
-                "and"
-            ]
+            "label": "within,,hosted"
         },
         {
             "source": "gold",
-            "target": "greenbushes",
-            "label": [
-                "within"
-            ]
+            "target": "tin",
+            "label": "hosted"
         },
         {
             "source": "gold",
             "target": "banded iron formation",
-            "label": [
-                "associated with"
-            ]
+            "label": "hosted"
         },
         {
             "source": "gold",
-            "target": "metasedimentary rock",
-            "label": [
-                "associated with"
-            ]
+            "target": "iron",
+            "label": "associated with banded,hosted"
+        },
+        {
+            "source": "gold",
+            "target": "metasedimentary rocks",
+            "label": "associated with banded"
         },
         {
             "source": "gold",
             "target": "platinum",
-            "label": [
-                "associated with"
-            ]
+            "label": "associated with banded"
         },
         {
-            "source": "metagabbro",
+            "source": "gold",
+            "target": "boddington",
+            "label": "at"
+        },
+        {
+            "source": "gold",
+            "target": "bauxite",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "layered mafic intrusions",
+            "label": ""
+        },
+        {
+            "source": "gold",
             "target": "pegmatite",
-            "label": [
-                ", quartzite,"
-            ]
+            "label": ""
         },
         {
-            "source": "orthogneiss",
-            "target": "balingup",
-            "label": [
-                "have been interpreted in"
-            ]
+            "source": "greenbushes",
+            "target": "western australia",
+            "label": "of"
         },
         {
-            "source": "orthogneiss",
-            "target": "quartzite",
-            "label": []
+            "source": "greenbushes",
+            "target": "southwest",
+            "label": "in"
         },
         {
-            "source": "orthogneiss",
-            "target": "banded iron formation",
-            "label": []
+            "source": "greenbushes",
+            "target": "greenstone belt",
+            "label": "hosted within"
         },
         {
-            "source": "dolerite",
+            "source": "greenbushes",
+            "target": "pegmatite",
+            "label": "mineralised"
+        },
+        {
+            "source": "greenbushes",
+            "target": "balingup complex",
+            "label": ""
+        },
+        {
+            "source": "greenbushes",
+            "target": "collie",
+            "label": ""
+        },
+        {
+            "source": "greenbushes",
+            "target": "greenbushes pegmatite",
+            "label": ""
+        },
+        {
+            "source": "greenbushes",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "greenbushes",
+            "target": "paragneiss",
+            "label": ""
+        },
+        {
+            "source": "greenbushes",
+            "target": "donnybrook",
+            "label": ""
+        },
+        {
+            "source": "greenbushes",
             "target": "widgiemooltha",
-            "label": [
-                "of"
-            ]
+            "label": ""
         },
         {
-            "source": "dolerite",
-            "target": "granite greenstone",
-            "label": [
-                "within"
-            ]
+            "source": "greenbushes",
+            "target": "platinum",
+            "label": ""
+        },
+        {
+            "source": "greenbushes",
+            "target": "kaolin",
+            "label": ""
+        },
+        {
+            "source": "greenbushes",
+            "target": "tin",
+            "label": ""
+        },
+        {
+            "source": "greenbushes",
+            "target": "boddington",
+            "label": ""
+        },
+        {
+            "source": "greenbushes",
+            "target": "diamonds",
+            "label": ""
+        },
+        {
+            "source": "greenbushes",
+            "target": "yilgarn craton",
+            "label": ""
+        },
+        {
+            "source": "greenbushes",
+            "target": "archean",
+            "label": "hosted within"
+        },
+        {
+            "source": "western australia",
+            "target": "yilgarn craton",
+            "label": "highlighting,subdivided into"
+        },
+        {
+            "source": "western australia",
+            "target": "albany",
+            "label": "highlighting,subdivided into"
+        },
+        {
+            "source": "western australia",
+            "target": "fraser",
+            "label": "highlighting,subdivided into"
+        },
+        {
+            "source": "western australia",
+            "target": "pinjarra",
+            "label": "highlighting,subdivided into"
+        },
+        {
+            "source": "western australia",
+            "target": "perth basin",
+            "label": "highlighting,subdivided into"
+        },
+        {
+            "source": "western australia",
+            "target": "bauxite",
+            "label": "for"
+        },
+        {
+            "source": "western australia",
+            "target": "gold",
+            "label": "for"
+        },
+        {
+            "source": "western australia",
+            "target": "proterozoic",
+            "label": "subdivided into"
+        },
+        {
+            "source": "western australia",
+            "target": "silurian",
+            "label": "subdivided into"
+        },
+        {
+            "source": "western australia",
+            "target": "cretaceous",
+            "label": "subdivided into"
+        },
+        {
+            "source": "western australia",
+            "target": "boddington gold mine",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "greenbushes",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "archean",
+            "label": "subdivided into"
+        },
+        {
+            "source": "western australia",
+            "target": "base metal",
+            "label": "for"
+        },
+        {
+            "source": "southwest",
+            "target": "western australia",
+            "label": "in,of"
+        },
+        {
+            "source": "southwest",
+            "target": "yilgarn craton",
+            "label": "of"
+        },
+        {
+            "source": "southwest",
+            "target": "greenbushes pegmatite",
+            "label": ""
+        },
+        {
+            "source": "southwest",
+            "target": "fraser",
+            "label": ""
+        },
+        {
+            "source": "southwest",
+            "target": "balingup complex",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "perth basin",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "granite",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "fraser",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "migmatite",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "southwest",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "precambrian",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "archean",
+            "label": "by"
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "granitoid",
+            "label": "by"
         },
         {
             "source": "albany",
-            "target": "fraser",
-            "label": [
-                ""
-            ]
+            "target": "pinjarra",
+            "label": ""
+        },
+        {
+            "source": "albany",
+            "target": "cretaceous",
+            "label": ""
         },
         {
             "source": "fraser",
-            "target": "cretaceous",
-            "label": [
-                "to"
-            ]
+            "target": "albany",
+            "label": ""
+        },
+        {
+            "source": "fraser",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "pinjarra",
+            "target": "balingup",
+            "label": "within"
+        },
+        {
+            "source": "pinjarra",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "pinjarra",
+            "target": "balingup complex",
+            "label": ""
+        },
+        {
+            "source": "pinjarra",
+            "target": "proterozoic",
+            "label": ""
+        },
+        {
+            "source": "pinjarra",
+            "target": "mesozoic",
+            "label": ""
+        },
+        {
+            "source": "pinjarra",
+            "target": "widgiemooltha",
+            "label": ""
+        },
+        {
+            "source": "perth basin",
+            "target": "southwest",
+            "label": ""
+        },
+        {
+            "source": "perth basin",
+            "target": "proterozoic",
+            "label": ""
+        },
+        {
+            "source": "donnybrook",
+            "target": "balingup complex",
+            "label": "separates"
+        },
+        {
+            "source": "donnybrook",
+            "target": "bridgetown",
+            "label": "towards,in"
+        },
+        {
+            "source": "donnybrook",
+            "target": "amphibolite",
+            "label": "associated with"
+        },
+        {
+            "source": "donnybrook",
+            "target": "orthogneiss",
+            "label": ""
+        },
+        {
+            "source": "donnybrook",
+            "target": "proterozoic",
+            "label": ""
+        },
+        {
+            "source": "donnybrook",
+            "target": "greenbushes pegmatite",
+            "label": ""
+        },
+        {
+            "source": "donnybrook",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "donnybrook",
+            "target": "pegmatite",
+            "label": ""
+        },
+        {
+            "source": "bridgetown",
+            "target": "balingup complex",
+            "label": "separates"
+        },
+        {
+            "source": "bridgetown",
+            "target": "amphibolite",
+            "label": "associated with"
+        },
+        {
+            "source": "bridgetown",
+            "target": "orthogneiss",
+            "label": ""
+        },
+        {
+            "source": "bridgetown",
+            "target": "donnybrook",
+            "label": ""
+        },
+        {
+            "source": "bridgetown",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "base metal",
+            "target": "greenbushes",
+            "label": "within,in,,in"
+        },
+        {
+            "source": "base metal",
+            "target": "boddington",
+            "label": ""
+        },
+        {
+            "source": "base metal",
+            "target": "iron",
+            "label": "associated with banded"
+        },
+        {
+            "source": "base metal",
+            "target": "metasedimentary rocks",
+            "label": "associated with banded"
+        },
+        {
+            "source": "base metal",
+            "target": "platinum",
+            "label": "associated with banded"
+        },
+        {
+            "source": "base metal",
+            "target": "gold",
+            "label": "in"
+        },
+        {
+            "source": "base metal",
+            "target": "tin",
+            "label": ""
+        },
+        {
+            "source": "base metal",
+            "target": "balingup complex",
+            "label": ""
+        },
+        {
+            "source": "base metal",
+            "target": "bauxite",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "hematite",
+            "label": "to"
         },
         {
             "source": "tin",
             "target": "greenbushes",
-            "label": [
-                "tantalum lithium the"
-            ]
+            "label": "at,in"
         },
         {
-            "source": "amphibolite",
-            "target": "balingup complex",
-            "label": [
-                "grade"
-            ]
+            "source": "tin",
+            "target": "gold",
+            "label": ""
         },
         {
-            "source": "amphibolite",
-            "target": "donnybrook",
-            "label": [
-                "along"
-            ]
+            "source": "tin",
+            "target": "iron",
+            "label": ""
         },
         {
-            "source": "alluvial deposit",
-            "target": "kaolin",
-            "label": [
-                "of"
-            ]
+            "source": "tin",
+            "target": "alluvial deposits",
+            "label": ""
         },
         {
-            "source": "neoproterozoic",
-            "target": "cambrian",
-            "label": [
-                ""
-            ]
+            "source": "tin",
+            "target": "pegmatite",
+            "label": ""
         },
         {
-            "source": "cambrian",
-            "target": "pinjarra",
-            "label": [
-                ""
-            ]
+            "source": "banded iron formation",
+            "target": "pegmatite",
+            "label": ""
         },
         {
-            "source": "pinjarra",
-            "target": "cretaceous",
-            "label": [
-                "to"
-            ]
-        },
-        {
-            "source": "pinjarra",
-            "target": "balingup",
-            "label": []
-        },
-        {
-            "source": "logue brook granite",
-            "target": "granitoid",
-            "label": []
-        },
-        {
-            "source": "quaternary",
-            "target": "laterite",
-            "label": [
-                "resulted in"
-            ]
-        },
-        {
-            "source": "gneiss",
+            "source": "banded iron formation",
             "target": "migmatite",
-            "label": [
-                "and"
-            ]
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "sediment",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "paragneiss",
+            "label": "within"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "bridgetown",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "laterite",
+            "label": ""
+        },
+        {
+            "source": "pegmatite",
+            "target": "tin",
+            "label": "hosted"
+        },
+        {
+            "source": "pegmatite",
+            "target": "banded iron formation",
+            "label": "hosted"
+        },
+        {
+            "source": "pegmatite",
+            "target": "kaolin",
+            "label": "of"
+        },
+        {
+            "source": "pegmatite",
+            "target": "iron",
+            "label": "hosted,associated with banded"
+        },
+        {
+            "source": "pegmatite",
+            "target": "quartzite",
+            "label": ""
+        },
+        {
+            "source": "pegmatite",
+            "target": "base metal",
+            "label": "hosted"
+        },
+        {
+            "source": "pegmatite",
+            "target": "metasedimentary rocks",
+            "label": "associated with banded"
+        },
+        {
+            "source": "pegmatite",
+            "target": "platinum",
+            "label": "associated with banded"
+        },
+        {
+            "source": "pegmatite",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "pegmatite",
+            "target": "widgiemooltha",
+            "label": ""
+        },
+        {
+            "source": "proterozoic",
+            "target": "granitic intrusions",
+            "label": "of"
+        },
+        {
+            "source": "proterozoic",
+            "target": "cenozoic",
+            "label": "overlain by"
+        },
+        {
+            "source": "proterozoic",
+            "target": "gneiss",
+            "label": ""
+        },
+        {
+            "source": "proterozoic",
+            "target": "silurian",
+            "label": ""
+        },
+        {
+            "source": "proterozoic",
+            "target": "bridgetown",
+            "label": ""
+        },
+        {
+            "source": "proterozoic",
+            "target": "ultramafic intrusions",
+            "label": ""
+        },
+        {
+            "source": "proterozoic",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "proterozoic",
+            "target": "dolerite dyke",
+            "label": "of"
+        },
+        {
+            "source": "proterozoic",
+            "target": "sediment",
+            "label": "overlain by"
+        },
+        {
+            "source": "migmatite",
+            "target": "proterozoic",
+            "label": "derived from"
+        },
+        {
+            "source": "migmatite",
+            "target": "amphibolite",
+            "label": "with"
+        },
+        {
+            "source": "migmatite",
+            "target": "metagabbro",
+            "label": "with"
+        },
+        {
+            "source": "migmatite",
+            "target": "quartzite",
+            "label": "with"
+        },
+        {
+            "source": "migmatite",
+            "target": "pegmatite",
+            "label": "with"
+        },
+        {
+            "source": "migmatite",
+            "target": "banded iron formation",
+            "label": "with"
+        },
+        {
+            "source": "migmatite",
+            "target": "quartz monzonite",
+            "label": "deformed"
+        },
+        {
+            "source": "migmatite",
+            "target": "gneiss",
+            "label": ""
+        },
+        {
+            "source": "migmatite",
+            "target": "balingup",
+            "label": ""
+        },
+        {
+            "source": "migmatite",
+            "target": "orthogneiss",
+            "label": ""
+        },
+        {
+            "source": "migmatite",
+            "target": "archean",
+            "label": "derived from"
+        },
+        {
+            "source": "migmatite",
+            "target": "granitoid",
+            "label": ""
+        },
+        {
+            "source": "granitic intrusions",
+            "target": "monzonite",
+            "label": "of"
+        },
+        {
+            "source": "granitic intrusions",
+            "target": "balingup complex",
+            "label": ""
+        },
+        {
+            "source": "granitic intrusions",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "granitic intrusions",
+            "target": "dolerite dyke",
+            "label": ""
+        },
+        {
+            "source": "cenozoic",
+            "target": "hydrothermal",
+            "label": "associated with"
+        },
+        {
+            "source": "cenozoic",
+            "target": "balingup",
+            "label": ""
+        },
+        {
+            "source": "balingup",
+            "target": "proterozoic",
+            "label": "throughout"
+        },
+        {
+            "source": "balingup",
+            "target": "gneiss",
+            "label": ""
+        },
+        {
+            "source": "balingup",
+            "target": "pinjarra",
+            "label": ""
+        },
+        {
+            "source": "balingup",
+            "target": "hydrothermal",
+            "label": ""
+        },
+        {
+            "source": "balingup",
+            "target": "greenbushes",
+            "label": ""
+        },
+        {
+            "source": "balingup",
+            "target": "archean",
+            "label": "throughout"
+        },
+        {
+            "source": "paragneiss",
+            "target": "balingup complex",
+            "label": "interpreted within"
+        },
+        {
+            "source": "paragneiss",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "quartzite",
+            "target": "paragneiss",
+            "label": "within"
+        },
+        {
+            "source": "quartzite",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "orthogneiss",
+            "target": "balingup",
+            "label": "interpreted in"
+        },
+        {
+            "source": "orthogneiss",
+            "target": "amphibolite",
+            "label": "with"
+        },
+        {
+            "source": "orthogneiss",
+            "target": "metagabbro",
+            "label": "with"
+        },
+        {
+            "source": "orthogneiss",
+            "target": "quartzite",
+            "label": "with"
+        },
+        {
+            "source": "orthogneiss",
+            "target": "pegmatite",
+            "label": "with"
+        },
+        {
+            "source": "orthogneiss",
+            "target": "banded iron formation",
+            "label": "with"
+        },
+        {
+            "source": "orthogneiss",
+            "target": "granitic intrusions",
+            "label": ""
+        },
+        {
+            "source": "orthogneiss",
+            "target": "bridgetown",
+            "label": ""
+        },
+        {
+            "source": "orthogneiss",
+            "target": "balingup complex",
+            "label": ""
+        },
+        {
+            "source": "sedimentary sequence",
+            "target": "balingup complex",
+            "label": "within"
+        },
+        {
+            "source": "widgiemooltha",
+            "target": "yilgarn craton",
+            "label": "intruded"
+        },
+        {
+            "source": "widgiemooltha",
+            "target": "pinjarra",
+            "label": ""
+        },
+        {
+            "source": "widgiemooltha",
+            "target": "metasediments",
+            "label": ""
+        },
+        {
+            "source": "widgiemooltha",
+            "target": "pegmatite",
+            "label": "of"
+        },
+        {
+            "source": "bauxite",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "bauxite",
+            "target": "base metal",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "greenbushes",
+            "label": "in"
+        },
+        {
+            "source": "iron",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "base metal",
+            "label": ""
+        },
+        {
+            "source": "metasedimentary rocks",
+            "target": "iron deposits",
+            "label": ""
+        },
+        {
+            "source": "platinum",
+            "target": "base metal",
+            "label": ""
+        },
+        {
+            "source": "kaolin",
+            "target": "pegmatite",
+            "label": ""
+        },
+        {
+            "source": "alluvial deposits",
+            "target": "kaolin",
+            "label": "of"
+        },
+        {
+            "source": "greenstone belt",
+            "target": "boddington",
+            "label": "within"
+        },
+        {
+            "source": "greenstone belt",
+            "target": "southwest",
+            "label": ""
+        },
+        {
+            "source": "boddington",
+            "target": "quartz",
+            "label": "associated with"
+        },
+        {
+            "source": "boddington",
+            "target": "sericite",
+            "label": "associated with"
+        },
+        {
+            "source": "boddington",
+            "target": "pyrite",
+            "label": "associated with"
+        },
+        {
+            "source": "boddington",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "boddington",
+            "target": "quartz veins",
+            "label": ""
+        },
+        {
+            "source": "boddington",
+            "target": "migmatite",
+            "label": ""
+        },
+        {
+            "source": "boddington",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "boddington",
+            "label": ""
+        },
+        {
+            "source": "pyrite",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "silurian",
+            "target": "albany",
+            "label": ""
+        },
+        {
+            "source": "cretaceous",
+            "target": "southwest",
+            "label": ""
         },
         {
             "source": "mesozoic",
             "target": "precambrian",
-            "label": [
-                "formed as"
-            ]
-        },
-        {
-            "source": "mesozoic",
-            "target": "yilgarn craton",
-            "label": []
-        },
-        {
-            "source": "carbonate",
-            "target": "hydrothermal",
-            "label": [
-                "associated with"
-            ]
-        },
-        {
-            "source": "tertiary",
-            "target": "laterite",
-            "label": [
-                "resulted in"
-            ]
+            "label": "formed"
         },
         {
             "source": "precambrian",
             "target": "yilgarn craton",
-            "label": [
-                "separated"
-            ]
+            "label": "separated"
         },
         {
-            "source": "sericite",
-            "target": "pyrite",
-            "label": [
-                ""
-            ]
+            "source": "precambrian",
+            "target": "pinjarra",
+            "label": ""
         },
         {
-            "source": "quartz",
-            "target": "sericite",
-            "label": [
-                ""
-            ]
+            "source": "greenbushes pegmatite",
+            "target": "amphibolite",
+            "label": "emplaced during"
+        },
+        {
+            "source": "greenbushes pegmatite",
+            "target": "donnybrook",
+            "label": "occur between"
+        },
+        {
+            "source": "greenbushes pegmatite",
+            "target": "bridgetown",
+            "label": "occur between"
+        },
+        {
+            "source": "amphibolite",
+            "target": "donnybrook",
+            "label": "along"
+        },
+        {
+            "source": "amphibolite",
+            "target": "bridgetown",
+            "label": "along"
+        },
+        {
+            "source": "amphibolite",
+            "target": "pegmatite",
+            "label": ""
+        },
+        {
+            "source": "amphibolite",
+            "target": "balingup complex",
+            "label": ""
+        },
+        {
+            "source": "amphibolite",
+            "target": "granitoid",
+            "label": ""
+        },
+        {
+            "source": "neoproterozoic",
+            "target": "balingup",
+            "label": "within"
+        },
+        {
+            "source": "neoproterozoic",
+            "target": "cambrian",
+            "label": ""
+        },
+        {
+            "source": "cambrian",
+            "target": "balingup",
+            "label": "within"
         },
         {
             "source": "hydrothermal",
+            "target": "carbonate",
+            "label": ""
+        },
+        {
+            "source": "carbonate",
+            "target": "hydrothermal",
+            "label": "associated with"
+        },
+        {
+            "source": "metasediments",
+            "target": "ultramafic intrusions",
+            "label": "intruded by"
+        },
+        {
+            "source": "metasediments",
+            "target": "proterozoic",
+            "label": "intruded by"
+        },
+        {
+            "source": "metasediments",
+            "target": "widgiemooltha",
+            "label": "intruded by"
+        },
+        {
+            "source": "metasediments",
+            "target": "pegmatite",
+            "label": "intruded by"
+        },
+        {
+            "source": "ultramafic intrusions",
+            "target": "balingup complex",
+            "label": "of"
+        },
+        {
+            "source": "metagabbro",
+            "target": "balingup complex",
+            "label": ""
+        },
+        {
+            "source": "monzonite",
+            "target": "amphibolite",
+            "label": "with"
+        },
+        {
+            "source": "monzonite",
+            "target": "metagabbro",
+            "label": "with"
+        },
+        {
+            "source": "monzonite",
+            "target": "quartzite",
+            "label": "with"
+        },
+        {
+            "source": "monzonite",
+            "target": "pegmatite",
+            "label": "with"
+        },
+        {
+            "source": "monzonite",
+            "target": "banded iron formation",
+            "label": "with"
+        },
+        {
+            "source": "quartz monzonite",
+            "target": "boddington",
+            "label": ""
+        },
+        {
+            "source": "sediment",
+            "target": "banded iron formation",
+            "label": "of"
+        },
+        {
+            "source": "sediment",
+            "target": "silicates",
+            "label": "of"
+        },
+        {
+            "source": "sediment",
+            "target": "greywacke",
+            "label": "of"
+        },
+        {
+            "source": "sediment",
+            "target": "balingup complex",
+            "label": "of"
+        },
+        {
+            "source": "sediment",
+            "target": "ultramafic intrusions",
+            "label": ""
+        },
+        {
+            "source": "sediment",
+            "target": "cenozoic",
+            "label": ""
+        },
+        {
+            "source": "silicates",
+            "target": "greywacke",
+            "label": ""
+        },
+        {
+            "source": "gibralter quartz monzonite",
+            "target": "monzonite",
+            "label": "of"
+        },
+        {
+            "source": "gibralter quartz monzonite",
             "target": "balingup",
-            "label": []
+            "label": ""
+        },
+        {
+            "source": "gibralter quartz monzonite",
+            "target": "granitic intrusions",
+            "label": ""
+        },
+        {
+            "source": "boddington gold mine",
+            "target": "gold deposits",
+            "label": ""
+        },
+        {
+            "source": "gold deposits",
+            "target": "goldfields",
+            "label": ""
+        },
+        {
+            "source": "goldfields",
+            "target": "yilgarn craton",
+            "label": ""
+        },
+        {
+            "source": "greenstone",
+            "target": "granite",
+            "label": ""
+        },
+        {
+            "source": "greenstone sequences",
+            "target": "yilgarn craton",
+            "label": ""
+        },
+        {
+            "source": "dolerite dyke",
+            "target": "widgiemooltha",
+            "label": ""
+        },
+        {
+            "source": "dolerite dyke",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "iron deposits",
+            "target": "pegmatite",
+            "label": ""
+        },
+        {
+            "source": "layered mafic intrusions",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "quartz veins",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "laterite",
+            "target": "tertiary",
+            "label": ""
+        },
+        {
+            "source": "logue brook granite",
+            "target": "granitoid",
+            "label": ""
+        },
+        {
+            "source": "granitoid",
+            "target": "pegmatite",
+            "label": "mineralised"
+        },
+        {
+            "source": "granitoid",
+            "target": "balingup",
+            "label": ""
+        },
+        {
+            "source": "granitoid",
+            "target": "granite",
+            "label": ""
+        },
+        {
+            "source": "conglomerates",
+            "target": "alluvial sand",
+            "label": ""
+        },
+        {
+            "source": "alluvial sand",
+            "target": "quaternary",
+            "label": ""
+        },
+        {
+            "source": "quaternary",
+            "target": "laterite",
+            "label": ""
+        },
+        {
+            "source": "greenschist",
+            "target": "amphibolite",
+            "label": ""
+        },
+        {
+            "source": "archean",
+            "target": "granite",
+            "label": "to proterozoic"
+        },
+        {
+            "source": "archean",
+            "target": "gneiss",
+            "label": "to proterozoic"
+        },
+        {
+            "source": "archean",
+            "target": "balingup complex",
+            "label": "formed"
+        },
+        {
+            "source": "archean",
+            "target": "granitic intrusions",
+            "label": "of"
         },
         {
             "source": "archean",
             "target": "proterozoic",
-            "label": [
-                "to"
-            ]
+            "label": "to,intruded by"
+        },
+        {
+            "source": "archean",
+            "target": "boddington",
+            "label": "within"
+        },
+        {
+            "source": "archean",
+            "target": "ultramafic intrusions",
+            "label": "intruded by"
+        },
+        {
+            "source": "archean",
+            "target": "widgiemooltha",
+            "label": "intruded by"
+        },
+        {
+            "source": "archean",
+            "target": "yilgarn craton",
+            "label": ""
+        },
+        {
+            "source": "archean",
+            "target": "balingup",
+            "label": ""
+        },
+        {
+            "source": "archean",
+            "target": "dolerite dyke",
+            "label": "of"
+        },
+        {
+            "source": "archean",
+            "target": "sediment",
+            "label": ""
+        },
+        {
+            "source": "archean",
+            "target": "pegmatite",
+            "label": "intruded by"
         }
     ]
 }
