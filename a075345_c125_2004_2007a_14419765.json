@@ -136,16 +136,6 @@
             "degree": 2
         },
         {
-            "id": "diamond",
-            "group": "MINERAL",
-            "degree": 9
-        },
-        {
-            "id": "bifs",
-            "group": "ROCK",
-            "degree": 4
-        },
-        {
             "id": "roy hill shale member",
             "group": "STRAT",
             "degree": 3
@@ -269,11 +259,6 @@
             "id": "alluvium",
             "group": "ROCK",
             "degree": 5
-        },
-        {
-            "id": "mixed",
-            "group": "ROCK",
-            "degree": 9
         },
         {
             "id": "west angelas",
@@ -638,11 +623,6 @@
             "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "diamond",
-            "label": ""
-        },
-        {
             "source": "western australia",
             "target": "pilbara",
             "label": "including"
@@ -879,11 +859,6 @@
         },
         {
             "source": "iron",
-            "target": "diamond",
-            "label": ""
-        },
-        {
-            "source": "iron",
             "target": "archean",
             "label": "belongs to"
         },
@@ -936,11 +911,6 @@
             "source": "christmas creek",
             "target": "hematite",
             "label": "could outperform"
-        },
-        {
-            "source": "christmas creek",
-            "target": "diamond",
-            "label": "determined from"
         },
         {
             "source": "christmas creek",
@@ -1069,11 +1039,6 @@
         },
         {
             "source": "shale",
-            "target": "bifs",
-            "label": "enriched"
-        },
-        {
-            "source": "shale",
             "target": "roy hill shale member",
             "label": "of"
         },
@@ -1095,7 +1060,7 @@
         {
             "source": "shale",
             "target": "banded iron formation",
-            "label": "podded"
+            "label": "podded,enriched"
         },
         {
             "source": "acid volcanic rocks",
@@ -1190,12 +1155,12 @@
         {
             "source": "hematite",
             "target": "goethite",
-            "label": "grading into,(with variable degrees of alteration between these minerals),of"
+            "label": "grading into"
         },
         {
             "source": "hematite",
             "target": "microplaty hematite",
-            "label": "(commonly disseminated throughout the christmas creek deposit),can refer to"
+            "label": "can refer to"
         },
         {
             "source": "hematite",
@@ -1220,11 +1185,6 @@
         {
             "source": "hematite",
             "target": "hamersley basin",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "bifs",
             "label": ""
         },
         {
@@ -1305,11 +1265,6 @@
         {
             "source": "goethite",
             "target": "crystal",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "mixed",
             "label": ""
         },
         {
@@ -1469,11 +1424,6 @@
         },
         {
             "source": "nammuldi",
-            "target": "mixed",
-            "label": "show"
-        },
-        {
-            "source": "nammuldi",
             "target": "iron formation",
             "label": ""
         },
@@ -1491,36 +1441,16 @@
             "source": "nullagine",
             "target": "christmas creek",
             "label": "passing through"
-        },
+        },        
         {
-            "source": "diamond",
-            "target": "christmas creek",
-            "label": "from"
-        },
-        {
-            "source": "diamond",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "diamond",
-            "target": "west angelas",
-            "label": ""
-        },
-        {
-            "source": "bifs",
+            "source": "banded iron formation",
             "target": "shale",
             "label": "above"
         },
         {
-            "source": "roy hill shale member",
-            "target": "bifs",
-            "label": ""
-        },
-        {
             "source": "pilbara",
             "target": "iron ore",
-            "label": "for fortescue metals group limited,,conditioned,bedded"
+            "label": "conditioned,bedded"
         },
         {
             "source": "pilbara",
@@ -1638,11 +1568,6 @@
             "label": ""
         },
         {
-            "source": "tertiary",
-            "target": "mixed",
-            "label": ""
-        },
-        {
             "source": "clay",
             "target": "goethite",
             "label": "in"
@@ -1675,7 +1600,7 @@
         {
             "source": "clay",
             "target": "channel iron deposit",
-            "label": "(including calcrete, silcrete and calcareous sediments)"
+            "label": ""
         },
         {
             "source": "clay",
@@ -1894,11 +1819,6 @@
         },
         {
             "source": "sinter",
-            "target": "diamond",
-            "label": ""
-        },
-        {
-            "source": "sinter",
             "target": "granules",
             "label": ""
         },
@@ -1965,7 +1885,7 @@
         {
             "source": "oakover formation",
             "target": "channel iron deposit",
-            "label": "(including calcrete, silcrete and calcareous sediments)"
+            "label": ""
         },
         {
             "source": "oakover formation",
@@ -1988,36 +1908,6 @@
             "label": "including"
         },
         {
-            "source": "mixed",
-            "target": "oakover formation",
-            "label": "including"
-        },
-        {
-            "source": "mixed",
-            "target": "martite",
-            "label": "to"
-        },
-        {
-            "source": "mixed",
-            "target": "goethite",
-            "label": "to"
-        },
-        {
-            "source": "mixed",
-            "target": "cid channel iron deposits",
-            "label": ""
-        },
-        {
-            "source": "mixed",
-            "target": "nammuldi",
-            "label": ""
-        },
-        {
-            "source": "mixed",
-            "target": "clay",
-            "label": "including"
-        },
-        {
             "source": "west angelas",
             "target": "goethite",
             "label": "contain"
@@ -2030,11 +1920,6 @@
         {
             "source": "west angelas",
             "target": "microplaty hematite",
-            "label": ""
-        },
-        {
-            "source": "west angelas",
-            "target": "diamond",
             "label": ""
         },
         {
@@ -2101,11 +1986,6 @@
             "source": "silicate",
             "target": "banded iron formation",
             "label": "in,in"
-        },
-        {
-            "source": "perth",
-            "target": "diamond",
-            "label": ""
         },
         {
             "source": "perth",
