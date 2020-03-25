@@ -1,0 +1,271 @@
+{
+    "nodes": [
+        {
+            "id": "acid volcanic rocks",
+            "group": "ROCK",
+            "degree": "2"
+        },
+        {
+            "id": "granite",
+            "group": "ROCK",
+            "degree": "0"
+        },
+        {
+            "id": "clay",
+            "group": "ROCK",
+            "degree": "5"
+        },
+        {
+            "id": "colluvium",
+            "group": "ROCK",
+            "degree": "0"
+        },
+        {
+            "id": "calcrete",
+            "group": "ROCK",
+            "degree": "2"
+        },
+        {
+            "id": "greenstones",
+            "group": "ROCK",
+            "degree": "0"
+        },
+        {
+            "id": "chert",
+            "group": "ROCK",
+            "degree": "3"
+        },
+        {
+            "id": "coal",
+            "group": "ROCK",
+            "degree": "2"
+        },
+        {
+            "id": "dolerite",
+            "group": "ROCK",
+            "degree": "4"
+        },
+        {
+            "id": "sand",
+            "group": "ROCK",
+            "degree": "2"
+        },
+        {
+            "id": "granules",
+            "group": "ROCK",
+            "degree": "2"
+        },
+        {
+            "id": "alluvium",
+            "group": "ROCK",
+            "degree": "2"
+        },
+        {
+            "id": "silt",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "regolith",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "volcanic rocks",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "pisolite",
+            "group": "ROCK",
+            "degree": "0"
+        },
+        {
+            "id": "ironstone",
+            "group": "ROCK",
+            "degree": "0"
+        },
+        {
+            "id": "anthracite",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": "5"
+        },
+        {
+            "id": "sinter",
+            "group": "ROCK",
+            "degree": "4"
+        },
+        {
+            "id": "shale",
+            "group": "ROCK",
+            "degree": "6"
+        },
+        {
+            "id": "black shales",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "limestone",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "ferricrete",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "iron formation",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "sediments",
+            "group": "ROCK",
+            "degree": "7"
+        }
+    ],
+    "links": [
+        {
+            "source": "acid volcanic rocks",
+            "target": "dolerite",
+            "label": "intruded by"
+        },
+        {
+            "source": "clay",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "clay",
+            "target": "banded iron formation",
+            "label": "in"
+        },
+        {
+            "source": "calcrete",
+            "target": "ferricrete",
+            "label": ""
+        },
+        {
+            "source": "chert",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "coal",
+            "target": "sinter",
+            "label": ""
+        },
+        {
+            "source": "dolerite",
+            "target": "acid volcanic rocks",
+            "label": ""
+        },
+        {
+            "source": "sand",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "granules",
+            "target": "sinter",
+            "label": "fired in"
+        },
+        {
+            "source": "alluvium",
+            "target": "iron formation",
+            "label": ""
+        },
+        {
+            "source": "alluvium",
+            "target": "clay",
+            "label": "including"
+        },
+        {
+            "source": "regolith",
+            "target": "calcrete",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "shale",
+            "label": "interbedded with,with interbedded"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "dolerite",
+            "label": "intruded by"
+        },
+        {
+            "source": "sinter",
+            "target": "coal",
+            "label": "of"
+        },
+        {
+            "source": "sinter",
+            "target": "granules",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "dolerite",
+            "label": "intruded by"
+        },
+        {
+            "source": "shale",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "clay",
+            "label": ""
+        },
+        {
+            "source": "shale",
+            "target": "chert",
+            "label": "fill"
+        },
+        {
+            "source": "shale",
+            "target": "banded iron formation",
+            "label": "podded,enriched"
+        },
+        {
+            "source": "black shales",
+            "target": "volcanic rocks",
+            "label": ""
+        },
+        {
+            "source": "limestone",
+            "target": "anthracite",
+            "label": "burnt"
+        },
+        {
+            "source": "sediments",
+            "target": "clay",
+            "label": "become,including"
+        },
+        {
+            "source": "sediments",
+            "target": "silt",
+            "label": "characterised by"
+        },
+        {
+            "source": "sediments",
+            "target": "sand",
+            "label": "characterised by"
+        },
+        {
+            "source": "sediments",
+            "target": "chert",
+            "label": ""
+        }
+    ]
+}
