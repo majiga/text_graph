@@ -118,7 +118,7 @@
         {
             "id": "mount bruce supergroup",
             "group": "STRAT",
-            "degree": "2"
+            "degree": "5"
         },
         {
             "id": "pisolite",
@@ -206,11 +206,6 @@
             "degree": "1"
         },
         {
-            "id": "mt bruce supergroup",
-            "group": "STRAT",
-            "degree": "3"
-        },
-        {
             "id": "quaternary",
             "group": "TIMESCALE",
             "degree": "3"
@@ -234,7 +229,7 @@
         },
         {
             "source": "granite",
-            "target": "mt bruce supergroup",
+            "target": "mount bruce supergroup",
             "label": ""
         },
         {
@@ -270,7 +265,7 @@
         {
             "source": "marra mamba iron formation",
             "target": "nammuldi member",
-            "label": "termed"
+            "label": "parent_of"
         },
         {
             "source": "marra mamba iron formation",
@@ -409,6 +404,11 @@
         },
         {
             "source": "mount bruce supergroup",
+            "target": "archean",
+            "label": "overlies"
+        },
+        {
+            "source": "mount bruce supergroup",
             "target": "fortescue group",
             "label": "parent_of"
         },
@@ -449,7 +449,7 @@
         },
         {
             "source": "hamersley group",
-            "target": "mt bruce supergroup",
+            "target": "mount bruce supergroup",
             "label": "within"
         },
         {
@@ -581,11 +581,6 @@
             "source": "limestone",
             "target": "anthracite",
             "label": "burnt"
-        },
-        {
-            "source": "mt bruce supergroup",
-            "target": "archean",
-            "label": "overlies"
         },
         {
             "source": "quaternary",
