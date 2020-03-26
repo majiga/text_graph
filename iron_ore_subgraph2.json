@@ -1,12 +1,72 @@
 {
     "nodes": [
         {
-            "id": "cid channel iron deposits",
-            "group": "ORE_DEPOSIT",
-            "degree": "0"
+            "id": "diamond",
+            "group": "MINERAL",
+            "degree": "8"
         },
         {
-            "id": "pilbara region",
+            "id": "paraburdoo",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "christmas creek",
+            "group": "LOCATION",
+            "degree": "29"
+        },
+        {
+            "id": "pyrolusite",
+            "group": "MINERAL",
+            "degree": "3"
+        },
+        {
+            "id": "quartz",
+            "group": "MINERAL",
+            "degree": "6"
+        },
+        {
+            "id": "crystal",
+            "group": "MINERAL",
+            "degree": "9"
+        },
+        {
+            "id": "goldsworthy",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "mount tom price",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "iron ore deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": "8"
+        },
+        {
+            "id": "hematite",
+            "group": "MINERAL",
+            "degree": "30"
+        },
+        {
+            "id": "gibbsite",
+            "group": "MINERAL",
+            "degree": "2"
+        },
+        {
+            "id": "hamersley iron province",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "goethite",
+            "group": "MINERAL",
+            "degree": "26"
+        },
+        {
+            "id": "nammuldi",
             "group": "LOCATION",
             "degree": "5"
         },
@@ -16,224 +76,89 @@
             "degree": "0"
         },
         {
-            "id": "christmas creek",
-            "group": "LOCATION",
-            "degree": "28"
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": "25"
         },
         {
-            "id": "koolyanobbing",
-            "group": "LOCATION",
-            "degree": "4"
+            "id": "channel iron deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": "3"
         },
         {
-            "id": "carbonate",
+            "id": "iron deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": "3"
+        },
+        {
+            "id": "calcite",
+            "group": "MINERAL",
+            "degree": "2"
+        },
+        {
+            "id": "oxide",
+            "group": "MINERAL",
+            "degree": "6"
+        },
+        {
+            "id": "newman",
+            "group": "LOCATION",
+            "degree": "5"
+        },
+        {
+            "id": "cid channel iron deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": "0"
+        },
+        {
+            "id": "dolomite",
             "group": "MINERAL",
             "degree": "4"
         },
         {
-            "id": "supergene iron ore",
+            "id": "genesis",
+            "group": "LOCATION",
+            "degree": "4"
+        },
+        {
+            "id": "goethite ore",
             "group": "ORE_DEPOSIT",
-            "degree": "1"
+            "degree": "7"
+        },
+        {
+            "id": "pilbara craton",
+            "group": "LOCATION",
+            "degree": "4"
         },
         {
             "id": "hamersley",
             "group": "LOCATION",
+            "degree": "4"
+        },
+        {
+            "id": "pyrite",
+            "group": "MINERAL",
             "degree": "3"
         },
         {
             "id": "brockman",
             "group": "LOCATION",
-            "degree": "10"
+            "degree": "5"
         },
         {
-            "id": "mount tom price",
-            "group": "LOCATION",
-            "degree": "2"
-        },
-        {
-            "id": "pilbara craton",
-            "group": "LOCATION",
-            "degree": "2"
-        },
-        {
-            "id": "dolomite",
-            "group": "MINERAL",
-            "degree": "6"
-        },
-        {
-            "id": "lime",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "silica",
-            "group": "MINERAL",
-            "degree": "3"
-        },
-        {
-            "id": "martite",
-            "group": "MINERAL",
-            "degree": "17"
-        },
-        {
-            "id": "genesis",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
-            "id": "robe",
-            "group": "LOCATION",
-            "degree": "2"
+            "id": "limonite",
+            "group": "ORE_DEPOSIT",
+            "degree": "4"
         },
         {
             "id": "microplaty hematite",
             "group": "MINERAL",
-            "degree": "19"
+            "degree": "18"
         },
         {
-            "id": "goethite ore",
-            "group": "ORE_DEPOSIT",
-            "degree": "6"
-        },
-        {
-            "id": "pilbara",
-            "group": "LOCATION",
-            "degree": "13"
-        },
-        {
-            "id": "nullagine",
-            "group": "LOCATION",
-            "degree": "2"
-        },
-        {
-            "id": "goethite",
-            "group": "MINERAL",
-            "degree": "20"
-        },
-        {
-            "id": "west angelas",
-            "group": "LOCATION",
-            "degree": "10"
-        },
-        {
-            "id": "hematite",
-            "group": "MINERAL",
-            "degree": "30"
-        },
-        {
-            "id": "kaolinite",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "iron deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": "4"
-        },
-        {
-            "id": "roy hill",
-            "group": "LOCATION",
-            "degree": "4"
-        },
-        {
-            "id": "hamersley iron province",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
-            "id": "marble bar",
-            "group": "LOCATION",
-            "degree": "1"
-        },
-        {
-            "id": "crystal",
-            "group": "MINERAL",
-            "degree": "12"
-        },
-        {
-            "id": "australia",
+            "id": "western australia",
             "group": "LOCATION",
             "degree": "12"
-        },
-        {
-            "id": "marandoo",
-            "group": "LOCATION",
-            "degree": "4"
-        },
-        {
-            "id": "supergene",
-            "group": "ORE_DEPOSIT",
-            "degree": "8"
-        },
-        {
-            "id": "magnetite",
-            "group": "MINERAL",
-            "degree": "12"
-        },
-        {
-            "id": "nammuldi",
-            "group": "LOCATION",
-            "degree": "5"
-        },
-        {
-            "id": "iron",
-            "group": "MINERAL",
-            "degree": "27"
-        },
-        {
-            "id": "iron ore",
-            "group": "ORE_DEPOSIT",
-            "degree": "31"
-        },
-        {
-            "id": "microplaty hematite microplaty hematite",
-            "group": "MINERAL",
-            "degree": "0"
-        },
-        {
-            "id": "perth",
-            "group": "LOCATION",
-            "degree": "4"
-        },
-        {
-            "id": "paraburdoo",
-            "group": "LOCATION",
-            "degree": "2"
-        },
-        {
-            "id": "channel iron deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": "7"
-        },
-        {
-            "id": "pyrite",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "hamersley province",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
-            "id": "pyrolusite",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "iron ore deposits",
-            "group": "ORE_DEPOSIT",
-            "degree": "11"
-        },
-        {
-            "id": "silicate",
-            "group": "MINERAL",
-            "degree": "0"
-        },
-        {
-            "id": "hamersley basin",
-            "group": "LOCATION",
-            "degree": "3"
         },
         {
             "id": "yilgarn craton",
@@ -241,14 +166,14 @@
             "degree": "3"
         },
         {
-            "id": "calcite",
-            "group": "MINERAL",
-            "degree": "1"
+            "id": "supergene",
+            "group": "ORE_DEPOSIT",
+            "degree": "8"
         },
         {
-            "id": "limonite",
-            "group": "ORE_DEPOSIT",
-            "degree": "6"
+            "id": "nullagine",
+            "group": "LOCATION",
+            "degree": "1"
         },
         {
             "id": "did deposits",
@@ -256,45 +181,140 @@
             "degree": "2"
         },
         {
-            "id": "goldsworthy",
+            "id": "roy hill",
             "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "west angelas",
+            "group": "LOCATION",
+            "degree": "12"
+        },
+        {
+            "id": "martite",
+            "group": "MINERAL",
+            "degree": "16"
+        },
+        {
+            "id": "lime",
+            "group": "MINERAL",
             "degree": "1"
         },
         {
-            "id": "newman",
+            "id": "marandoo",
             "group": "LOCATION",
             "degree": "4"
         },
         {
-            "id": "western australia",
-            "group": "LOCATION",
-            "degree": "9"
+            "id": "microplaty hematite microplaty hematite",
+            "group": "MINERAL",
+            "degree": "1"
         },
         {
-            "id": "gibbsite",
+            "id": "australia",
+            "group": "LOCATION",
+            "degree": "11"
+        },
+        {
+            "id": "kaolinite",
+            "group": "MINERAL",
+            "degree": "1"
+        },
+        {
+            "id": "supergene iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": "1"
+        },
+        {
+            "id": "marble bar",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "magnetite",
+            "group": "MINERAL",
+            "degree": "10"
+        },
+        {
+            "id": "hamersley basin",
+            "group": "LOCATION",
+            "degree": "4"
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
+            "degree": "5"
+        },
+        {
+            "id": "koolyanobbing",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "pilbara region",
+            "group": "LOCATION",
+            "degree": "5"
+        },
+        {
+            "id": "carbonate",
             "group": "MINERAL",
             "degree": "2"
         },
         {
-            "id": "oxide",
-            "group": "MINERAL",
-            "degree": "5"
+            "id": "robe",
+            "group": "LOCATION",
+            "degree": "2"
         },
         {
-            "id": "quartz",
+            "id": "pilbara",
+            "group": "LOCATION",
+            "degree": "13"
+        },
+        {
+            "id": "silicate",
             "group": "MINERAL",
-            "degree": "8"
+            "degree": "1"
+        },
+        {
+            "id": "silica",
+            "group": "MINERAL",
+            "degree": "3"
+        },
+        {
+            "id": "hamersley province",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": "32"
         }
     ],
     "links": [
         {
-            "source": "pilbara region",
-            "target": "western australia",
-            "label": "of"
+            "source": "diamond",
+            "target": "christmas creek",
+            "label": "from"
         },
         {
-            "source": "pilbara region",
-            "target": "iron deposit",
+            "source": "diamond",
+            "target": "perth",
+            "label": ""
+        },
+        {
+            "source": "diamond",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "diamond",
+            "target": "west angelas",
+            "label": ""
+        },
+        {
+            "source": "paraburdoo",
+            "target": "koolyanobbing",
             "label": ""
         },
         {
@@ -305,7 +325,7 @@
         {
             "source": "christmas creek",
             "target": "iron ore",
-            "label": "compared to,,hosted"
+            "label": "compared to,hosted"
         },
         {
             "source": "christmas creek",
@@ -314,8 +334,8 @@
         },
         {
             "source": "christmas creek",
-            "target": "roy hill",
-            "label": ""
+            "target": "diamond",
+            "label": "determined from"
         },
         {
             "source": "christmas creek",
@@ -329,12 +349,12 @@
         },
         {
             "source": "christmas creek",
-            "target": "nullagine",
+            "target": "iron",
             "label": ""
         },
         {
             "source": "christmas creek",
-            "target": "iron",
+            "target": "martite",
             "label": ""
         },
         {
@@ -345,6 +365,11 @@
         {
             "source": "christmas creek",
             "target": "goethite",
+            "label": ""
+        },
+        {
+            "source": "christmas creek",
+            "target": "supergene",
             "label": ""
         },
         {
@@ -354,472 +379,47 @@
         },
         {
             "source": "christmas creek",
-            "target": "supergene",
-            "label": ""
-        },
-        {
-            "source": "christmas creek",
-            "target": "silica",
-            "label": ""
-        },
-        {
-            "source": "christmas creek",
             "target": "west angelas",
             "label": ""
         },
         {
             "source": "christmas creek",
-            "target": "magnetite",
-            "label": ""
-        },
-        {
-            "source": "koolyanobbing",
-            "target": "yilgarn craton",
-            "label": "in"
-        },
-        {
-            "source": "koolyanobbing",
-            "target": "iron",
-            "label": "in"
-        },
-        {
-            "source": "koolyanobbing",
-            "target": "marandoo",
-            "label": ""
-        },
-        {
-            "source": "carbonate",
-            "target": "gibbsite",
-            "label": ""
-        },
-        {
-            "source": "carbonate",
-            "target": "hematite",
-            "label": ""
-        },
-        {
-            "source": "supergene iron ore",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "hamersley",
-            "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "brockman",
-            "target": "hematite",
-            "label": ""
-        },
-        {
-            "source": "brockman",
-            "target": "yilgarn craton",
-            "label": ""
-        },
-        {
-            "source": "brockman",
-            "target": "channel iron deposit",
-            "label": ""
-        },
-        {
-            "source": "brockman",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "mount tom price",
-            "target": "paraburdoo",
-            "label": ""
-        },
-        {
-            "source": "pilbara craton",
-            "target": "yilgarn craton",
-            "label": "in"
-        },
-        {
-            "source": "pilbara craton",
-            "target": "iron",
-            "label": "in"
-        },
-        {
-            "source": "dolomite",
-            "target": "lime",
-            "label": "burnt"
-        },
-        {
-            "source": "dolomite",
-            "target": "pyrite",
-            "label": ""
-        },
-        {
-            "source": "dolomite",
-            "target": "carbonate",
-            "label": ""
-        },
-        {
-            "source": "lime",
-            "target": "dolomite",
-            "label": ""
-        },
-        {
-            "source": "silica",
-            "target": "limonite",
-            "label": ""
-        },
-        {
-            "source": "martite",
-            "target": "hematite",
-            "label": "with,of,in"
-        },
-        {
-            "source": "martite",
-            "target": "microplaty hematite",
-            "label": "with,interlocking,include"
-        },
-        {
-            "source": "martite",
-            "target": "supergene",
-            "label": "resulting from"
-        },
-        {
-            "source": "martite",
-            "target": "goethite",
-            "label": "in,of,with,include"
-        },
-        {
-            "source": "martite",
-            "target": "christmas creek",
-            "label": ""
-        },
-        {
-            "source": "martite",
-            "target": "goethite ore",
-            "label": ""
-        },
-        {
-            "source": "martite",
-            "target": "crystal",
-            "label": "interlocking"
-        },
-        {
-            "source": "martite",
-            "target": "magnetite",
-            "label": "structured"
-        },
-        {
-            "source": "genesis",
-            "target": "iron ore",
-            "label": "in"
-        },
-        {
-            "source": "genesis",
-            "target": "perth",
-            "label": "in"
-        },
-        {
-            "source": "robe",
-            "target": "west angelas",
-            "label": "conditioned compared to"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "brockman",
-            "label": "resemble"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "goethite",
-            "label": "of,in"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "martite",
-            "label": "interlocking"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "hematite",
-            "label": "of,in"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "pilbara",
-            "label": "in"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "christmas creek",
-            "label": "identified at,spread throughout"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "supergene",
-            "label": "overprinted by"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "western australia",
-            "label": ""
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "crystal",
-            "label": "interlocking"
-        },
-        {
-            "source": "goethite ore",
-            "target": "supergene",
-            "label": "resulting from"
-        },
-        {
-            "source": "goethite ore",
-            "target": "martite",
-            "label": ""
-        },
-        {
-            "source": "goethite ore",
-            "target": "brockman",
-            "label": "from"
-        },
-        {
-            "source": "goethite ore",
-            "target": "goethite",
-            "label": ""
-        },
-        {
-            "source": "pilbara",
-            "target": "iron ore",
-            "label": "conditioned,bedded"
-        },
-        {
-            "source": "pilbara",
-            "target": "christmas creek",
-            "label": "including at"
-        },
-        {
-            "source": "pilbara",
-            "target": "australia",
-            "label": "produced in"
-        },
-        {
-            "source": "pilbara",
-            "target": "microplaty hematite",
-            "label": ""
-        },
-        {
-            "source": "pilbara",
-            "target": "iron ore deposits",
-            "label": ""
-        },
-        {
-            "source": "nullagine",
-            "target": "christmas creek",
-            "label": "passing through"
-        },
-        {
-            "source": "goethite",
-            "target": "martite",
-            "label": "with,to"
-        },
-        {
-            "source": "goethite",
-            "target": "hematite",
-            "label": "with,note,compared to,in,locked within"
-        },
-        {
-            "source": "goethite",
-            "target": "microplaty hematite",
-            "label": "with,to"
-        },
-        {
-            "source": "goethite",
-            "target": "christmas creek",
-            "label": "blended with,of,compared to"
-        },
-        {
-            "source": "goethite",
-            "target": "magnetite",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "crystal",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "quartz",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "iron ore deposits",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "pilbara",
-            "label": ""
-        },
-        {
-            "source": "west angelas",
-            "target": "goethite",
-            "label": "contain"
-        },
-        {
-            "source": "west angelas",
-            "target": "christmas creek",
-            "label": "to"
-        },
-        {
-            "source": "west angelas",
-            "target": "microplaty hematite",
-            "label": ""
-        },
-        {
-            "source": "west angelas",
-            "target": "robe",
-            "label": ""
-        },
-        {
-            "source": "west angelas",
-            "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "west angelas",
-            "target": "iron ore",
-            "label": "compared with"
-        },
-        {
-            "source": "hematite",
-            "target": "goethite",
-            "label": "grading into"
-        },
-        {
-            "source": "hematite",
-            "target": "microplaty hematite",
-            "label": "can refer to"
-        },
-        {
-            "source": "hematite",
-            "target": "martite",
-            "label": "can refer to"
-        },
-        {
-            "source": "hematite",
-            "target": "brockman",
-            "label": "from"
-        },
-        {
-            "source": "hematite",
-            "target": "limonite",
-            "label": "belonging to"
-        },
-        {
-            "source": "hematite",
-            "target": "hamersley basin",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "supergene",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "christmas creek",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "pilbara",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "crystal",
-            "label": "vary from"
-        },
-        {
-            "source": "hematite",
-            "target": "magnetite",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "channel iron deposit",
-            "label": "with"
-        },
-        {
-            "source": "hematite",
-            "target": "carbonate",
-            "label": ""
-        },
-        {
-            "source": "kaolinite",
-            "target": "dolomite",
-            "label": ""
-        },
-        {
-            "source": "iron deposit",
-            "target": "pilbara region",
-            "label": "located within"
-        },
-        {
-            "source": "iron deposit",
-            "target": "western australia",
-            "label": ""
-        },
-        {
-            "source": "iron deposit",
-            "target": "hamersley province",
-            "label": "in"
-        },
-        {
-            "source": "roy hill",
-            "target": "nammuldi",
-            "label": ""
-        },
-        {
-            "source": "hamersley iron province",
-            "target": "western australia",
-            "label": "of"
-        },
-        {
-            "source": "hamersley iron province",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "marble bar",
             "target": "newman",
             "label": ""
         },
         {
-            "source": "crystal",
-            "target": "iron ore deposits",
+            "source": "christmas creek",
+            "target": "magnetite",
+            "label": ""
+        },
+        {
+            "source": "pyrolusite",
+            "target": "pyrite",
+            "label": "of"
+        },
+        {
+            "source": "pyrolusite",
+            "target": "dolomite",
+            "label": "of"
+        },
+        {
+            "source": "quartz",
+            "target": "iron ore",
+            "label": "on"
+        },
+        {
+            "source": "quartz",
+            "target": "calcite",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "goethite",
             "label": ""
         },
         {
             "source": "crystal",
-            "target": "quartz",
+            "target": "goethite",
             "label": ""
         },
         {
@@ -839,92 +439,192 @@
         },
         {
             "source": "crystal",
-            "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "australia",
-            "target": "iron",
-            "label": "on"
-        },
-        {
-            "source": "australia",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "australia",
-            "target": "christmas creek",
-            "label": ""
-        },
-        {
-            "source": "australia",
-            "target": "martite",
-            "label": ""
-        },
-        {
-            "source": "australia",
             "target": "magnetite",
             "label": ""
         },
         {
-            "source": "australia",
-            "target": "iron ore deposits",
+            "source": "mount tom price",
+            "target": "iron",
             "label": ""
         },
         {
-            "source": "australia",
+            "source": "iron ore deposits",
+            "target": "pilbara",
+            "label": "in"
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "australia",
+            "label": "from"
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "genesis",
+            "label": "for"
+        },
+        {
+            "source": "iron ore deposits",
+            "target": "goethite",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "goethite",
+            "label": "grading into,(with variable degrees of alteration between these minerals),of"
+        },
+        {
+            "source": "hematite",
+            "target": "microplaty hematite",
+            "label": "(commonly disseminated throughout the christmas creek deposit),can refer to"
+        },
+        {
+            "source": "hematite",
+            "target": "martite",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "brockman",
+            "label": "from"
+        },
+        {
+            "source": "hematite",
+            "target": "limonite",
+            "label": "belonging to"
+        },
+        {
+            "source": "hematite",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "oxide",
+            "label": ""
+        },
+        {
+            "source": "hematite",
             "target": "pilbara",
             "label": ""
         },
         {
-            "source": "marandoo",
-            "target": "west angelas",
-            "label": ""
-        },
-        {
-            "source": "marandoo",
+            "source": "hematite",
             "target": "iron",
             "label": ""
         },
         {
-            "source": "supergene",
-            "target": "hematite",
-            "label": "of"
-        },
-        {
-            "source": "supergene",
-            "target": "iron",
+            "source": "hematite",
+            "target": "quartz",
             "label": ""
         },
         {
-            "source": "supergene",
-            "target": "microplaty hematite",
-            "label": ""
-        },
-        {
-            "source": "magnetite",
-            "target": "goethite",
-            "label": "to hematite"
-        },
-        {
-            "source": "magnetite",
+            "source": "hematite",
             "target": "christmas creek",
             "label": ""
         },
         {
-            "source": "magnetite",
-            "target": "limonite",
+            "source": "hematite",
+            "target": "iron ore deposits",
             "label": ""
         },
         {
-            "source": "magnetite",
-            "target": "hematite",
+            "source": "hematite",
+            "target": "magnetite",
             "label": ""
         },
         {
-            "source": "magnetite",
+            "source": "hematite",
+            "target": "silica",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "channel iron deposit",
+            "label": "with"
+        },
+        {
+            "source": "hematite",
             "target": "crystal",
+            "label": "vary from"
+        },
+        {
+            "source": "hematite",
+            "target": "silicate",
+            "label": ""
+        },
+        {
+            "source": "gibbsite",
+            "target": "dolomite",
+            "label": ""
+        },
+        {
+            "source": "hamersley iron province",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "goethite",
+            "target": "martite",
+            "label": "with,to"
+        },
+        {
+            "source": "goethite",
+            "target": "hematite",
+            "label": "in,locked within,note,with,compared to"
+        },
+        {
+            "source": "goethite",
+            "target": "microplaty hematite",
+            "label": "with,to"
+        },
+        {
+            "source": "goethite",
+            "target": "christmas creek",
+            "label": "compared to,blended with,of"
+        },
+        {
+            "source": "goethite",
+            "target": "hamersley basin",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "west angelas",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "iron ore deposits",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "supergene",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "crystal",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "goethite ore",
             "label": ""
         },
         {
@@ -969,7 +669,7 @@
         },
         {
             "source": "iron",
-            "target": "iron ore",
+            "target": "supergene",
             "label": ""
         },
         {
@@ -979,33 +679,513 @@
         },
         {
             "source": "iron",
-            "target": "christmas creek",
-            "label": ""
-        },
-        {
-            "source": "iron",
             "target": "hematite",
             "label": ""
         },
         {
             "source": "iron",
+            "target": "paraburdoo",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "australia",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "nammuldi",
+            "label": ""
+        },
+        {
+            "source": "channel iron deposit",
+            "target": "nammuldi",
+            "label": "above"
+        },
+        {
+            "source": "iron deposit",
+            "target": "pilbara region",
+            "label": "located within"
+        },
+        {
+            "source": "iron deposit",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "iron deposit",
+            "target": "hamersley province",
+            "label": "in"
+        },
+        {
+            "source": "calcite",
+            "target": "gibbsite",
+            "label": ""
+        },
+        {
+            "source": "oxide",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "oxide",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "oxide",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "newman",
+            "target": "roy hill",
+            "label": "on"
+        },
+        {
+            "source": "newman",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "newman",
+            "target": "goldsworthy",
+            "label": ""
+        },
+        {
+            "source": "dolomite",
+            "target": "lime",
+            "label": "burnt"
+        },
+        {
+            "source": "dolomite",
+            "target": "pyrite",
+            "label": ""
+        },
+        {
+            "source": "genesis",
+            "target": "iron ore",
+            "label": "in"
+        },
+        {
+            "source": "genesis",
+            "target": "perth",
+            "label": "in"
+        },
+        {
+            "source": "genesis",
+            "target": "iron ore deposits",
+            "label": ""
+        },
+        {
+            "source": "goethite ore",
+            "target": "supergene",
+            "label": "resulting from"
+        },
+        {
+            "source": "goethite ore",
             "target": "brockman",
+            "label": "from"
+        },
+        {
+            "source": "goethite ore",
+            "target": "goethite",
             "label": ""
         },
         {
-            "source": "iron",
-            "target": "koolyanobbing",
+            "source": "goethite ore",
+            "target": "hematite",
             "label": ""
         },
         {
-            "source": "iron",
+            "source": "pilbara craton",
+            "target": "yilgarn craton",
+            "label": "in"
+        },
+        {
+            "source": "pilbara craton",
+            "target": "iron",
+            "label": "in"
+        },
+        {
+            "source": "pilbara craton",
             "target": "mount tom price",
             "label": ""
         },
         {
-            "source": "iron",
-            "target": "channel iron deposit",
+            "source": "hamersley",
+            "target": "christmas creek",
             "label": ""
+        },
+        {
+            "source": "hamersley",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "pyrite",
+            "target": "pyrolusite",
+            "label": ""
+        },
+        {
+            "source": "brockman",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "brockman",
+            "target": "marandoo",
+            "label": ""
+        },
+        {
+            "source": "limonite",
+            "target": "magnetite",
+            "label": "structured"
+        },
+        {
+            "source": "limonite",
+            "target": "hematite",
+            "label": "for"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "brockman",
+            "label": "resemble"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "iron ore",
+            "label": "resemble"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "goethite",
+            "label": "in,of"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "martite",
+            "label": "interlocking"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "hematite",
+            "label": "in,of"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "pilbara",
+            "label": "in"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "christmas creek",
+            "label": "spread throughout,identified at"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "supergene",
+            "label": "overprinted by"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "microplaty hematite microplaty hematite",
+            "label": ""
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "iron ore deposits",
+            "label": ""
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "crystal",
+            "label": "interlocking"
+        },
+        {
+            "source": "western australia",
+            "target": "pilbara",
+            "label": "including"
+        },
+        {
+            "source": "western australia",
+            "target": "iron ore",
+            "label": "including,in"
+        },
+        {
+            "source": "western australia",
+            "target": "perth",
+            "label": "in"
+        },
+        {
+            "source": "western australia",
+            "target": "pilbara region",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "goethite",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "did deposits",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "pilbara craton",
+            "label": ""
+        },
+        {
+            "source": "supergene",
+            "target": "hematite",
+            "label": "of"
+        },
+        {
+            "source": "supergene",
+            "target": "martite",
+            "label": ""
+        },
+        {
+            "source": "nullagine",
+            "target": "christmas creek",
+            "label": "passing through"
+        },
+        {
+            "source": "did deposits",
+            "target": "hamersley iron province",
+            "label": ""
+        },
+        {
+            "source": "roy hill",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "west angelas",
+            "target": "goethite",
+            "label": "contain"
+        },
+        {
+            "source": "west angelas",
+            "target": "christmas creek",
+            "label": "to"
+        },
+        {
+            "source": "west angelas",
+            "target": "diamond",
+            "label": ""
+        },
+        {
+            "source": "west angelas",
+            "target": "robe",
+            "label": ""
+        },
+        {
+            "source": "west angelas",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "west angelas",
+            "target": "iron ore",
+            "label": "compared with"
+        },
+        {
+            "source": "martite",
+            "target": "hematite",
+            "label": "with,in,of"
+        },
+        {
+            "source": "martite",
+            "target": "microplaty hematite",
+            "label": "interlocking,with,include"
+        },
+        {
+            "source": "martite",
+            "target": "supergene",
+            "label": "resulting from"
+        },
+        {
+            "source": "martite",
+            "target": "goethite",
+            "label": "in,with,of,include"
+        },
+        {
+            "source": "martite",
+            "target": "magnetite",
+            "label": "structured"
+        },
+        {
+            "source": "martite",
+            "target": "australia",
+            "label": ""
+        },
+        {
+            "source": "martite",
+            "target": "goethite ore",
+            "label": ""
+        },
+        {
+            "source": "martite",
+            "target": "crystal",
+            "label": "interlocking"
+        },
+        {
+            "source": "marandoo",
+            "target": "west angelas",
+            "label": ""
+        },
+        {
+            "source": "marandoo",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "iron",
+            "label": "on"
+        },
+        {
+            "source": "australia",
+            "target": "iron ore",
+            "label": "of"
+        },
+        {
+            "source": "australia",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "magnetite",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "kaolinite",
+            "target": "carbonate",
+            "label": ""
+        },
+        {
+            "source": "supergene iron ore",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "marble bar",
+            "target": "newman",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "goethite",
+            "label": "to hematite"
+        },
+        {
+            "source": "magnetite",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "hamersley basin",
+            "target": "pilbara region",
+            "label": "in"
+        },
+        {
+            "source": "hamersley basin",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "perth",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "yilgarn craton",
+            "label": "in"
+        },
+        {
+            "source": "koolyanobbing",
+            "target": "iron",
+            "label": "in"
+        },
+        {
+            "source": "pilbara region",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "carbonate",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "robe",
+            "target": "west angelas",
+            "label": "conditioned compared to"
+        },
+        {
+            "source": "pilbara",
+            "target": "iron ore",
+            "label": "for fortescue metals group limited,bedded,conditioned"
+        },
+        {
+            "source": "pilbara",
+            "target": "christmas creek",
+            "label": "including at"
+        },
+        {
+            "source": "pilbara",
+            "target": "australia",
+            "label": "produced in"
+        },
+        {
+            "source": "pilbara",
+            "target": "microplaty hematite",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "silica",
+            "target": "diamond",
+            "label": ""
+        },
+        {
+            "source": "silica",
+            "target": "limonite",
+            "label": ""
+        },
+        {
+            "source": "hamersley province",
+            "target": "western australia",
+            "label": "of"
         },
         {
             "source": "iron ore",
@@ -1020,7 +1200,7 @@
         {
             "source": "iron ore",
             "target": "iron",
-            "label": "characterised,limited"
+            "label": "limited,characterised"
         },
         {
             "source": "iron ore",
@@ -1030,7 +1210,7 @@
         {
             "source": "iron ore",
             "target": "australia",
-            "label": "in,across,produced in"
+            "label": "across,in,produced in"
         },
         {
             "source": "iron ore",
@@ -1045,12 +1225,12 @@
         {
             "source": "iron ore",
             "target": "goethite",
-            "label": "hardness,,with"
+            "label": "hardness,with"
         },
         {
             "source": "iron ore",
             "target": "perth",
-            "label": ""
+            "label": "in"
         },
         {
             "source": "iron ore",
@@ -1060,17 +1240,22 @@
         {
             "source": "iron ore",
             "target": "pilbara",
-            "label": "in,from"
+            "label": "from,in"
         },
         {
             "source": "iron ore",
-            "target": "quartz",
+            "target": "western australia",
             "label": ""
         },
         {
             "source": "iron ore",
-            "target": "iron ore deposits",
+            "target": "diamond",
             "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "hamersley province",
+            "label": "in,of"
         },
         {
             "source": "iron ore",
@@ -1081,191 +1266,6 @@
             "source": "iron ore",
             "target": "martite",
             "label": "with"
-        },
-        {
-            "source": "iron ore",
-            "target": "hamersley province",
-            "label": "in,of"
-        },
-        {
-            "source": "iron ore",
-            "target": "brockman",
-            "label": ""
-        },
-        {
-            "source": "perth",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "paraburdoo",
-            "target": "brockman",
-            "label": ""
-        },
-        {
-            "source": "channel iron deposit",
-            "target": "nammuldi",
-            "label": "above"
-        },
-        {
-            "source": "channel iron deposit",
-            "target": "australia",
-            "label": ""
-        },
-        {
-            "source": "channel iron deposit",
-            "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "hamersley province",
-            "target": "western australia",
-            "label": "of"
-        },
-        {
-            "source": "pyrolusite",
-            "target": "pyrite",
-            "label": "of"
-        },
-        {
-            "source": "pyrolusite",
-            "target": "dolomite",
-            "label": "of"
-        },
-        {
-            "source": "iron ore deposits",
-            "target": "pilbara",
-            "label": "in"
-        },
-        {
-            "source": "iron ore deposits",
-            "target": "australia",
-            "label": "from"
-        },
-        {
-            "source": "iron ore deposits",
-            "target": "genesis",
-            "label": "for"
-        },
-        {
-            "source": "iron ore deposits",
-            "target": "microplaty hematite",
-            "label": ""
-        },
-        {
-            "source": "iron ore deposits",
-            "target": "hematite",
-            "label": ""
-        },
-        {
-            "source": "iron ore deposits",
-            "target": "goethite",
-            "label": ""
-        },
-        {
-            "source": "hamersley basin",
-            "target": "pilbara region",
-            "label": "in"
-        },
-        {
-            "source": "calcite",
-            "target": "kaolinite",
-            "label": ""
-        },
-        {
-            "source": "limonite",
-            "target": "magnetite",
-            "label": "structured"
-        },
-        {
-            "source": "limonite",
-            "target": "hematite",
-            "label": "for"
-        },
-        {
-            "source": "limonite",
-            "target": "martite",
-            "label": ""
-        },
-        {
-            "source": "did deposits",
-            "target": "hamersley iron province",
-            "label": ""
-        },
-        {
-            "source": "goldsworthy",
-            "target": "newman",
-            "label": ""
-        },
-        {
-            "source": "newman",
-            "target": "roy hill",
-            "label": "on"
-        },
-        {
-            "source": "newman",
-            "target": "christmas creek",
-            "label": ""
-        },
-        {
-            "source": "western australia",
-            "target": "pilbara",
-            "label": "including"
-        },
-        {
-            "source": "western australia",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "western australia",
-            "target": "perth",
-            "label": "in"
-        },
-        {
-            "source": "western australia",
-            "target": "did deposits",
-            "label": ""
-        },
-        {
-            "source": "gibbsite",
-            "target": "quartz",
-            "label": ""
-        },
-        {
-            "source": "oxide",
-            "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "oxide",
-            "target": "crystal",
-            "label": ""
-        },
-        {
-            "source": "oxide",
-            "target": "hematite",
-            "label": ""
-        },
-        {
-            "source": "quartz",
-            "target": "iron ore",
-            "label": "on"
-        },
-        {
-            "source": "quartz",
-            "target": "silica",
-            "label": ""
-        },
-        {
-            "source": "quartz",
-            "target": "goethite",
-            "label": ""
-        },
-        {
-            "source": "quartz",
-            "target": "hematite",
-            "label": ""
         }
     ]
 }
