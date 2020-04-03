@@ -1,14 +1,9 @@
 {
     "nodes": [
         {
-            "id": "goethite",
-            "group": "MINERAL",
-            "degree": "54"
-        },
-        {
-            "id": "pilbara",
-            "group": "LOCATION",
-            "degree": "37"
+            "id": "iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": "127"
         },
         {
             "id": "banded iron formation",
@@ -16,24 +11,19 @@
             "degree": "147"
         },
         {
+            "id": "goethite",
+            "group": "MINERAL",
+            "degree": "54"
+        },
+        {
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": "134"
+        },
+        {
             "id": "magnetite",
             "group": "MINERAL",
             "degree": "65"
-        },
-        {
-            "id": "robinson range formation",
-            "group": "STRAT",
-            "degree": "21"
-        },
-        {
-            "id": "marra mamba iron formation",
-            "group": "STRAT",
-            "degree": "25"
-        },
-        {
-            "id": "direct shipping ore",
-            "group": "ORE_DEPOSIT",
-            "degree": "14"
         },
         {
             "id": "hematite",
@@ -41,18 +31,23 @@
             "degree": "87"
         },
         {
-            "id": "hamersley",
-            "group": "LOCATION",
-            "degree": "29"
+            "id": "iron ore deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": "38"
         },
         {
-            "id": "robinson range",
-            "group": "STRAT",
-            "degree": "46"
+            "id": "martite",
+            "group": "MINERAL",
+            "degree": "17"
         },
         {
             "id": "laterite",
             "group": "ROCK",
+            "degree": "37"
+        },
+        {
+            "id": "pilbara",
+            "group": "LOCATION",
             "degree": "37"
         },
         {
@@ -61,9 +56,19 @@
             "degree": "29"
         },
         {
-            "id": "jackson",
+            "id": "direct shipping ore",
+            "group": "ORE_DEPOSIT",
+            "degree": "14"
+        },
+        {
+            "id": "hamersley",
             "group": "LOCATION",
-            "degree": "13"
+            "degree": "29"
+        },
+        {
+            "id": "mid west",
+            "group": "LOCATION",
+            "degree": "10"
         },
         {
             "id": "hamersley group",
@@ -73,69 +78,89 @@
     ],
     "links": [
         {
-            "source": "goethite",
-            "target": "hematite",
-            "label": "with,locked within,of,compared to,in"
+            "source": "iron ore",
+            "target": "mid west",
+            "label": ""
         },
         {
-            "source": "goethite",
-            "target": "banded iron formation",
-            "label": "topping,with,interbedded with,of,may occur at,capping on,within"
+            "source": "iron ore",
+            "target": "magnetite",
+            "label": ""
         },
         {
-            "source": "goethite",
+            "source": "iron ore",
             "target": "direct shipping ore",
             "label": ""
         },
         {
-            "source": "goethite",
-            "target": "robinson range formation",
-            "label": "on"
-        },
-        {
-            "source": "goethite",
-            "target": "magnetite",
-            "label": "of"
-        },
-        {
-            "source": "goethite",
-            "target": "jackson",
-            "label": "in"
-        },
-        {
-            "source": "goethite",
-            "target": "pilbara",
-            "label": ""
-        },
-        {
-            "source": "pilbara",
+            "source": "iron ore",
             "target": "hamersley",
             "label": ""
         },
         {
-            "source": "pilbara",
-            "target": "robinson range",
-            "label": "of"
+            "source": "iron ore",
+            "target": "hematite",
+            "label": "for"
         },
         {
-            "source": "pilbara",
-            "target": "hematite",
+            "source": "iron ore",
+            "target": "iron",
+            "label": "characterised"
+        },
+        {
+            "source": "iron ore",
+            "target": "goethite",
+            "label": "hardness,with"
+        },
+        {
+            "source": "iron ore",
+            "target": "banded iron formation",
+            "label": "of,concentrated on,overlying"
+        },
+        {
+            "source": "iron ore",
+            "target": "laterite",
+            "label": "for"
+        },
+        {
+            "source": "iron ore",
+            "target": "archean",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "pilbara",
+            "label": "from,in"
+        },
+        {
+            "source": "iron ore",
+            "target": "martite",
+            "label": "with"
+        },
+        {
+            "source": "iron ore",
+            "target": "iron ore deposit",
             "label": ""
         },
         {
             "source": "banded iron formation",
             "target": "magnetite",
-            "label": "to host,with,recovered"
+            "label": "with,to host,recovered"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "iron ore",
+            "label": "of,hosted,for,derived"
         },
         {
             "source": "banded iron formation",
             "target": "hematite",
-            "label": "of,to,undergone weathering with"
+            "label": "to,undergone weathering with,of"
         },
         {
             "source": "banded iron formation",
             "target": "goethite",
-            "label": "undergone weathering with"
+            "label": "to,undergone weathering with"
         },
         {
             "source": "banded iron formation",
@@ -144,12 +169,12 @@
         },
         {
             "source": "banded iron formation",
-            "target": "robinson range formation",
-            "label": "of"
+            "target": "iron",
+            "label": "returned,below,done to determine how"
         },
         {
             "source": "banded iron formation",
-            "target": "robinson range",
+            "target": "martite",
             "label": ""
         },
         {
@@ -164,8 +189,128 @@
         },
         {
             "source": "banded iron formation",
+            "target": "iron ore deposit",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
             "target": "hamersley",
             "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "hematite",
+            "label": "in,note,with,locked within,compared to,of"
+        },
+        {
+            "source": "goethite",
+            "target": "banded iron formation",
+            "label": "interbedded with,may occur at,of,with,capping on,topping,within"
+        },
+        {
+            "source": "goethite",
+            "target": "direct shipping ore",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "martite",
+            "label": "to,with"
+        },
+        {
+            "source": "goethite",
+            "target": "magnetite",
+            "label": "of"
+        },
+        {
+            "source": "goethite",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "iron ore deposit",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "hamersley",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "magnetite",
+            "label": "in"
+        },
+        {
+            "source": "iron",
+            "target": "direct shipping ore",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "banded iron formation",
+            "label": "in,enriched,within,lie within,of"
+        },
+        {
+            "source": "iron",
+            "target": "hamersley group",
+            "label": "of"
+        },
+        {
+            "source": "iron",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "goethite",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "martite",
+            "label": "within"
+        },
+        {
+            "source": "iron",
+            "target": "archean",
+            "label": "belongs to"
+        },
+        {
+            "source": "iron",
+            "target": "iron ore deposit",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "laterite",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "mid west",
+            "label": "located in"
+        },
+        {
+            "source": "magnetite",
+            "target": "iron ore",
+            "label": "hosted,in,analysed for"
         },
         {
             "source": "magnetite",
@@ -184,93 +329,108 @@
         },
         {
             "source": "magnetite",
+            "target": "iron",
+            "label": "for"
+        },
+        {
+            "source": "magnetite",
             "target": "banded iron formation",
-            "label": "altered,within"
+            "label": "within,altered"
         },
         {
             "source": "magnetite",
             "target": "goethite",
-            "label": "to"
+            "label": "to hematite"
         },
         {
-            "source": "robinson range formation",
-            "target": "banded iron formation",
-            "label": ""
-        },
-        {
-            "source": "robinson range formation",
-            "target": "hematite",
-            "label": ""
-        },
-        {
-            "source": "marra mamba iron formation",
-            "target": "hamersley group",
-            "label": "of,within"
-        },
-        {
-            "source": "marra mamba iron formation",
-            "target": "goethite",
-            "label": "ranges"
-        },
-        {
-            "source": "marra mamba iron formation",
-            "target": "archean",
-            "label": "of"
-        },
-        {
-            "source": "marra mamba iron formation",
-            "target": "hematite",
-            "label": ""
-        },
-        {
-            "source": "direct shipping ore",
-            "target": "hematite",
-            "label": ""
-        },
-        {
-            "source": "direct shipping ore",
-            "target": "banded iron formation",
-            "label": ""
+            "source": "hematite",
+            "target": "mid west",
+            "label": "located in"
         },
         {
             "source": "hematite",
             "target": "magnetite",
-            "label": "appointed to undertake,plus,followed by"
+            "label": "plus,appointed to undertake the,followed by"
         },
         {
             "source": "hematite",
             "target": "banded iron formation",
-            "label": "topping,interbedded with,of,in,observed within,within"
+            "label": "observed within,in,interbedded with,within,topping,of"
         },
         {
             "source": "hematite",
             "target": "goethite",
-            "label": "of,with,grading into,(with variable degrees of alteration between these minerals)"
+            "label": "of,grading into,with,(with variable degrees of alteration between these minerals)"
         },
         {
             "source": "hematite",
-            "target": "jackson",
-            "label": "in"
+            "target": "iron ore deposit",
+            "label": ""
         },
         {
-            "source": "hamersley",
+            "source": "hematite",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "martite",
+            "label": ""
+        },
+        {
+            "source": "hematite",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "iron ore deposit",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "iron ore deposit",
+            "target": "banded iron formation",
+            "label": "within"
+        },
+        {
+            "source": "iron ore deposit",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "iron ore deposit",
+            "target": "magnetite",
+            "label": ""
+        },
+        {
+            "source": "iron ore deposit",
             "target": "hematite",
             "label": ""
         },
         {
-            "source": "hamersley",
-            "target": "hamersley group",
+            "source": "iron ore deposit",
+            "target": "pilbara",
+            "label": "in"
+        },
+        {
+            "source": "iron ore deposit",
+            "target": "goethite",
             "label": ""
         },
         {
-            "source": "robinson range",
-            "target": "robinson range formation",
-            "label": "of"
+            "source": "martite",
+            "target": "hematite",
+            "label": "of,with,in"
         },
         {
-            "source": "robinson range",
-            "target": "banded iron formation",
-            "label": ""
+            "source": "martite",
+            "target": "goethite",
+            "label": "of,with,in,include"
+        },
+        {
+            "source": "martite",
+            "target": "magnetite",
+            "label": "structured"
         },
         {
             "source": "laterite",
@@ -283,8 +443,28 @@
             "label": "with"
         },
         {
-            "source": "archean",
-            "target": "robinson range",
+            "source": "pilbara",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "hamersley",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "iron ore",
+            "label": "bedded,for fortescue metals group limited,conditioned"
+        },
+        {
+            "source": "pilbara",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "iron ore deposit",
             "label": ""
         },
         {
@@ -299,27 +479,62 @@
         },
         {
             "source": "archean",
-            "target": "marra mamba iron formation",
-            "label": "aged"
-        },
-        {
-            "source": "archean",
             "target": "hamersley group",
             "label": ""
         },
         {
-            "source": "jackson",
-            "target": "goethite",
-            "label": "reported"
+            "source": "direct shipping ore",
+            "target": "hematite",
+            "label": ""
         },
         {
-            "source": "jackson",
+            "source": "direct shipping ore",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "direct shipping ore",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "direct shipping ore",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "hamersley",
             "target": "hematite",
-            "label": "reported"
+            "label": ""
+        },
+        {
+            "source": "hamersley",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "hamersley",
+            "target": "iron ore",
+            "label": "for"
+        },
+        {
+            "source": "hamersley",
+            "target": "hamersley group",
+            "label": ""
         },
         {
             "source": "hamersley group",
             "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "hamersley group",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "hamersley group",
+            "target": "iron",
             "label": ""
         },
         {
@@ -329,8 +544,8 @@
         },
         {
             "source": "hamersley group",
-            "target": "marra mamba iron formation",
-            "label": "parent_of"
+            "target": "iron ore deposit",
+            "label": ""
         }
     ]
 }
