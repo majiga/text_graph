@@ -80,7 +80,7 @@
         {
             "source": "supergene",
             "target": "gold",
-            "label": "characterised by,in,quartz veins containing,characterized by"
+            "label": "characterised by,in,quartz veins containing"
         },
         {
             "source": "supergene",
@@ -260,7 +260,7 @@
         {
             "source": "gold deposit",
             "target": "gold",
-            "label": "characterized by,including,with,characterised by,of,reported in"
+            "label": "including,with,characterised by,of,reported in"
         },
         {
             "source": "gold deposit",
@@ -405,7 +405,7 @@
         {
             "source": "lode gold deposit",
             "target": "coolgardie",
-            "label": "recognised in,in,recognized in"
+            "label": "recognised in,in"
         },
         {
             "source": "lode gold deposit",
@@ -425,7 +425,7 @@
         {
             "source": "sulphide",
             "target": "gold",
-            "label": "associated with,of,related,hosted"
+            "label": "associated with,related,hosted,of"
         },
         {
             "source": "sulphide",
