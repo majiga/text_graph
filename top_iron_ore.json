@@ -36,6 +36,11 @@
             "degree": "69"
         },
         {
+            "id": "archaean",
+            "group": "TIMESCALE",
+            "degree": "28"
+        },
+        {
             "id": "direct shipping ore",
             "group": "ORE_DEPOSIT",
             "degree": "13"
@@ -204,6 +209,11 @@
         },
         {
             "source": "banded iron formation",
+            "target": "archaean",
+            "label": "hosted"
+        },
+        {
+            "source": "banded iron formation",
             "target": "martite",
             "label": ""
         },
@@ -283,6 +293,26 @@
             "label": ""
         },
         {
+            "source": "archaean",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "archaean",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "archaean",
+            "target": "hamersley group",
+            "label": ""
+        },
+        {
+            "source": "archaean",
+            "target": "banded iron formation",
+            "label": "with"
+        },
+        {
             "source": "direct shipping ore",
             "target": "magnetite",
             "label": ""
@@ -341,6 +371,11 @@
             "source": "iron",
             "target": "hematite",
             "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "archaean",
+            "label": "belongs to"
         },
         {
             "source": "iron",
