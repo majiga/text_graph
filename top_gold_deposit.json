@@ -1,222 +1,82 @@
 {
     "nodes": [
         {
-            "id": "supergene",
-            "group": "ORE_DEPOSIT",
-            "degree": "22"
-        },
-        {
-            "id": "quartz",
-            "group": "MINERAL",
-            "degree": "119"
-        },
-        {
-            "id": "goldfields",
-            "group": "LOCATION",
-            "degree": "36"
-        },
-        {
-            "id": "coolgardie",
-            "group": "LOCATION",
-            "degree": "126"
-        },
-        {
             "id": "porphyry",
             "group": "ROCK",
-            "degree": "68"
-        },
-        {
-            "id": "gold deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": "83"
-        },
-        {
-            "id": "gabbro",
-            "group": "ROCK",
-            "degree": "32"
-        },
-        {
-            "id": "yilgarn craton",
-            "group": "LOCATION",
-            "degree": "47"
-        },
-        {
-            "id": "quartz vein",
-            "group": "ROCK",
-            "degree": "33"
-        },
-        {
-            "id": "lode gold deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": "28"
+            "degree": "74"
         },
         {
             "id": "sulphide",
             "group": "MINERAL",
-            "degree": "72"
+            "degree": "68"
         },
         {
-            "id": "gold",
-            "group": "MINERAL",
-            "degree": "230"
-        },
-        {
-            "id": "amphibolite",
-            "group": "ROCK",
-            "degree": "58"
+            "id": "coolgardie",
+            "group": "LOCATION",
+            "degree": "128"
         },
         {
             "id": "kalgoorlie",
             "group": "LOCATION",
-            "degree": "41"
+            "degree": "38"
         },
         {
-            "id": "archean",
-            "group": "TIMESCALE",
-            "degree": "107"
+            "id": "lode gold deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": "26"
+        },
+        {
+            "id": "goldfields",
+            "group": "LOCATION",
+            "degree": "38"
+        },
+        {
+            "id": "amphibolite",
+            "group": "ROCK",
+            "degree": "28"
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": "241"
+        },
+        {
+            "id": "amphibolite facies",
+            "group": "ROCK",
+            "degree": "29"
+        },
+        {
+            "id": "gold deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": "81"
+        },
+        {
+            "id": "quartz",
+            "group": "MINERAL",
+            "degree": "115"
+        },
+        {
+            "id": "quartz vein",
+            "group": "ROCK",
+            "degree": "37"
+        },
+        {
+            "id": "yilgarn craton",
+            "group": "LOCATION",
+            "degree": "50"
+        },
+        {
+            "id": "diorite",
+            "group": "ROCK",
+            "degree": "58"
+        },
+        {
+            "id": "supergene",
+            "group": "ORE_DEPOSIT",
+            "degree": "20"
         }
     ],
     "links": [
-        {
-            "source": "supergene",
-            "target": "gold",
-            "label": "characterised by,in,quartz veins containing"
-        },
-        {
-            "source": "supergene",
-            "target": "coolgardie",
-            "label": "mined in"
-        },
-        {
-            "source": "supergene",
-            "target": "gold deposit",
-            "label": ""
-        },
-        {
-            "source": "supergene",
-            "target": "lode gold deposit",
-            "label": "related"
-        },
-        {
-            "source": "supergene",
-            "target": "archean",
-            "label": ""
-        },
-        {
-            "source": "quartz",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "quartz",
-            "target": "coolgardie",
-            "label": "of,laminated"
-        },
-        {
-            "source": "quartz",
-            "target": "sulphide",
-            "label": "veins with"
-        },
-        {
-            "source": "quartz",
-            "target": "quartz vein",
-            "label": "hosted"
-        },
-        {
-            "source": "quartz",
-            "target": "gabbro",
-            "label": ""
-        },
-        {
-            "source": "quartz",
-            "target": "porphyry",
-            "label": "of"
-        },
-        {
-            "source": "goldfields",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "goldfields",
-            "target": "kalgoorlie",
-            "label": ""
-        },
-        {
-            "source": "goldfields",
-            "target": "coolgardie",
-            "label": ""
-        },
-        {
-            "source": "goldfields",
-            "target": "gold deposit",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "amphibolite",
-            "label": "metamorphosed to lower to middle"
-        },
-        {
-            "source": "coolgardie",
-            "target": "supergene",
-            "label": "in"
-        },
-        {
-            "source": "coolgardie",
-            "target": "archean",
-            "label": "on,in,within"
-        },
-        {
-            "source": "coolgardie",
-            "target": "gold",
-            "label": "for,including,of,to,associated with,on"
-        },
-        {
-            "source": "coolgardie",
-            "target": "gabbro",
-            "label": "of"
-        },
-        {
-            "source": "coolgardie",
-            "target": "goldfields",
-            "label": "of,in,located in,undulating by"
-        },
-        {
-            "source": "coolgardie",
-            "target": "yilgarn craton",
-            "label": "within"
-        },
-        {
-            "source": "coolgardie",
-            "target": "kalgoorlie",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "quartz vein",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "quartz",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "lode gold deposit",
-            "label": "in"
-        },
-        {
-            "source": "coolgardie",
-            "target": "porphyry",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "gold deposit",
-            "label": ""
-        },
         {
             "source": "porphyry",
             "target": "gold",
@@ -239,198 +99,33 @@
         },
         {
             "source": "porphyry",
-            "target": "gabbro",
-            "label": "differentiated to"
-        },
-        {
-            "source": "porphyry",
-            "target": "archean",
-            "label": ""
-        },
-        {
-            "source": "porphyry",
             "target": "gold deposit",
             "label": "related"
         },
         {
-            "source": "gold deposit",
-            "target": "lode gold deposit",
-            "label": "hosts"
-        },
-        {
-            "source": "gold deposit",
-            "target": "gold",
-            "label": "including,with,characterised by,of,reported in"
-        },
-        {
-            "source": "gold deposit",
-            "target": "quartz",
-            "label": "associated with"
-        },
-        {
-            "source": "gold deposit",
-            "target": "goldfields",
-            "label": "in"
-        },
-        {
-            "source": "gold deposit",
-            "target": "coolgardie",
-            "label": "of,in,for"
-        },
-        {
-            "source": "gold deposit",
-            "target": "quartz vein",
-            "label": ""
-        },
-        {
-            "source": "gold deposit",
-            "target": "amphibolite",
-            "label": "in"
-        },
-        {
-            "source": "gold deposit",
-            "target": "archean",
-            "label": ""
-        },
-        {
-            "source": "gold deposit",
-            "target": "kalgoorlie",
-            "label": ""
-        },
-        {
-            "source": "gold deposit",
-            "target": "supergene",
-            "label": ""
-        },
-        {
-            "source": "gold deposit",
-            "target": "yilgarn craton",
-            "label": "of,in"
-        },
-        {
-            "source": "gold deposit",
-            "target": "porphyry",
-            "label": "grouped into"
-        },
-        {
-            "source": "gabbro",
-            "target": "quartz",
-            "label": "in"
-        },
-        {
-            "source": "gabbro",
-            "target": "coolgardie",
-            "label": "hosted"
-        },
-        {
-            "source": "gabbro",
-            "target": "amphibolite",
-            "label": ""
-        },
-        {
-            "source": "gabbro",
-            "target": "quartz vein",
-            "label": "hosted"
-        },
-        {
-            "source": "gabbro",
-            "target": "gold deposit",
-            "label": "hosted"
-        },
-        {
-            "source": "gabbro",
-            "target": "gold",
-            "label": "for"
-        },
-        {
-            "source": "yilgarn craton",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "yilgarn craton",
-            "target": "amphibolite",
-            "label": ""
-        },
-        {
-            "source": "yilgarn craton",
-            "target": "kalgoorlie",
-            "label": ""
-        },
-        {
-            "source": "yilgarn craton",
-            "target": "archean",
-            "label": "by"
-        },
-        {
-            "source": "yilgarn craton",
-            "target": "gold deposit",
-            "label": ""
-        },
-        {
-            "source": "quartz vein",
-            "target": "quartz",
-            "label": "of,offset across,in"
-        },
-        {
-            "source": "quartz vein",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "quartz vein",
-            "target": "gabbro",
-            "label": ""
-        },
-        {
-            "source": "quartz vein",
-            "target": "lode gold deposit",
-            "label": ""
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "gold deposit",
-            "label": ""
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "kalgoorlie",
-            "label": ""
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "coolgardie",
-            "label": "recognised in,in"
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "archean",
-            "label": ""
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "supergene",
-            "label": ""
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "amphibolite",
+            "source": "porphyry",
+            "target": "diorite",
             "label": ""
         },
         {
             "source": "sulphide",
+            "target": "diorite",
+            "label": "within,for,in"
+        },
+        {
+            "source": "sulphide",
             "target": "gold",
-            "label": "associated with,related,hosted,of"
+            "label": "hosted,associated with,of,related"
         },
         {
             "source": "sulphide",
             "target": "quartz",
-            "label": "filled"
+            "label": ""
+        },
+        {
+            "source": "sulphide",
+            "target": "quartz vein",
+            "label": ""
         },
         {
             "source": "sulphide",
@@ -448,109 +143,64 @@
             "label": "of"
         },
         {
-            "source": "gold",
+            "source": "coolgardie",
             "target": "supergene",
-            "label": "come from,in,at"
-        },
-        {
-            "source": "gold",
-            "target": "porphyry",
-            "label": "distributed within"
-        },
-        {
-            "source": "gold",
-            "target": "quartz",
-            "label": "comprised of,along,of,identified in,associated with,in,identified associated with,occurs in,observed in,occurs within"
-        },
-        {
-            "source": "gold",
-            "target": "gold deposit",
-            "label": "for,at,deduced from"
-        },
-        {
-            "source": "gold",
-            "target": "archean",
-            "label": ""
-        },
-        {
-            "source": "gold",
-            "target": "coolgardie",
-            "label": "exists in,of,occurrences,mined in,discovered in,in,within,at"
-        },
-        {
-            "source": "gold",
-            "target": "sulphide",
-            "label": ""
-        },
-        {
-            "source": "gold",
-            "target": "yilgarn craton",
-            "label": "in,at"
-        },
-        {
-            "source": "gold",
-            "target": "amphibolite",
             "label": "in"
         },
         {
-            "source": "gold",
-            "target": "gabbro",
-            "label": "in differentiated,in"
+            "source": "coolgardie",
+            "target": "gold",
+            "label": "on,of,including,associated with,to,for"
         },
         {
-            "source": "gold",
-            "target": "lode gold deposit",
-            "label": ""
+            "source": "coolgardie",
+            "target": "goldfields",
+            "label": "undulating by,of,in,located in"
         },
         {
-            "source": "gold",
-            "target": "quartz vein",
-            "label": "associated with,established in"
+            "source": "coolgardie",
+            "target": "yilgarn craton",
+            "label": "within"
         },
         {
-            "source": "gold",
+            "source": "coolgardie",
             "target": "kalgoorlie",
             "label": ""
         },
         {
-            "source": "gold",
-            "target": "goldfields",
-            "label": "in"
+            "source": "coolgardie",
+            "target": "quartz vein",
+            "label": ""
         },
         {
-            "source": "amphibolite",
-            "target": "coolgardie",
-            "label": "hosted,facies"
-        },
-        {
-            "source": "amphibolite",
-            "target": "yilgarn craton",
-            "label": "facies"
-        },
-        {
-            "source": "amphibolite",
-            "target": "gold",
-            "label": "facies"
-        },
-        {
-            "source": "amphibolite",
+            "source": "coolgardie",
             "target": "gold deposit",
             "label": ""
         },
         {
-            "source": "amphibolite",
+            "source": "coolgardie",
+            "target": "amphibolite facies",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
             "target": "lode gold deposit",
-            "label": "facies"
+            "label": "in"
         },
         {
-            "source": "amphibolite",
-            "target": "archean",
-            "label": "of"
+            "source": "coolgardie",
+            "target": "porphyry",
+            "label": ""
         },
         {
-            "source": "amphibolite",
+            "source": "coolgardie",
             "target": "quartz",
-            "label": "of"
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "diorite",
+            "label": ""
         },
         {
             "source": "kalgoorlie",
@@ -578,49 +228,339 @@
             "label": ""
         },
         {
-            "source": "archean",
+            "source": "kalgoorlie",
             "target": "yilgarn craton",
-            "label": "of,facies"
+            "label": ""
         },
         {
-            "source": "archean",
-            "target": "coolgardie",
-            "label": "recognised in,in,recognized in,facies,within"
+            "source": "lode gold deposit",
+            "target": "gold deposit",
+            "label": ""
         },
         {
-            "source": "archean",
+            "source": "lode gold deposit",
             "target": "gold",
-            "label": "of,facies"
+            "label": ""
         },
         {
-            "source": "archean",
+            "source": "lode gold deposit",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "lode gold deposit",
+            "target": "coolgardie",
+            "label": "recognised in,in,recognized in"
+        },
+        {
+            "source": "lode gold deposit",
             "target": "supergene",
             "label": ""
         },
         {
-            "source": "archean",
-            "target": "gabbro",
+            "source": "goldfields",
+            "target": "kalgoorlie",
             "label": ""
         },
         {
-            "source": "archean",
+            "source": "goldfields",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "goldfields",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "goldfields",
+            "target": "sulphide",
+            "label": ""
+        },
+        {
+            "source": "goldfields",
+            "target": "gold deposit",
+            "label": ""
+        },
+        {
+            "source": "goldfields",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "amphibolite",
+            "target": "yilgarn craton",
+            "label": "of"
+        },
+        {
+            "source": "amphibolite",
+            "target": "quartz",
+            "label": "of"
+        },
+        {
+            "source": "gold",
+            "target": "supergene",
+            "label": "come from,at,in"
+        },
+        {
+            "source": "gold",
+            "target": "porphyry",
+            "label": "distributed within"
+        },
+        {
+            "source": "gold",
+            "target": "quartz",
+            "label": "comprised of,occurs in,of,along,in,associated with,occurs within,identified in,identified associated with,observed in"
+        },
+        {
+            "source": "gold",
+            "target": "gold deposit",
+            "label": "deduced from,at,for"
+        },
+        {
+            "source": "gold",
+            "target": "lode gold deposit",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "coolgardie",
+            "label": "within,of,occurrences,in,exists in,at,mined in,discovered in"
+        },
+        {
+            "source": "gold",
+            "target": "sulphide",
+            "label": "of,in,related to,associated with,occurs within"
+        },
+        {
+            "source": "gold",
+            "target": "diorite",
+            "label": "through,intersected in,in"
+        },
+        {
+            "source": "gold",
+            "target": "yilgarn craton",
+            "label": "at,in"
+        },
+        {
+            "source": "gold",
+            "target": "amphibolite facies",
+            "label": "in"
+        },
+        {
+            "source": "gold",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "quartz vein",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "goldfields",
+            "label": "in"
+        },
+        {
+            "source": "amphibolite facies",
+            "target": "coolgardie",
+            "label": "hosted,in"
+        },
+        {
+            "source": "amphibolite facies",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "amphibolite facies",
+            "target": "diorite",
+            "label": ""
+        },
+        {
+            "source": "amphibolite facies",
+            "target": "lode gold deposit",
+            "label": ""
+        },
+        {
+            "source": "gold deposit",
+            "target": "lode gold deposit",
+            "label": "hosts"
+        },
+        {
+            "source": "gold deposit",
+            "target": "gold",
+            "label": "characterised by,of,reported in,including,with,for"
+        },
+        {
+            "source": "gold deposit",
+            "target": "goldfields",
+            "label": ""
+        },
+        {
+            "source": "gold deposit",
+            "target": "coolgardie",
+            "label": "for,of,in"
+        },
+        {
+            "source": "gold deposit",
+            "target": "quartz",
+            "label": "associated with"
+        },
+        {
+            "source": "gold deposit",
+            "target": "quartz vein",
+            "label": "associated with"
+        },
+        {
+            "source": "gold deposit",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "gold deposit",
             "target": "amphibolite",
             "label": "in"
         },
         {
-            "source": "archean",
-            "target": "lode gold deposit",
-            "label": "facies,in"
+            "source": "gold deposit",
+            "target": "diorite",
+            "label": ""
         },
         {
-            "source": "archean",
+            "source": "gold deposit",
+            "target": "supergene",
+            "label": ""
+        },
+        {
+            "source": "gold deposit",
+            "target": "yilgarn craton",
+            "label": "of,in"
+        },
+        {
+            "source": "gold deposit",
+            "target": "amphibolite facies",
+            "label": ""
+        },
+        {
+            "source": "gold deposit",
+            "target": "porphyry",
+            "label": "grouped into"
+        },
+        {
+            "source": "quartz",
+            "target": "porphyry",
+            "label": "of"
+        },
+        {
+            "source": "quartz",
+            "target": "coolgardie",
+            "label": "laminated,of"
+        },
+        {
+            "source": "quartz",
+            "target": "diorite",
+            "label": "hosted in altered,veined"
+        },
+        {
+            "source": "quartz",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "sulphide",
+            "label": "veins with"
+        },
+        {
+            "source": "quartz",
+            "target": "quartz vein",
+            "label": "hosted"
+        },
+        {
+            "source": "quartz vein",
+            "target": "quartz",
+            "label": "of,offset across,in"
+        },
+        {
+            "source": "quartz vein",
+            "target": "gold",
+            "label": "offset across"
+        },
+        {
+            "source": "quartz vein",
             "target": "gold deposit",
-            "label": "to"
+            "label": ""
         },
         {
-            "source": "archean",
-            "target": "goldfields",
-            "label": "in"
+            "source": "quartz vein",
+            "target": "diorite",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "amphibolite facies",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "diorite",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "diorite",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "diorite",
+            "target": "sulphide",
+            "label": "hosted within"
+        },
+        {
+            "source": "diorite",
+            "target": "amphibolite",
+            "label": "at"
+        },
+        {
+            "source": "diorite",
+            "target": "quartz vein",
+            "label": "hosted"
+        },
+        {
+            "source": "diorite",
+            "target": "amphibolite facies",
+            "label": ""
+        },
+        {
+            "source": "supergene",
+            "target": "gold",
+            "label": "characterised by,quartz veins containing,in"
+        },
+        {
+            "source": "supergene",
+            "target": "porphyry",
+            "label": ""
+        },
+        {
+            "source": "supergene",
+            "target": "coolgardie",
+            "label": "mined in"
+        },
+        {
+            "source": "supergene",
+            "target": "lode gold deposit",
+            "label": "related"
         }
     ]
 }
