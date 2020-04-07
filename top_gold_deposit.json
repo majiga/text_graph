@@ -41,6 +41,11 @@
             "degree": "241"
         },
         {
+            "id": "archaean",
+            "group": "TIMESCALE",
+            "degree": "105"
+        },
+        {
             "id": "amphibolite facies",
             "group": "ROCK",
             "degree": "29"
@@ -154,6 +159,11 @@
         },
         {
             "source": "coolgardie",
+            "target": "archaean",
+            "label": "within,on,in"
+        },
+        {
+            "source": "coolgardie",
             "target": "goldfields",
             "label": "undulating by,of,in,located in"
         },
@@ -258,6 +268,11 @@
             "label": ""
         },
         {
+            "source": "lode gold deposit",
+            "target": "archaean",
+            "label": ""
+        },
+        {
             "source": "goldfields",
             "target": "kalgoorlie",
             "label": ""
@@ -279,6 +294,11 @@
         },
         {
             "source": "goldfields",
+            "target": "archaean",
+            "label": ""
+        },
+        {
+            "source": "goldfields",
             "target": "gold deposit",
             "label": ""
         },
@@ -290,6 +310,11 @@
         {
             "source": "amphibolite",
             "target": "yilgarn craton",
+            "label": "of"
+        },
+        {
+            "source": "amphibolite",
+            "target": "archaean",
             "label": "of"
         },
         {
@@ -359,8 +384,68 @@
         },
         {
             "source": "gold",
+            "target": "archaean",
+            "label": ""
+        },
+        {
+            "source": "gold",
             "target": "goldfields",
             "label": "in"
+        },
+        {
+            "source": "archaean",
+            "target": "coolgardie",
+            "label": "within,recognised in,of,in,recognized in"
+        },
+        {
+            "source": "archaean",
+            "target": "amphibolite facies",
+            "label": "of,in"
+        },
+        {
+            "source": "archaean",
+            "target": "yilgarn craton",
+            "label": "of"
+        },
+        {
+            "source": "archaean",
+            "target": "gold",
+            "label": "of"
+        },
+        {
+            "source": "archaean",
+            "target": "gold deposit",
+            "label": "to"
+        },
+        {
+            "source": "archaean",
+            "target": "lode gold deposit",
+            "label": "in"
+        },
+        {
+            "source": "archaean",
+            "target": "supergene",
+            "label": ""
+        },
+        {
+            "source": "archaean",
+            "target": "diorite",
+            "label": ""
+        },
+        {
+            "source": "archaean",
+            "target": "porphyry",
+            "label": ""
+        },
+        {
+            "source": "archaean",
+            "target": "goldfields",
+            "label": "in"
+        },
+        {
+            "source": "archaean",
+            "target": "amphibolite",
+            "label": ""
         },
         {
             "source": "amphibolite facies",
@@ -375,6 +460,11 @@
         {
             "source": "amphibolite facies",
             "target": "diorite",
+            "label": ""
+        },
+        {
+            "source": "amphibolite facies",
+            "target": "archaean",
             "label": ""
         },
         {
@@ -425,6 +515,11 @@
         {
             "source": "gold deposit",
             "target": "diorite",
+            "label": ""
+        },
+        {
+            "source": "gold deposit",
+            "target": "archaean",
             "label": ""
         },
         {
@@ -499,6 +594,11 @@
         },
         {
             "source": "yilgarn craton",
+            "target": "archaean",
+            "label": "by"
+        },
+        {
+            "source": "yilgarn craton",
             "target": "gold",
             "label": ""
         },
@@ -536,6 +636,11 @@
             "source": "diorite",
             "target": "quartz vein",
             "label": "hosted"
+        },
+        {
+            "source": "diorite",
+            "target": "archaean",
+            "label": ""
         },
         {
             "source": "diorite",
