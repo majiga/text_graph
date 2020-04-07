@@ -1,49 +1,9 @@
 {
     "nodes": [
         {
-            "id": "dolerite",
-            "group": "ROCK",
-            "degree": "4"
-        },
-        {
-            "id": "roy hill member",
+            "id": "marra mamba iron formation",
             "group": "STRAT",
-            "degree": "2"
-        },
-        {
-            "id": "hamersley group, upper",
-            "group": "STRAT",
-            "degree": "2"
-        },
-        {
-            "id": "hamersley group",
-            "group": "STRAT",
-            "degree": "12"
-        },
-        {
-            "id": "roy hill shale member",
-            "group": "STRAT",
-            "degree": "3"
-        },
-        {
-            "id": "volcanic rocks",
-            "group": "ROCK",
-            "degree": "2"
-        },
-        {
-            "id": "pisolite",
-            "group": "ROCK",
-            "degree": "0"
-        },
-        {
-            "id": "ferricrete",
-            "group": "ROCK",
-            "degree": "2"
-        },
-        {
-            "id": "quaternary",
-            "group": "TIMESCALE",
-            "degree": "3"
+            "degree": "10"
         },
         {
             "id": "limestone",
@@ -51,24 +11,14 @@
             "degree": "1"
         },
         {
-            "id": "proterozoic",
-            "group": "TIMESCALE",
-            "degree": "1"
-        },
-        {
             "id": "sediments",
             "group": "ROCK",
-            "degree": "11"
+            "degree": "10"
         },
         {
-            "id": "acid volcanic rocks",
-            "group": "ROCK",
-            "degree": "1"
-        },
-        {
-            "id": "hamersley group, lower",
+            "id": "oakover formation",
             "group": "STRAT",
-            "degree": "2"
+            "degree": "3"
         },
         {
             "id": "fortescue group",
@@ -76,84 +26,9 @@
             "degree": "3"
         },
         {
-            "id": "calcrete",
-            "group": "ROCK",
-            "degree": "1"
-        },
-        {
-            "id": "ironstone",
-            "group": "ROCK",
-            "degree": "0"
-        },
-        {
-            "id": "chert",
-            "group": "ROCK",
-            "degree": "4"
-        },
-        {
-            "id": "alluvium",
-            "group": "ROCK",
-            "degree": "3"
-        },
-        {
             "id": "shale",
             "group": "ROCK",
-            "degree": "12"
-        },
-        {
-            "id": "mount bruce supergroup",
-            "group": "STRAT",
-            "degree": "5"
-        },
-        {
-            "id": "clay",
-            "group": "ROCK",
-            "degree": "7"
-        },
-        {
-            "id": "archean",
-            "group": "TIMESCALE",
-            "degree": "6"
-        },
-        {
-            "id": "granite",
-            "group": "ROCK",
-            "degree": "2"
-        },
-        {
-            "id": "granules",
-            "group": "ROCK",
-            "degree": "2"
-        },
-        {
-            "id": "coal",
-            "group": "ROCK",
-            "degree": "2"
-        },
-        {
-            "id": "regolith",
-            "group": "ROCK",
-            "degree": "1"
-        },
-        {
-            "id": "marra mamba iron formation",
-            "group": "STRAT",
-            "degree": "8"
-        },
-        {
-            "id": "brockman iron formation",
-            "group": "STRAT",
-            "degree": "1"
-        },
-        {
-            "id": "nammuldi member",
-            "group": "STRAT",
-            "degree": "8"
-        },
-        {
-            "id": "silt",
-            "group": "ROCK",
-            "degree": "1"
+            "degree": "10"
         },
         {
             "id": "sand",
@@ -161,27 +36,57 @@
             "degree": "2"
         },
         {
+            "id": "proterozoic",
+            "group": "TIMESCALE",
+            "degree": "3"
+        },
+        {
+            "id": "marra mamba iron formation nammuldi member",
+            "group": "STRAT",
+            "degree": "0"
+        },
+        {
             "id": "tertiary",
             "group": "TIMESCALE",
             "degree": "5"
         },
         {
-            "id": "black shales",
+            "id": "coal",
             "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "banded iron formation",
+            "group": "ROCK",
+            "degree": "11"
+        },
+        {
+            "id": "pisolite",
+            "group": "ROCK",
+            "degree": "0"
+        },
+        {
+            "id": "roy hill shale member",
+            "group": "STRAT",
             "degree": "3"
         },
         {
-            "id": "colluvium",
+            "id": "granules",
             "group": "ROCK",
             "degree": "2"
         },
         {
-            "id": "jeerinah formation",
-            "group": "STRAT",
-            "degree": "6"
+            "id": "volcanic rocks",
+            "group": "ROCK",
+            "degree": "2"
         },
         {
-            "id": "sinter",
+            "id": "archaean",
+            "group": "TIMESCALE",
+            "degree": "5"
+        },
+        {
+            "id": "alluvium",
             "group": "ROCK",
             "degree": "4"
         },
@@ -191,14 +96,19 @@
             "degree": "1"
         },
         {
-            "id": "macleod member",
-            "group": "STRAT",
-            "degree": "4"
+            "id": "black shales",
+            "group": "ROCK",
+            "degree": "3"
         },
         {
-            "id": "greenstones",
+            "id": "calcrete",
             "group": "ROCK",
             "degree": "1"
+        },
+        {
+            "id": "clay",
+            "group": "ROCK",
+            "degree": "8"
         },
         {
             "id": "mount newman member",
@@ -206,101 +116,141 @@
             "degree": "3"
         },
         {
-            "id": "banded iron formation",
+            "id": "ferricrete",
             "group": "ROCK",
-            "degree": "8"
-        },
-        {
-            "id": "oakover formation",
-            "group": "STRAT",
-            "degree": "4"
+            "degree": "2"
         },
         {
             "id": "iron formation",
             "group": "ROCK",
+            "degree": "2"
+        },
+        {
+            "id": "hamersley group, lower",
+            "group": "STRAT",
+            "degree": "2"
+        },
+        {
+            "id": "granite greenstones",
+            "group": "ROCK",
+            "degree": "2"
+        },
+        {
+            "id": "quaternary",
+            "group": "TIMESCALE",
+            "degree": "3"
+        },
+        {
+            "id": "roy hill member",
+            "group": "STRAT",
+            "degree": "2"
+        },
+        {
+            "id": "chert",
+            "group": "ROCK",
+            "degree": "6"
+        },
+        {
+            "id": "colluvium",
+            "group": "ROCK",
+            "degree": "2"
+        },
+        {
+            "id": "silt",
+            "group": "ROCK",
+            "degree": "2"
+        },
+        {
+            "id": "regolith",
+            "group": "ROCK",
             "degree": "1"
+        },
+        {
+            "id": "dolerite",
+            "group": "ROCK",
+            "degree": "4"
+        },
+        {
+            "id": "ironstone",
+            "group": "ROCK",
+            "degree": "0"
+        },
+        {
+            "id": "hamersley group",
+            "group": "STRAT",
+            "degree": "13"
+        },
+        {
+            "id": "macleod member",
+            "group": "STRAT",
+            "degree": "3"
+        },
+        {
+            "id": "hamersley group, upper",
+            "group": "STRAT",
+            "degree": "2"
+        },
+        {
+            "id": "sinter",
+            "group": "ROCK",
+            "degree": "3"
+        },
+        {
+            "id": "brockman iron formation",
+            "group": "STRAT",
+            "degree": "1"
+        },
+        {
+            "id": "mount bruce supergroup",
+            "group": "STRAT",
+            "degree": "5"
+        },
+        {
+            "id": "nammuldi member",
+            "group": "STRAT",
+            "degree": "8"
+        },
+        {
+            "id": "jeerinah formation",
+            "group": "STRAT",
+            "degree": "6"
+        },
+        {
+            "id": "acid volcanic rocks",
+            "group": "ROCK",
+            "degree": "2"
         }
     ],
     "links": [
         {
-            "source": "dolerite",
-            "target": "shale",
-            "label": ""
-        },
-        {
-            "source": "roy hill member",
-            "target": "roy hill shale member",
-            "label": "current_of"
-        },
-        {
-            "source": "hamersley group, upper",
+            "source": "marra mamba iron formation",
             "target": "hamersley group",
-            "label": "current_of"
+            "label": "of,within"
         },
         {
-            "source": "hamersley group",
+            "source": "marra mamba iron formation",
+            "target": "archaean",
+            "label": "of"
+        },
+        {
+            "source": "marra mamba iron formation",
             "target": "proterozoic",
-            "label": "to"
-        },
-        {
-            "source": "hamersley group",
-            "target": "fortescue group",
-            "label": "overlies"
-        },
-        {
-            "source": "hamersley group",
-            "target": "mount bruce supergroup",
-            "label": "within"
-        },
-        {
-            "source": "hamersley group",
-            "target": "marra mamba iron formation",
-            "label": "parent_of"
-        },
-        {
-            "source": "hamersley group",
-            "target": "archean",
             "label": ""
         },
         {
-            "source": "hamersley group",
-            "target": "brockman iron formation",
-            "label": "parent_of"
+            "source": "marra mamba iron formation",
+            "target": "nammuldi member",
+            "label": "is_parent_of,termed"
         },
         {
-            "source": "hamersley group",
-            "target": "hamersley group, lower",
-            "label": "parent_of"
+            "source": "marra mamba iron formation",
+            "target": "macleod member",
+            "label": "is_parent_of"
         },
         {
-            "source": "hamersley group",
-            "target": "hamersley group, upper",
-            "label": "parent_of"
-        },
-        {
-            "source": "roy hill shale member",
-            "target": "shale",
-            "label": ""
-        },
-        {
-            "source": "volcanic rocks",
-            "target": "jeerinah formation",
-            "label": "belonging to"
-        },
-        {
-            "source": "ferricrete",
-            "target": "regolith",
-            "label": ""
-        },
-        {
-            "source": "quaternary",
-            "target": "clay",
-            "label": "of"
-        },
-        {
-            "source": "quaternary",
-            "target": "sediments",
-            "label": "of"
+            "source": "marra mamba iron formation",
+            "target": "mount newman member",
+            "label": "is_parent_of"
         },
         {
             "source": "limestone",
@@ -329,58 +279,38 @@
         },
         {
             "source": "sediments",
-            "target": "tertiary",
+            "target": "marra mamba iron formation",
             "label": ""
         },
         {
             "source": "sediments",
-            "target": "banded iron formation",
+            "target": "chert",
             "label": ""
         },
         {
-            "source": "acid volcanic rocks",
-            "target": "dolerite",
-            "label": "intruded by"
-        },
-        {
-            "source": "hamersley group, lower",
-            "target": "hamersley group",
-            "label": "current_of"
+            "source": "sediments",
+            "target": "alluvium",
+            "label": ""
         },
         {
             "source": "fortescue group",
             "target": "jeerinah formation",
-            "label": "parent_of"
-        },
-        {
-            "source": "calcrete",
-            "target": "ferricrete",
-            "label": ""
-        },
-        {
-            "source": "chert",
-            "target": "macleod member",
-            "label": ""
-        },
-        {
-            "source": "chert",
-            "target": "shale",
-            "label": ""
-        },
-        {
-            "source": "alluvium",
-            "target": "oakover formation",
-            "label": "including"
-        },
-        {
-            "source": "alluvium",
-            "target": "clay",
-            "label": "including"
+            "label": "is_parent_of"
         },
         {
             "source": "shale",
             "target": "dolerite",
             "label": "intruded by"
+        },
+        {
+            "source": "shale",
+            "target": "clay",
+            "label": "of"
+        },
+        {
+            "source": "shale",
+            "target": "nammuldi member",
+            "label": ""
         },
         {
             "source": "shale",
@@ -399,42 +329,107 @@
         },
         {
             "source": "shale",
-            "target": "nammuldi member",
-            "label": ""
-        },
-        {
-            "source": "shale",
-            "target": "mount newman member",
-            "label": ""
-        },
-        {
-            "source": "shale",
             "target": "banded iron formation",
             "label": "podded,enriched"
         },
         {
-            "source": "mount bruce supergroup",
-            "target": "granite",
+            "source": "sand",
+            "target": "silt",
             "label": ""
         },
         {
-            "source": "mount bruce supergroup",
-            "target": "archean",
-            "label": "overlies"
-        },
-        {
-            "source": "mount bruce supergroup",
-            "target": "fortescue group",
-            "label": "parent_of"
-        },
-        {
-            "source": "mount bruce supergroup",
+            "source": "proterozoic",
             "target": "hamersley group",
-            "label": "parent_of"
+            "label": ""
         },
         {
-            "source": "clay",
+            "source": "tertiary",
+            "target": "clay",
+            "label": "become,including"
+        },
+        {
+            "source": "tertiary",
+            "target": "oakover formation",
+            "label": "including"
+        },
+        {
+            "source": "tertiary",
             "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "chert",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "mount newman member",
+            "label": ""
+        },
+        {
+            "source": "banded iron formation",
+            "target": "dolerite",
+            "label": "intruded by"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "shale",
+            "label": "above,with interbedded,interbedded with"
+        },
+        {
+            "source": "roy hill shale member",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "granules",
+            "target": "sinter",
+            "label": "fired in"
+        },
+        {
+            "source": "volcanic rocks",
+            "target": "jeerinah formation",
+            "label": "belonging to"
+        },
+        {
+            "source": "archaean",
+            "target": "marra mamba iron formation",
+            "label": "aged"
+        },
+        {
+            "source": "archaean",
+            "target": "hamersley group",
+            "label": ""
+        },
+        {
+            "source": "alluvium",
+            "target": "oakover formation",
+            "label": "including"
+        },
+        {
+            "source": "alluvium",
+            "target": "iron formation",
+            "label": ""
+        },
+        {
+            "source": "alluvium",
+            "target": "clay",
+            "label": "including"
+        },
+        {
+            "source": "black shales",
+            "target": "jeerinah formation",
+            "label": "belonging to"
+        },
+        {
+            "source": "black shales",
+            "target": "volcanic rocks",
+            "label": ""
+        },
+        {
+            "source": "calcrete",
+            "target": "ferricrete",
             "label": ""
         },
         {
@@ -444,58 +439,153 @@
         },
         {
             "source": "clay",
+            "target": "tertiary",
+            "label": ""
+        },
+        {
+            "source": "clay",
             "target": "banded iron formation",
             "label": "in"
         },
         {
-            "source": "archean",
-            "target": "marra mamba iron formation",
-            "label": "aged"
+            "source": "mount newman member",
+            "target": "banded iron formation",
+            "label": "consists of"
         },
         {
-            "source": "archean",
-            "target": "greenstones",
+            "source": "ferricrete",
+            "target": "regolith",
             "label": ""
         },
         {
-            "source": "granite",
-            "target": "archean",
+            "source": "iron formation",
+            "target": "colluvium",
             "label": ""
         },
         {
-            "source": "granules",
-            "target": "sinter",
-            "label": "fired in"
-        },
-        {
-            "source": "coal",
-            "target": "sinter",
-            "label": ""
-        },
-        {
-            "source": "marra mamba iron formation",
+            "source": "hamersley group, lower",
             "target": "hamersley group",
-            "label": "of,within"
+            "label": "is_current_of"
         },
         {
-            "source": "marra mamba iron formation",
-            "target": "archean",
+            "source": "granite greenstones",
+            "target": "archaean",
+            "label": ""
+        },
+        {
+            "source": "quaternary",
+            "target": "clay",
             "label": "of"
         },
         {
-            "source": "marra mamba iron formation",
-            "target": "nammuldi member",
-            "label": "termed,parent_of"
+            "source": "quaternary",
+            "target": "sediments",
+            "label": "of"
         },
         {
-            "source": "marra mamba iron formation",
-            "target": "macleod member",
-            "label": "parent_of"
+            "source": "roy hill member",
+            "target": "roy hill shale member",
+            "label": "is_current_of"
         },
         {
-            "source": "marra mamba iron formation",
-            "target": "mount newman member",
-            "label": "parent_of"
+            "source": "chert",
+            "target": "banded iron formation",
+            "label": ""
+        },
+        {
+            "source": "chert",
+            "target": "shale",
+            "label": ""
+        },
+        {
+            "source": "colluvium",
+            "target": "tertiary",
+            "label": ""
+        },
+        {
+            "source": "dolerite",
+            "target": "acid volcanic rocks",
+            "label": ""
+        },
+        {
+            "source": "hamersley group",
+            "target": "proterozoic",
+            "label": "to"
+        },
+        {
+            "source": "hamersley group",
+            "target": "fortescue group",
+            "label": "overlies"
+        },
+        {
+            "source": "hamersley group",
+            "target": "mount bruce supergroup",
+            "label": "within"
+        },
+        {
+            "source": "hamersley group",
+            "target": "marra mamba iron formation",
+            "label": "is_parent_of"
+        },
+        {
+            "source": "hamersley group",
+            "target": "brockman iron formation",
+            "label": "is_parent_of"
+        },
+        {
+            "source": "hamersley group",
+            "target": "hamersley group, lower",
+            "label": "is_parent_of"
+        },
+        {
+            "source": "hamersley group",
+            "target": "hamersley group, upper",
+            "label": "is_parent_of"
+        },
+        {
+            "source": "macleod member",
+            "target": "chert",
+            "label": "consists of"
+        },
+        {
+            "source": "macleod member",
+            "target": "banded iron formation",
+            "label": "consists of"
+        },
+        {
+            "source": "hamersley group, upper",
+            "target": "hamersley group",
+            "label": "is_current_of"
+        },
+        {
+            "source": "sinter",
+            "target": "coal",
+            "label": "of"
+        },
+        {
+            "source": "sinter",
+            "target": "granules",
+            "label": ""
+        },
+        {
+            "source": "mount bruce supergroup",
+            "target": "archaean",
+            "label": "overlies"
+        },
+        {
+            "source": "mount bruce supergroup",
+            "target": "granite greenstones",
+            "label": ""
+        },
+        {
+            "source": "mount bruce supergroup",
+            "target": "fortescue group",
+            "label": "is_parent_of"
+        },
+        {
+            "source": "mount bruce supergroup",
+            "target": "hamersley group",
+            "label": "is_parent_of"
         },
         {
             "source": "nammuldi member",
@@ -523,41 +613,6 @@
             "label": ""
         },
         {
-            "source": "sand",
-            "target": "sediments",
-            "label": ""
-        },
-        {
-            "source": "tertiary",
-            "target": "clay",
-            "label": "become,including"
-        },
-        {
-            "source": "tertiary",
-            "target": "oakover formation",
-            "label": "including"
-        },
-        {
-            "source": "tertiary",
-            "target": "colluvium",
-            "label": ""
-        },
-        {
-            "source": "black shales",
-            "target": "jeerinah formation",
-            "label": "belonging to"
-        },
-        {
-            "source": "black shales",
-            "target": "volcanic rocks",
-            "label": ""
-        },
-        {
-            "source": "colluvium",
-            "target": "alluvium",
-            "label": ""
-        },
-        {
             "source": "jeerinah formation",
             "target": "nammuldi member",
             "label": ""
@@ -565,52 +620,12 @@
         {
             "source": "jeerinah formation",
             "target": "roy hill member",
-            "label": "parent_of"
+            "label": "is_parent_of"
         },
         {
-            "source": "sinter",
-            "target": "coal",
-            "label": "of"
-        },
-        {
-            "source": "sinter",
-            "target": "granules",
-            "label": ""
-        },
-        {
-            "source": "macleod member",
-            "target": "chert",
-            "label": "consists of"
-        },
-        {
-            "source": "macleod member",
-            "target": "banded iron formation",
-            "label": "consists of"
-        },
-        {
-            "source": "mount newman member",
-            "target": "banded iron formation",
-            "label": "consists of"
-        },
-        {
-            "source": "banded iron formation",
-            "target": "shale",
-            "label": "above,with interbedded,interbedded with"
-        },
-        {
-            "source": "banded iron formation",
+            "source": "acid volcanic rocks",
             "target": "dolerite",
             "label": "intruded by"
-        },
-        {
-            "source": "oakover formation",
-            "target": "sediments",
-            "label": ""
-        },
-        {
-            "source": "iron formation",
-            "target": "tertiary",
-            "label": ""
         }
     ]
 }

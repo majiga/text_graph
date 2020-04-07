@@ -1,49 +1,24 @@
 {
     "nodes": [
         {
-            "id": "bullabulling",
+            "id": "kalgoorlie terrane",
             "group": "LOCATION",
-            "degree": "3"
+            "degree": "10"
         },
         {
-            "id": "perth",
+            "id": "norseman terrane",
             "group": "LOCATION",
-            "degree": "9"
+            "degree": "0"
         },
         {
-            "id": "esperance",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
-            "id": "menzies",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
-            "id": "boorara",
-            "group": "LOCATION",
-            "degree": "2"
-        },
-        {
-            "id": "hornblende",
+            "id": "amphibole",
             "group": "MINERAL",
-            "degree": "7"
-        },
-        {
-            "id": "cerium",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "carnarvon",
-            "group": "LOCATION",
             "degree": "3"
         },
         {
-            "id": "zinc",
+            "id": "olivine",
             "group": "MINERAL",
-            "degree": "2"
+            "degree": "4"
         },
         {
             "id": "sphalerite",
@@ -51,7 +26,127 @@
             "degree": "7"
         },
         {
+            "id": "pyrrhotite",
+            "group": "MINERAL",
+            "degree": "16"
+        },
+        {
+            "id": "arsenopyrite",
+            "group": "MINERAL",
+            "degree": "6"
+        },
+        {
+            "id": "tasmania",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "antimony",
+            "group": "MINERAL",
+            "degree": "2"
+        },
+        {
+            "id": "tourmaline",
+            "group": "MINERAL",
+            "degree": "5"
+        },
+        {
+            "id": "ilmenite",
+            "group": "MINERAL",
+            "degree": "6"
+        },
+        {
+            "id": "black flag",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
             "id": "dunnsville",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "actinolite",
+            "group": "MINERAL",
+            "degree": "7"
+        },
+        {
+            "id": "aluminium",
+            "group": "MINERAL",
+            "degree": "2"
+        },
+        {
+            "id": "oxide gold deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": "3"
+        },
+        {
+            "id": "chalice",
+            "group": "LOCATION",
+            "degree": "4"
+        },
+        {
+            "id": "lode gold deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": "9"
+        },
+        {
+            "id": "parker",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "biotite",
+            "group": "MINERAL",
+            "degree": "13"
+        },
+        {
+            "id": "zinc",
+            "group": "MINERAL",
+            "degree": "2"
+        },
+        {
+            "id": "menzies",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "kundana",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "big blow",
+            "group": "LOCATION",
+            "degree": "21"
+        },
+        {
+            "id": "silica",
+            "group": "MINERAL",
+            "degree": "6"
+        },
+        {
+            "id": "coolgardie",
+            "group": "LOCATION",
+            "degree": "59"
+        },
+        {
+            "id": "kunanalling",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "emu hill",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "denmark",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "greenbushes",
             "group": "LOCATION",
             "degree": "2"
         },
@@ -61,189 +156,19 @@
             "degree": "0"
         },
         {
-            "id": "geraldton",
-            "group": "LOCATION",
-            "degree": "2"
-        },
-        {
-            "id": "derby",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
             "id": "galena",
             "group": "MINERAL",
             "degree": "7"
         },
         {
-            "id": "amphibole",
-            "group": "MINERAL",
-            "degree": "5"
-        },
-        {
-            "id": "southwest",
-            "group": "LOCATION",
-            "degree": "6"
-        },
-        {
-            "id": "parker",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
-            "id": "western australia",
-            "group": "LOCATION",
-            "degree": "19"
-        },
-        {
-            "id": "kunanalling",
-            "group": "LOCATION",
-            "degree": "2"
-        },
-        {
-            "id": "tungsten",
-            "group": "MINERAL",
-            "degree": "1"
-        },
-        {
-            "id": "talc",
+            "id": "chalcopyrite",
             "group": "MINERAL",
             "degree": "11"
         },
         {
-            "id": "newman",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
-            "id": "oxide",
-            "group": "MINERAL",
-            "degree": "5"
-        },
-        {
-            "id": "supergene",
-            "group": "ORE_DEPOSIT",
-            "degree": "6"
-        },
-        {
-            "id": "kambalda",
-            "group": "LOCATION",
-            "degree": "5"
-        },
-        {
-            "id": "silica",
+            "id": "hydrothermal",
             "group": "MINERAL",
             "degree": "6"
-        },
-        {
-            "id": "frogs leg",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
-            "id": "biotite",
-            "group": "MINERAL",
-            "degree": "14"
-        },
-        {
-            "id": "port hedland",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
-            "id": "chalcopyrite",
-            "group": "MINERAL",
-            "degree": "12"
-        },
-        {
-            "id": "kundana",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
-            "id": "actinolite",
-            "group": "MINERAL",
-            "degree": "8"
-        },
-        {
-            "id": "lead",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "yilgarn block",
-            "group": "LOCATION",
-            "degree": "1"
-        },
-        {
-            "id": "east lode",
-            "group": "LOCATION",
-            "degree": "2"
-        },
-        {
-            "id": "zircon",
-            "group": "MINERAL",
-            "degree": "1"
-        },
-        {
-            "id": "lode",
-            "group": "ORE_DEPOSIT",
-            "degree": "21"
-        },
-        {
-            "id": "plagioclase",
-            "group": "MINERAL",
-            "degree": "7"
-        },
-        {
-            "id": "iron",
-            "group": "MINERAL",
-            "degree": "5"
-        },
-        {
-            "id": "big blow",
-            "group": "LOCATION",
-            "degree": "23"
-        },
-        {
-            "id": "tasmania",
-            "group": "LOCATION",
-            "degree": "1"
-        },
-        {
-            "id": "carbonate",
-            "group": "MINERAL",
-            "degree": "12"
-        },
-        {
-            "id": "anthophyllite",
-            "group": "MINERAL",
-            "degree": "5"
-        },
-        {
-            "id": "ora banda",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
-            "id": "goldfields",
-            "group": "LOCATION",
-            "degree": "6"
-        },
-        {
-            "id": "tourmaline",
-            "group": "MINERAL",
-            "degree": "6"
-        },
-        {
-            "id": "kalbarri",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
-            "id": "yilgarn craton",
-            "group": "LOCATION",
-            "degree": "5"
         },
         {
             "id": "arsenic",
@@ -251,49 +176,59 @@
             "degree": "5"
         },
         {
-            "id": "greenbushes",
+            "id": "east lode",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "boorara",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "boulder",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "londonderry",
+            "group": "LOCATION",
+            "degree": "0"
+        },
+        {
+            "id": "esperance",
             "group": "LOCATION",
             "degree": "3"
         },
         {
-            "id": "sulphide",
+            "id": "frosts",
             "group": "MINERAL",
-            "degree": "15"
+            "degree": "0"
         },
         {
-            "id": "albany",
+            "id": "newman",
             "group": "LOCATION",
             "degree": "2"
         },
         {
-            "id": "bonnie vale",
+            "id": "norseman",
             "group": "LOCATION",
-            "degree": "2"
+            "degree": "6"
         },
         {
-            "id": "widgiemooltha",
-            "group": "LOCATION",
+            "id": "plasma",
+            "group": "MINERAL",
             "degree": "1"
         },
         {
-            "id": "hydrothermal",
+            "id": "tungsten",
             "group": "MINERAL",
-            "degree": "8"
+            "degree": "1"
         },
         {
-            "id": "black flag",
+            "id": "frogs leg",
             "group": "LOCATION",
             "degree": "2"
-        },
-        {
-            "id": "gold deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": "15"
-        },
-        {
-            "id": "perseverance",
-            "group": "LOCATION",
-            "degree": "16"
         },
         {
             "id": "electrum",
@@ -301,17 +236,107 @@
             "degree": "0"
         },
         {
-            "id": "antimony",
+            "id": "widgiemooltha",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "perseverance",
+            "group": "LOCATION",
+            "degree": "16"
+        },
+        {
+            "id": "ora banda",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "carnarvon",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "nickel",
+            "group": "MINERAL",
+            "degree": "4"
+        },
+        {
+            "id": "coolgardie western australia",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "supergene",
+            "group": "ORE_DEPOSIT",
+            "degree": "7"
+        },
+        {
+            "id": "sulphide",
+            "group": "MINERAL",
+            "degree": "16"
+        },
+        {
+            "id": "eastern goldfields province",
+            "group": "LOCATION",
+            "degree": "4"
+        },
+        {
+            "id": "chlorite",
+            "group": "MINERAL",
+            "degree": "18"
+        },
+        {
+            "id": "cerium",
             "group": "MINERAL",
             "degree": "1"
         },
         {
-            "id": "menzies terrane",
+            "id": "talc",
+            "group": "MINERAL",
+            "degree": "14"
+        },
+        {
+            "id": "garnet",
+            "group": "MINERAL",
+            "degree": "0"
+        },
+        {
+            "id": "genesis",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "kalbarri",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": "67"
+        },
+        {
+            "id": "yilgarn block",
             "group": "LOCATION",
             "degree": "0"
         },
         {
-            "id": "rare earth element",
+            "id": "alluvial gold",
+            "group": "MINERAL",
+            "degree": "1"
+        },
+        {
+            "id": "rose hill",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "australia",
+            "group": "LOCATION",
+            "degree": "8"
+        },
+        {
+            "id": "chromium",
             "group": "MINERAL",
             "degree": "2"
         },
@@ -321,49 +346,54 @@
             "degree": "2"
         },
         {
-            "id": "rose hill",
-            "group": "LOCATION",
-            "degree": "4"
-        },
-        {
-            "id": "garnet",
+            "id": "tin",
             "group": "MINERAL",
-            "degree": "0"
-        },
-        {
-            "id": "norseman terrane",
-            "group": "LOCATION",
-            "degree": "0"
-        },
-        {
-            "id": "lode gold deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": "8"
-        },
-        {
-            "id": "kalgoorlie terrane",
-            "group": "LOCATION",
-            "degree": "10"
-        },
-        {
-            "id": "quartz",
-            "group": "MINERAL",
-            "degree": "28"
-        },
-        {
-            "id": "chlorite",
-            "group": "MINERAL",
-            "degree": "18"
-        },
-        {
-            "id": "genesis",
-            "group": "LOCATION",
             "degree": "2"
         },
         {
-            "id": "coolgardie western australia",
-            "group": "LOCATION",
+            "id": "rare earth element",
+            "group": "MINERAL",
             "degree": "1"
+        },
+        {
+            "id": "western australia",
+            "group": "LOCATION",
+            "degree": "19"
+        },
+        {
+            "id": "zircon",
+            "group": "MINERAL",
+            "degree": "2"
+        },
+        {
+            "id": "hornblende",
+            "group": "MINERAL",
+            "degree": "7"
+        },
+        {
+            "id": "anthophyllite",
+            "group": "MINERAL",
+            "degree": "5"
+        },
+        {
+            "id": "kambalda",
+            "group": "LOCATION",
+            "degree": "5"
+        },
+        {
+            "id": "derby",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "lead",
+            "group": "MINERAL",
+            "degree": "2"
+        },
+        {
+            "id": "yilgarn craton",
+            "group": "LOCATION",
+            "degree": "7"
         },
         {
             "id": "mount burgess",
@@ -371,29 +401,24 @@
             "degree": "1"
         },
         {
-            "id": "pyrrhotite",
-            "group": "MINERAL",
-            "degree": "18"
+            "id": "bullabulling",
+            "group": "LOCATION",
+            "degree": "3"
         },
         {
-            "id": "eastern goldfields province",
+            "id": "geraldton",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "goldfields",
             "group": "LOCATION",
             "degree": "5"
         },
         {
-            "id": "nickel",
+            "id": "plagioclase",
             "group": "MINERAL",
-            "degree": "5"
-        },
-        {
-            "id": "denmark",
-            "group": "LOCATION",
-            "degree": "4"
-        },
-        {
-            "id": "tremolite",
-            "group": "MINERAL",
-            "degree": "5"
+            "degree": "6"
         },
         {
             "id": "opaline",
@@ -401,74 +426,14 @@
             "degree": "4"
         },
         {
-            "id": "ilmenite",
-            "group": "MINERAL",
-            "degree": "6"
-        },
-        {
-            "id": "kalgoorlie",
-            "group": "LOCATION",
-            "degree": "20"
-        },
-        {
-            "id": "frosts",
-            "group": "MINERAL",
-            "degree": "0"
-        },
-        {
             "id": "burbanks",
             "group": "LOCATION",
-            "degree": "9"
+            "degree": "7"
         },
         {
-            "id": "coolgardie",
-            "group": "LOCATION",
-            "degree": "62"
-        },
-        {
-            "id": "aluminium",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "boulder",
-            "group": "LOCATION",
-            "degree": "2"
-        },
-        {
-            "id": "australia",
-            "group": "LOCATION",
-            "degree": "6"
-        },
-        {
-            "id": "emu hill",
-            "group": "LOCATION",
-            "degree": "3"
-        },
-        {
-            "id": "londonderry",
-            "group": "LOCATION",
-            "degree": "0"
-        },
-        {
-            "id": "oxide gold deposits",
+            "id": "gold deposit",
             "group": "ORE_DEPOSIT",
-            "degree": "3"
-        },
-        {
-            "id": "arsenopyrite",
-            "group": "MINERAL",
-            "degree": "8"
-        },
-        {
-            "id": "tin",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "lode deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": "2"
+            "degree": "13"
         },
         {
             "id": "sericite",
@@ -476,977 +441,87 @@
             "degree": "0"
         },
         {
-            "id": "gold",
-            "group": "MINERAL",
-            "degree": "70"
-        },
-        {
-            "id": "olivine",
-            "group": "MINERAL",
-            "degree": "6"
-        },
-        {
-            "id": "alluvial gold",
-            "group": "MINERAL",
-            "degree": "1"
-        },
-        {
-            "id": "pyrite",
-            "group": "MINERAL",
-            "degree": "16"
-        },
-        {
-            "id": "chalice",
+            "id": "kalgoorlie",
             "group": "LOCATION",
-            "degree": "4"
+            "degree": "21"
         },
         {
-            "id": "norseman",
+            "id": "port hedland",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "southwest",
             "group": "LOCATION",
             "degree": "5"
         },
         {
-            "id": "chromium",
+            "id": "tremolite",
             "group": "MINERAL",
+            "degree": "5"
+        },
+        {
+            "id": "lode",
+            "group": "ORE_DEPOSIT",
+            "degree": "21"
+        },
+        {
+            "id": "lode deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": "2"
+        },
+        {
+            "id": "carbonate",
+            "group": "MINERAL",
+            "degree": "10"
+        },
+        {
+            "id": "menzies terrane",
+            "group": "LOCATION",
             "degree": "1"
         },
         {
-            "id": "plasma",
+            "id": "quartz",
             "group": "MINERAL",
-            "degree": "1"
+            "degree": "28"
+        },
+        {
+            "id": "albany",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "iron",
+            "group": "MINERAL",
+            "degree": "5"
+        },
+        {
+            "id": "oxide",
+            "group": "MINERAL",
+            "degree": "6"
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
+            "degree": "9"
         },
         {
             "id": "albite",
             "group": "MINERAL",
             "degree": "1"
+        },
+        {
+            "id": "bonnie vale",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "pyrite",
+            "group": "MINERAL",
+            "degree": "14"
         }
     ],
     "links": [
-        {
-            "source": "bullabulling",
-            "target": "coolgardie",
-            "label": ""
-        },
-        {
-            "source": "perth",
-            "target": "coolgardie",
-            "label": "austminex"
-        },
-        {
-            "source": "perth",
-            "target": "kalgoorlie",
-            "label": "of,from"
-        },
-        {
-            "source": "perth",
-            "target": "western australia",
-            "label": ""
-        },
-        {
-            "source": "perth",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "esperance",
-            "target": "coolgardie",
-            "label": "austminex"
-        },
-        {
-            "source": "esperance",
-            "target": "carnarvon",
-            "label": ""
-        },
-        {
-            "source": "menzies",
-            "target": "coolgardie",
-            "label": "within"
-        },
-        {
-            "source": "menzies",
-            "target": "eastern goldfields province",
-            "label": ""
-        },
-        {
-            "source": "boorara",
-            "target": "kalgoorlie terrane",
-            "label": ""
-        },
-        {
-            "source": "hornblende",
-            "target": "tremolite",
-            "label": "in"
-        },
-        {
-            "source": "hornblende",
-            "target": "chlorite",
-            "label": "in"
-        },
-        {
-            "source": "hornblende",
-            "target": "talc",
-            "label": "in"
-        },
-        {
-            "source": "hornblende",
-            "target": "carbonate",
-            "label": "in"
-        },
-        {
-            "source": "hornblende",
-            "target": "olivine",
-            "label": "in"
-        },
-        {
-            "source": "hornblende",
-            "target": "anthophyllite",
-            "label": "in"
-        },
-        {
-            "source": "cerium",
-            "target": "aluminium",
-            "label": ""
-        },
-        {
-            "source": "carnarvon",
-            "target": "coolgardie",
-            "label": "austminex"
-        },
-        {
-            "source": "carnarvon",
-            "target": "kalbarri",
-            "label": ""
-        },
-        {
-            "source": "zinc",
-            "target": "nickel",
-            "label": "paired with"
-        },
-        {
-            "source": "sphalerite",
-            "target": "chalcopyrite",
-            "label": "consists of"
-        },
-        {
-            "source": "sphalerite",
-            "target": "galena",
-            "label": "consists of"
-        },
-        {
-            "source": "sphalerite",
-            "target": "arsenopyrite",
-            "label": ""
-        },
-        {
-            "source": "dunnsville",
-            "target": "western australia",
-            "label": "of"
-        },
-        {
-            "source": "geraldton",
-            "target": "coolgardie",
-            "label": "austminex"
-        },
-        {
-            "source": "derby",
-            "target": "coolgardie",
-            "label": "austminex"
-        },
-        {
-            "source": "derby",
-            "target": "perth",
-            "label": ""
-        },
-        {
-            "source": "galena",
-            "target": "pyrrhotite",
-            "label": ""
-        },
-        {
-            "source": "galena",
-            "target": "pyrite",
-            "label": ""
-        },
-        {
-            "source": "galena",
-            "target": "chalcopyrite",
-            "label": ""
-        },
-        {
-            "source": "amphibole",
-            "target": "opaline",
-            "label": "with"
-        },
-        {
-            "source": "amphibole",
-            "target": "silica",
-            "label": "with"
-        },
-        {
-            "source": "amphibole",
-            "target": "talc",
-            "label": ""
-        },
-        {
-            "source": "southwest",
-            "target": "kalgoorlie",
-            "label": "of"
-        },
-        {
-            "source": "southwest",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "southwest",
-            "target": "coolgardie",
-            "label": ""
-        },
-        {
-            "source": "parker",
-            "target": "coolgardie",
-            "label": ""
-        },
-        {
-            "source": "western australia",
-            "target": "gold",
-            "label": "on"
-        },
-        {
-            "source": "western australia",
-            "target": "hydrothermal",
-            "label": "of"
-        },
-        {
-            "source": "western australia",
-            "target": "coolgardie",
-            "label": ""
-        },
-        {
-            "source": "western australia",
-            "target": "yilgarn block",
-            "label": ""
-        },
-        {
-            "source": "western australia",
-            "target": "kalgoorlie",
-            "label": ""
-        },
-        {
-            "source": "western australia",
-            "target": "dunnsville",
-            "label": ""
-        },
-        {
-            "source": "western australia",
-            "target": "perth",
-            "label": ""
-        },
-        {
-            "source": "western australia",
-            "target": "goldfields",
-            "label": ""
-        },
-        {
-            "source": "tungsten",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "talc",
-            "target": "opaline",
-            "label": "with"
-        },
-        {
-            "source": "talc",
-            "target": "silica",
-            "label": "with"
-        },
-        {
-            "source": "talc",
-            "target": "chlorite",
-            "label": "dominated"
-        },
-        {
-            "source": "talc",
-            "target": "anthophyllite",
-            "label": ""
-        },
-        {
-            "source": "talc",
-            "target": "biotite",
-            "label": ""
-        },
-        {
-            "source": "newman",
-            "target": "coolgardie",
-            "label": "austminex"
-        },
-        {
-            "source": "newman",
-            "target": "derby",
-            "label": ""
-        },
-        {
-            "source": "oxide",
-            "target": "lode",
-            "label": "to"
-        },
-        {
-            "source": "oxide",
-            "target": "big blow",
-            "label": ""
-        },
-        {
-            "source": "oxide",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "supergene",
-            "target": "gold",
-            "label": "characterized by"
-        },
-        {
-            "source": "supergene",
-            "target": "coolgardie",
-            "label": "mined in"
-        },
-        {
-            "source": "supergene",
-            "target": "gold deposit",
-            "label": ""
-        },
-        {
-            "source": "supergene",
-            "target": "lode gold deposit",
-            "label": "related"
-        },
-        {
-            "source": "kambalda",
-            "target": "parker",
-            "label": ""
-        },
-        {
-            "source": "kambalda",
-            "target": "kalgoorlie",
-            "label": ""
-        },
-        {
-            "source": "silica",
-            "target": "biotite",
-            "label": "associated with"
-        },
-        {
-            "source": "silica",
-            "target": "chlorite",
-            "label": "associated with"
-        },
-        {
-            "source": "silica",
-            "target": "quartz",
-            "label": ""
-        },
-        {
-            "source": "frogs leg",
-            "target": "kundana",
-            "label": "in"
-        },
-        {
-            "source": "frogs leg",
-            "target": "black flag",
-            "label": ""
-        },
-        {
-            "source": "biotite",
-            "target": "gold",
-            "label": "associated with"
-        },
-        {
-            "source": "biotite",
-            "target": "albite",
-            "label": "in"
-        },
-        {
-            "source": "biotite",
-            "target": "pyrite",
-            "label": "altered"
-        },
-        {
-            "source": "biotite",
-            "target": "pyrrhotite",
-            "label": ""
-        },
-        {
-            "source": "biotite",
-            "target": "tourmaline",
-            "label": ""
-        },
-        {
-            "source": "biotite",
-            "target": "chlorite",
-            "label": ""
-        },
-        {
-            "source": "port hedland",
-            "target": "coolgardie",
-            "label": "austminex"
-        },
-        {
-            "source": "port hedland",
-            "target": "newman",
-            "label": ""
-        },
-        {
-            "source": "chalcopyrite",
-            "target": "quartz",
-            "label": "surrounds"
-        },
-        {
-            "source": "chalcopyrite",
-            "target": "galena",
-            "label": ""
-        },
-        {
-            "source": "chalcopyrite",
-            "target": "pyrrhotite",
-            "label": ""
-        },
-        {
-            "source": "chalcopyrite",
-            "target": "sphalerite",
-            "label": ""
-        },
-        {
-            "source": "chalcopyrite",
-            "target": "lode",
-            "label": "surrounds"
-        },
-        {
-            "source": "chalcopyrite",
-            "target": "sulphide",
-            "label": ""
-        },
-        {
-            "source": "kundana",
-            "target": "gold",
-            "label": "contains"
-        },
-        {
-            "source": "kundana",
-            "target": "frogs leg",
-            "label": ""
-        },
-        {
-            "source": "actinolite",
-            "target": "tremolite",
-            "label": "in"
-        },
-        {
-            "source": "actinolite",
-            "target": "chlorite",
-            "label": "in"
-        },
-        {
-            "source": "actinolite",
-            "target": "talc",
-            "label": "in"
-        },
-        {
-            "source": "actinolite",
-            "target": "carbonate",
-            "label": "in"
-        },
-        {
-            "source": "actinolite",
-            "target": "olivine",
-            "label": "in"
-        },
-        {
-            "source": "actinolite",
-            "target": "anthophyllite",
-            "label": "in"
-        },
-        {
-            "source": "actinolite",
-            "target": "hornblende",
-            "label": ""
-        },
-        {
-            "source": "east lode",
-            "target": "quartz",
-            "label": "comprised of"
-        },
-        {
-            "source": "east lode",
-            "target": "sulphide",
-            "label": "comprised of"
-        },
-        {
-            "source": "zircon",
-            "target": "cerium",
-            "label": ""
-        },
-        {
-            "source": "lode",
-            "target": "quartz",
-            "label": "comprises,continue to"
-        },
-        {
-            "source": "lode",
-            "target": "coolgardie",
-            "label": "within,of"
-        },
-        {
-            "source": "lode",
-            "target": "pyrite",
-            "label": ""
-        },
-        {
-            "source": "lode",
-            "target": "oxide",
-            "label": ""
-        },
-        {
-            "source": "lode",
-            "target": "gold",
-            "label": "indicate"
-        },
-        {
-            "source": "lode",
-            "target": "big blow",
-            "label": "drilling at"
-        },
-        {
-            "source": "lode",
-            "target": "perseverance",
-            "label": ""
-        },
-        {
-            "source": "lode",
-            "target": "sulphide",
-            "label": "continue to"
-        },
-        {
-            "source": "lode",
-            "target": "burbanks",
-            "label": ""
-        },
-        {
-            "source": "plagioclase",
-            "target": "tremolite",
-            "label": "in"
-        },
-        {
-            "source": "plagioclase",
-            "target": "chlorite",
-            "label": "in"
-        },
-        {
-            "source": "plagioclase",
-            "target": "talc",
-            "label": "in"
-        },
-        {
-            "source": "plagioclase",
-            "target": "carbonate",
-            "label": "in"
-        },
-        {
-            "source": "plagioclase",
-            "target": "olivine",
-            "label": "in"
-        },
-        {
-            "source": "plagioclase",
-            "target": "anthophyllite",
-            "label": "in"
-        },
-        {
-            "source": "iron",
-            "target": "big blow",
-            "label": ""
-        },
-        {
-            "source": "iron",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "big blow",
-            "target": "oxide",
-            "label": "yielded"
-        },
-        {
-            "source": "big blow",
-            "target": "coolgardie",
-            "label": "of,at"
-        },
-        {
-            "source": "big blow",
-            "target": "perseverance",
-            "label": "to"
-        },
-        {
-            "source": "big blow",
-            "target": "denmark",
-            "label": "rose of"
-        },
-        {
-            "source": "big blow",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "big blow",
-            "target": "quartz",
-            "label": ""
-        },
-        {
-            "source": "big blow",
-            "target": "burbanks",
-            "label": ""
-        },
-        {
-            "source": "big blow",
-            "target": "emu hill",
-            "label": ""
-        },
-        {
-            "source": "big blow",
-            "target": "kalgoorlie",
-            "label": ""
-        },
-        {
-            "source": "big blow",
-            "target": "lode",
-            "label": ""
-        },
-        {
-            "source": "big blow",
-            "target": "gold deposit",
-            "label": "of"
-        },
-        {
-            "source": "carbonate",
-            "target": "quartz",
-            "label": "appear to overprint an"
-        },
-        {
-            "source": "carbonate",
-            "target": "biotite",
-            "label": "appear to overprint an"
-        },
-        {
-            "source": "carbonate",
-            "target": "pyrrhotite",
-            "label": "appear to overprint an"
-        },
-        {
-            "source": "carbonate",
-            "target": "pyrite",
-            "label": ""
-        },
-        {
-            "source": "carbonate",
-            "target": "actinolite",
-            "label": ""
-        },
-        {
-            "source": "ora banda",
-            "target": "kambalda",
-            "label": ""
-        },
-        {
-            "source": "ora banda",
-            "target": "coolgardie",
-            "label": ""
-        },
-        {
-            "source": "goldfields",
-            "target": "western australia",
-            "label": "of"
-        },
-        {
-            "source": "goldfields",
-            "target": "coolgardie",
-            "label": ""
-        },
-        {
-            "source": "goldfields",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "tourmaline",
-            "target": "quartz",
-            "label": "surrounds"
-        },
-        {
-            "source": "tourmaline",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "tourmaline",
-            "target": "lode",
-            "label": "surrounds"
-        },
-        {
-            "source": "kalbarri",
-            "target": "coolgardie",
-            "label": "austminex"
-        },
-        {
-            "source": "kalbarri",
-            "target": "port hedland",
-            "label": ""
-        },
-        {
-            "source": "yilgarn craton",
-            "target": "hydrothermal",
-            "label": "of"
-        },
-        {
-            "source": "yilgarn craton",
-            "target": "western australia",
-            "label": "in"
-        },
-        {
-            "source": "yilgarn craton",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "arsenic",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "arsenic",
-            "target": "lead",
-            "label": ""
-        },
-        {
-            "source": "arsenic",
-            "target": "coolgardie",
-            "label": ""
-        },
-        {
-            "source": "greenbushes",
-            "target": "coolgardie",
-            "label": ""
-        },
-        {
-            "source": "sulphide",
-            "target": "gold",
-            "label": "hosted,related,of,associated with"
-        },
-        {
-            "source": "sulphide",
-            "target": "pyrrhotite",
-            "label": "featuring,include"
-        },
-        {
-            "source": "sulphide",
-            "target": "lode",
-            "label": ""
-        },
-        {
-            "source": "sulphide",
-            "target": "quartz",
-            "label": ""
-        },
-        {
-            "source": "sulphide",
-            "target": "perseverance",
-            "label": ""
-        },
-        {
-            "source": "sulphide",
-            "target": "arsenic",
-            "label": ""
-        },
-        {
-            "source": "sulphide",
-            "target": "chlorite",
-            "label": ""
-        },
-        {
-            "source": "sulphide",
-            "target": "arsenopyrite",
-            "label": "include"
-        },
-        {
-            "source": "albany",
-            "target": "coolgardie",
-            "label": "austminex"
-        },
-        {
-            "source": "bonnie vale",
-            "target": "coolgardie",
-            "label": "of"
-        },
-        {
-            "source": "bonnie vale",
-            "target": "western australia",
-            "label": "of"
-        },
-        {
-            "source": "hydrothermal",
-            "target": "western australia",
-            "label": ""
-        },
-        {
-            "source": "hydrothermal",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "black flag",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "gold deposit",
-            "target": "coolgardie",
-            "label": "in,of"
-        },
-        {
-            "source": "gold deposit",
-            "target": "quartz",
-            "label": "associated with"
-        },
-        {
-            "source": "gold deposit",
-            "target": "hydrothermal",
-            "label": "of"
-        },
-        {
-            "source": "gold deposit",
-            "target": "gold",
-            "label": "of,characterized by"
-        },
-        {
-            "source": "gold deposit",
-            "target": "perth",
-            "label": ""
-        },
-        {
-            "source": "gold deposit",
-            "target": "lode",
-            "label": "associated with"
-        },
-        {
-            "source": "gold deposit",
-            "target": "western australia",
-            "label": "of"
-        },
-        {
-            "source": "gold deposit",
-            "target": "burbanks",
-            "label": ""
-        },
-        {
-            "source": "gold deposit",
-            "target": "big blow",
-            "label": ""
-        },
-        {
-            "source": "perseverance",
-            "target": "sulphide",
-            "label": "corresponds to,represents,from"
-        },
-        {
-            "source": "perseverance",
-            "target": "big blow",
-            "label": "of"
-        },
-        {
-            "source": "perseverance",
-            "target": "quartz",
-            "label": "represents"
-        },
-        {
-            "source": "perseverance",
-            "target": "lode",
-            "label": "represents"
-        },
-        {
-            "source": "perseverance",
-            "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "perseverance",
-            "target": "burbanks",
-            "label": ""
-        },
-        {
-            "source": "perseverance",
-            "target": "southwest",
-            "label": ""
-        },
-        {
-            "source": "perseverance",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "perseverance",
-            "target": "australia",
-            "label": ""
-        },
-        {
-            "source": "perseverance",
-            "target": "gold deposit",
-            "label": ""
-        },
-        {
-            "source": "rare earth element",
-            "target": "kalgoorlie terrane",
-            "label": ""
-        },
-        {
-            "source": "queensland",
-            "target": "kalgoorlie",
-            "label": ""
-        },
-        {
-            "source": "rose hill",
-            "target": "big blow",
-            "label": "of"
-        },
-        {
-            "source": "rose hill",
-            "target": "lode",
-            "label": ""
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "coolgardie",
-            "label": "in,recognized in"
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "western australia",
-            "label": "in"
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "oxide gold deposits",
-            "label": ""
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "genesis",
-            "label": ""
-        },
         {
             "source": "kalgoorlie terrane",
             "target": "bullabulling",
@@ -1455,7 +530,7 @@
         {
             "source": "kalgoorlie terrane",
             "target": "coolgardie",
-            "label": "in,subdivided into"
+            "label": "subdivided into,in"
         },
         {
             "source": "kalgoorlie terrane",
@@ -1483,68 +558,773 @@
             "label": "of"
         },
         {
-            "source": "quartz",
-            "target": "coolgardie",
-            "label": "of"
-        },
-        {
-            "source": "quartz",
-            "target": "iron",
-            "label": "in"
-        },
-        {
-            "source": "quartz",
-            "target": "pyrrhotite",
-            "label": "featuring"
-        },
-        {
-            "source": "quartz",
-            "target": "norseman",
-            "label": "to"
-        },
-        {
-            "source": "quartz",
-            "target": "sulphide",
+            "source": "kalgoorlie terrane",
+            "target": "menzies terrane",
             "label": ""
         },
         {
-            "source": "quartz",
-            "target": "lode",
-            "label": "surrounds"
-        },
-        {
-            "source": "quartz",
-            "target": "gold",
+            "source": "kalgoorlie terrane",
+            "target": "rare earth element",
             "label": ""
         },
         {
-            "source": "quartz",
+            "source": "amphibole",
+            "target": "opaline",
+            "label": "with"
+        },
+        {
+            "source": "amphibole",
+            "target": "silica",
+            "label": "with"
+        },
+        {
+            "source": "sphalerite",
+            "target": "chalcopyrite",
+            "label": "consists of"
+        },
+        {
+            "source": "sphalerite",
+            "target": "galena",
+            "label": "consists of"
+        },
+        {
+            "source": "sphalerite",
             "target": "pyrite",
             "label": ""
         },
         {
-            "source": "quartz",
+            "source": "sphalerite",
+            "target": "pyrrhotite",
+            "label": ""
+        },
+        {
+            "source": "pyrrhotite",
+            "target": "quartz",
+            "label": "appear to overprint an,in"
+        },
+        {
+            "source": "pyrrhotite",
+            "target": "biotite",
+            "label": "appear to overprint an"
+        },
+        {
+            "source": "pyrrhotite",
+            "target": "pyrite",
+            "label": "of"
+        },
+        {
+            "source": "pyrrhotite",
+            "target": "galena",
+            "label": "of"
+        },
+        {
+            "source": "pyrrhotite",
+            "target": "sphalerite",
+            "label": "of"
+        },
+        {
+            "source": "pyrrhotite",
             "target": "chalcopyrite",
+            "label": "of"
+        },
+        {
+            "source": "pyrrhotite",
+            "target": "gold",
             "label": ""
         },
         {
-            "source": "quartz",
-            "target": "widgiemooltha",
+            "source": "pyrrhotite",
+            "target": "sulphide",
             "label": ""
         },
         {
-            "source": "quartz",
-            "target": "tourmaline",
+            "source": "arsenopyrite",
+            "target": "pyrite",
+            "label": "of"
+        },
+        {
+            "source": "arsenopyrite",
+            "target": "galena",
+            "label": "of"
+        },
+        {
+            "source": "arsenopyrite",
+            "target": "sphalerite",
+            "label": "of"
+        },
+        {
+            "source": "arsenopyrite",
+            "target": "chalcopyrite",
+            "label": "of"
+        },
+        {
+            "source": "tasmania",
+            "target": "australia",
             "label": ""
         },
         {
-            "source": "quartz",
+            "source": "antimony",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "tourmaline",
+            "target": "quartz",
+            "label": "surrounds"
+        },
+        {
+            "source": "tourmaline",
+            "target": "lode",
+            "label": "surrounds"
+        },
+        {
+            "source": "ilmenite",
+            "target": "tremolite",
+            "label": "in"
+        },
+        {
+            "source": "ilmenite",
+            "target": "chlorite",
+            "label": "in"
+        },
+        {
+            "source": "ilmenite",
+            "target": "talc",
+            "label": "in"
+        },
+        {
+            "source": "ilmenite",
+            "target": "carbonate",
+            "label": "in"
+        },
+        {
+            "source": "ilmenite",
+            "target": "olivine",
+            "label": "in"
+        },
+        {
+            "source": "ilmenite",
+            "target": "anthophyllite",
+            "label": "in"
+        },
+        {
+            "source": "black flag",
+            "target": "frogs leg",
+            "label": ""
+        },
+        {
+            "source": "dunnsville",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "actinolite",
+            "target": "tremolite",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "chlorite",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "talc",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "carbonate",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "olivine",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "anthophyllite",
+            "label": "in"
+        },
+        {
+            "source": "aluminium",
+            "target": "zircon",
+            "label": ""
+        },
+        {
+            "source": "oxide gold deposits",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "chalice",
+            "target": "hydrothermal",
+            "label": "of"
+        },
+        {
+            "source": "chalice",
+            "target": "gold",
+            "label": "of"
+        },
+        {
+            "source": "lode gold deposit",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "lode gold deposit",
+            "target": "coolgardie",
+            "label": "in,recognized in"
+        },
+        {
+            "source": "lode gold deposit",
+            "target": "western australia",
+            "label": "in"
+        },
+        {
+            "source": "lode gold deposit",
+            "target": "supergene",
+            "label": ""
+        },
+        {
+            "source": "lode gold deposit",
+            "target": "genesis",
+            "label": ""
+        },
+        {
+            "source": "parker",
+            "target": "bullabulling",
+            "label": ""
+        },
+        {
+            "source": "biotite",
+            "target": "gold",
+            "label": "associated with"
+        },
+        {
+            "source": "biotite",
+            "target": "albite",
+            "label": "in"
+        },
+        {
+            "source": "biotite",
+            "target": "pyrite",
+            "label": "altered"
+        },
+        {
+            "source": "biotite",
+            "target": "carbonate",
+            "label": ""
+        },
+        {
+            "source": "biotite",
+            "target": "sulphide",
+            "label": ""
+        },
+        {
+            "source": "biotite",
+            "target": "chlorite",
+            "label": ""
+        },
+        {
+            "source": "zinc",
+            "target": "nickel",
+            "label": "paired with"
+        },
+        {
+            "source": "zinc",
+            "target": "chromium",
+            "label": ""
+        },
+        {
+            "source": "menzies",
+            "target": "coolgardie",
+            "label": "within"
+        },
+        {
+            "source": "menzies",
+            "target": "norseman",
+            "label": ""
+        },
+        {
+            "source": "kundana",
+            "target": "gold",
+            "label": "contains"
+        },
+        {
+            "source": "big blow",
+            "target": "oxide",
+            "label": "yielded"
+        },
+        {
+            "source": "big blow",
+            "target": "coolgardie",
+            "label": "at,of"
+        },
+        {
+            "source": "big blow",
+            "target": "perseverance",
+            "label": "to"
+        },
+        {
+            "source": "big blow",
+            "target": "denmark",
+            "label": "rose of"
+        },
+        {
+            "source": "big blow",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "big blow",
+            "target": "lode",
+            "label": ""
+        },
+        {
+            "source": "big blow",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "big blow",
+            "target": "burbanks",
+            "label": ""
+        },
+        {
+            "source": "big blow",
+            "target": "australia",
+            "label": ""
+        },
+        {
+            "source": "big blow",
+            "target": "gold deposit",
+            "label": "of"
+        },
+        {
+            "source": "silica",
+            "target": "biotite",
+            "label": "associated with"
+        },
+        {
+            "source": "silica",
+            "target": "chlorite",
+            "label": "associated with"
+        },
+        {
+            "source": "silica",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "western australia",
+            "label": "of,in,certificates coolgardie,for"
+        },
+        {
+            "source": "coolgardie",
+            "target": "perth",
+            "label": "of"
+        },
+        {
+            "source": "coolgardie",
+            "target": "southwest",
+            "label": "of"
+        },
+        {
+            "source": "coolgardie",
+            "target": "supergene",
+            "label": "in"
+        },
+        {
+            "source": "coolgardie",
+            "target": "oxide gold deposits",
+            "label": "in"
+        },
+        {
+            "source": "coolgardie",
+            "target": "lode",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "gold",
+            "label": "on,of,including,associated with,for"
+        },
+        {
+            "source": "coolgardie",
+            "target": "hydrothermal",
+            "label": "of"
+        },
+        {
+            "source": "coolgardie",
+            "target": "goldfields",
+            "label": "of,in"
+        },
+        {
+            "source": "coolgardie",
+            "target": "yilgarn craton",
+            "label": "within"
+        },
+        {
+            "source": "coolgardie",
+            "target": "kalbarri",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "albany",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "esperance",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "mount burgess",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "alluvial gold",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "greenbushes",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "eastern goldfields province",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "kalgoorlie terrane",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "bullabulling",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "kambalda",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "kunanalling",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "rose hill",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "bonnie vale",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "gold deposit",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
             "target": "big blow",
             "label": ""
         },
         {
-            "source": "quartz",
+            "source": "coolgardie",
             "target": "perseverance",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "norseman",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "lode gold deposit",
+            "label": "in"
+        },
+        {
+            "source": "emu hill",
+            "target": "gold",
+            "label": "with"
+        },
+        {
+            "source": "denmark",
+            "target": "big blow",
+            "label": ""
+        },
+        {
+            "source": "greenbushes",
+            "target": "tin",
+            "label": ""
+        },
+        {
+            "source": "galena",
+            "target": "pyrrhotite",
+            "label": ""
+        },
+        {
+            "source": "galena",
+            "target": "chalcopyrite",
+            "label": ""
+        },
+        {
+            "source": "galena",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "chalcopyrite",
+            "target": "quartz",
+            "label": "surrounds"
+        },
+        {
+            "source": "chalcopyrite",
+            "target": "galena",
+            "label": ""
+        },
+        {
+            "source": "chalcopyrite",
+            "target": "pyrite",
+            "label": ""
+        },
+        {
+            "source": "chalcopyrite",
+            "target": "lode",
+            "label": "surrounds"
+        },
+        {
+            "source": "chalcopyrite",
+            "target": "sulphide",
+            "label": ""
+        },
+        {
+            "source": "arsenic",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "arsenic",
+            "target": "lead",
+            "label": ""
+        },
+        {
+            "source": "arsenic",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "east lode",
+            "target": "quartz",
+            "label": "comprised of"
+        },
+        {
+            "source": "east lode",
+            "target": "sulphide",
+            "label": "comprised of"
+        },
+        {
+            "source": "boorara",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "boulder",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "esperance",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "esperance",
+            "target": "derby",
+            "label": ""
+        },
+        {
+            "source": "newman",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "norseman",
+            "target": "coolgardie",
+            "label": "within"
+        },
+        {
+            "source": "norseman",
+            "target": "eastern goldfields province",
+            "label": ""
+        },
+        {
+            "source": "tungsten",
+            "target": "antimony",
+            "label": ""
+        },
+        {
+            "source": "frogs leg",
+            "target": "kundana",
+            "label": "in"
+        },
+        {
+            "source": "widgiemooltha",
+            "target": "lode",
+            "label": ""
+        },
+        {
+            "source": "perseverance",
+            "target": "sulphide",
+            "label": "corresponds to,from,represents"
+        },
+        {
+            "source": "perseverance",
+            "target": "big blow",
+            "label": "of"
+        },
+        {
+            "source": "perseverance",
+            "target": "quartz",
+            "label": "represents"
+        },
+        {
+            "source": "perseverance",
+            "target": "lode",
+            "label": "represents"
+        },
+        {
+            "source": "perseverance",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "perseverance",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "perseverance",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "perseverance",
+            "target": "emu hill",
+            "label": ""
+        },
+        {
+            "source": "perseverance",
+            "target": "burbanks",
+            "label": ""
+        },
+        {
+            "source": "perseverance",
+            "target": "gold deposit",
+            "label": ""
+        },
+        {
+            "source": "ora banda",
+            "target": "kambalda",
+            "label": ""
+        },
+        {
+            "source": "carnarvon",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "nickel",
+            "target": "chromium",
+            "label": "of"
+        },
+        {
+            "source": "nickel",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "supergene",
+            "target": "gold",
+            "label": "characterised by"
+        },
+        {
+            "source": "supergene",
+            "target": "coolgardie",
+            "label": "mined in"
+        },
+        {
+            "source": "supergene",
+            "target": "oxide gold deposits",
+            "label": ""
+        },
+        {
+            "source": "supergene",
+            "target": "lode gold deposit",
+            "label": "related"
+        },
+        {
+            "source": "sulphide",
+            "target": "gold",
+            "label": "hosted,of,related,associated with"
+        },
+        {
+            "source": "sulphide",
+            "target": "pyrrhotite",
+            "label": "featuring,include"
+        },
+        {
+            "source": "sulphide",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "sulphide",
+            "target": "lode",
+            "label": ""
+        },
+        {
+            "source": "sulphide",
+            "target": "lode deposit",
+            "label": ""
+        },
+        {
+            "source": "sulphide",
+            "target": "arsenic",
+            "label": ""
+        },
+        {
+            "source": "sulphide",
+            "target": "arsenopyrite",
+            "label": "include"
+        },
+        {
+            "source": "eastern goldfields province",
+            "target": "coolgardie",
+            "label": "within"
+        },
+        {
+            "source": "eastern goldfields province",
+            "target": "norseman",
             "label": ""
         },
         {
@@ -1579,423 +1359,73 @@
         },
         {
             "source": "chlorite",
+            "target": "tourmaline",
+            "label": ""
+        },
+        {
+            "source": "chlorite",
+            "target": "sulphide",
+            "label": ""
+        },
+        {
+            "source": "chlorite",
+            "target": "talc",
+            "label": ""
+        },
+        {
+            "source": "talc",
+            "target": "opaline",
+            "label": "with"
+        },
+        {
+            "source": "talc",
+            "target": "silica",
+            "label": "with"
+        },
+        {
+            "source": "talc",
+            "target": "chlorite",
+            "label": "dominated"
+        },
+        {
+            "source": "talc",
+            "target": "hornblende",
+            "label": ""
+        },
+        {
+            "source": "talc",
+            "target": "biotite",
+            "label": ""
+        },
+        {
+            "source": "talc",
             "target": "amphibole",
             "label": ""
         },
         {
             "source": "genesis",
-            "target": "coolgardie",
+            "target": "western australia",
             "label": ""
         },
         {
-            "source": "coolgardie western australia",
-            "target": "kalgoorlie",
-            "label": ""
-        },
-        {
-            "source": "pyrrhotite",
-            "target": "quartz",
-            "label": "in,appear to overprint an"
-        },
-        {
-            "source": "pyrrhotite",
-            "target": "biotite",
-            "label": "appear to overprint an"
-        },
-        {
-            "source": "pyrrhotite",
-            "target": "pyrite",
+            "source": "genesis",
+            "target": "lode gold deposit",
             "label": "of"
         },
         {
-            "source": "pyrrhotite",
-            "target": "galena",
-            "label": "of"
-        },
-        {
-            "source": "pyrrhotite",
-            "target": "sphalerite",
-            "label": "of"
-        },
-        {
-            "source": "pyrrhotite",
-            "target": "chalcopyrite",
-            "label": "of"
-        },
-        {
-            "source": "pyrrhotite",
-            "target": "carbonate",
-            "label": ""
-        },
-        {
-            "source": "pyrrhotite",
-            "target": "sulphide",
-            "label": ""
-        },
-        {
-            "source": "pyrrhotite",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "eastern goldfields province",
-            "target": "coolgardie",
-            "label": "within"
-        },
-        {
-            "source": "eastern goldfields province",
-            "target": "norseman",
-            "label": ""
-        },
-        {
-            "source": "nickel",
-            "target": "chromium",
-            "label": "of"
-        },
-        {
-            "source": "nickel",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "nickel",
-            "target": "zinc",
-            "label": ""
-        },
-        {
-            "source": "denmark",
-            "target": "big blow",
-            "label": ""
-        },
-        {
-            "source": "denmark",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "tremolite",
-            "target": "plagioclase",
-            "label": ""
-        },
-        {
-            "source": "opaline",
-            "target": "amphibole",
-            "label": ""
-        },
-        {
-            "source": "ilmenite",
-            "target": "tremolite",
-            "label": "in"
-        },
-        {
-            "source": "ilmenite",
-            "target": "chlorite",
-            "label": "in"
-        },
-        {
-            "source": "ilmenite",
-            "target": "talc",
-            "label": "in"
-        },
-        {
-            "source": "ilmenite",
-            "target": "carbonate",
-            "label": "in"
-        },
-        {
-            "source": "ilmenite",
-            "target": "olivine",
-            "label": "in"
-        },
-        {
-            "source": "ilmenite",
-            "target": "anthophyllite",
-            "label": "in"
-        },
-        {
-            "source": "kalgoorlie",
+            "source": "kalbarri",
             "target": "coolgardie",
             "label": "austminex"
         },
         {
-            "source": "kalgoorlie",
-            "target": "western australia",
-            "label": "of,in"
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "boulder",
-            "label": "in"
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "gold",
-            "label": "analysed for"
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "southwest",
-            "label": ""
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "perth",
-            "label": ""
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "gold deposit",
-            "label": ""
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "australia",
-            "label": ""
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "queensland",
-            "label": "in"
-        },
-        {
-            "source": "burbanks",
-            "target": "rose hill",
-            "label": ""
-        },
-        {
-            "source": "burbanks",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "burbanks",
-            "target": "denmark",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "western australia",
-            "label": "for,of,certificates coolgardie,in"
-        },
-        {
-            "source": "coolgardie",
-            "target": "perth",
-            "label": "of"
-        },
-        {
-            "source": "coolgardie",
-            "target": "southwest",
-            "label": "of"
-        },
-        {
-            "source": "coolgardie",
-            "target": "supergene",
-            "label": "in"
-        },
-        {
-            "source": "coolgardie",
-            "target": "oxide gold deposits",
-            "label": "in"
-        },
-        {
-            "source": "coolgardie",
-            "target": "lode",
-            "label": "associated with"
-        },
-        {
-            "source": "coolgardie",
-            "target": "gold",
-            "label": "for,including,of,associated with,on"
-        },
-        {
-            "source": "coolgardie",
-            "target": "hydrothermal",
-            "label": "of"
-        },
-        {
-            "source": "coolgardie",
-            "target": "goldfields",
-            "label": "of,in"
-        },
-        {
-            "source": "coolgardie",
-            "target": "yilgarn craton",
-            "label": "within"
-        },
-        {
-            "source": "coolgardie",
-            "target": "perseverance",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "esperance",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "albany",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "mount burgess",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "kalgoorlie",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "greenbushes",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "big blow",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "eastern goldfields province",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "bullabulling",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "kalgoorlie terrane",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "olivine",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "kambalda",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "rare earth element",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "kunanalling",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "biotite",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "burbanks",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "australia",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "rose hill",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "quartz",
-            "label": ""
-        },
-        {
-            "source": "coolgardie",
-            "target": "lode gold deposit",
-            "label": "in"
-        },
-        {
-            "source": "aluminium",
-            "target": "tin",
-            "label": ""
-        },
-        {
-            "source": "boulder",
-            "target": "kalgoorlie",
-            "label": ""
-        },
-        {
-            "source": "australia",
-            "target": "big blow",
-            "label": ""
-        },
-        {
-            "source": "australia",
-            "target": "kalgoorlie",
-            "label": ""
-        },
-        {
-            "source": "australia",
-            "target": "tasmania",
-            "label": ""
-        },
-        {
-            "source": "emu hill",
-            "target": "gold",
-            "label": "with"
-        },
-        {
-            "source": "oxide gold deposits",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "arsenopyrite",
-            "target": "pyrite",
-            "label": "of"
-        },
-        {
-            "source": "arsenopyrite",
-            "target": "galena",
-            "label": "of"
-        },
-        {
-            "source": "arsenopyrite",
-            "target": "sphalerite",
-            "label": "of"
-        },
-        {
-            "source": "arsenopyrite",
-            "target": "chalcopyrite",
-            "label": "of"
-        },
-        {
-            "source": "arsenopyrite",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "tin",
-            "target": "greenbushes",
-            "label": ""
-        },
-        {
-            "source": "lode deposit",
-            "target": "gold",
+            "source": "kalbarri",
+            "target": "port hedland",
             "label": ""
         },
         {
             "source": "gold",
             "target": "coolgardie",
-            "label": "of,occurrences,mined in,discovered in,in,within,at"
+            "label": "within,of,occurrences,in,at,mined in,discovered in"
         },
         {
             "source": "gold",
@@ -2010,7 +1440,7 @@
         {
             "source": "gold",
             "target": "sulphide",
-            "label": ""
+            "label": "in,related to,associated with,occurs within"
         },
         {
             "source": "gold",
@@ -2055,7 +1485,7 @@
         {
             "source": "gold",
             "target": "quartz",
-            "label": "along,of,associated with,identified associated with,occurs in"
+            "label": "occurs in,of,along,associated with,identified associated with"
         },
         {
             "source": "gold",
@@ -2104,27 +1534,12 @@
         },
         {
             "source": "gold",
-            "target": "geraldton",
-            "label": ""
-        },
-        {
-            "source": "gold",
             "target": "lode",
-            "label": "of,in,occurs in"
+            "label": "occurs in,of,in"
         },
         {
             "source": "gold",
             "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "gold",
-            "target": "lode gold deposit",
-            "label": ""
-        },
-        {
-            "source": "gold",
-            "target": "burbanks",
             "label": ""
         },
         {
@@ -2139,17 +1554,22 @@
         },
         {
             "source": "gold",
-            "target": "lode deposit",
-            "label": ""
-        },
-        {
-            "source": "gold",
             "target": "nickel",
             "label": ""
         },
         {
             "source": "gold",
-            "target": "antimony",
+            "target": "black flag",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "denmark",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "sphalerite",
             "label": ""
         },
         {
@@ -2159,28 +1579,588 @@
         },
         {
             "source": "gold",
-            "target": "kalgoorlie",
+            "target": "burbanks",
             "label": ""
         },
         {
             "source": "gold",
-            "target": "goldfields",
+            "target": "oxide",
             "label": ""
         },
         {
-            "source": "olivine",
-            "target": "chlorite",
+            "source": "gold",
+            "target": "australia",
             "label": ""
         },
         {
-            "source": "alluvial gold",
+            "source": "gold",
+            "target": "perth",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "rose hill",
+            "target": "big blow",
+            "label": "of"
+        },
+        {
+            "source": "rose hill",
+            "target": "lode",
+            "label": ""
+        },
+        {
+            "source": "australia",
             "target": "coolgardie",
             "label": ""
         },
         {
+            "source": "australia",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "perseverance",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "tasmania",
+            "label": ""
+        },
+        {
+            "source": "queensland",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "tin",
+            "target": "aluminium",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "gold",
+            "label": "on"
+        },
+        {
+            "source": "western australia",
+            "target": "hydrothermal",
+            "label": "of"
+        },
+        {
+            "source": "western australia",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "goldfields",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "yilgarn craton",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "dunnsville",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "perth",
+            "label": ""
+        },
+        {
+            "source": "zircon",
+            "target": "cerium",
+            "label": ""
+        },
+        {
+            "source": "hornblende",
+            "target": "tremolite",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "chlorite",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "talc",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "carbonate",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "olivine",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "anthophyllite",
+            "label": "in"
+        },
+        {
+            "source": "anthophyllite",
+            "target": "actinolite",
+            "label": ""
+        },
+        {
+            "source": "kambalda",
+            "target": "parker",
+            "label": ""
+        },
+        {
+            "source": "kambalda",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "derby",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "derby",
+            "target": "newman",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "hydrothermal",
+            "label": "of"
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "western australia",
+            "label": "in"
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "chalice",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "geraldton",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "goldfields",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "goldfields",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "goldfields",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "plagioclase",
+            "target": "tremolite",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "chlorite",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "talc",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "carbonate",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "olivine",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "anthophyllite",
+            "label": "in"
+        },
+        {
+            "source": "opaline",
+            "target": "talc",
+            "label": ""
+        },
+        {
+            "source": "burbanks",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "burbanks",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "burbanks",
+            "target": "big blow",
+            "label": ""
+        },
+        {
+            "source": "burbanks",
+            "target": "gold deposit",
+            "label": ""
+        },
+        {
+            "source": "gold deposit",
+            "target": "coolgardie",
+            "label": "in,of"
+        },
+        {
+            "source": "gold deposit",
+            "target": "quartz",
+            "label": "associated with"
+        },
+        {
+            "source": "gold deposit",
+            "target": "hydrothermal",
+            "label": "of"
+        },
+        {
+            "source": "gold deposit",
+            "target": "gold",
+            "label": "of,characterised by"
+        },
+        {
+            "source": "gold deposit",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "gold deposit",
+            "target": "lode",
+            "label": "associated with"
+        },
+        {
+            "source": "gold deposit",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "gold deposit",
+            "target": "big blow",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "western australia",
+            "label": "of,in"
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "boulder",
+            "label": "in"
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "gold",
+            "label": "analysed for"
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "geraldton",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "southwest",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "perth",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "ora banda",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "australia",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "coolgardie western australia",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "queensland",
+            "label": "in"
+        },
+        {
+            "source": "port hedland",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "port hedland",
+            "target": "perth",
+            "label": ""
+        },
+        {
+            "source": "southwest",
+            "target": "kalgoorlie",
+            "label": "of"
+        },
+        {
+            "source": "southwest",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "southwest",
+            "target": "perseverance",
+            "label": ""
+        },
+        {
+            "source": "tremolite",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "lode",
+            "target": "quartz",
+            "label": "comprises,continue to"
+        },
+        {
+            "source": "lode",
+            "target": "coolgardie",
+            "label": "within,of"
+        },
+        {
+            "source": "lode",
+            "target": "oxide",
+            "label": ""
+        },
+        {
+            "source": "lode",
+            "target": "gold",
+            "label": "indicate"
+        },
+        {
+            "source": "lode",
+            "target": "lode gold deposit",
+            "label": ""
+        },
+        {
+            "source": "lode",
+            "target": "big blow",
+            "label": "drilling at"
+        },
+        {
+            "source": "lode",
+            "target": "sulphide",
+            "label": "continue to"
+        },
+        {
+            "source": "lode",
+            "target": "pyrite",
+            "label": ""
+        },
+        {
+            "source": "lode deposit",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "carbonate",
+            "target": "quartz",
+            "label": "appear to overprint an"
+        },
+        {
+            "source": "carbonate",
+            "target": "biotite",
+            "label": "appear to overprint an"
+        },
+        {
+            "source": "carbonate",
+            "target": "pyrrhotite",
+            "label": "appear to overprint an"
+        },
+        {
+            "source": "quartz",
+            "target": "coolgardie",
+            "label": "of"
+        },
+        {
+            "source": "quartz",
+            "target": "iron",
+            "label": "in"
+        },
+        {
+            "source": "quartz",
+            "target": "pyrrhotite",
+            "label": "featuring"
+        },
+        {
+            "source": "quartz",
+            "target": "norseman",
+            "label": "to"
+        },
+        {
+            "source": "quartz",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "lode",
+            "label": "surrounds"
+        },
+        {
+            "source": "quartz",
+            "target": "sulphide",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "talc",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "tourmaline",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "widgiemooltha",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "chalcopyrite",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "perseverance",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "big blow",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "pyrite",
+            "label": ""
+        },
+        {
+            "source": "albany",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "albany",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "big blow",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "oxide",
+            "target": "lode",
+            "label": "to"
+        },
+        {
+            "source": "oxide",
+            "target": "big blow",
+            "label": ""
+        },
+        {
+            "source": "oxide",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "perth",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "perth",
+            "target": "kalgoorlie",
+            "label": "from,of"
+        },
+        {
+            "source": "perth",
+            "target": "carnarvon",
+            "label": ""
+        },
+        {
+            "source": "perth",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "bonnie vale",
+            "target": "coolgardie",
+            "label": "of"
+        },
+        {
+            "source": "bonnie vale",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
             "source": "pyrite",
             "target": "quartz",
-            "label": "appear to overprint an,surrounds"
+            "label": "surrounds,appear to overprint an"
         },
         {
             "source": "pyrite",
@@ -2190,21 +2170,11 @@
         {
             "source": "pyrite",
             "target": "pyrrhotite",
-            "label": "in,appear to overprint an"
+            "label": "appear to overprint an,in"
         },
         {
             "source": "pyrite",
             "target": "chlorite",
-            "label": ""
-        },
-        {
-            "source": "pyrite",
-            "target": "big blow",
-            "label": ""
-        },
-        {
-            "source": "pyrite",
-            "target": "sphalerite",
             "label": ""
         },
         {
@@ -2216,36 +2186,6 @@
             "source": "pyrite",
             "target": "lode",
             "label": "surrounds"
-        },
-        {
-            "source": "chalice",
-            "target": "hydrothermal",
-            "label": "of"
-        },
-        {
-            "source": "chalice",
-            "target": "gold",
-            "label": "of"
-        },
-        {
-            "source": "chalice",
-            "target": "gold deposit",
-            "label": ""
-        },
-        {
-            "source": "norseman",
-            "target": "coolgardie",
-            "label": "within"
-        },
-        {
-            "source": "norseman",
-            "target": "eastern goldfields province",
-            "label": ""
-        },
-        {
-            "source": "norseman",
-            "target": "menzies",
-            "label": ""
         }
     ]
 }
