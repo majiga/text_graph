@@ -3,42 +3,42 @@
         {
             "id": "uranium",
             "group": "ORE_DEPOSIT",
-            "degree": 3
+            "degree": 2
         },
         {
             "id": "uranium deposit",
             "group": "ORE_DEPOSIT",
-            "degree": 2
+            "degree": 1
         },
         {
             "id": "australia",
             "group": "LOCATION",
-            "degree": 9
+            "degree": 8
         },
         {
             "id": "gold",
             "group": "MINERAL",
-            "degree": 13
+            "degree": 15
         },
         {
             "id": "copper",
             "group": "MINERAL",
-            "degree": 10
+            "degree": 11
         },
         {
             "id": "peak hill",
             "group": "LOCATION",
-            "degree": 14
+            "degree": 13
         },
         {
             "id": "meekatharra",
             "group": "LOCATION",
-            "degree": 5
+            "degree": 4
         },
         {
             "id": "goldfields",
             "group": "LOCATION",
-            "degree": 4
+            "degree": 2
         },
         {
             "id": "granite",
@@ -48,17 +48,17 @@
         {
             "id": "warrawoona group",
             "group": "STRAT",
-            "degree": 5
+            "degree": 4
         },
         {
             "id": "mafic volcanic rocks",
             "group": "ROCK",
-            "degree": 6
+            "degree": 3
         },
         {
             "id": "mount roe basalt",
             "group": "STRAT",
-            "degree": 4
+            "degree": 3
         },
         {
             "id": "western australia",
@@ -68,17 +68,22 @@
         {
             "id": "kalbarri",
             "group": "LOCATION",
-            "degree": 4
+            "degree": 3
         },
         {
             "id": "perth",
             "group": "LOCATION",
-            "degree": 5
+            "degree": 4
+        },
+        {
+            "id": "archaean",
+            "group": "TIMESCALE",
+            "degree": 9
         },
         {
             "id": "proterozoic",
             "group": "TIMESCALE",
-            "degree": 9
+            "degree": 7
         },
         {
             "id": "capricorn orogen",
@@ -88,7 +93,7 @@
         {
             "id": "earaheedy basin",
             "group": "LOCATION",
-            "degree": 8
+            "degree": 9
         },
         {
             "id": "yilgarn craton",
@@ -98,12 +103,12 @@
         {
             "id": "glengarry basin",
             "group": "LOCATION",
-            "degree": 2
+            "degree": 1
         },
         {
             "id": "granitic rocks",
             "group": "ROCK",
-            "degree": 9
+            "degree": 7
         },
         {
             "id": "quartz",
@@ -118,7 +123,7 @@
         {
             "id": "schists",
             "group": "ROCK",
-            "degree": 6
+            "degree": 7
         },
         {
             "id": "phyllonites",
@@ -143,7 +148,7 @@
         {
             "id": "siltstone",
             "group": "ROCK",
-            "degree": 8
+            "degree": 7
         },
         {
             "id": "mudstone",
@@ -153,31 +158,26 @@
         {
             "id": "sandstone",
             "group": "ROCK",
-            "degree": 7
+            "degree": 6
         },
         {
             "id": "dolostone",
             "group": "ROCK",
-            "degree": 7
+            "degree": 6
         },
         {
             "id": "chert",
             "group": "ROCK",
-            "degree": 10
+            "degree": 8
         },
         {
             "id": "conglomerate",
             "group": "ROCK",
-            "degree": 7
+            "degree": 6
         },
         {
             "id": "collier group",
             "group": "STRAT",
-            "degree": 8
-        },
-        {
-            "id": "basaltic",
-            "group": "ROCK",
             "degree": 7
         },
         {
@@ -188,12 +188,7 @@
         {
             "id": "narracoota formation",
             "group": "STRAT",
-            "degree": 8
-        },
-        {
-            "id": "unknown",
-            "group": "ROCK",
-            "degree": 2
+            "degree": 6
         },
         {
             "id": "regolith",
@@ -218,20 +213,15 @@
         {
             "id": "porphyry",
             "group": "ROCK",
-            "degree": 6
+            "degree": 2
         },
         {
-            "id": "iron",
+            "id": "iron oxide",
             "group": "MINERAL",
-            "degree": 3
+            "degree": 2
         },
         {
-            "id": "oxide",
-            "group": "MINERAL",
-            "degree": 3
-        },
-        {
-            "id": "queensland",
+            "id": "new south wales",
             "group": "LOCATION",
             "degree": 3
         },
@@ -241,7 +231,7 @@
             "degree": 4
         },
         {
-            "id": "new south wales",
+            "id": "queensland",
             "group": "LOCATION",
             "degree": 3
         },
@@ -268,7 +258,7 @@
         {
             "id": "narracoota volcanics",
             "group": "STRAT",
-            "degree": 4
+            "degree": 3
         },
         {
             "id": "sulphide",
@@ -283,10 +273,10 @@
         {
             "id": "gold deposit",
             "group": "ORE_DEPOSIT",
-            "degree": 17
+            "degree": 13
         },
         {
-            "id": "bryah group",
+            "id": "karalundi formation",
             "group": "STRAT",
             "degree": 2
         },
@@ -301,12 +291,12 @@
             "degree": 1
         },
         {
-            "id": "bangemall supergroup",
+            "id": "bryah group",
             "group": "STRAT",
-            "degree": 1
+            "degree": 2
         },
         {
-            "id": "mount bruce supergroup",
+            "id": "bangemall supergroup",
             "group": "STRAT",
             "degree": 1
         },
@@ -316,14 +306,9 @@
             "degree": 2
         },
         {
-            "id": "karalundi formation",
+            "id": "mount bruce supergroup",
             "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "archean",
-            "group": "TIMESCALE",
-            "degree": 8
+            "degree": 1
         }
     ],
     "links": [
@@ -333,33 +318,18 @@
             "label": "based on"
         },
         {
-            "source": "uranium deposit",
-            "target": "uranium",
+            "source": "uranium",
+            "target": "australia",
             "label": ""
         },
         {
             "source": "australia",
-            "target": "uranium",
+            "target": "copper",
             "label": ""
         },
         {
             "source": "australia",
             "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "australia",
-            "target": "peak hill",
-            "label": ""
-        },
-        {
-            "source": "australia",
-            "target": "perth",
-            "label": ""
-        },
-        {
-            "source": "australia",
-            "target": "gold deposit",
             "label": ""
         },
         {
@@ -375,6 +345,11 @@
         {
             "source": "gold",
             "target": "peak hill",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "sulphide",
             "label": ""
         },
         {
@@ -384,17 +359,12 @@
         },
         {
             "source": "gold",
-            "target": "capricorn orogen",
+            "target": "arsenic",
             "label": ""
         },
         {
             "source": "gold",
             "target": "gold deposit",
-            "label": ""
-        },
-        {
-            "source": "gold",
-            "target": "western australia",
             "label": ""
         },
         {
@@ -414,7 +384,22 @@
         },
         {
             "source": "copper",
-            "target": "porphyry",
+            "target": "capricorn orogen",
+            "label": ""
+        },
+        {
+            "source": "copper",
+            "target": "arsenic",
+            "label": ""
+        },
+        {
+            "source": "copper",
+            "target": "perth",
+            "label": ""
+        },
+        {
+            "source": "copper",
+            "target": "gold deposit",
             "label": ""
         },
         {
@@ -429,32 +414,17 @@
         },
         {
             "source": "peak hill",
-            "target": "goldfields",
-            "label": ""
-        },
-        {
-            "source": "peak hill",
-            "target": "mafic volcanic rocks",
-            "label": ""
-        },
-        {
-            "source": "peak hill",
             "target": "western australia",
             "label": ""
         },
         {
             "source": "peak hill",
-            "target": "gold ore",
+            "target": "perth",
             "label": ""
         },
         {
             "source": "peak hill",
             "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "peak hill",
-            "target": "gold deposit",
             "label": ""
         },
         {
@@ -464,7 +434,7 @@
         },
         {
             "source": "meekatharra",
-            "target": "goldfields",
+            "target": "peak hill",
             "label": ""
         },
         {
@@ -483,8 +453,8 @@
             "label": "of"
         },
         {
-            "source": "warrawoona group",
-            "target": "mafic volcanic rocks",
+            "source": "granite",
+            "target": "chert",
             "label": ""
         },
         {
@@ -498,18 +468,8 @@
             "label": "of"
         },
         {
-            "source": "mafic volcanic rocks",
-            "target": "chert",
-            "label": ""
-        },
-        {
             "source": "mount roe basalt",
             "target": "peak hill",
-            "label": ""
-        },
-        {
-            "source": "mount roe basalt",
-            "target": "mafic volcanic rocks",
             "label": ""
         },
         {
@@ -519,12 +479,7 @@
         },
         {
             "source": "western australia",
-            "target": "queensland",
-            "label": ""
-        },
-        {
-            "source": "western australia",
-            "target": "perth",
+            "target": "victoria",
             "label": ""
         },
         {
@@ -533,23 +488,48 @@
             "label": ""
         },
         {
+            "source": "western australia",
+            "target": "gold",
+            "label": ""
+        },
+        {
             "source": "kalbarri",
             "target": "perth",
             "label": "of"
         },
         {
             "source": "kalbarri",
-            "target": "meekatharra",
+            "target": "peak hill",
             "label": ""
         },
         {
             "source": "perth",
-            "target": "kalbarri",
+            "target": "australia",
             "label": ""
         },
         {
-            "source": "perth",
-            "target": "gold",
+            "source": "archaean",
+            "target": "proterozoic",
+            "label": "within"
+        },
+        {
+            "source": "archaean",
+            "target": "capricorn orogen",
+            "label": "within"
+        },
+        {
+            "source": "archaean",
+            "target": "peak hill schist",
+            "label": "of"
+        },
+        {
+            "source": "archaean",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "archaean",
+            "target": "amphibolite",
             "label": ""
         },
         {
@@ -564,22 +544,7 @@
         },
         {
             "source": "proterozoic",
-            "target": "earaheedy basin",
-            "label": ""
-        },
-        {
-            "source": "proterozoic",
-            "target": "pilbara",
-            "label": ""
-        },
-        {
-            "source": "proterozoic",
-            "target": "muscovite",
-            "label": ""
-        },
-        {
-            "source": "capricorn orogen",
-            "target": "proterozoic",
+            "target": "capricorn orogen",
             "label": ""
         },
         {
@@ -604,7 +569,17 @@
         },
         {
             "source": "earaheedy basin",
-            "target": "archean",
+            "target": "archaean",
+            "label": ""
+        },
+        {
+            "source": "earaheedy basin",
+            "target": "savory",
+            "label": ""
+        },
+        {
+            "source": "earaheedy basin",
+            "target": "phyllonites",
             "label": ""
         },
         {
@@ -614,7 +589,7 @@
         },
         {
             "source": "yilgarn craton",
-            "target": "glengarry basin",
+            "target": "earaheedy basin",
             "label": ""
         },
         {
@@ -624,6 +599,11 @@
         },
         {
             "source": "granitic rocks",
+            "target": "archaean",
+            "label": "of"
+        },
+        {
+            "source": "granitic rocks",
             "target": "quartz",
             "label": "of"
         },
@@ -644,18 +624,8 @@
         },
         {
             "source": "granitic rocks",
-            "target": "proterozoic",
+            "target": "earaheedy basin",
             "label": ""
-        },
-        {
-            "source": "granitic rocks",
-            "target": "peak hill schist",
-            "label": ""
-        },
-        {
-            "source": "granitic rocks",
-            "target": "archean",
-            "label": "of"
         },
         {
             "source": "quartz",
@@ -663,39 +633,49 @@
             "label": "of"
         },
         {
+            "source": "quartz",
+            "target": "schists",
+            "label": ""
+        },
+        {
             "source": "muscovite",
             "target": "peak hill schist",
             "label": "of"
         },
         {
             "source": "muscovite",
-            "target": "basaltic",
-            "label": ""
-        },
-        {
-            "source": "schists",
-            "target": "peak hill schist",
-            "label": "of"
-        },
-        {
-            "source": "schists",
-            "target": "sandstone",
-            "label": ""
-        },
-        {
-            "source": "schists",
-            "target": "dolostone",
-            "label": ""
-        },
-        {
-            "source": "phyllonites",
-            "target": "peak hill schist",
-            "label": "of"
-        },
-        {
-            "source": "phyllonites",
             "target": "mudstone",
             "label": ""
+        },
+        {
+            "source": "schists",
+            "target": "peak hill schist",
+            "label": "of"
+        },
+        {
+            "source": "schists",
+            "target": "proterozoic",
+            "label": ""
+        },
+        {
+            "source": "schists",
+            "target": "archaean",
+            "label": ""
+        },
+        {
+            "source": "phyllonites",
+            "target": "peak hill schist",
+            "label": "of"
+        },
+        {
+            "source": "phyllonites",
+            "target": "chert",
+            "label": ""
+        },
+        {
+            "source": "amphibolite",
+            "target": "archaean",
+            "label": "of"
         },
         {
             "source": "amphibolite",
@@ -719,17 +699,12 @@
         },
         {
             "source": "amphibolite",
-            "target": "granitic rocks",
+            "target": "sandstone",
             "label": ""
         },
         {
-            "source": "amphibolite",
-            "target": "archean",
-            "label": "of"
-        },
-        {
             "source": "peak hill schist",
-            "target": "collier group",
+            "target": "dolostone",
             "label": ""
         },
         {
@@ -744,7 +719,7 @@
         },
         {
             "source": "sedimentary rocks",
-            "target": "hyaloclastite",
+            "target": "schists",
             "label": ""
         },
         {
@@ -769,7 +744,7 @@
         },
         {
             "source": "siltstone",
-            "target": "phyllonites",
+            "target": "granitic rocks",
             "label": ""
         },
         {
@@ -804,58 +779,38 @@
         },
         {
             "source": "sandstone",
-            "target": "basaltic",
-            "label": "of"
-        },
-        {
-            "source": "sandstone",
             "target": "hyaloclastite",
             "label": "of"
         },
         {
             "source": "sandstone",
-            "target": "narracoota formation",
-            "label": ""
-        },
-        {
-            "source": "dolostone",
-            "target": "collier group",
-            "label": "of"
-        },
-        {
-            "source": "dolostone",
-            "target": "basaltic",
-            "label": "of"
-        },
-        {
-            "source": "dolostone",
-            "target": "hyaloclastite",
-            "label": "of"
-        },
-        {
-            "source": "dolostone",
             "target": "conglomerate",
             "label": ""
         },
         {
+            "source": "dolostone",
+            "target": "collier group",
+            "label": "of"
+        },
+        {
+            "source": "dolostone",
+            "target": "hyaloclastite",
+            "label": "of"
+        },
+        {
+            "source": "dolostone",
+            "target": "muscovite",
+            "label": ""
+        },
+        {
             "source": "chert",
             "target": "collier group",
             "label": "of"
         },
         {
             "source": "chert",
-            "target": "basaltic",
-            "label": "of"
-        },
-        {
-            "source": "chert",
             "target": "hyaloclastite",
             "label": "of"
-        },
-        {
-            "source": "chert",
-            "target": "amphibolite",
-            "label": ""
         },
         {
             "source": "chert",
@@ -864,7 +819,7 @@
         },
         {
             "source": "chert",
-            "target": "granite",
+            "target": "mafic volcanic rocks",
             "label": ""
         },
         {
@@ -874,17 +829,12 @@
         },
         {
             "source": "conglomerate",
-            "target": "basaltic",
-            "label": "of"
-        },
-        {
-            "source": "conglomerate",
             "target": "hyaloclastite",
             "label": "of"
         },
         {
             "source": "conglomerate",
-            "target": "quartz",
+            "target": "narracoota formation",
             "label": ""
         },
         {
@@ -894,17 +844,7 @@
         },
         {
             "source": "collier group",
-            "target": "schists",
-            "label": ""
-        },
-        {
-            "source": "basaltic",
-            "target": "narracoota formation",
-            "label": "of"
-        },
-        {
-            "source": "basaltic",
-            "target": "chert",
+            "target": "hyaloclastite",
             "label": ""
         },
         {
@@ -914,23 +854,13 @@
         },
         {
             "source": "hyaloclastite",
-            "target": "granitic rocks",
-            "label": ""
-        },
-        {
-            "source": "narracoota formation",
-            "target": "earaheedy basin",
+            "target": "peak hill schist",
             "label": ""
         },
         {
             "source": "narracoota formation",
             "target": "narracoota volcanics",
-            "label": "current_of"
-        },
-        {
-            "source": "unknown",
-            "target": "gold deposit",
-            "label": ""
+            "label": "is_current_of"
         },
         {
             "source": "regolith",
@@ -941,16 +871,6 @@
             "source": "arsenic",
             "target": "regolith",
             "label": "in"
-        },
-        {
-            "source": "arsenic",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "arsenic",
-            "target": "copper",
-            "label": ""
         },
         {
             "source": "greenstone",
@@ -969,42 +889,22 @@
         },
         {
             "source": "porphyry",
-            "target": "iron",
-            "label": "related"
-        },
-        {
-            "source": "porphyry",
-            "target": "oxide",
-            "label": "related"
-        },
-        {
-            "source": "porphyry",
-            "target": "copper",
-            "label": "related"
-        },
-        {
-            "source": "porphyry",
             "target": "gold deposit",
             "label": "related"
         },
         {
-            "source": "iron",
+            "source": "iron oxide",
             "target": "gold deposit",
             "label": ""
         },
         {
-            "source": "oxide",
-            "target": "copper",
+            "source": "new south wales",
+            "target": "western australia",
             "label": ""
         },
         {
-            "source": "queensland",
-            "target": "victoria",
-            "label": ""
-        },
-        {
-            "source": "victoria",
-            "target": "new south wales",
+            "source": "new south wales",
+            "target": "queensland",
             "label": ""
         },
         {
@@ -1013,18 +913,23 @@
             "label": ""
         },
         {
-            "source": "new south wales",
+            "source": "victoria",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "queensland",
             "target": "victoria",
             "label": ""
         },
         {
             "source": "pilbara",
-            "target": "archean",
+            "target": "proterozoic",
             "label": ""
         },
         {
-            "source": "savory",
-            "target": "earaheedy basin",
+            "source": "gold ore",
+            "target": "peak hill",
             "label": ""
         },
         {
@@ -1033,8 +938,8 @@
             "label": ""
         },
         {
-            "source": "narracoota volcanics",
-            "target": "sulphide",
+            "source": "degrussa",
+            "target": "gold",
             "label": ""
         },
         {
@@ -1044,7 +949,7 @@
         },
         {
             "source": "lode",
-            "target": "degrussa",
+            "target": "gold",
             "label": ""
         },
         {
@@ -1059,28 +964,18 @@
         },
         {
             "source": "gold deposit",
-            "target": "unknown",
-            "label": "considered"
-        },
-        {
-            "source": "gold deposit",
             "target": "porphyry",
             "label": "grouped into"
         },
         {
             "source": "gold deposit",
-            "target": "iron",
-            "label": "related"
-        },
-        {
-            "source": "gold deposit",
-            "target": "oxide",
-            "label": "related"
+            "target": "iron oxide",
+            "label": "placer"
         },
         {
             "source": "gold deposit",
             "target": "copper",
-            "label": "related"
+            "label": "placer"
         },
         {
             "source": "gold deposit",
@@ -1093,64 +988,44 @@
             "label": ""
         },
         {
-            "source": "bryah group",
-            "target": "karalundi formation",
-            "label": "parent_of"
-        },
-        {
-            "source": "bryah group",
-            "target": "narracoota formation",
-            "label": "parent_of"
+            "source": "karalundi formation",
+            "target": "noonyereena member",
+            "label": "is_parent_of"
         },
         {
             "source": "noonyereena member",
             "target": "narracoota formation",
-            "label": "current_of"
+            "label": "is_current_of"
         },
         {
             "source": "pilbara supergroup",
             "target": "warrawoona group",
-            "label": "parent_of"
+            "label": "is_parent_of"
+        },
+        {
+            "source": "bryah group",
+            "target": "karalundi formation",
+            "label": "is_parent_of"
+        },
+        {
+            "source": "bryah group",
+            "target": "narracoota formation",
+            "label": "is_parent_of"
         },
         {
             "source": "bangemall supergroup",
             "target": "collier group",
-            "label": "parent_of"
-        },
-        {
-            "source": "mount bruce supergroup",
-            "target": "fortescue group",
-            "label": "parent_of"
+            "label": "is_parent_of"
         },
         {
             "source": "fortescue group",
             "target": "mount roe basalt",
-            "label": "parent_of"
+            "label": "is_parent_of"
         },
         {
-            "source": "karalundi formation",
-            "target": "noonyereena member",
-            "label": "parent_of"
-        },
-        {
-            "source": "archean",
-            "target": "proterozoic",
-            "label": "within"
-        },
-        {
-            "source": "archean",
-            "target": "capricorn orogen",
-            "label": "within"
-        },
-        {
-            "source": "archean",
-            "target": "peak hill schist",
-            "label": "of"
-        },
-        {
-            "source": "archean",
-            "target": "siltstone",
-            "label": ""
+            "source": "mount bruce supergroup",
+            "target": "fortescue group",
+            "label": "is_parent_of"
         }
     ]
 }

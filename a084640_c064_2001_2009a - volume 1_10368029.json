@@ -8,7 +8,7 @@
         {
             "id": "laverton",
             "group": "LOCATION",
-            "degree": 8
+            "degree": 9
         },
         {
             "id": "kalgoorlie",
@@ -23,7 +23,7 @@
         {
             "id": "goldfields",
             "group": "LOCATION",
-            "degree": 5
+            "degree": 4
         },
         {
             "id": "kurnalpi",
@@ -33,12 +33,12 @@
         {
             "id": "coolgardie",
             "group": "LOCATION",
-            "degree": 9
+            "degree": 7
         },
         {
             "id": "yerilla",
             "group": "LOCATION",
-            "degree": 3
+            "degree": 5
         },
         {
             "id": "gindalbie",
@@ -48,12 +48,12 @@
         {
             "id": "whirling dervish",
             "group": "LOCATION",
-            "degree": 15
+            "degree": 14
         },
         {
             "id": "karari",
             "group": "LOCATION",
-            "degree": 17
+            "degree": 15
         },
         {
             "id": "luvironza",
@@ -63,12 +63,12 @@
         {
             "id": "gold deposit",
             "group": "ORE_DEPOSIT",
-            "degree": 15
+            "degree": 14
         },
         {
             "id": "supergene",
             "group": "ORE_DEPOSIT",
-            "degree": 3
+            "degree": 2
         },
         {
             "id": "luvironza pit",
@@ -78,47 +78,47 @@
         {
             "id": "igneous rock",
             "group": "ROCK",
-            "degree": 5
+            "degree": 4
         },
         {
             "id": "lamprophyre",
             "group": "ROCK",
-            "degree": 6
+            "degree": 5
         },
         {
             "id": "syenite",
             "group": "ROCK",
-            "degree": 2
+            "degree": 3
         },
         {
             "id": "porphyry",
             "group": "ROCK",
-            "degree": 9
+            "degree": 11
         },
         {
             "id": "monzonite",
             "group": "ROCK",
-            "degree": 5
+            "degree": 6
         },
         {
             "id": "sedimentary sequence",
             "group": "ROCK",
-            "degree": 4
+            "degree": 3
         },
         {
             "id": "shale",
             "group": "ROCK",
-            "degree": 3
+            "degree": 2
         },
         {
             "id": "siltstone",
             "group": "ROCK",
-            "degree": 1
+            "degree": 2
         },
         {
             "id": "sandstone",
             "group": "ROCK",
-            "degree": 6
+            "degree": 8
         },
         {
             "id": "quartz",
@@ -133,7 +133,7 @@
         {
             "id": "pyrite",
             "group": "MINERAL",
-            "degree": 10
+            "degree": 9
         },
         {
             "id": "breccia",
@@ -143,17 +143,17 @@
         {
             "id": "carosue dam",
             "group": "LOCATION",
-            "degree": 23
+            "degree": 22
         },
         {
             "id": "quartz veins",
             "group": "ROCK",
-            "degree": 1
+            "degree": 2
         },
         {
             "id": "western australia",
             "group": "LOCATION",
-            "degree": 8
+            "degree": 9
         },
         {
             "id": "yarri",
@@ -161,14 +161,19 @@
             "degree": 2
         },
         {
+            "id": "archaean",
+            "group": "TIMESCALE",
+            "degree": 10
+        },
+        {
             "id": "kurnalpi terrane",
             "group": "LOCATION",
-            "degree": 1
+            "degree": 2
         },
         {
             "id": "yilgarn craton",
             "group": "LOCATION",
-            "degree": 4
+            "degree": 3
         },
         {
             "id": "carosue dam gold mine",
@@ -178,27 +183,27 @@
         {
             "id": "host rock",
             "group": "ROCK",
-            "degree": 4
+            "degree": 5
         },
         {
             "id": "greenstone",
             "group": "ROCK",
-            "degree": 2
+            "degree": 1
         },
         {
             "id": "hydrothermal",
             "group": "MINERAL",
-            "degree": 2
+            "degree": 3
         },
         {
             "id": "gold ore",
             "group": "ORE_DEPOSIT",
-            "degree": 3
+            "degree": 4
         },
         {
             "id": "volcaniclastic sediments",
             "group": "ROCK",
-            "degree": 1
+            "degree": 2
         },
         {
             "id": "albite",
@@ -213,27 +218,17 @@
         {
             "id": "rutile",
             "group": "MINERAL",
-            "degree": 3
+            "degree": 2
         },
         {
             "id": "sons of gwalia",
             "group": "LOCATION",
-            "degree": 8
-        },
-        {
-            "id": "diamond",
-            "group": "MINERAL",
-            "degree": 3
+            "degree": 6
         },
         {
             "id": "silica",
             "group": "MINERAL",
             "degree": 1
-        },
-        {
-            "id": "haematite",
-            "group": "MINERAL",
-            "degree": 2
         },
         {
             "id": "tuff",
@@ -248,7 +243,7 @@
         {
             "id": "felsic volcaniclastic sandstone",
             "group": "ROCK",
-            "degree": 2
+            "degree": 1
         },
         {
             "id": "volcaniclastic sandstone",
@@ -258,17 +253,17 @@
         {
             "id": "feldspar",
             "group": "MINERAL",
-            "degree": 4
+            "degree": 2
         },
         {
             "id": "sedimentary rocks",
             "group": "ROCK",
-            "degree": 1
+            "degree": 2
         },
         {
             "id": "sediments",
             "group": "ROCK",
-            "degree": 1
+            "degree": 2
         },
         {
             "id": "muscovite",
@@ -288,7 +283,7 @@
         {
             "id": "biotite",
             "group": "MINERAL",
-            "degree": 3
+            "degree": 5
         },
         {
             "id": "magnetite",
@@ -296,14 +291,14 @@
             "degree": 1
         },
         {
-            "id": "red october",
-            "group": "LOCATION",
-            "degree": 2
-        },
-        {
             "id": "dollar",
             "group": "MINERAL",
             "degree": 2
+        },
+        {
+            "id": "red october",
+            "group": "LOCATION",
+            "degree": 1
         },
         {
             "id": "plasma",
@@ -321,9 +316,14 @@
             "degree": 1
         },
         {
-            "id": "archean",
-            "group": "TIMESCALE",
-            "degree": 10
+            "id": "felsic porphyry",
+            "group": "ROCK",
+            "degree": 1
+        },
+        {
+            "id": "hematite",
+            "group": "MINERAL",
+            "degree": 2
         }
     ],
     "links": [
@@ -335,7 +335,7 @@
         {
             "source": "gold",
             "target": "whirling dervish",
-            "label": "for,on,in"
+            "label": "on,for,in"
         },
         {
             "source": "gold",
@@ -364,17 +364,17 @@
         },
         {
             "source": "gold",
+            "target": "sons of gwalia",
+            "label": ""
+        },
+        {
+            "source": "gold",
             "target": "luvironza pit",
             "label": ""
         },
         {
             "source": "gold",
             "target": "plasma",
-            "label": ""
-        },
-        {
-            "source": "gold",
-            "target": "luvironza",
             "label": ""
         },
         {
@@ -399,17 +399,17 @@
         },
         {
             "source": "laverton",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "laverton",
             "target": "sons of gwalia",
             "label": ""
         },
         {
             "source": "laverton",
-            "target": "leonora",
+            "target": "carosue dam",
+            "label": ""
+        },
+        {
+            "source": "laverton",
+            "target": "gold",
             "label": ""
         },
         {
@@ -424,17 +424,12 @@
         },
         {
             "source": "kalgoorlie",
-            "target": "goldfields",
-            "label": ""
-        },
-        {
-            "source": "kalgoorlie",
-            "target": "western australia",
-            "label": ""
-        },
-        {
-            "source": "kalgoorlie",
             "target": "yarri",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "laverton",
             "label": ""
         },
         {
@@ -444,17 +439,17 @@
         },
         {
             "source": "pinjin",
-            "target": "carosue dam",
-            "label": ""
-        },
-        {
-            "source": "pinjin",
-            "target": "kurnalpi",
+            "target": "kalgoorlie",
             "label": ""
         },
         {
             "source": "pinjin",
             "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "pinjin",
+            "target": "western australia",
             "label": ""
         },
         {
@@ -468,11 +463,6 @@
             "label": ""
         },
         {
-            "source": "goldfields",
-            "target": "carosue dam",
-            "label": ""
-        },
-        {
             "source": "kurnalpi",
             "target": "coolgardie",
             "label": "of"
@@ -481,6 +471,11 @@
             "source": "kurnalpi",
             "target": "yerilla",
             "label": "of"
+        },
+        {
+            "source": "kurnalpi",
+            "target": "pinjin",
+            "label": ""
         },
         {
             "source": "kurnalpi",
@@ -503,23 +498,23 @@
             "label": ""
         },
         {
-            "source": "coolgardie",
-            "target": "kurnalpi",
-            "label": ""
-        },
-        {
             "source": "yerilla",
             "target": "coolgardie",
             "label": "of"
         },
         {
-            "source": "gindalbie",
-            "target": "coolgardie",
+            "source": "yerilla",
+            "target": "gindalbie",
+            "label": ""
+        },
+        {
+            "source": "yerilla",
+            "target": "pinjin",
             "label": ""
         },
         {
             "source": "gindalbie",
-            "target": "pinjin",
+            "target": "kurnalpi",
             "label": ""
         },
         {
@@ -535,7 +530,7 @@
         {
             "source": "whirling dervish",
             "target": "carosue dam",
-            "label": "of,at"
+            "label": "at,of"
         },
         {
             "source": "whirling dervish",
@@ -551,11 +546,6 @@
             "source": "whirling dervish",
             "target": "gold deposit",
             "label": "includes,hosts"
-        },
-        {
-            "source": "whirling dervish",
-            "target": "sons of gwalia",
-            "label": ""
         },
         {
             "source": "whirling dervish",
@@ -584,17 +574,12 @@
         },
         {
             "source": "karari",
-            "target": "diamond",
+            "target": "archaean",
             "label": ""
         },
         {
             "source": "karari",
-            "target": "felsic volcaniclastic sandstone",
-            "label": ""
-        },
-        {
-            "source": "karari",
-            "target": "sons of gwalia",
+            "target": "gold",
             "label": ""
         },
         {
@@ -603,8 +588,23 @@
             "label": "mined by"
         },
         {
+            "source": "karari",
+            "target": "laverton",
+            "label": ""
+        },
+        {
             "source": "luvironza",
-            "target": "carosue dam",
+            "target": "karari",
+            "label": ""
+        },
+        {
+            "source": "luvironza",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "luvironza",
+            "target": "gold deposit",
             "label": ""
         },
         {
@@ -614,18 +614,18 @@
         },
         {
             "source": "luvironza",
-            "target": "karari",
+            "target": "carosue dam",
             "label": ""
         },
         {
             "source": "luvironza",
-            "target": "gold deposit",
+            "target": "sons of gwalia",
             "label": ""
         },
         {
             "source": "gold deposit",
             "target": "carosue dam",
-            "label": "of"
+            "label": ""
         },
         {
             "source": "gold deposit",
@@ -634,27 +634,22 @@
         },
         {
             "source": "gold deposit",
-            "target": "whirling dervish",
-            "label": ""
-        },
-        {
-            "source": "gold deposit",
             "target": "luvironza",
             "label": ""
         },
         {
             "source": "gold deposit",
-            "target": "karari",
+            "target": "whirling dervish",
             "label": ""
         },
         {
             "source": "gold deposit",
-            "target": "archean",
+            "target": "felsic volcaniclastic sandstone",
             "label": ""
         },
         {
-            "source": "supergene",
-            "target": "gold",
+            "source": "gold deposit",
+            "target": "western australia",
             "label": ""
         },
         {
@@ -689,7 +684,7 @@
         },
         {
             "source": "lamprophyre",
-            "target": "syenite",
+            "target": "monzonite",
             "label": ""
         },
         {
@@ -698,13 +693,13 @@
             "label": ""
         },
         {
-            "source": "lamprophyre",
-            "target": "whirling dervish",
+            "source": "syenite",
+            "target": "porphyry",
             "label": ""
         },
         {
             "source": "porphyry",
-            "target": "sandstone",
+            "target": "gold deposit",
             "label": ""
         },
         {
@@ -724,12 +719,12 @@
         },
         {
             "source": "monzonite",
-            "target": "igneous rock",
+            "target": "syenite",
             "label": ""
         },
         {
             "source": "monzonite",
-            "target": "gold ore",
+            "target": "porphyry",
             "label": ""
         },
         {
@@ -748,13 +743,13 @@
             "label": "of interbedded"
         },
         {
-            "source": "shale",
-            "target": "sedimentary sequence",
+            "source": "siltstone",
+            "target": "sandstone",
             "label": ""
         },
         {
             "source": "sandstone",
-            "target": "tuff",
+            "target": "porphyry",
             "label": ""
         },
         {
@@ -779,12 +774,17 @@
         },
         {
             "source": "quartz",
-            "target": "feldspar",
+            "target": "sediments",
+            "label": ""
+        },
+        {
+            "source": "quartz",
+            "target": "biotite",
             "label": ""
         },
         {
             "source": "leucoxene",
-            "target": "quartz",
+            "target": "pyrite",
             "label": ""
         },
         {
@@ -794,22 +794,7 @@
         },
         {
             "source": "pyrite",
-            "target": "leucoxene",
-            "label": ""
-        },
-        {
-            "source": "pyrite",
-            "target": "haematite",
-            "label": ""
-        },
-        {
-            "source": "pyrite",
-            "target": "rutile",
-            "label": ""
-        },
-        {
-            "source": "pyrite",
-            "target": "gold",
+            "target": "albite",
             "label": ""
         },
         {
@@ -849,6 +834,11 @@
         },
         {
             "source": "carosue dam",
+            "target": "goldfields",
+            "label": ""
+        },
+        {
+            "source": "carosue dam",
             "target": "red october",
             "label": ""
         },
@@ -859,22 +849,27 @@
         },
         {
             "source": "carosue dam",
-            "target": "laverton",
+            "target": "hydrothermal",
             "label": ""
         },
         {
             "source": "carosue dam",
-            "target": "archean",
+            "target": "leonora",
+            "label": ""
+        },
+        {
+            "source": "quartz veins",
+            "target": "pyrite",
             "label": ""
         },
         {
             "source": "western australia",
-            "target": "pinjin",
+            "target": "carosue dam",
             "label": ""
         },
         {
             "source": "western australia",
-            "target": "gold deposit",
+            "target": "archaean",
             "label": ""
         },
         {
@@ -888,13 +883,48 @@
             "label": "from"
         },
         {
-            "source": "yilgarn craton",
-            "target": "greenstone",
+            "source": "archaean",
+            "target": "kurnalpi terrane",
+            "label": "of"
+        },
+        {
+            "source": "archaean",
+            "target": "yilgarn craton",
+            "label": "of"
+        },
+        {
+            "source": "archaean",
+            "target": "karari",
+            "label": "to"
+        },
+        {
+            "source": "archaean",
+            "target": "gold deposit",
+            "label": "to"
+        },
+        {
+            "source": "archaean",
+            "target": "carosue dam",
+            "label": "to"
+        },
+        {
+            "source": "archaean",
+            "target": "western australia",
+            "label": "to"
+        },
+        {
+            "source": "archaean",
+            "target": "porphyry",
+            "label": ""
+        },
+        {
+            "source": "archaean",
+            "target": "host rock",
             "label": ""
         },
         {
             "source": "yilgarn craton",
-            "target": "archean",
+            "target": "kurnalpi terrane",
             "label": ""
         },
         {
@@ -938,6 +968,16 @@
             "label": "contained within metamorphosed"
         },
         {
+            "source": "gold ore",
+            "target": "whirling dervish",
+            "label": ""
+        },
+        {
+            "source": "volcaniclastic sediments",
+            "target": "gold ore",
+            "label": ""
+        },
+        {
             "source": "albite",
             "target": "ankerite",
             "label": "with"
@@ -954,22 +994,12 @@
         },
         {
             "source": "ankerite",
-            "target": "albite",
+            "target": "pyrite",
             "label": ""
         },
         {
             "source": "rutile",
             "target": "ankerite",
-            "label": ""
-        },
-        {
-            "source": "sons of gwalia",
-            "target": "carosue dam",
-            "label": ""
-        },
-        {
-            "source": "sons of gwalia",
-            "target": "luvironza",
             "label": ""
         },
         {
@@ -983,28 +1013,13 @@
             "label": ""
         },
         {
-            "source": "diamond",
-            "target": "carosue dam",
-            "label": ""
-        },
-        {
-            "source": "diamond",
-            "target": "karari",
-            "label": ""
-        },
-        {
-            "source": "silica",
-            "target": "haematite",
+            "source": "tuff",
+            "target": "sandstone",
             "label": ""
         },
         {
             "source": "lodes",
             "target": "supergene",
-            "label": ""
-        },
-        {
-            "source": "felsic volcaniclastic sandstone",
-            "target": "gold deposit",
             "label": ""
         },
         {
@@ -1018,13 +1033,13 @@
             "label": ""
         },
         {
-            "source": "feldspar",
+            "source": "sedimentary rocks",
             "target": "quartz",
             "label": ""
         },
         {
             "source": "sediments",
-            "target": "pyrite",
+            "target": "leucoxene",
             "label": ""
         },
         {
@@ -1053,48 +1068,23 @@
             "label": ""
         },
         {
-            "source": "red october",
-            "target": "porphyry",
-            "label": ""
-        },
-        {
             "source": "dollar",
             "target": "luvironza",
             "label": ""
         },
         {
-            "source": "archean",
-            "target": "kurnalpi terrane",
-            "label": "of"
+            "source": "felsic porphyry",
+            "target": "sandstone",
+            "label": "intruded"
         },
         {
-            "source": "archean",
-            "target": "yilgarn craton",
-            "label": "of"
+            "source": "hematite",
+            "target": "silica",
+            "label": ""
         },
         {
-            "source": "archean",
-            "target": "karari",
-            "label": "to"
-        },
-        {
-            "source": "archean",
-            "target": "gold deposit",
-            "label": "to"
-        },
-        {
-            "source": "archean",
-            "target": "carosue dam",
-            "label": "to"
-        },
-        {
-            "source": "archean",
-            "target": "western australia",
-            "label": "to"
-        },
-        {
-            "source": "archean",
-            "target": "porphyry",
+            "source": "hematite",
+            "target": "biotite",
             "label": ""
         }
     ]
