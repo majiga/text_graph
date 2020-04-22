@@ -230,7 +230,7 @@
         {
             "source": "banded iron formation",
             "target": "iron",
-            "label": "returned,below,done to determine how"
+            "label": "returned,below"
         },
         {
             "source": "banded iron formation",
@@ -419,11 +419,6 @@
         },
         {
             "source": "magnetite",
-            "target": "goethite",
-            "label": "to hematite"
-        },
-        {
-            "source": "magnetite",
             "target": "iron ore deposit",
             "label": ""
         },
@@ -515,7 +510,7 @@
         {
             "source": "pilbara",
             "target": "iron ore",
-            "label": "bedded,for fortescue metals group limited,conditioned"
+            "label": "bedded,conditioned"
         },
         {
             "source": "pilbara",
