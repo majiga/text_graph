@@ -41,7 +41,7 @@
             "degree": "5"
         },
         {
-            "id": "coolgardie western australia",
+            "id": "coolgardie",
             "group": "LOCATION",
             "degree": "1"
         },
@@ -410,7 +410,7 @@
         {
             "source": "perth",
             "target": "coolgardie",
-            "label": "austminex"
+            "label": ""
         },
         {
             "source": "perth",
@@ -440,17 +440,12 @@
         {
             "source": "carnarvon",
             "target": "coolgardie",
-            "label": "austminex"
+            "label": ""
         },
         {
             "source": "kalgoorlie group",
             "target": "coolgardie subgroup",
             "label": "is_parent_of"
-        },
-        {
-            "source": "genesis",
-            "target": "western australia",
-            "label": ""
         },
         {
             "source": "burbanks",
@@ -545,7 +540,7 @@
         {
             "source": "kalgoorlie",
             "target": "coolgardie",
-            "label": "austminex"
+            "label": ""
         },
         {
             "source": "kalgoorlie",
@@ -584,7 +579,7 @@
         },
         {
             "source": "kalgoorlie",
-            "target": "coolgardie western australia",
+            "target": "coolgardie",
             "label": ""
         },
         {
@@ -615,7 +610,7 @@
         {
             "source": "kalbarri",
             "target": "coolgardie",
-            "label": "austminex"
+            "label": ""
         },
         {
             "source": "kalbarri",
@@ -635,12 +630,12 @@
         {
             "source": "albany",
             "target": "coolgardie",
-            "label": "austminex"
+            "label": ""
         },
         {
             "source": "esperance",
             "target": "coolgardie",
-            "label": "austminex"
+            "label": ""
         },
         {
             "source": "esperance",
@@ -718,21 +713,6 @@
             "label": ""
         },
         {
-            "source": "western australia",
-            "target": "dunnsville",
-            "label": ""
-        },
-        {
-            "source": "western australia",
-            "target": "perth",
-            "label": ""
-        },
-        {
-            "source": "tasmania",
-            "target": "australia",
-            "label": ""
-        },
-        {
             "source": "boorara",
             "target": "coolgardie",
             "label": ""
@@ -770,11 +750,6 @@
         {
             "source": "bonnie vale",
             "target": "coolgardie",
-            "label": "of"
-        },
-        {
-            "source": "bonnie vale",
-            "target": "western australia",
             "label": "of"
         },
         {
@@ -865,7 +840,7 @@
         {
             "source": "newman",
             "target": "coolgardie",
-            "label": "austminex"
+            "label": ""
         },
         {
             "source": "burbanks basalt",
@@ -885,7 +860,7 @@
         {
             "source": "port hedland",
             "target": "coolgardie",
-            "label": "austminex"
+            "label": ""
         },
         {
             "source": "port hedland",
@@ -915,7 +890,7 @@
         {
             "source": "geraldton",
             "target": "coolgardie",
-            "label": "austminex"
+            "label": ""
         },
         {
             "source": "gleesons basalt",
@@ -955,7 +930,7 @@
         {
             "source": "derby",
             "target": "coolgardie",
-            "label": "austminex"
+            "label": ""
         },
         {
             "source": "derby",
@@ -986,11 +961,6 @@
             "source": "coolgardie",
             "target": "greenstone belt",
             "label": "demonstrated,for"
-        },
-        {
-            "source": "coolgardie",
-            "target": "western australia",
-            "label": "of,in,certificates coolgardie,for"
         },
         {
             "source": "coolgardie",
