@@ -48,12 +48,17 @@
         {
             "id": "marra mamba iron formation",
             "group": "STRAT",
-            "degree": "15"
+            "degree": "16"
         },
         {
             "id": "cloud break",
             "group": "LOCATION",
             "degree": "22"
+        },
+        {
+            "id": "mount newman member",
+            "group": "STRAT",
+            "degree": "3"
         },
         {
             "id": "hamersley group",
@@ -73,7 +78,7 @@
         {
             "id": "banded iron formation",
             "group": "ROCK",
-            "degree": "9"
+            "degree": "11"
         },
         {
             "id": "iron ore deposits",
@@ -418,6 +423,11 @@
             "label": "is_parent_of,termed"
         },
         {
+            "source": "marra mamba iron formation",
+            "target": "mount newman member",
+            "label": "is_parent_of"
+        },
+        {
             "source": "cloud break",
             "target": "marra mamba iron formation",
             "label": "confirming"
@@ -471,6 +481,11 @@
             "source": "cloud break",
             "target": "brockman",
             "label": ""
+        },
+        {
+            "source": "mount newman member",
+            "target": "banded iron formation",
+            "label": "consists of"
         },
         {
             "source": "hamersley group",
@@ -546,6 +561,11 @@
             "source": "banded iron formation",
             "target": "iron ore",
             "label": "derived"
+        },
+        {
+            "source": "banded iron formation",
+            "target": "mount newman member",
+            "label": ""
         },
         {
             "source": "banded iron formation",
