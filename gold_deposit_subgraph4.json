@@ -1,0 +1,231 @@
+{
+    "nodes": [
+        {
+            "id": "greenfields dolerite sill",
+            "group": "STRAT",
+            "degree": "2"
+        },
+        {
+            "id": "lindsays basalt",
+            "group": "STRAT",
+            "degree": "8"
+        },
+        {
+            "id": "hampton formation",
+            "group": "STRAT",
+            "degree": "2"
+        },
+        {
+            "id": "kalgoorlie group",
+            "group": "STRAT",
+            "degree": "1"
+        },
+        {
+            "id": "three mile dolerite",
+            "group": "STRAT",
+            "degree": "0"
+        },
+        {
+            "id": "brilliant formation",
+            "group": "STRAT",
+            "degree": "2"
+        },
+        {
+            "id": "greenstone belt",
+            "group": "STRAT",
+            "degree": "0"
+        },
+        {
+            "id": "hampton hill formation",
+            "group": "STRAT",
+            "degree": "1"
+        },
+        {
+            "id": "black flag group",
+            "group": "STRAT",
+            "degree": "5"
+        },
+        {
+            "id": "brilliant ultramafic",
+            "group": "STRAT",
+            "degree": "4"
+        },
+        {
+            "id": "three mile sill",
+            "group": "STRAT",
+            "degree": "5"
+        },
+        {
+            "id": "tindals diorite",
+            "group": "STRAT",
+            "degree": "0"
+        },
+        {
+            "id": "calooli monzogranite",
+            "group": "STRAT",
+            "degree": "1"
+        },
+        {
+            "id": "coolgardie subgroup",
+            "group": "STRAT",
+            "degree": "4"
+        },
+        {
+            "id": "burbanks basalt",
+            "group": "STRAT",
+            "degree": "2"
+        },
+        {
+            "id": "bonnievale tonalite",
+            "group": "STRAT",
+            "degree": "1"
+        },
+        {
+            "id": "gleesons basalt",
+            "group": "STRAT",
+            "degree": "6"
+        },
+        {
+            "id": "hampton ultramafics",
+            "group": "STRAT",
+            "degree": "2"
+        },
+        {
+            "id": "bali monzogranite",
+            "group": "STRAT",
+            "degree": "1"
+        },
+        {
+            "id": "bonnie vale tonalite",
+            "group": "STRAT",
+            "degree": "1"
+        },
+        {
+            "id": "menzies norseman greenstone belt",
+            "group": "STRAT",
+            "degree": "0"
+        }
+    ],
+    "links": [
+        {
+            "source": "greenfields dolerite sill",
+            "target": "gleesons basalt",
+            "label": ""
+        },
+        {
+            "source": "lindsays basalt",
+            "target": "greenfields dolerite sill",
+            "label": ""
+        },
+        {
+            "source": "lindsays basalt",
+            "target": "three mile sill",
+            "label": ""
+        },
+        {
+            "source": "lindsays basalt",
+            "target": "hampton ultramafics",
+            "label": "by"
+        },
+        {
+            "source": "hampton formation",
+            "target": "black flag group",
+            "label": "of"
+        },
+        {
+            "source": "kalgoorlie group",
+            "target": "coolgardie subgroup",
+            "label": "is_parent_of"
+        },
+        {
+            "source": "brilliant formation",
+            "target": "brilliant ultramafic",
+            "label": "is_current_of"
+        },
+        {
+            "source": "hampton hill formation",
+            "target": "hampton formation",
+            "label": "is_current_of"
+        },
+        {
+            "source": "black flag group",
+            "target": "three mile sill",
+            "label": "opposed to"
+        },
+        {
+            "source": "black flag group",
+            "target": "gleesons basalt",
+            "label": ""
+        },
+        {
+            "source": "black flag group",
+            "target": "lindsays basalt",
+            "label": ""
+        },
+        {
+            "source": "brilliant ultramafic",
+            "target": "three mile sill",
+            "label": ""
+        },
+        {
+            "source": "brilliant ultramafic",
+            "target": "burbanks basalt",
+            "label": "separates"
+        },
+        {
+            "source": "three mile sill",
+            "target": "lindsays basalt",
+            "label": ""
+        },
+        {
+            "source": "coolgardie subgroup",
+            "target": "brilliant formation",
+            "label": "is_parent_of"
+        },
+        {
+            "source": "coolgardie subgroup",
+            "target": "gleesons basalt",
+            "label": "is_parent_of"
+        },
+        {
+            "source": "coolgardie subgroup",
+            "target": "lindsays basalt",
+            "label": "is_parent_of"
+        },
+        {
+            "source": "burbanks basalt",
+            "target": "brilliant ultramafic",
+            "label": ""
+        },
+        {
+            "source": "gleesons basalt",
+            "target": "black flag group",
+            "label": "overlying"
+        },
+        {
+            "source": "gleesons basalt",
+            "target": "three mile sill",
+            "label": ""
+        },
+        {
+            "source": "gleesons basalt",
+            "target": "lindsays basalt",
+            "label": ""
+        },
+        {
+            "source": "hampton ultramafics",
+            "target": "lindsays basalt",
+            "label": "of"
+        },
+        {
+            "source": "bali monzogranite",
+            "target": "calooli monzogranite",
+            "label": ""
+        },
+        {
+            "source": "bonnie vale tonalite",
+            "target": "bonnievale tonalite",
+            "label": "is_current_of"
+        }
+    ]
+}
