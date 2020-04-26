@@ -1,9 +1,19 @@
 {
     "nodes": [
         {
+            "id": "ora banda",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
             "id": "greenfields dolerite sill",
             "group": "STRAT",
             "degree": "2"
+        },
+        {
+            "id": "bullabulling",
+            "group": "LOCATION",
+            "degree": "4"
         },
         {
             "id": "lindsays basalt",
@@ -11,9 +21,39 @@
             "degree": "8"
         },
         {
+            "id": "eastern goldfields province",
+            "group": "LOCATION",
+            "degree": "4"
+        },
+        {
             "id": "hampton formation",
             "group": "STRAT",
             "degree": "2"
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
+            "degree": "8"
+        },
+        {
+            "id": "kambalda",
+            "group": "LOCATION",
+            "degree": "5"
+        },
+        {
+            "id": "coolgardie western australia",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "carnarvon",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "londonderry",
+            "group": "LOCATION",
+            "degree": "0"
         },
         {
             "id": "kalgoorlie group",
@@ -21,9 +61,54 @@
             "degree": "1"
         },
         {
+            "id": "genesis",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "burbanks",
+            "group": "LOCATION",
+            "degree": "6"
+        },
+        {
+            "id": "yilgarn craton",
+            "group": "LOCATION",
+            "degree": "4"
+        },
+        {
             "id": "three mile dolerite",
             "group": "STRAT",
-            "degree": "0"
+            "degree": "1"
+        },
+        {
+            "id": "black flag",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "norseman",
+            "group": "LOCATION",
+            "degree": "6"
+        },
+        {
+            "id": "queensland",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "rose hill",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "greenbushes",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "big blow",
+            "group": "LOCATION",
+            "degree": "11"
         },
         {
             "id": "brilliant formation",
@@ -31,9 +116,54 @@
             "degree": "2"
         },
         {
+            "id": "kalgoorlie",
+            "group": "LOCATION",
+            "degree": "19"
+        },
+        {
+            "id": "goldfields",
+            "group": "LOCATION",
+            "degree": "4"
+        },
+        {
+            "id": "menzies",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "kalbarri",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
             "id": "greenstone belt",
             "group": "STRAT",
-            "degree": "0"
+            "degree": "5"
+        },
+        {
+            "id": "albany",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "esperance",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "norseman terrane",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "black flag group",
+            "group": "STRAT",
+            "degree": "6"
+        },
+        {
+            "id": "dunnsville",
+            "group": "LOCATION",
+            "degree": "2"
         },
         {
             "id": "hampton hill formation",
@@ -41,14 +171,39 @@
             "degree": "1"
         },
         {
-            "id": "black flag group",
-            "group": "STRAT",
-            "degree": "5"
+            "id": "boulder",
+            "group": "LOCATION",
+            "degree": "2"
         },
         {
             "id": "brilliant ultramafic",
             "group": "STRAT",
-            "degree": "4"
+            "degree": "5"
+        },
+        {
+            "id": "western australia",
+            "group": "LOCATION",
+            "degree": "14"
+        },
+        {
+            "id": "tasmania",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "boorara",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "australia",
+            "group": "LOCATION",
+            "degree": "7"
+        },
+        {
+            "id": "frogs leg",
+            "group": "LOCATION",
+            "degree": "2"
         },
         {
             "id": "three mile sill",
@@ -56,14 +211,39 @@
             "degree": "5"
         },
         {
+            "id": "bonnie vale",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "denmark",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
             "id": "tindals diorite",
             "group": "STRAT",
+            "degree": "1"
+        },
+        {
+            "id": "east lode",
+            "group": "LOCATION",
             "degree": "0"
+        },
+        {
+            "id": "kalgoorlie terrane",
+            "group": "LOCATION",
+            "degree": "12"
         },
         {
             "id": "calooli monzogranite",
             "group": "STRAT",
-            "degree": "1"
+            "degree": "2"
+        },
+        {
+            "id": "parker",
+            "group": "LOCATION",
+            "degree": "3"
         },
         {
             "id": "coolgardie subgroup",
@@ -71,8 +251,18 @@
             "degree": "4"
         },
         {
-            "id": "burbanks basalt",
-            "group": "STRAT",
+            "id": "menzies terrane",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "yilgarn block",
+            "group": "LOCATION",
+            "degree": "0"
+        },
+        {
+            "id": "newman",
+            "group": "LOCATION",
             "degree": "2"
         },
         {
@@ -81,9 +271,44 @@
             "degree": "1"
         },
         {
+            "id": "burbanks basalt",
+            "group": "STRAT",
+            "degree": "6"
+        },
+        {
+            "id": "port hedland",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "mount burgess",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "perseverance",
+            "group": "LOCATION",
+            "degree": "8"
+        },
+        {
+            "id": "kundana",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "geraldton",
+            "group": "LOCATION",
+            "degree": "2"
+        },
+        {
             "id": "gleesons basalt",
             "group": "STRAT",
             "degree": "6"
+        },
+        {
+            "id": "emu hill",
+            "group": "LOCATION",
+            "degree": "1"
         },
         {
             "id": "hampton ultramafics",
@@ -93,6 +318,26 @@
         {
             "id": "bali monzogranite",
             "group": "STRAT",
+            "degree": "2"
+        },
+        {
+            "id": "southwest",
+            "group": "LOCATION",
+            "degree": "5"
+        },
+        {
+            "id": "widgiemooltha",
+            "group": "LOCATION",
+            "degree": "0"
+        },
+        {
+            "id": "derby",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
+            "id": "chalice",
+            "group": "LOCATION",
             "degree": "1"
         },
         {
@@ -103,13 +348,33 @@
         {
             "id": "menzies norseman greenstone belt",
             "group": "STRAT",
-            "degree": "0"
+            "degree": "5"
+        },
+        {
+            "id": "kunanalling",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "coolgardie",
+            "group": "LOCATION",
+            "degree": "47"
         }
     ],
     "links": [
         {
+            "source": "ora banda",
+            "target": "kambalda",
+            "label": ""
+        },
+        {
             "source": "greenfields dolerite sill",
             "target": "gleesons basalt",
+            "label": ""
+        },
+        {
+            "source": "bullabulling",
+            "target": "bali monzogranite",
             "label": ""
         },
         {
@@ -128,9 +393,54 @@
             "label": "by"
         },
         {
+            "source": "eastern goldfields province",
+            "target": "coolgardie",
+            "label": "within"
+        },
+        {
+            "source": "eastern goldfields province",
+            "target": "norseman",
+            "label": ""
+        },
+        {
             "source": "hampton formation",
             "target": "black flag group",
             "label": "of"
+        },
+        {
+            "source": "perth",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "perth",
+            "target": "kalgoorlie",
+            "label": "from,of"
+        },
+        {
+            "source": "perth",
+            "target": "carnarvon",
+            "label": ""
+        },
+        {
+            "source": "perth",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "kambalda",
+            "target": "parker",
+            "label": ""
+        },
+        {
+            "source": "kambalda",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "carnarvon",
+            "target": "coolgardie",
+            "label": "austminex"
         },
         {
             "source": "kalgoorlie group",
@@ -138,14 +448,209 @@
             "label": "is_parent_of"
         },
         {
+            "source": "genesis",
+            "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "burbanks",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "burbanks",
+            "target": "burbanks basalt",
+            "label": ""
+        },
+        {
+            "source": "burbanks",
+            "target": "big blow",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "western australia",
+            "label": "in"
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "chalice",
+            "label": ""
+        },
+        {
+            "source": "three mile dolerite",
+            "target": "southwest",
+            "label": "trending from"
+        },
+        {
+            "source": "black flag",
+            "target": "frogs leg",
+            "label": ""
+        },
+        {
+            "source": "norseman",
+            "target": "coolgardie",
+            "label": "within"
+        },
+        {
+            "source": "norseman",
+            "target": "eastern goldfields province",
+            "label": ""
+        },
+        {
+            "source": "norseman",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "queensland",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "rose hill",
+            "target": "big blow",
+            "label": "of"
+        },
+        {
+            "source": "big blow",
+            "target": "coolgardie",
+            "label": "at,of"
+        },
+        {
+            "source": "big blow",
+            "target": "perseverance",
+            "label": "to"
+        },
+        {
+            "source": "big blow",
+            "target": "denmark",
+            "label": "rose of"
+        },
+        {
+            "source": "big blow",
+            "target": "burbanks",
+            "label": ""
+        },
+        {
+            "source": "big blow",
+            "target": "australia",
+            "label": ""
+        },
+        {
             "source": "brilliant formation",
             "target": "brilliant ultramafic",
             "label": "is_current_of"
         },
         {
-            "source": "hampton hill formation",
-            "target": "hampton formation",
-            "label": "is_current_of"
+            "source": "kalgoorlie",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "western australia",
+            "label": "of,in"
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "boulder",
+            "label": "in"
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "geraldton",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "southwest",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "perth",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "ora banda",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "australia",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "coolgardie western australia",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie",
+            "target": "queensland",
+            "label": "in"
+        },
+        {
+            "source": "goldfields",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "goldfields",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "menzies",
+            "target": "coolgardie",
+            "label": "within"
+        },
+        {
+            "source": "menzies",
+            "target": "norseman",
+            "label": ""
+        },
+        {
+            "source": "kalbarri",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "kalbarri",
+            "target": "port hedland",
+            "label": ""
+        },
+        {
+            "source": "greenstone belt",
+            "target": "coolgardie",
+            "label": "in"
+        },
+        {
+            "source": "greenstone belt",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "albany",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "esperance",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "esperance",
+            "target": "derby",
+            "label": ""
+        },
+        {
+            "source": "norseman terrane",
+            "target": "menzies norseman greenstone belt",
+            "label": ""
         },
         {
             "source": "black flag group",
@@ -163,6 +668,26 @@
             "label": ""
         },
         {
+            "source": "dunnsville",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "hampton hill formation",
+            "target": "hampton formation",
+            "label": "is_current_of"
+        },
+        {
+            "source": "boulder",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "brilliant ultramafic",
+            "target": "rose hill",
+            "label": ""
+        },
+        {
             "source": "brilliant ultramafic",
             "target": "three mile sill",
             "label": ""
@@ -173,8 +698,153 @@
             "label": "separates"
         },
         {
+            "source": "western australia",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "goldfields",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "yilgarn craton",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "dunnsville",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "perth",
+            "label": ""
+        },
+        {
+            "source": "tasmania",
+            "target": "australia",
+            "label": ""
+        },
+        {
+            "source": "boorara",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "perseverance",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "tasmania",
+            "label": ""
+        },
+        {
+            "source": "frogs leg",
+            "target": "kundana",
+            "label": "in"
+        },
+        {
             "source": "three mile sill",
             "target": "lindsays basalt",
+            "label": ""
+        },
+        {
+            "source": "bonnie vale",
+            "target": "coolgardie",
+            "label": "of"
+        },
+        {
+            "source": "bonnie vale",
+            "target": "western australia",
+            "label": "of"
+        },
+        {
+            "source": "denmark",
+            "target": "burbanks basalt",
+            "label": ""
+        },
+        {
+            "source": "denmark",
+            "target": "big blow",
+            "label": ""
+        },
+        {
+            "source": "tindals diorite",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie terrane",
+            "target": "bullabulling",
+            "label": "subdivided into"
+        },
+        {
+            "source": "kalgoorlie terrane",
+            "target": "coolgardie",
+            "label": "subdivided into,in"
+        },
+        {
+            "source": "kalgoorlie terrane",
+            "target": "ora banda",
+            "label": "subdivided into"
+        },
+        {
+            "source": "kalgoorlie terrane",
+            "target": "kambalda",
+            "label": "subdivided into"
+        },
+        {
+            "source": "kalgoorlie terrane",
+            "target": "boorara",
+            "label": "subdivided into"
+        },
+        {
+            "source": "kalgoorlie terrane",
+            "target": "parker",
+            "label": "subdivided into"
+        },
+        {
+            "source": "kalgoorlie terrane",
+            "target": "menzies norseman greenstone belt",
+            "label": "of"
+        },
+        {
+            "source": "kalgoorlie terrane",
+            "target": "menzies terrane",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie terrane",
+            "target": "greenstone belt",
+            "label": ""
+        },
+        {
+            "source": "kalgoorlie terrane",
+            "target": "black flag group",
+            "label": ""
+        },
+        {
+            "source": "parker",
+            "target": "bullabulling",
             "label": ""
         },
         {
@@ -193,9 +863,59 @@
             "label": "is_parent_of"
         },
         {
+            "source": "newman",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
             "source": "burbanks basalt",
             "target": "brilliant ultramafic",
             "label": ""
+        },
+        {
+            "source": "burbanks basalt",
+            "target": "big blow",
+            "label": "recognized at"
+        },
+        {
+            "source": "burbanks basalt",
+            "target": "burbanks",
+            "label": "in"
+        },
+        {
+            "source": "port hedland",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "port hedland",
+            "target": "perth",
+            "label": ""
+        },
+        {
+            "source": "perseverance",
+            "target": "big blow",
+            "label": "of"
+        },
+        {
+            "source": "perseverance",
+            "target": "coolgardie",
+            "label": ""
+        },
+        {
+            "source": "perseverance",
+            "target": "emu hill",
+            "label": ""
+        },
+        {
+            "source": "perseverance",
+            "target": "burbanks",
+            "label": ""
+        },
+        {
+            "source": "geraldton",
+            "target": "coolgardie",
+            "label": "austminex"
         },
         {
             "source": "gleesons basalt",
@@ -223,9 +943,159 @@
             "label": ""
         },
         {
+            "source": "southwest",
+            "target": "kalgoorlie",
+            "label": "of"
+        },
+        {
+            "source": "southwest",
+            "target": "perseverance",
+            "label": ""
+        },
+        {
+            "source": "derby",
+            "target": "coolgardie",
+            "label": "austminex"
+        },
+        {
+            "source": "derby",
+            "target": "newman",
+            "label": ""
+        },
+        {
             "source": "bonnie vale tonalite",
             "target": "bonnievale tonalite",
             "label": "is_current_of"
+        },
+        {
+            "source": "menzies norseman greenstone belt",
+            "target": "kalgoorlie terrane",
+            "label": "into"
+        },
+        {
+            "source": "menzies norseman greenstone belt",
+            "target": "menzies terrane",
+            "label": "into"
+        },
+        {
+            "source": "menzies norseman greenstone belt",
+            "target": "norseman terrane",
+            "label": "into"
+        },
+        {
+            "source": "coolgardie",
+            "target": "greenstone belt",
+            "label": "demonstrated,for"
+        },
+        {
+            "source": "coolgardie",
+            "target": "western australia",
+            "label": "of,in,certificates coolgardie,for"
+        },
+        {
+            "source": "coolgardie",
+            "target": "perth",
+            "label": "of"
+        },
+        {
+            "source": "coolgardie",
+            "target": "southwest",
+            "label": "of"
+        },
+        {
+            "source": "coolgardie",
+            "target": "goldfields",
+            "label": "of,in"
+        },
+        {
+            "source": "coolgardie",
+            "target": "yilgarn craton",
+            "label": "within"
+        },
+        {
+            "source": "coolgardie",
+            "target": "kalbarri",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "albany",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "esperance",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "mount burgess",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "kalgoorlie",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "greenbushes",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "eastern goldfields province",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "kalgoorlie terrane",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "bullabulling",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "kambalda",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "kunanalling",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "rose hill",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "bonnie vale",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "big blow",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "perseverance",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "norseman",
+            "label": ""
+        },
+        {
+            "source": "coolgardie",
+            "target": "calooli monzogranite",
+            "label": ""
         }
     ]
 }
