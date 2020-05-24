@@ -485,7 +485,7 @@
         {
             "source": "iron ore",
             "target": "iron oxide",
-            "label": "characterised"
+            "label": "derived_from"
         },
         {
             "source": "iron ore",
@@ -670,12 +670,12 @@
         {
             "source": "hematite",
             "target": "limonite",
-            "label": "belonging_to"
+            "label": "belongs_to"
         },
         {
             "source": "hematite",
             "target": "banded iron formation",
-            "label": "occur_at"
+            "label": "occurs_in"
         },
         {
             "source": "hematite",
@@ -715,7 +715,7 @@
         {
             "source": "goethite",
             "target": "banded iron formation",
-            "label": "occur_at"
+            "label": "occurs_in"
         },
         {
             "source": "goethite",
@@ -830,7 +830,7 @@
         {
             "source": "nammuldi member",
             "target": "jeerinah formation",
-            "label": "belonging_to"
+            "label": "belongs_to"
         },
         {
             "source": "nammuldi member",
@@ -1360,12 +1360,12 @@
         {
             "source": "black shales",
             "target": "jeerinah formation",
-            "label": "belonging_to"
+            "label": "belongs_to"
         },
         {
             "source": "volcanic rocks",
             "target": "jeerinah formation",
-            "label": "belonging_to"
+            "label": "belongs_to"
         },
         {
             "source": "tertiary",
@@ -1390,12 +1390,12 @@
         {
             "source": "sediments",
             "target": "silt",
-            "label": "characterised_by"
+            "label": "derived_from"
         },
         {
             "source": "sediments",
             "target": "sand",
-            "label": "characterised_by"
+            "label": "derived_from"
         },
         {
             "source": "sediments",
