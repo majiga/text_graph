@@ -360,12 +360,12 @@
         {
             "source": "western australia",
             "target": "pilbara",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "western australia",
             "target": "iron ore",
-            "label": "in"
+            "label": "in;contains"
         },
         {
             "source": "western australia",
@@ -995,7 +995,7 @@
         {
             "source": "iron",
             "target": "iron oxide",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "iron",
@@ -1060,7 +1060,7 @@
         {
             "source": "martite",
             "target": "goethite",
-            "label": "in"
+            "label": "in;contains"
         },
         {
             "source": "martite",
@@ -1070,12 +1070,12 @@
         {
             "source": "martite",
             "target": "microplaty hematite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "martite",
             "target": "martite goethite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "martite",
@@ -1230,7 +1230,7 @@
         {
             "source": "west angelas",
             "target": "goethite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "west angelas",

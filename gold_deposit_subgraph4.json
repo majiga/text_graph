@@ -58,7 +58,7 @@
         {
             "id": "gleesons basalt",
             "group": "STRAT",
-            "degree": "6"
+            "degree": "5"
         },
         {
             "id": "hampton ultramafics",
@@ -343,7 +343,7 @@
         {
             "id": "black flag group",
             "group": "STRAT",
-            "degree": "6"
+            "degree": "5"
         },
         {
             "id": "tindals diorite",
@@ -599,11 +599,6 @@
         },
         {
             "source": "gleesons basalt",
-            "target": "black flag group",
-            "label": ""
-        },
-        {
-            "source": "gleesons basalt",
             "target": "three mile sill",
             "label": ""
         },
@@ -700,32 +695,32 @@
         {
             "source": "kalgoorlie terrane",
             "target": "bullabulling",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "coolgardie",
-            "label": "in"
+            "label": "contains;in"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "ora banda",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "kambalda",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "boorara",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "parker",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
@@ -1070,7 +1065,7 @@
         {
             "source": "black flag group",
             "target": "gleesons basalt",
-            "label": ""
+            "label": "overlain_by"
         },
         {
             "source": "black flag group",

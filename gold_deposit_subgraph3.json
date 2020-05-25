@@ -260,7 +260,7 @@
         {
             "source": "pyrite",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "pyrite",
@@ -285,7 +285,7 @@
         {
             "source": "pyrite",
             "target": "lode",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "aluminium",
@@ -400,7 +400,7 @@
         {
             "source": "gold",
             "target": "sulphide",
-            "label": "in;associated_with;occur_in"
+            "label": "in;associated_with;occur_in;hosted_in"
         },
         {
             "source": "gold",
@@ -570,7 +570,7 @@
         {
             "source": "lode",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "lode",
@@ -600,7 +600,7 @@
         {
             "source": "chalcopyrite",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "chalcopyrite",
@@ -615,7 +615,7 @@
         {
             "source": "chalcopyrite",
             "target": "lode",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "chalcopyrite",
@@ -700,7 +700,7 @@
         {
             "source": "sulphide",
             "target": "pyrrhotite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "sulphide",
@@ -725,7 +725,7 @@
         {
             "source": "sulphide",
             "target": "arsenopyrite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "tin",
@@ -735,12 +735,12 @@
         {
             "source": "tourmaline",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "tourmaline",
             "target": "lode",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "quartz",
@@ -760,7 +760,7 @@
         {
             "source": "quartz",
             "target": "lode",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "quartz",
@@ -945,12 +945,12 @@
         {
             "source": "sphalerite",
             "target": "chalcopyrite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "sphalerite",
             "target": "galena",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "sphalerite",

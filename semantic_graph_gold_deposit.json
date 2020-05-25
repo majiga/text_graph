@@ -3,7 +3,7 @@
         {
             "id": "western australia",
             "group": "LOCATION",
-            "degree": "32"
+            "degree": "31"
         },
         {
             "id": "archaean",
@@ -23,12 +23,12 @@
         {
             "id": "gabbro",
             "group": "ROCK",
-            "degree": "19"
+            "degree": "17"
         },
         {
             "id": "coolgardie",
             "group": "LOCATION",
-            "degree": "82"
+            "degree": "81"
         },
         {
             "id": "goldfields",
@@ -158,7 +158,7 @@
         {
             "id": "quartz vein",
             "group": "ROCK",
-            "degree": "27"
+            "degree": "25"
         },
         {
             "id": "rose hill",
@@ -223,7 +223,7 @@
         {
             "id": "dolerite",
             "group": "ROCK",
-            "degree": "33"
+            "degree": "32"
         },
         {
             "id": "porphyry",
@@ -238,7 +238,7 @@
         {
             "id": "diorite",
             "group": "ROCK",
-            "degree": "32"
+            "degree": "31"
         },
         {
             "id": "breccia",
@@ -288,7 +288,7 @@
         {
             "id": "quartz",
             "group": "MINERAL",
-            "degree": "57"
+            "degree": "56"
         },
         {
             "id": "chalcopyrite",
@@ -333,7 +333,7 @@
         {
             "id": "felsic porphyry",
             "group": "ROCK",
-            "degree": "9"
+            "degree": "8"
         },
         {
             "id": "iron",
@@ -388,7 +388,7 @@
         {
             "id": "black flag group",
             "group": "STRAT",
-            "degree": "12"
+            "degree": "11"
         },
         {
             "id": "denmark",
@@ -698,7 +698,7 @@
         {
             "id": "gleesons basalt",
             "group": "STRAT",
-            "degree": "6"
+            "degree": "5"
         },
         {
             "id": "hampton ultramafics",
@@ -910,7 +910,7 @@
         {
             "source": "western australia",
             "target": "gabbro",
-            "label": ""
+            "label": "hosted_in"
         },
         {
             "source": "western australia",
@@ -945,7 +945,7 @@
         {
             "source": "western australia",
             "target": "amphibolite facies",
-            "label": ""
+            "label": "hosted_in"
         },
         {
             "source": "western australia",
@@ -1065,7 +1065,7 @@
         {
             "source": "gold",
             "target": "sulphide",
-            "label": "in;associated_with;occur_in"
+            "label": "in;associated_with;occur_in;hosted_in"
         },
         {
             "source": "gold",
@@ -1369,16 +1369,6 @@
         },
         {
             "source": "gabbro",
-            "target": "coolgardie",
-            "label": ""
-        },
-        {
-            "source": "gabbro",
-            "target": "western australia",
-            "label": ""
-        },
-        {
-            "source": "gabbro",
             "target": "sediment",
             "label": ""
         },
@@ -1395,16 +1385,6 @@
         {
             "source": "gabbro",
             "target": "komatiite",
-            "label": ""
-        },
-        {
-            "source": "gabbro",
-            "target": "gold deposit",
-            "label": ""
-        },
-        {
-            "source": "gabbro",
-            "target": "quartz vein",
             "label": ""
         },
         {
@@ -1450,7 +1430,7 @@
         {
             "source": "coolgardie",
             "target": "gold",
-            "label": "in;associated_with"
+            "label": "in;contains;associated_with"
         },
         {
             "source": "coolgardie",
@@ -1465,7 +1445,7 @@
         {
             "source": "coolgardie",
             "target": "gabbro",
-            "label": ""
+            "label": "hosted_in"
         },
         {
             "source": "coolgardie",
@@ -1570,7 +1550,7 @@
         {
             "source": "coolgardie",
             "target": "amphibolite facies",
-            "label": ""
+            "label": "hosted_in"
         },
         {
             "source": "coolgardie",
@@ -1875,7 +1855,7 @@
         {
             "source": "lode",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "lode",
@@ -2010,32 +1990,32 @@
         {
             "source": "kalgoorlie terrane",
             "target": "bullabulling",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "coolgardie",
-            "label": "in"
+            "label": "contains;in"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "ora banda",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "kambalda",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "boorara",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "parker",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
@@ -2104,17 +2084,17 @@
         },
         {
             "source": "quartz vein",
+            "target": "quartz",
+            "label": "hosted_in;in"
+        },
+        {
+            "source": "quartz vein",
             "target": "dolerite",
             "label": "in"
         },
         {
             "source": "quartz vein",
             "target": "ultramafics",
-            "label": "in"
-        },
-        {
-            "source": "quartz vein",
-            "target": "quartz",
             "label": "in"
         },
         {
@@ -2155,12 +2135,17 @@
         {
             "source": "quartz vein",
             "target": "diorite",
-            "label": ""
+            "label": "hosted_in"
         },
         {
             "source": "quartz vein",
             "target": "biotite",
             "label": ""
+        },
+        {
+            "source": "quartz vein",
+            "target": "gabbro",
+            "label": "hosted_in"
         },
         {
             "source": "rose hill",
@@ -2256,6 +2241,11 @@
             "source": "gold deposit",
             "target": "black shale",
             "label": ""
+        },
+        {
+            "source": "gold deposit",
+            "target": "gabbro",
+            "label": "hosted_in"
         },
         {
             "source": "big blow",
@@ -2649,11 +2639,6 @@
         },
         {
             "source": "dolerite",
-            "target": "brilliant ultramafic",
-            "label": ""
-        },
-        {
-            "source": "dolerite",
             "target": "gold",
             "label": ""
         },
@@ -2700,7 +2685,7 @@
         {
             "source": "dolerite",
             "target": "felsic porphyry",
-            "label": ""
+            "label": "intruded_by"
         },
         {
             "source": "dolerite",
@@ -2795,7 +2780,7 @@
         {
             "source": "sulphide",
             "target": "pyrrhotite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "sulphide",
@@ -2840,7 +2825,7 @@
         {
             "source": "sulphide",
             "target": "arsenopyrite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "sulphide",
@@ -2916,11 +2901,6 @@
             "source": "diorite",
             "target": "perseverance",
             "label": "in"
-        },
-        {
-            "source": "diorite",
-            "target": "quartz vein",
-            "label": ""
         },
         {
             "source": "diorite",
@@ -3005,7 +2985,7 @@
         {
             "source": "granodiorite",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "granodiorite",
@@ -3290,12 +3270,12 @@
         {
             "source": "tourmaline",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "tourmaline",
             "target": "lode",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "quartz",
@@ -3355,7 +3335,7 @@
         {
             "source": "quartz",
             "target": "lode",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "quartz",
@@ -3399,11 +3379,6 @@
         },
         {
             "source": "quartz",
-            "target": "quartz vein",
-            "label": ""
-        },
-        {
-            "source": "quartz",
             "target": "perseverance",
             "label": ""
         },
@@ -3440,7 +3415,7 @@
         {
             "source": "chalcopyrite",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "chalcopyrite",
@@ -3455,7 +3430,7 @@
         {
             "source": "chalcopyrite",
             "target": "lode",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "chalcopyrite",
@@ -3465,7 +3440,7 @@
         {
             "source": "pyrite",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "pyrite",
@@ -3495,12 +3470,12 @@
         {
             "source": "pyrite",
             "target": "lode",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "pyrite",
             "target": "ultramafic rock",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "pyrite",
@@ -3611,11 +3586,6 @@
             "source": "felsic sills",
             "target": "host rock",
             "label": "in"
-        },
-        {
-            "source": "felsic porphyry",
-            "target": "dolerite",
-            "label": ""
         },
         {
             "source": "felsic porphyry",
@@ -3770,7 +3740,7 @@
         {
             "source": "black flag group",
             "target": "gleesons basalt",
-            "label": ""
+            "label": "overlain_by"
         },
         {
             "source": "black flag group",
@@ -3795,12 +3765,12 @@
         {
             "source": "sphalerite",
             "target": "chalcopyrite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "sphalerite",
             "target": "galena",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "sphalerite",
@@ -3921,6 +3891,11 @@
             "source": "lindsays basalt",
             "target": "quartz",
             "label": ""
+        },
+        {
+            "source": "brilliant ultramafic",
+            "target": "dolerite",
+            "label": "overlain_by"
         },
         {
             "source": "brilliant ultramafic",
@@ -4190,12 +4165,12 @@
         {
             "source": "east lode",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "east lode",
             "target": "sulphide",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "amphibolite",
@@ -4505,11 +4480,6 @@
         {
             "source": "felsic volcanics",
             "target": "coolgardie",
-            "label": ""
-        },
-        {
-            "source": "gleesons basalt",
-            "target": "black flag group",
             "label": ""
         },
         {

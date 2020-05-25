@@ -250,7 +250,7 @@
         {
             "source": "martite",
             "target": "goethite",
-            "label": "in"
+            "label": "in;contains"
         },
         {
             "source": "martite",
@@ -260,12 +260,12 @@
         {
             "source": "martite",
             "target": "microplaty hematite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "martite",
             "target": "martite goethite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "martite",
@@ -560,7 +560,7 @@
         {
             "source": "iron",
             "target": "iron oxide",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "iron",

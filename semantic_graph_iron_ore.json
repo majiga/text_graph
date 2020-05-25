@@ -28,7 +28,7 @@
         {
             "id": "iron ore",
             "group": "ORE_DEPOSIT",
-            "degree": "42"
+            "degree": "41"
         },
         {
             "id": "iron oxide",
@@ -118,7 +118,7 @@
         {
             "id": "iron formation",
             "group": "ROCK",
-            "degree": "7"
+            "degree": "6"
         },
         {
             "id": "hamersley group",
@@ -580,12 +580,12 @@
         {
             "source": "western australia",
             "target": "pilbara",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "western australia",
             "target": "iron ore",
-            "label": "in"
+            "label": "in;contains"
         },
         {
             "source": "western australia",
@@ -905,7 +905,7 @@
         {
             "source": "iron ore",
             "target": "iron formation",
-            "label": ""
+            "label": "hosted_in"
         },
         {
             "source": "iron oxide",
@@ -1330,7 +1330,7 @@
         {
             "source": "sediments",
             "target": "clay",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "sediments",
@@ -1345,7 +1345,7 @@
         {
             "source": "sediments",
             "target": "oakover formation",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "sediments",
@@ -1519,6 +1519,11 @@
         },
         {
             "source": "iron ore deposits",
+            "target": "brockman iron formation",
+            "label": "hosted_in"
+        },
+        {
+            "source": "iron ore deposits",
             "target": "pilbara",
             "label": "in"
         },
@@ -1565,7 +1570,7 @@
         {
             "source": "iron",
             "target": "iron oxide",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "iron",
@@ -1710,7 +1715,7 @@
         {
             "source": "martite",
             "target": "goethite",
-            "label": "in"
+            "label": "in;contains"
         },
         {
             "source": "martite",
@@ -1720,12 +1725,12 @@
         {
             "source": "martite",
             "target": "microplaty hematite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "martite",
             "target": "martite goethite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "martite",
@@ -1818,11 +1823,6 @@
             "label": ""
         },
         {
-            "source": "iron formation",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
             "source": "hamersley group",
             "target": "proterozoic",
             "label": ""
@@ -1865,7 +1865,7 @@
         {
             "source": "archaean",
             "target": "marra mamba iron formation",
-            "label": "aged"
+            "label": ""
         },
         {
             "source": "archaean",
@@ -1930,7 +1930,7 @@
         {
             "source": "nammuldi member",
             "target": "banded iron formation",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "nammuldi member",
@@ -1955,17 +1955,17 @@
         {
             "source": "macleod member",
             "target": "chert",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "macleod member",
             "target": "banded iron formation",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "mount newman member",
             "target": "banded iron formation",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "mount newman member",
@@ -1996,11 +1996,6 @@
             "source": "mount bruce supergroup",
             "target": "hamersley group",
             "label": "contains"
-        },
-        {
-            "source": "brockman iron formation",
-            "target": "iron ore deposits",
-            "label": ""
         },
         {
             "source": "brockman iron formation",
@@ -2150,7 +2145,7 @@
         {
             "source": "west angelas",
             "target": "goethite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "west angelas",
@@ -2320,12 +2315,12 @@
         {
             "source": "tertiary",
             "target": "clay",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "tertiary",
             "target": "oakover formation",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "tertiary",
@@ -2620,7 +2615,7 @@
         {
             "source": "alluvium",
             "target": "oakover formation",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "alluvium",
@@ -2630,7 +2625,7 @@
         {
             "source": "alluvium",
             "target": "clay",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "silica",

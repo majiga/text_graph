@@ -560,7 +560,7 @@
         {
             "source": "gold",
             "target": "sulphide",
-            "label": "in;associated_with;occur_in"
+            "label": "in;associated_with;occur_in;hosted_in"
         },
         {
             "source": "gold",
@@ -755,7 +755,7 @@
         {
             "source": "coolgardie",
             "target": "gold",
-            "label": "in;associated_with"
+            "label": "in;contains;associated_with"
         },
         {
             "source": "coolgardie",
@@ -1025,7 +1025,7 @@
         {
             "source": "lode",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "lode",
@@ -1110,32 +1110,32 @@
         {
             "source": "kalgoorlie terrane",
             "target": "bullabulling",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "coolgardie",
-            "label": "in"
+            "label": "contains;in"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "ora banda",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "kambalda",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "boorara",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
             "target": "parker",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "kalgoorlie terrane",
@@ -1395,7 +1395,7 @@
         {
             "source": "sulphide",
             "target": "pyrrhotite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "sulphide",
@@ -1420,7 +1420,7 @@
         {
             "source": "sulphide",
             "target": "arsenopyrite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "arsenopyrite",
@@ -1600,12 +1600,12 @@
         {
             "source": "tourmaline",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "tourmaline",
             "target": "lode",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "quartz",
@@ -1635,7 +1635,7 @@
         {
             "source": "quartz",
             "target": "lode",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "quartz",
@@ -1680,7 +1680,7 @@
         {
             "source": "chalcopyrite",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "chalcopyrite",
@@ -1695,7 +1695,7 @@
         {
             "source": "chalcopyrite",
             "target": "lode",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "chalcopyrite",
@@ -1705,7 +1705,7 @@
         {
             "source": "pyrite",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "pyrite",
@@ -1730,7 +1730,7 @@
         {
             "source": "pyrite",
             "target": "lode",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "arsenic",
@@ -1790,12 +1790,12 @@
         {
             "source": "sphalerite",
             "target": "chalcopyrite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "sphalerite",
             "target": "galena",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "sphalerite",
@@ -1930,12 +1930,12 @@
         {
             "source": "east lode",
             "target": "quartz",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "east lode",
             "target": "sulphide",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "amphibole",

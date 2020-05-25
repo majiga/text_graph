@@ -245,7 +245,7 @@
         {
             "source": "martite",
             "target": "goethite",
-            "label": "in"
+            "label": "in;contains"
         },
         {
             "source": "martite",
@@ -255,7 +255,7 @@
         {
             "source": "martite",
             "target": "microplaty hematite",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "martite",
@@ -830,12 +830,12 @@
         {
             "source": "nammuldi member",
             "target": "banded iron formation",
-            "label": ""
+            "label": "contains"
         },
         {
             "source": "archaean",
             "target": "marra mamba iron formation",
-            "label": "aged"
+            "label": ""
         },
         {
             "source": "archaean",
@@ -845,7 +845,7 @@
         {
             "source": "mount newman member",
             "target": "banded iron formation",
-            "label": ""
+            "label": "contains"
         }
     ]
 }

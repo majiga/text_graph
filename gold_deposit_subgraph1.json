@@ -28,12 +28,12 @@
         {
             "id": "dolerite",
             "group": "ROCK",
-            "degree": "18"
+            "degree": "17"
         },
         {
             "id": "felsic porphyry",
             "group": "ROCK",
-            "degree": "7"
+            "degree": "6"
         },
         {
             "id": "calooli monzogranite",
@@ -68,7 +68,7 @@
         {
             "id": "gleesons basalt",
             "group": "STRAT",
-            "degree": "6"
+            "degree": "5"
         },
         {
             "id": "mafic rocks",
@@ -153,7 +153,7 @@
         {
             "id": "quartz vein",
             "group": "ROCK",
-            "degree": "13"
+            "degree": "12"
         },
         {
             "id": "bonnievale tonalite",
@@ -358,7 +358,7 @@
         {
             "id": "black flag group",
             "group": "STRAT",
-            "degree": "9"
+            "degree": "8"
         },
         {
             "id": "amphibolite",
@@ -378,7 +378,7 @@
         {
             "id": "diorite",
             "group": "ROCK",
-            "degree": "11"
+            "degree": "10"
         },
         {
             "id": "burbanks basalt",
@@ -429,11 +429,6 @@
         },
         {
             "source": "dolerite",
-            "target": "brilliant ultramafic",
-            "label": ""
-        },
-        {
-            "source": "dolerite",
             "target": "greenstone belt",
             "label": "in"
         },
@@ -455,7 +450,7 @@
         {
             "source": "dolerite",
             "target": "felsic porphyry",
-            "label": ""
+            "label": "intruded_by"
         },
         {
             "source": "dolerite",
@@ -475,11 +470,6 @@
         {
             "source": "dolerite",
             "target": "shale",
-            "label": ""
-        },
-        {
-            "source": "felsic porphyry",
-            "target": "dolerite",
             "label": ""
         },
         {
@@ -549,11 +539,6 @@
         },
         {
             "source": "gleesons basalt",
-            "target": "black flag group",
-            "label": ""
-        },
-        {
-            "source": "gleesons basalt",
             "target": "three mile sill",
             "label": ""
         },
@@ -585,11 +570,6 @@
         {
             "source": "gabbro",
             "target": "komatiite",
-            "label": ""
-        },
-        {
-            "source": "gabbro",
-            "target": "quartz vein",
             "label": ""
         },
         {
@@ -745,7 +725,17 @@
         {
             "source": "quartz vein",
             "target": "diorite",
-            "label": ""
+            "label": "hosted_in"
+        },
+        {
+            "source": "quartz vein",
+            "target": "gabbro",
+            "label": "hosted_in"
+        },
+        {
+            "source": "brilliant ultramafic",
+            "target": "dolerite",
+            "label": "overlain_by"
         },
         {
             "source": "brilliant ultramafic",
@@ -1070,7 +1060,7 @@
         {
             "source": "black flag group",
             "target": "gleesons basalt",
-            "label": ""
+            "label": "overlain_by"
         },
         {
             "source": "black flag group",
@@ -1105,11 +1095,6 @@
         {
             "source": "diorite",
             "target": "gabbro",
-            "label": ""
-        },
-        {
-            "source": "diorite",
-            "target": "quartz vein",
             "label": ""
         },
         {
