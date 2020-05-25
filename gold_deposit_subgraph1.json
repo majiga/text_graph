@@ -1,47 +1,7 @@
 {
     "nodes": [
         {
-            "id": "host rock",
-            "group": "ROCK",
-            "degree": "7"
-        },
-        {
-            "id": "breccia",
-            "group": "ROCK",
-            "degree": "4"
-        },
-        {
-            "id": "greenfields dolerite sill",
-            "group": "STRAT",
-            "degree": "2"
-        },
-        {
-            "id": "granitic rocks",
-            "group": "ROCK",
-            "degree": "0"
-        },
-        {
-            "id": "lindsays basalt",
-            "group": "STRAT",
-            "degree": "9"
-        },
-        {
-            "id": "coolgardie subgroup",
-            "group": "STRAT",
-            "degree": "4"
-        },
-        {
-            "id": "porphyry",
-            "group": "ROCK",
-            "degree": "7"
-        },
-        {
-            "id": "hampton formation",
-            "group": "STRAT",
-            "degree": "3"
-        },
-        {
-            "id": "quartz gabbro",
+            "id": "black shale",
             "group": "ROCK",
             "degree": "1"
         },
@@ -51,299 +11,29 @@
             "degree": "1"
         },
         {
-            "id": "alluvium",
-            "group": "ROCK",
-            "degree": "2"
-        },
-        {
-            "id": "kalgoorlie group",
-            "group": "STRAT",
-            "degree": "1"
-        },
-        {
-            "id": "granite greenstone",
-            "group": "ROCK",
-            "degree": "1"
-        },
-        {
-            "id": "three mile dolerite",
-            "group": "STRAT",
-            "degree": "1"
-        },
-        {
-            "id": "dolerite host rocks",
+            "id": "greenstone",
             "group": "ROCK",
             "degree": "0"
-        },
-        {
-            "id": "granodiorite",
-            "group": "ROCK",
-            "degree": "14"
-        },
-        {
-            "id": "sedimentary rocks",
-            "group": "ROCK",
-            "degree": "2"
-        },
-        {
-            "id": "talc carbonate",
-            "group": "ROCK",
-            "degree": "2"
-        },
-        {
-            "id": "calcrete",
-            "group": "ROCK",
-            "degree": "0"
-        },
-        {
-            "id": "ultramafic mafic rocks",
-            "group": "ROCK",
-            "degree": "0"
-        },
-        {
-            "id": "gabbro",
-            "group": "ROCK",
-            "degree": "8"
-        },
-        {
-            "id": "brilliant formation",
-            "group": "STRAT",
-            "degree": "2"
-        },
-        {
-            "id": "granitoid",
-            "group": "ROCK",
-            "degree": "4"
-        },
-        {
-            "id": "sediment",
-            "group": "ROCK",
-            "degree": "8"
-        },
-        {
-            "id": "pillow basalt",
-            "group": "ROCK",
-            "degree": "2"
-        },
-        {
-            "id": "basalt",
-            "group": "ROCK",
-            "degree": "19"
-        },
-        {
-            "id": "granulite facies",
-            "group": "ROCK",
-            "degree": "2"
-        },
-        {
-            "id": "greenstone belt",
-            "group": "STRAT",
-            "degree": "2"
-        },
-        {
-            "id": "felsic volcanic sequence",
-            "group": "ROCK",
-            "degree": "0"
-        },
-        {
-            "id": "mafics",
-            "group": "ROCK",
-            "degree": "1"
-        },
-        {
-            "id": "black flag group",
-            "group": "STRAT",
-            "degree": "9"
-        },
-        {
-            "id": "hampton hill formation",
-            "group": "STRAT",
-            "degree": "1"
         },
         {
             "id": "dolerite",
             "group": "ROCK",
-            "degree": "18"
-        },
-        {
-            "id": "brilliant ultramafic",
-            "group": "STRAT",
             "degree": "8"
-        },
-        {
-            "id": "batholith",
-            "group": "ROCK",
-            "degree": "0"
-        },
-        {
-            "id": "basaltic rocks",
-            "group": "ROCK",
-            "degree": "1"
-        },
-        {
-            "id": "mafic rocks",
-            "group": "ROCK",
-            "degree": "1"
-        },
-        {
-            "id": "ultramafics",
-            "group": "ROCK",
-            "degree": "8"
-        },
-        {
-            "id": "volcaniclastic rocks",
-            "group": "ROCK",
-            "degree": "5"
-        },
-        {
-            "id": "three mile sill",
-            "group": "STRAT",
-            "degree": "5"
-        },
-        {
-            "id": "wallrock",
-            "group": "ROCK",
-            "degree": "0"
-        },
-        {
-            "id": "komatiite",
-            "group": "ROCK",
-            "degree": "7"
-        },
-        {
-            "id": "amphibolite",
-            "group": "ROCK",
-            "degree": "5"
-        },
-        {
-            "id": "amphibolite facies",
-            "group": "ROCK",
-            "degree": "6"
-        },
-        {
-            "id": "intrusive mafic rocks",
-            "group": "ROCK",
-            "degree": "0"
-        },
-        {
-            "id": "greenstone",
-            "group": "ROCK",
-            "degree": "1"
-        },
-        {
-            "id": "tindals diorite",
-            "group": "STRAT",
-            "degree": "1"
-        },
-        {
-            "id": "colluvium",
-            "group": "ROCK",
-            "degree": "2"
-        },
-        {
-            "id": "calooli monzogranite",
-            "group": "STRAT",
-            "degree": "2"
-        },
-        {
-            "id": "regolith",
-            "group": "ROCK",
-            "degree": "6"
-        },
-        {
-            "id": "diorite",
-            "group": "ROCK",
-            "degree": "11"
-        },
-        {
-            "id": "clastic sedimentary rocks",
-            "group": "ROCK",
-            "degree": "3"
-        },
-        {
-            "id": "clay",
-            "group": "ROCK",
-            "degree": "4"
-        },
-        {
-            "id": "archaean",
-            "group": "TIMESCALE",
-            "degree": "9"
-        },
-        {
-            "id": "ultramafic volcanic rocks",
-            "group": "ROCK",
-            "degree": "1"
-        },
-        {
-            "id": "shale",
-            "group": "ROCK",
-            "degree": "5"
-        },
-        {
-            "id": "bonnievale tonalite",
-            "group": "STRAT",
-            "degree": "1"
-        },
-        {
-            "id": "ultramafic sequence",
-            "group": "ROCK",
-            "degree": "4"
-        },
-        {
-            "id": "burbanks basalt",
-            "group": "STRAT",
-            "degree": "6"
-        },
-        {
-            "id": "felsic volcanics",
-            "group": "ROCK",
-            "degree": "4"
-        },
-        {
-            "id": "bedrock",
-            "group": "ROCK",
-            "degree": "0"
-        },
-        {
-            "id": "sand",
-            "group": "ROCK",
-            "degree": "1"
-        },
-        {
-            "id": "black shale",
-            "group": "ROCK",
-            "degree": "9"
         },
         {
             "id": "felsic porphyry",
             "group": "ROCK",
-            "degree": "7"
+            "degree": "2"
         },
         {
-            "id": "quartz vein",
-            "group": "ROCK",
-            "degree": "13"
-        },
-        {
-            "id": "gleesons basalt",
-            "group": "STRAT",
-            "degree": "6"
-        },
-        {
-            "id": "granite",
+            "id": "amphibolite facies",
             "group": "ROCK",
             "degree": "1"
         },
         {
-            "id": "gravels",
+            "id": "ultramafic rock",
             "group": "ROCK",
             "degree": "3"
-        },
-        {
-            "id": "fault breccia",
-            "group": "ROCK",
-            "degree": "0"
         },
         {
             "id": "hampton ultramafics",
@@ -351,29 +41,149 @@
             "degree": "2"
         },
         {
-            "id": "bali monzogranite",
+            "id": "gleesons basalt",
+            "group": "STRAT",
+            "degree": "2"
+        },
+        {
+            "id": "mafic rocks",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "talc carbonate",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "hampton formation",
+            "group": "STRAT",
+            "degree": "2"
+        },
+        {
+            "id": "gabbro",
+            "group": "ROCK",
+            "degree": "2"
+        },
+        {
+            "id": "granulite facies",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "granitic rocks",
+            "group": "ROCK",
+            "degree": "0"
+        },
+        {
+            "id": "three mile sill",
             "group": "STRAT",
             "degree": "1"
         },
         {
-            "id": "greenstone sequence",
-            "group": "ROCK",
-            "degree": "0"
-        },
-        {
-            "id": "aplite",
+            "id": "sediment",
             "group": "ROCK",
             "degree": "1"
         },
         {
-            "id": "saprolite",
+            "id": "kalgoorlie group",
+            "group": "STRAT",
+            "degree": "1"
+        },
+        {
+            "id": "komatiite",
+            "group": "ROCK",
+            "degree": "4"
+        },
+        {
+            "id": "breccia",
+            "group": "ROCK",
+            "degree": "3"
+        },
+        {
+            "id": "menzies norseman greenstone belt",
+            "group": "STRAT",
+            "degree": "0"
+        },
+        {
+            "id": "porphyry",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "brilliant ultramafic",
+            "group": "STRAT",
+            "degree": "4"
+        },
+        {
+            "id": "quartz vein",
+            "group": "ROCK",
+            "degree": "6"
+        },
+        {
+            "id": "ultramafic mafic rocks",
             "group": "ROCK",
             "degree": "0"
         },
         {
-            "id": "ultramafic rock",
+            "id": "bonnievale tonalite",
+            "group": "STRAT",
+            "degree": "1"
+        },
+        {
+            "id": "regolith",
+            "group": "ROCK",
+            "degree": "2"
+        },
+        {
+            "id": "granite",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "coolgardie subgroup",
+            "group": "STRAT",
+            "degree": "4"
+        },
+        {
+            "id": "clay",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "greenstone belt",
+            "group": "STRAT",
+            "degree": "1"
+        },
+        {
+            "id": "three mile dolerite",
+            "group": "STRAT",
+            "degree": "0"
+        },
+        {
+            "id": "lindsays basalt",
+            "group": "STRAT",
+            "degree": "3"
+        },
+        {
+            "id": "felsic sills",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "basalt",
             "group": "ROCK",
             "degree": "7"
+        },
+        {
+            "id": "granodiorite",
+            "group": "ROCK",
+            "degree": "7"
+        },
+        {
+            "id": "felsic volcanics",
+            "group": "ROCK",
+            "degree": "2"
         },
         {
             "id": "bonnie vale tonalite",
@@ -381,415 +191,160 @@
             "degree": "1"
         },
         {
-            "id": "menzies norseman greenstone belt",
+            "id": "fault breccia",
+            "group": "ROCK",
+            "degree": "0"
+        },
+        {
+            "id": "bedrock",
+            "group": "ROCK",
+            "degree": "0"
+        },
+        {
+            "id": "greenstone sequence",
+            "group": "ROCK",
+            "degree": "0"
+        },
+        {
+            "id": "granite greenstone",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "wallrock",
+            "group": "ROCK",
+            "degree": "0"
+        },
+        {
+            "id": "gravels",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "volcaniclastic rocks",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "brilliant formation",
+            "group": "STRAT",
+            "degree": "2"
+        },
+        {
+            "id": "host rock",
+            "group": "ROCK",
+            "degree": "3"
+        },
+        {
+            "id": "granitoid",
+            "group": "ROCK",
+            "degree": "0"
+        },
+        {
+            "id": "clastic sedimentary rocks",
+            "group": "ROCK",
+            "degree": "1"
+        },
+        {
+            "id": "ultramafics",
+            "group": "ROCK",
+            "degree": "4"
+        },
+        {
+            "id": "hampton hill formation",
             "group": "STRAT",
             "degree": "1"
         },
         {
-            "id": "felsic sills",
+            "id": "archaean",
+            "group": "TIMESCALE",
+            "degree": "4"
+        },
+        {
+            "id": "black flag group",
+            "group": "STRAT",
+            "degree": "7"
+        },
+        {
+            "id": "amphibolite",
+            "group": "ROCK",
+            "degree": "3"
+        },
+        {
+            "id": "ultramafic sequence",
+            "group": "ROCK",
+            "degree": "3"
+        },
+        {
+            "id": "diorite",
+            "group": "ROCK",
+            "degree": "4"
+        },
+        {
+            "id": "burbanks basalt",
+            "group": "STRAT",
+            "degree": "2"
+        },
+        {
+            "id": "shale",
             "group": "ROCK",
             "degree": "2"
         }
     ],
     "links": [
         {
-            "source": "host rock",
-            "target": "basalt",
-            "label": "at"
-        },
-        {
-            "source": "host rock",
-            "target": "shale",
-            "label": "at"
-        },
-        {
-            "source": "host rock",
-            "target": "dolerite",
-            "label": ""
-        },
-        {
-            "source": "host rock",
-            "target": "felsic sills",
-            "label": ""
-        },
-        {
-            "source": "host rock",
-            "target": "tindals diorite",
-            "label": ""
-        },
-        {
-            "source": "breccia",
-            "target": "basalt",
-            "label": ""
-        },
-        {
-            "source": "breccia",
+            "source": "black shale",
             "target": "granodiorite",
-            "label": "along"
-        },
-        {
-            "source": "greenfields dolerite sill",
-            "target": "gleesons basalt",
             "label": ""
-        },
-        {
-            "source": "lindsays basalt",
-            "target": "greenfields dolerite sill",
-            "label": ""
-        },
-        {
-            "source": "lindsays basalt",
-            "target": "three mile sill",
-            "label": ""
-        },
-        {
-            "source": "lindsays basalt",
-            "target": "hampton ultramafics",
-            "label": "by"
-        },
-        {
-            "source": "coolgardie subgroup",
-            "target": "brilliant formation",
-            "label": "is_parent_of"
-        },
-        {
-            "source": "coolgardie subgroup",
-            "target": "gleesons basalt",
-            "label": "is_parent_of"
-        },
-        {
-            "source": "coolgardie subgroup",
-            "target": "lindsays basalt",
-            "label": "is_parent_of"
-        },
-        {
-            "source": "porphyry",
-            "target": "burbanks basalt",
-            "label": "in"
-        },
-        {
-            "source": "porphyry",
-            "target": "clastic sedimentary rocks",
-            "label": ""
-        },
-        {
-            "source": "porphyry",
-            "target": "sediment",
-            "label": ""
-        },
-        {
-            "source": "porphyry",
-            "target": "ultramafic rock",
-            "label": ""
-        },
-        {
-            "source": "hampton formation",
-            "target": "black flag group",
-            "label": "of"
-        },
-        {
-            "source": "alluvium",
-            "target": "clay",
-            "label": ""
-        },
-        {
-            "source": "alluvium",
-            "target": "regolith",
-            "label": ""
-        },
-        {
-            "source": "kalgoorlie group",
-            "target": "coolgardie subgroup",
-            "label": "is_parent_of"
-        },
-        {
-            "source": "granite greenstone",
-            "target": "granite",
-            "label": "within"
-        },
-        {
-            "source": "granodiorite",
-            "target": "ultramafics",
-            "label": "intruded into"
-        },
-        {
-            "source": "granodiorite",
-            "target": "breccia",
-            "label": "to"
-        },
-        {
-            "source": "granodiorite",
-            "target": "ultramafic sequence",
-            "label": "of"
-        },
-        {
-            "source": "granodiorite",
-            "target": "black shale",
-            "label": ""
-        },
-        {
-            "source": "granodiorite",
-            "target": "diorite",
-            "label": ""
-        },
-        {
-            "source": "granodiorite",
-            "target": "porphyry",
-            "label": ""
-        },
-        {
-            "source": "granodiorite",
-            "target": "basalt",
-            "label": "in altered"
-        },
-        {
-            "source": "granodiorite",
-            "target": "granitoid",
-            "label": ""
-        },
-        {
-            "source": "granodiorite",
-            "target": "archaean",
-            "label": ""
-        },
-        {
-            "source": "sedimentary rocks",
-            "target": "felsic volcanics",
-            "label": ""
-        },
-        {
-            "source": "talc carbonate",
-            "target": "amphibolite",
-            "label": ""
-        },
-        {
-            "source": "gabbro",
-            "target": "sediment",
-            "label": ""
-        },
-        {
-            "source": "gabbro",
-            "target": "komatiite",
-            "label": ""
-        },
-        {
-            "source": "gabbro",
-            "target": "quartz vein",
-            "label": "hosted"
-        },
-        {
-            "source": "gabbro",
-            "target": "porphyry",
-            "label": ""
-        },
-        {
-            "source": "brilliant formation",
-            "target": "brilliant ultramafic",
-            "label": "is_current_of"
-        },
-        {
-            "source": "granitoid",
-            "target": "greenstone belt",
-            "label": ""
-        },
-        {
-            "source": "sediment",
-            "target": "lindsays basalt",
-            "label": ""
-        },
-        {
-            "source": "sediment",
-            "target": "black flag group",
-            "label": "of"
-        },
-        {
-            "source": "sediment",
-            "target": "porphyry",
-            "label": ""
-        },
-        {
-            "source": "sediment",
-            "target": "shale",
-            "label": ""
-        },
-        {
-            "source": "sediment",
-            "target": "felsic volcanics",
-            "label": ""
-        },
-        {
-            "source": "pillow basalt",
-            "target": "dolerite",
-            "label": ""
-        },
-        {
-            "source": "pillow basalt",
-            "target": "gabbro",
-            "label": ""
-        },
-        {
-            "source": "basalt",
-            "target": "granodiorite",
-            "label": "in"
-        },
-        {
-            "source": "basalt",
-            "target": "dolerite",
-            "label": "mvb"
-        },
-        {
-            "source": "basalt",
-            "target": "burbanks basalt",
-            "label": ""
-        },
-        {
-            "source": "basalt",
-            "target": "quartz vein",
-            "label": ""
-        },
-        {
-            "source": "basalt",
-            "target": "sedimentary rocks",
-            "label": ""
-        },
-        {
-            "source": "basalt",
-            "target": "shale",
-            "label": ""
-        },
-        {
-            "source": "basalt",
-            "target": "komatiite",
-            "label": "of,layered"
-        },
-        {
-            "source": "basalt",
-            "target": "ultramafic rock",
-            "label": ""
-        },
-        {
-            "source": "basalt",
-            "target": "diorite",
-            "label": ""
-        },
-        {
-            "source": "basalt",
-            "target": "gabbro",
-            "label": ""
-        },
-        {
-            "source": "basalt",
-            "target": "host rock",
-            "label": ""
-        },
-        {
-            "source": "basalt",
-            "target": "black shale",
-            "label": ""
-        },
-        {
-            "source": "granulite facies",
-            "target": "amphibolite",
-            "label": ""
-        },
-        {
-            "source": "granulite facies",
-            "target": "archaean",
-            "label": "of"
-        },
-        {
-            "source": "mafics",
-            "target": "ultramafics",
-            "label": ""
-        },
-        {
-            "source": "black flag group",
-            "target": "felsic volcanics",
-            "label": "of"
-        },
-        {
-            "source": "black flag group",
-            "target": "three mile sill",
-            "label": "opposed to"
-        },
-        {
-            "source": "black flag group",
-            "target": "gleesons basalt",
-            "label": ""
-        },
-        {
-            "source": "black flag group",
-            "target": "lindsays basalt",
-            "label": ""
-        },
-        {
-            "source": "hampton hill formation",
-            "target": "hampton formation",
-            "label": "is_current_of"
         },
         {
             "source": "dolerite",
             "target": "brilliant ultramafic",
-            "label": "overlying"
+            "label": ""
         },
         {
             "source": "dolerite",
             "target": "greenstone belt",
-            "label": "within"
+            "label": "in"
         },
         {
             "source": "dolerite",
             "target": "ultramafics",
-            "label": "pre sent in,in"
+            "label": "in"
         },
         {
             "source": "dolerite",
             "target": "gabbro",
-            "label": "midg"
-        },
-        {
-            "source": "dolerite",
-            "target": "quartz vein",
-            "label": ""
-        },
-        {
-            "source": "dolerite",
-            "target": "felsic porphyry",
-            "label": ""
-        },
-        {
-            "source": "dolerite",
-            "target": "basalt",
-            "label": ""
-        },
-        {
-            "source": "dolerite",
-            "target": "three mile dolerite",
-            "label": ""
-        },
-        {
-            "source": "dolerite",
-            "target": "sediment",
             "label": ""
         },
         {
             "source": "dolerite",
             "target": "shale",
-            "label": "of"
-        },
-        {
-            "source": "brilliant ultramafic",
-            "target": "three mile sill",
             "label": ""
         },
         {
-            "source": "brilliant ultramafic",
-            "target": "burbanks basalt",
-            "label": "separates"
+            "source": "felsic porphyry",
+            "target": "dolerite",
+            "label": ""
         },
         {
-            "source": "basaltic rocks",
-            "target": "quartz vein",
+            "source": "ultramafic rock",
+            "target": "black flag group",
+            "label": ""
+        },
+        {
+            "source": "ultramafic rock",
+            "target": "amphibole facies",
+            "label": ""
+        },
+        {
+            "source": "hampton ultramafics",
+            "target": "lindsays basalt",
+            "label": ""
+        },
+        {
+            "source": "gleesons basalt",
+            "target": "black flag group",
             "label": ""
         },
         {
@@ -798,44 +353,29 @@
             "label": "in"
         },
         {
-            "source": "ultramafics",
-            "target": "ultramafic sequence",
-            "label": "of"
+            "source": "hampton formation",
+            "target": "black flag group",
+            "label": ""
         },
         {
-            "source": "ultramafics",
+            "source": "gabbro",
             "target": "quartz vein",
             "label": ""
         },
         {
-            "source": "ultramafics",
-            "target": "granodiorite",
+            "source": "granulite facies",
+            "target": "archaean",
             "label": ""
         },
         {
-            "source": "ultramafics",
-            "target": "dolerite",
+            "source": "sediment",
+            "target": "black flag group",
             "label": ""
         },
         {
-            "source": "volcaniclastic rocks",
-            "target": "clastic sedimentary rocks",
-            "label": "interbedded with"
-        },
-        {
-            "source": "volcaniclastic rocks",
-            "target": "ultramafic volcanic rocks",
-            "label": ""
-        },
-        {
-            "source": "volcaniclastic rocks",
-            "target": "dolerite",
-            "label": ""
-        },
-        {
-            "source": "three mile sill",
-            "target": "lindsays basalt",
-            "label": ""
+            "source": "kalgoorlie group",
+            "target": "coolgardie subgroup",
+            "label": "contains"
         },
         {
             "source": "komatiite",
@@ -845,212 +385,42 @@
         {
             "source": "komatiite",
             "target": "ultramafic sequence",
-            "label": "known"
+            "label": ""
         },
         {
             "source": "komatiite",
             "target": "brilliant ultramafic",
-            "label": "known"
-        },
-        {
-            "source": "amphibolite",
-            "target": "talc carbonate",
-            "label": "to"
-        },
-        {
-            "source": "amphibolite",
-            "target": "archaean",
-            "label": "of"
-        },
-        {
-            "source": "amphibolite facies",
-            "target": "diorite",
             "label": ""
         },
         {
-            "source": "amphibolite facies",
-            "target": "granitoid",
-            "label": ""
-        },
-        {
-            "source": "greenstone",
-            "target": "amphibolite facies",
-            "label": ""
-        },
-        {
-            "source": "colluvium",
-            "target": "gravels",
-            "label": ""
-        },
-        {
-            "source": "calooli monzogranite",
-            "target": "amphibolite facies",
-            "label": ""
-        },
-        {
-            "source": "regolith",
-            "target": "gravels",
-            "label": "of"
-        },
-        {
-            "source": "regolith",
-            "target": "sand",
-            "label": ""
-        },
-        {
-            "source": "regolith",
-            "target": "colluvium",
-            "label": ""
-        },
-        {
-            "source": "regolith",
-            "target": "clay",
-            "label": "of"
-        },
-        {
-            "source": "diorite",
-            "target": "amphibolite",
-            "label": "at"
-        },
-        {
-            "source": "diorite",
-            "target": "basalt",
-            "label": "in altered"
-        },
-        {
-            "source": "diorite",
-            "target": "gabbro",
-            "label": ""
-        },
-        {
-            "source": "diorite",
-            "target": "quartz vein",
-            "label": "hosted"
-        },
-        {
-            "source": "diorite",
-            "target": "komatiite",
-            "label": ""
-        },
-        {
-            "source": "diorite",
-            "target": "archaean",
-            "label": ""
-        },
-        {
-            "source": "clastic sedimentary rocks",
-            "target": "volcaniclastic rocks",
-            "label": ""
-        },
-        {
-            "source": "clay",
-            "target": "regolith",
-            "label": ""
-        },
-        {
-            "source": "archaean",
-            "target": "amphibolite facies",
-            "label": "of,in"
-        },
-        {
-            "source": "archaean",
-            "target": "breccia",
-            "label": "dominated by"
-        },
-        {
-            "source": "archaean",
-            "target": "granitoid",
-            "label": ""
-        },
-        {
-            "source": "shale",
-            "target": "dolerite",
-            "label": ""
-        },
-        {
-            "source": "ultramafic sequence",
-            "target": "black shale",
-            "label": ""
-        },
-        {
-            "source": "burbanks basalt",
-            "target": "brilliant ultramafic",
-            "label": ""
-        },
-        {
-            "source": "burbanks basalt",
-            "target": "black shale",
-            "label": ""
-        },
-        {
-            "source": "felsic volcanics",
-            "target": "black flag group",
-            "label": "of"
-        },
-        {
-            "source": "black shale",
+            "source": "breccia",
             "target": "granodiorite",
-            "label": "setting in"
+            "label": ""
         },
         {
-            "source": "black shale",
+            "source": "porphyry",
             "target": "burbanks basalt",
-            "label": ""
+            "label": "in"
         },
         {
-            "source": "black shale",
-            "target": "brilliant ultramafic",
-            "label": ""
-        },
-        {
-            "source": "black shale",
-            "target": "volcaniclastic rocks",
-            "label": ""
-        },
-        {
-            "source": "black shale",
-            "target": "archaean",
-            "label": ""
-        },
-        {
-            "source": "felsic porphyry",
-            "target": "dolerite",
-            "label": "intruded"
-        },
-        {
-            "source": "felsic porphyry",
-            "target": "brilliant ultramafic",
-            "label": ""
-        },
-        {
-            "source": "felsic porphyry",
-            "target": "quartz vein",
-            "label": ""
-        },
-        {
-            "source": "felsic porphyry",
-            "target": "komatiite",
-            "label": ""
-        },
-        {
-            "source": "felsic porphyry",
-            "target": "basalt",
-            "label": ""
+            "source": "brilliant ultramafic",
+            "target": "burbanks basalt",
+            "label": "separates"
         },
         {
             "source": "quartz vein",
             "target": "dolerite",
-            "label": "stockworks in,in"
+            "label": "in"
         },
         {
             "source": "quartz vein",
             "target": "ultramafics",
-            "label": "within"
+            "label": "in"
         },
         {
             "source": "quartz vein",
             "target": "felsic porphyry",
-            "label": "mineralised"
+            "label": ""
         },
         {
             "source": "quartz vein",
@@ -1058,84 +428,164 @@
             "label": "in"
         },
         {
-            "source": "quartz vein",
-            "target": "quartz gabbro",
+            "source": "regolith",
+            "target": "gravels",
             "label": ""
         },
         {
-            "source": "quartz vein",
-            "target": "diorite",
-            "label": ""
-        },
-        {
-            "source": "gleesons basalt",
-            "target": "black flag group",
-            "label": "overlying"
-        },
-        {
-            "source": "gleesons basalt",
-            "target": "three mile sill",
-            "label": ""
-        },
-        {
-            "source": "gleesons basalt",
-            "target": "lindsays basalt",
-            "label": ""
-        },
-        {
-            "source": "gravels",
+            "source": "regolith",
             "target": "clay",
             "label": ""
         },
         {
-            "source": "hampton ultramafics",
+            "source": "coolgardie subgroup",
+            "target": "brilliant formation",
+            "label": "contains"
+        },
+        {
+            "source": "coolgardie subgroup",
+            "target": "gleesons basalt",
+            "label": "contains"
+        },
+        {
+            "source": "coolgardie subgroup",
             "target": "lindsays basalt",
-            "label": "of"
+            "label": "contains"
         },
         {
-            "source": "bali monzogranite",
-            "target": "calooli monzogranite",
-            "label": ""
-        },
-        {
-            "source": "aplite",
-            "target": "granodiorite",
-            "label": ""
-        },
-        {
-            "source": "ultramafic rock",
-            "target": "black flag group",
-            "label": "of"
-        },
-        {
-            "source": "ultramafic rock",
-            "target": "amphibole facies",
-            "label": "to"
-        },
-        {
-            "source": "ultramafic rock",
-            "target": "hampton formation",
-            "label": ""
-        },
-        {
-            "source": "ultramafic rock",
-            "target": "amphibolite facies",
-            "label": ""
-        },
-        {
-            "source": "bonnie vale tonalite",
-            "target": "bonnievale tonalite",
-            "label": "is_current_of"
-        },
-        {
-            "source": "menzies norseman greenstone belt",
-            "target": "archaean",
+            "source": "lindsays basalt",
+            "target": "hampton ultramafics",
             "label": ""
         },
         {
             "source": "felsic sills",
             "target": "host rock",
             "label": "in"
+        },
+        {
+            "source": "basalt",
+            "target": "granodiorite",
+            "label": "in"
+        },
+        {
+            "source": "basalt",
+            "target": "dolerite",
+            "label": ""
+        },
+        {
+            "source": "basalt",
+            "target": "komatiite",
+            "label": ""
+        },
+        {
+            "source": "granodiorite",
+            "target": "ultramafics",
+            "label": ""
+        },
+        {
+            "source": "granodiorite",
+            "target": "breccia",
+            "label": ""
+        },
+        {
+            "source": "granodiorite",
+            "target": "ultramafic sequence",
+            "label": ""
+        },
+        {
+            "source": "granodiorite",
+            "target": "basalt",
+            "label": ""
+        },
+        {
+            "source": "felsic volcanics",
+            "target": "black flag group",
+            "label": ""
+        },
+        {
+            "source": "bonnie vale tonalite",
+            "target": "bonnievale tonalite",
+            "label": "current_name_of"
+        },
+        {
+            "source": "granite greenstone",
+            "target": "granite",
+            "label": "in"
+        },
+        {
+            "source": "volcaniclastic rocks",
+            "target": "clastic sedimentary rocks",
+            "label": "interbedded_with"
+        },
+        {
+            "source": "brilliant formation",
+            "target": "brilliant ultramafic",
+            "label": "current_name_of"
+        },
+        {
+            "source": "host rock",
+            "target": "basalt",
+            "label": "in"
+        },
+        {
+            "source": "host rock",
+            "target": "shale",
+            "label": "in"
+        },
+        {
+            "source": "ultramafics",
+            "target": "ultramafic sequence",
+            "label": ""
+        },
+        {
+            "source": "hampton hill formation",
+            "target": "hampton formation",
+            "label": "current_name_of"
+        },
+        {
+            "source": "archaean",
+            "target": "amphibolite facies",
+            "label": "in"
+        },
+        {
+            "source": "archaean",
+            "target": "breccia",
+            "label": "dominated_by"
+        },
+        {
+            "source": "black flag group",
+            "target": "felsic volcanics",
+            "label": ""
+        },
+        {
+            "source": "black flag group",
+            "target": "three mile sill",
+            "label": ""
+        },
+        {
+            "source": "amphibolite",
+            "target": "talc carbonate",
+            "label": ""
+        },
+        {
+            "source": "amphibolite",
+            "target": "archaean",
+            "label": ""
+        },
+        {
+            "source": "diorite",
+            "target": "amphibolite",
+            "label": "in"
+        },
+        {
+            "source": "diorite",
+            "target": "basalt",
+            "label": ""
+        },
+        {
+            "source": "diorite",
+            "target": "quartz vein",
+            "label": ""
         }
     ]
 }

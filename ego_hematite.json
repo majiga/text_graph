@@ -1,391 +1,186 @@
 {
     "nodes": [
         {
-            "id": "martite hematite",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
             "id": "brockman",
             "group": "LOCATION",
-            "degree": "10"
-        },
-        {
-            "id": "microplaty hematite",
-            "group": "MINERAL",
-            "degree": "23"
-        },
-        {
-            "id": "iron ore",
-            "group": "ORE_DEPOSIT",
-            "degree": "23"
-        },
-        {
-            "id": "limonite",
-            "group": "ORE_DEPOSIT",
-            "degree": "6"
-        },
-        {
-            "id": "channel iron deposit",
-            "group": "ORE_DEPOSIT",
             "degree": "3"
-        },
-        {
-            "id": "martite",
-            "group": "MINERAL",
-            "degree": "14"
-        },
-        {
-            "id": "nammuldi member",
-            "group": "STRAT",
-            "degree": "9"
-        },
-        {
-            "id": "sinter",
-            "group": "ROCK",
-            "degree": "18"
-        },
-        {
-            "id": "marra mamba iron formation",
-            "group": "STRAT",
-            "degree": "16"
-        },
-        {
-            "id": "cloud break",
-            "group": "LOCATION",
-            "degree": "22"
-        },
-        {
-            "id": "mount newman member",
-            "group": "STRAT",
-            "degree": "3"
-        },
-        {
-            "id": "hamersley group",
-            "group": "STRAT",
-            "degree": "4"
-        },
-        {
-            "id": "iron oxide",
-            "group": "MINERAL",
-            "degree": "4"
-        },
-        {
-            "id": "goethite",
-            "group": "MINERAL",
-            "degree": "21"
         },
         {
             "id": "banded iron formation",
             "group": "ROCK",
-            "degree": "11"
-        },
-        {
-            "id": "iron ore deposits",
-            "group": "ORE_DEPOSIT",
-            "degree": "9"
-        },
-        {
-            "id": "archaean",
-            "group": "TIMESCALE",
-            "degree": "3"
+            "degree": "4"
         },
         {
             "id": "hematite",
             "group": "MINERAL",
-            "degree": "30"
+            "degree": "14"
         },
         {
             "id": "crystal",
             "group": "MINERAL",
-            "degree": "13"
+            "degree": "4"
         },
         {
-            "id": "magnetite",
+            "id": "hamersley group",
+            "group": "STRAT",
+            "degree": "0"
+        },
+        {
+            "id": "goethite",
             "group": "MINERAL",
-            "degree": "13"
+            "degree": "8"
         },
         {
-            "id": "pilbara",
-            "group": "LOCATION",
-            "degree": "13"
+            "id": "martite",
+            "group": "MINERAL",
+            "degree": "7"
         },
         {
-            "id": "christmas creek",
-            "group": "LOCATION",
-            "degree": "22"
+            "id": "nammuldi member",
+            "group": "STRAT",
+            "degree": "4"
+        },
+        {
+            "id": "sinter",
+            "group": "ROCK",
+            "degree": "3"
+        },
+        {
+            "id": "limonite",
+            "group": "ORE_DEPOSIT",
+            "degree": "2"
+        },
+        {
+            "id": "archaean",
+            "group": "TIMESCALE",
+            "degree": "0"
+        },
+        {
+            "id": "channel iron deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": "2"
+        },
+        {
+            "id": "microplaty hematite",
+            "group": "MINERAL",
+            "degree": "10"
+        },
+        {
+            "id": "mount newman member",
+            "group": "STRAT",
+            "degree": "1"
         }
     ],
     "links": [
         {
-            "source": "brockman",
-            "target": "cloud break",
-            "label": ""
-        },
-        {
-            "source": "brockman",
-            "target": "hematite",
-            "label": ""
-        },
-        {
-            "source": "brockman",
-            "target": "channel iron deposit",
-            "label": ""
-        },
-        {
-            "source": "brockman",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "marra mamba iron formation",
-            "label": "in,from"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "nammuldi member",
-            "label": "from"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "brockman",
-            "label": "resemble"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "iron ore",
-            "label": "resemble"
-        },
-        {
-            "source": "microplaty hematite",
+            "source": "hematite",
             "target": "goethite",
-            "label": "of,in"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "martite",
-            "label": "interlocking"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "hematite",
-            "label": "of,in"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "pilbara",
-            "label": "in"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "christmas creek",
-            "label": "spread throughout,identified at"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "cloud break",
-            "label": "identified at"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "martite hematite",
             "label": ""
         },
         {
-            "source": "microplaty hematite",
-            "target": "iron ore deposits",
-            "label": ""
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "crystal",
-            "label": "interlocking"
-        },
-        {
-            "source": "iron ore",
-            "target": "iron oxide",
-            "label": "characterised"
-        },
-        {
-            "source": "iron ore",
+            "source": "hematite",
             "target": "microplaty hematite",
-            "label": "in"
-        },
-        {
-            "source": "iron ore",
-            "target": "marra mamba iron formation",
-            "label": "in"
-        },
-        {
-            "source": "iron ore",
-            "target": "hematite",
-            "label": "hardness"
-        },
-        {
-            "source": "iron ore",
-            "target": "goethite",
-            "label": "hardness,with"
-        },
-        {
-            "source": "iron ore",
-            "target": "christmas creek",
             "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "cloud break",
+            "source": "hematite",
+            "target": "martite",
             "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "pilbara",
-            "label": "in,from"
+            "source": "hematite",
+            "target": "brockman",
+            "label": ""
         },
         {
-            "source": "iron ore",
+            "source": "hematite",
             "target": "sinter",
             "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "iron ore deposits",
-            "label": ""
+            "source": "hematite",
+            "target": "limonite",
+            "label": "located_in"
         },
         {
-            "source": "iron ore",
+            "source": "hematite",
             "target": "banded iron formation",
             "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "martite",
-            "label": "with"
-        },
-        {
-            "source": "iron ore",
-            "target": "brockman",
+            "source": "hematite",
+            "target": "channel iron deposit",
             "label": ""
         },
         {
-            "source": "limonite",
-            "target": "magnetite",
-            "label": "structured"
+            "source": "hematite",
+            "target": "crystal",
+            "label": ""
         },
         {
-            "source": "limonite",
+            "source": "crystal",
             "target": "hematite",
-            "label": "for"
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "hematite",
+            "label": "in"
+        },
+        {
+            "source": "goethite",
+            "target": "microplaty hematite",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "martite",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "banded iron formation",
+            "label": ""
         },
         {
             "source": "martite",
             "target": "goethite",
-            "label": "with,of,in,include"
+            "label": "in"
         },
         {
             "source": "martite",
             "target": "hematite",
-            "label": "of,in"
+            "label": "in"
         },
         {
             "source": "martite",
             "target": "microplaty hematite",
-            "label": "interlocking,include"
-        },
-        {
-            "source": "martite",
-            "target": "cloud break",
             "label": ""
         },
         {
             "source": "martite",
             "target": "crystal",
-            "label": "interlocking"
-        },
-        {
-            "source": "martite",
-            "target": "magnetite",
-            "label": "structured"
-        },
-        {
-            "source": "martite",
-            "target": "limonite",
             "label": ""
         },
         {
             "source": "nammuldi member",
-            "target": "marra mamba iron formation",
-            "label": "of"
-        },
-        {
-            "source": "nammuldi member",
             "target": "microplaty hematite",
-            "label": "ranges"
+            "label": ""
         },
         {
             "source": "nammuldi member",
             "target": "goethite",
-            "label": "ranges"
-        },
-        {
-            "source": "nammuldi member",
-            "target": "cloud break",
             "label": ""
         },
         {
             "source": "nammuldi member",
             "target": "banded iron formation",
-            "label": "consists of"
-        },
-        {
-            "source": "sinter",
-            "target": "magnetite",
-            "label": "for"
-        },
-        {
-            "source": "sinter",
-            "target": "christmas creek",
-            "label": "of,on"
-        },
-        {
-            "source": "sinter",
-            "target": "cloud break",
-            "label": "of"
+            "label": ""
         },
         {
             "source": "sinter",
             "target": "brockman",
             "label": "in"
-        },
-        {
-            "source": "sinter",
-            "target": "crystal",
-            "label": ""
-        },
-        {
-            "source": "sinter",
-            "target": "microplaty hematite",
-            "label": ""
-        },
-        {
-            "source": "sinter",
-            "target": "hematite",
-            "label": ""
-        },
-        {
-            "source": "sinter",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "sinter",
-            "target": "goethite",
-            "label": ""
-        },
-        {
-            "source": "sinter",
-            "target": "limonite",
-            "label": ""
         },
         {
             "source": "sinter",
@@ -393,458 +188,43 @@
             "label": "in"
         },
         {
-            "source": "marra mamba iron formation",
-            "target": "hamersley group",
-            "label": "of,within"
-        },
-        {
-            "source": "marra mamba iron formation",
-            "target": "archaean",
-            "label": "of"
-        },
-        {
-            "source": "marra mamba iron formation",
-            "target": "iron ore",
-            "label": "for"
-        },
-        {
-            "source": "marra mamba iron formation",
-            "target": "microplaty hematite",
-            "label": "ranges"
-        },
-        {
-            "source": "marra mamba iron formation",
-            "target": "goethite",
-            "label": "ranges"
-        },
-        {
-            "source": "marra mamba iron formation",
-            "target": "nammuldi member",
-            "label": "is_parent_of,termed"
-        },
-        {
-            "source": "marra mamba iron formation",
-            "target": "mount newman member",
-            "label": "is_parent_of"
-        },
-        {
-            "source": "cloud break",
-            "target": "marra mamba iron formation",
-            "label": "confirming"
-        },
-        {
-            "source": "cloud break",
-            "target": "christmas creek",
-            "label": "for,at varying,flowsheet.113,used at,drilled at"
-        },
-        {
-            "source": "cloud break",
-            "target": "martite",
-            "label": "with"
-        },
-        {
-            "source": "cloud break",
-            "target": "goethite",
-            "label": "with"
-        },
-        {
-            "source": "cloud break",
+            "source": "limonite",
             "target": "hematite",
-            "label": "of"
+            "label": ""
         },
         {
-            "source": "cloud break",
+            "source": "microplaty hematite",
             "target": "nammuldi member",
-            "label": "prospects within"
-        },
-        {
-            "source": "cloud break",
-            "target": "pilbara",
-            "label": "compared to"
-        },
-        {
-            "source": "cloud break",
-            "target": "iron ore",
             "label": ""
         },
         {
-            "source": "cloud break",
-            "target": "sinter",
-            "label": ""
-        },
-        {
-            "source": "cloud break",
-            "target": "microplaty hematite",
-            "label": ""
-        },
-        {
-            "source": "cloud break",
+            "source": "microplaty hematite",
             "target": "brockman",
+            "label": ""
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "goethite",
+            "label": "in"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "martite",
+            "label": ""
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "hematite",
+            "label": "in"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "crystal",
             "label": ""
         },
         {
             "source": "mount newman member",
             "target": "banded iron formation",
-            "label": "consists of"
-        },
-        {
-            "source": "hamersley group",
-            "target": "iron ore deposits",
-            "label": ""
-        },
-        {
-            "source": "hamersley group",
-            "target": "marra mamba iron formation",
-            "label": "is_parent_of"
-        },
-        {
-            "source": "iron oxide",
-            "target": "marra mamba iron formation",
-            "label": ""
-        },
-        {
-            "source": "iron oxide",
-            "target": "crystal",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "christmas creek",
-            "label": "of,compared to,blended with"
-        },
-        {
-            "source": "goethite",
-            "target": "hematite",
-            "label": "locked within,compared to,in,note"
-        },
-        {
-            "source": "goethite",
-            "target": "microplaty hematite",
-            "label": "to"
-        },
-        {
-            "source": "goethite",
-            "target": "martite",
-            "label": "to"
-        },
-        {
-            "source": "goethite",
-            "target": "cloud break",
-            "label": "of"
-        },
-        {
-            "source": "goethite",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "iron ore deposits",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "sinter",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "banded iron formation",
-            "label": "may occur at"
-        },
-        {
-            "source": "banded iron formation",
-            "target": "magnetite",
-            "label": "with"
-        },
-        {
-            "source": "banded iron formation",
-            "target": "iron ore",
-            "label": "derived"
-        },
-        {
-            "source": "banded iron formation",
-            "target": "mount newman member",
-            "label": ""
-        },
-        {
-            "source": "banded iron formation",
-            "target": "hematite",
-            "label": ""
-        },
-        {
-            "source": "iron ore deposits",
-            "target": "pilbara",
-            "label": "in"
-        },
-        {
-            "source": "iron ore deposits",
-            "target": "goethite",
-            "label": ""
-        },
-        {
-            "source": "iron ore deposits",
-            "target": "banded iron formation",
-            "label": ""
-        },
-        {
-            "source": "archaean",
-            "target": "marra mamba iron formation",
-            "label": "aged"
-        },
-        {
-            "source": "archaean",
-            "target": "hamersley group",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "goethite",
-            "label": "of,(with variable degrees of alteration between these minerals),grading into"
-        },
-        {
-            "source": "hematite",
-            "target": "microplaty hematite",
-            "label": "can refer to,(commonly disseminated throughout the christmas creek deposit)"
-        },
-        {
-            "source": "hematite",
-            "target": "martite",
-            "label": "can refer to"
-        },
-        {
-            "source": "hematite",
-            "target": "brockman",
-            "label": "from"
-        },
-        {
-            "source": "hematite",
-            "target": "sinter",
-            "label": "to,mix to"
-        },
-        {
-            "source": "hematite",
-            "target": "limonite",
-            "label": "belonging to"
-        },
-        {
-            "source": "hematite",
-            "target": "cloud break",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "christmas creek",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "iron ore deposits",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "pilbara",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "martite hematite",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "magnetite",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "banded iron formation",
-            "label": "may occur at"
-        },
-        {
-            "source": "hematite",
-            "target": "channel iron deposit",
-            "label": "with"
-        },
-        {
-            "source": "hematite",
-            "target": "marra mamba iron formation",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "hematite",
-            "target": "crystal",
-            "label": "vary from"
-        },
-        {
-            "source": "hematite",
-            "target": "iron oxide",
-            "label": ""
-        },
-        {
-            "source": "crystal",
-            "target": "pilbara",
-            "label": ""
-        },
-        {
-            "source": "crystal",
-            "target": "hematite",
-            "label": "of"
-        },
-        {
-            "source": "crystal",
-            "target": "sinter",
-            "label": ""
-        },
-        {
-            "source": "crystal",
-            "target": "christmas creek",
-            "label": "at"
-        },
-        {
-            "source": "crystal",
-            "target": "cloud break",
-            "label": "at"
-        },
-        {
-            "source": "crystal",
-            "target": "martite",
-            "label": ""
-        },
-        {
-            "source": "magnetite",
-            "target": "goethite",
-            "label": "to hematite"
-        },
-        {
-            "source": "magnetite",
-            "target": "sinter",
-            "label": "conducted"
-        },
-        {
-            "source": "magnetite",
-            "target": "hematite",
-            "label": ""
-        },
-        {
-            "source": "magnetite",
-            "target": "christmas creek",
-            "label": ""
-        },
-        {
-            "source": "magnetite",
-            "target": "limonite",
-            "label": ""
-        },
-        {
-            "source": "magnetite",
-            "target": "banded iron formation",
-            "label": "within"
-        },
-        {
-            "source": "magnetite",
-            "target": "crystal",
-            "label": ""
-        },
-        {
-            "source": "pilbara",
-            "target": "iron ore",
-            "label": "for fortescue metals group limited,conditioned,bedded"
-        },
-        {
-            "source": "pilbara",
-            "target": "christmas creek",
-            "label": "including at"
-        },
-        {
-            "source": "pilbara",
-            "target": "cloud break",
-            "label": ""
-        },
-        {
-            "source": "pilbara",
-            "target": "goethite",
-            "label": ""
-        },
-        {
-            "source": "pilbara",
-            "target": "microplaty hematite",
-            "label": ""
-        },
-        {
-            "source": "pilbara",
-            "target": "iron ore deposits",
-            "label": ""
-        },
-        {
-            "source": "christmas creek",
-            "target": "cloud break",
-            "label": "found at,used at,conditioned,on,finishing at"
-        },
-        {
-            "source": "christmas creek",
-            "target": "marra mamba iron formation",
-            "label": "confirming"
-        },
-        {
-            "source": "christmas creek",
-            "target": "martite",
-            "label": "with"
-        },
-        {
-            "source": "christmas creek",
-            "target": "goethite",
-            "label": "with"
-        },
-        {
-            "source": "christmas creek",
-            "target": "nammuldi member",
-            "label": "prospects within"
-        },
-        {
-            "source": "christmas creek",
-            "target": "pilbara",
-            "label": "compared to"
-        },
-        {
-            "source": "christmas creek",
-            "target": "iron ore",
-            "label": "compared to"
-        },
-        {
-            "source": "christmas creek",
-            "target": "sinter",
-            "label": "for"
-        },
-        {
-            "source": "christmas creek",
-            "target": "hematite",
-            "label": "could outperform"
-        },
-        {
-            "source": "christmas creek",
-            "target": "brockman",
-            "label": ""
-        },
-        {
-            "source": "christmas creek",
-            "target": "microplaty hematite",
-            "label": ""
-        },
-        {
-            "source": "christmas creek",
-            "target": "magnetite",
-            "label": ""
-        },
-        {
-            "source": "christmas creek",
-            "target": "crystal",
             "label": ""
         }
     ]
