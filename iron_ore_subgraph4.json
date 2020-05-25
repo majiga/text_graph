@@ -3,17 +3,17 @@
         {
             "id": "pilbara",
             "group": "LOCATION",
-            "degree": "5"
+            "degree": "7"
         },
         {
             "id": "nullagine",
             "group": "LOCATION",
-            "degree": "1"
+            "degree": "2"
         },
         {
             "id": "pilbara craton",
             "group": "LOCATION",
-            "degree": "1"
+            "degree": "3"
         },
         {
             "id": "hamersley group",
@@ -21,34 +21,49 @@
             "degree": "10"
         },
         {
-            "id": "western australia",
+            "id": "marble bar",
             "group": "LOCATION",
-            "degree": "7"
+            "degree": "1"
         },
         {
-            "id": "perth",
+            "id": "mount tom price",
+            "group": "LOCATION",
+            "degree": "1"
+        },
+        {
+            "id": "paraburdoo",
             "group": "LOCATION",
             "degree": "2"
         },
         {
+            "id": "western australia",
+            "group": "LOCATION",
+            "degree": "11"
+        },
+        {
+            "id": "perth",
+            "group": "LOCATION",
+            "degree": "3"
+        },
+        {
             "id": "jeerinah formation",
             "group": "STRAT",
-            "degree": "3"
+            "degree": "4"
         },
         {
             "id": "brockman iron formation",
             "group": "STRAT",
-            "degree": "1"
+            "degree": "2"
         },
         {
             "id": "hamersley",
             "group": "LOCATION",
-            "degree": "1"
+            "degree": "4"
         },
         {
             "id": "hamersley basin",
             "group": "LOCATION",
-            "degree": "1"
+            "degree": "2"
         },
         {
             "id": "roy hill shale member",
@@ -58,17 +73,22 @@
         {
             "id": "newman",
             "group": "LOCATION",
-            "degree": "1"
+            "degree": "9"
         },
         {
             "id": "marandoo",
+            "group": "LOCATION",
+            "degree": "5"
+        },
+        {
+            "id": "goldsworthy",
             "group": "LOCATION",
             "degree": "2"
         },
         {
             "id": "chichester range",
             "group": "LOCATION",
-            "degree": "3"
+            "degree": "4"
         },
         {
             "id": "roy hill member",
@@ -78,27 +98,27 @@
         {
             "id": "roy hill",
             "group": "LOCATION",
-            "degree": "3"
+            "degree": "7"
         },
         {
             "id": "genesis",
             "group": "LOCATION",
-            "degree": "1"
+            "degree": "2"
         },
         {
             "id": "christmas creek",
             "group": "LOCATION",
-            "degree": "10"
+            "degree": "19"
         },
         {
             "id": "pilbara region",
             "group": "LOCATION",
-            "degree": "3"
+            "degree": "5"
         },
         {
             "id": "marra mamba iron formation",
             "group": "STRAT",
-            "degree": "9"
+            "degree": "11"
         },
         {
             "id": "oakover formation",
@@ -108,7 +128,7 @@
         {
             "id": "cloud break",
             "group": "LOCATION",
-            "degree": "10"
+            "degree": "19"
         },
         {
             "id": "hamersley group, lower",
@@ -118,7 +138,7 @@
         {
             "id": "robe",
             "group": "LOCATION",
-            "degree": "1"
+            "degree": "2"
         },
         {
             "id": "hamersley group, upper",
@@ -128,7 +148,7 @@
         {
             "id": "koolyanobbing",
             "group": "LOCATION",
-            "degree": "1"
+            "degree": "3"
         },
         {
             "id": "macleod member",
@@ -138,27 +158,42 @@
         {
             "id": "nammuldi",
             "group": "LOCATION",
+            "degree": "2"
+        },
+        {
+            "id": "marra mamba iron formation nammuldi member",
+            "group": "STRAT",
             "degree": "1"
         },
         {
             "id": "west angelas",
             "group": "LOCATION",
-            "degree": "5"
+            "degree": "8"
         },
         {
             "id": "fortescue marsh",
             "group": "LOCATION",
-            "degree": "1"
+            "degree": "3"
         },
         {
             "id": "australia",
+            "group": "LOCATION",
+            "degree": "5"
+        },
+        {
+            "id": "fortescue river",
             "group": "LOCATION",
             "degree": "1"
         },
         {
             "id": "brockman",
             "group": "LOCATION",
-            "degree": "0"
+            "degree": "5"
+        },
+        {
+            "id": "cloud break christmas creek",
+            "group": "LOCATION",
+            "degree": "1"
         },
         {
             "id": "hamersley iron province",
@@ -168,12 +203,12 @@
         {
             "id": "hamersley province",
             "group": "LOCATION",
-            "degree": "1"
+            "degree": "4"
         },
         {
             "id": "yilgarn craton",
             "group": "LOCATION",
-            "degree": "2"
+            "degree": "3"
         },
         {
             "id": "fortescue group",
@@ -183,7 +218,7 @@
         {
             "id": "nammuldi member",
             "group": "STRAT",
-            "degree": "7"
+            "degree": "9"
         },
         {
             "id": "mount bruce supergroup",
@@ -205,6 +240,11 @@
         {
             "source": "pilbara",
             "target": "australia",
+            "label": ""
+        },
+        {
+            "source": "pilbara",
+            "target": "cloud break",
             "label": ""
         },
         {
@@ -243,6 +283,16 @@
             "label": "contains"
         },
         {
+            "source": "marble bar",
+            "target": "newman",
+            "label": ""
+        },
+        {
+            "source": "paraburdoo",
+            "target": "brockman",
+            "label": ""
+        },
+        {
             "source": "western australia",
             "target": "pilbara",
             "label": ""
@@ -253,13 +303,43 @@
             "label": "in"
         },
         {
+            "source": "western australia",
+            "target": "pilbara region",
+            "label": ""
+        },
+        {
+            "source": "western australia",
+            "target": "hamersley province",
+            "label": ""
+        },
+        {
+            "source": "perth",
+            "target": "genesis",
+            "label": ""
+        },
+        {
+            "source": "jeerinah formation",
+            "target": "nammuldi member",
+            "label": ""
+        },
+        {
             "source": "jeerinah formation",
             "target": "roy hill member",
             "label": "contains"
         },
         {
+            "source": "brockman iron formation",
+            "target": "cloud break",
+            "label": ""
+        },
+        {
             "source": "hamersley",
             "target": "chichester range",
+            "label": ""
+        },
+        {
+            "source": "hamersley",
+            "target": "christmas creek",
             "label": ""
         },
         {
@@ -268,14 +348,74 @@
             "label": "in"
         },
         {
+            "source": "hamersley basin",
+            "target": "western australia",
+            "label": ""
+        },
+        {
             "source": "newman",
             "target": "roy hill",
             "label": "in"
         },
         {
+            "source": "newman",
+            "target": "cloud break",
+            "label": ""
+        },
+        {
+            "source": "newman",
+            "target": "goldsworthy",
+            "label": ""
+        },
+        {
+            "source": "newman",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "marandoo",
+            "target": "west angelas",
+            "label": ""
+        },
+        {
+            "source": "marandoo",
+            "target": "paraburdoo",
+            "label": ""
+        },
+        {
+            "source": "goldsworthy",
+            "target": "newman",
+            "label": ""
+        },
+        {
+            "source": "chichester range",
+            "target": "hamersley",
+            "label": ""
+        },
+        {
             "source": "roy hill member",
             "target": "roy hill shale member",
             "label": "current_name_of"
+        },
+        {
+            "source": "roy hill",
+            "target": "fortescue marsh",
+            "label": ""
+        },
+        {
+            "source": "roy hill",
+            "target": "newman",
+            "label": ""
+        },
+        {
+            "source": "roy hill",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "roy hill",
+            "target": "nammuldi",
+            "label": ""
         },
         {
             "source": "genesis",
@@ -313,8 +453,38 @@
             "label": ""
         },
         {
+            "source": "christmas creek",
+            "target": "newman",
+            "label": ""
+        },
+        {
+            "source": "christmas creek",
+            "target": "hamersley",
+            "label": ""
+        },
+        {
+            "source": "christmas creek",
+            "target": "australia",
+            "label": ""
+        },
+        {
+            "source": "christmas creek",
+            "target": "nullagine",
+            "label": ""
+        },
+        {
+            "source": "christmas creek",
+            "target": "brockman",
+            "label": ""
+        },
+        {
             "source": "pilbara region",
             "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "pilbara region",
+            "target": "cloud break",
             "label": ""
         },
         {
@@ -330,6 +500,16 @@
         {
             "source": "marra mamba iron formation",
             "target": "nammuldi member",
+            "label": ""
+        },
+        {
+            "source": "marra mamba iron formation",
+            "target": "hamersley province",
+            "label": ""
+        },
+        {
+            "source": "marra mamba iron formation",
+            "target": "pilbara craton",
             "label": ""
         },
         {
@@ -383,6 +563,21 @@
             "label": ""
         },
         {
+            "source": "cloud break",
+            "target": "cloud break christmas creek",
+            "label": ""
+        },
+        {
+            "source": "cloud break",
+            "target": "brockman",
+            "label": ""
+        },
+        {
+            "source": "cloud break",
+            "target": "newman",
+            "label": ""
+        },
+        {
             "source": "hamersley group, lower",
             "target": "hamersley group",
             "label": "current_name_of"
@@ -403,8 +598,18 @@
             "label": "in"
         },
         {
+            "source": "koolyanobbing",
+            "target": "pilbara craton",
+            "label": ""
+        },
+        {
             "source": "nammuldi",
             "target": "roy hill",
+            "label": ""
+        },
+        {
+            "source": "marra mamba iron formation nammuldi member",
+            "target": "western australia",
             "label": ""
         },
         {
@@ -418,8 +623,43 @@
             "label": ""
         },
         {
+            "source": "west angelas",
+            "target": "marandoo",
+            "label": ""
+        },
+        {
+            "source": "west angelas",
+            "target": "robe",
+            "label": ""
+        },
+        {
             "source": "fortescue marsh",
             "target": "roy hill",
+            "label": ""
+        },
+        {
+            "source": "fortescue marsh",
+            "target": "fortescue river",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "christmas creek",
+            "label": ""
+        },
+        {
+            "source": "australia",
+            "target": "pilbara",
+            "label": ""
+        },
+        {
+            "source": "brockman",
+            "target": "cloud break",
+            "label": ""
+        },
+        {
+            "source": "brockman",
+            "target": "mount tom price",
             "label": ""
         },
         {
@@ -430,6 +670,16 @@
         {
             "source": "hamersley province",
             "target": "western australia",
+            "label": ""
+        },
+        {
+            "source": "hamersley province",
+            "target": "australia",
+            "label": ""
+        },
+        {
+            "source": "yilgarn craton",
+            "target": "koolyanobbing",
             "label": ""
         },
         {
@@ -460,6 +710,11 @@
         {
             "source": "nammuldi member",
             "target": "marra mamba iron formation",
+            "label": ""
+        },
+        {
+            "source": "nammuldi member",
+            "target": "cloud break",
             "label": ""
         },
         {
