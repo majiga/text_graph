@@ -325,7 +325,7 @@
         {
             "source": "big blow",
             "target": "coolgardie",
-            "label": ""
+            "label": "in"
         },
         {
             "source": "big blow",
@@ -535,7 +535,7 @@
         {
             "source": "coolgardie",
             "target": "gold",
-            "label": "associated_with"
+            "label": "in;associated_with"
         },
         {
             "source": "coolgardie",
@@ -760,7 +760,7 @@
         {
             "source": "gold",
             "target": "coolgardie",
-            "label": ""
+            "label": "in"
         },
         {
             "source": "gold",
@@ -785,7 +785,7 @@
         {
             "source": "gold",
             "target": "sulphide",
-            "label": "associated_with;occur_in"
+            "label": "in;associated_with;occur_in"
         },
         {
             "source": "gold",
@@ -795,7 +795,7 @@
         {
             "source": "gold",
             "target": "breccia",
-            "label": "hosted_in"
+            "label": "in;hosted_in"
         },
         {
             "source": "gold",
@@ -820,7 +820,7 @@
         {
             "source": "gold",
             "target": "biotite",
-            "label": ""
+            "label": "associated_with"
         },
         {
             "source": "gold",
@@ -845,7 +845,7 @@
         {
             "source": "gold",
             "target": "quartz",
-            "label": "associated_with"
+            "label": "occur_in;associated_with"
         },
         {
             "source": "gold",
@@ -855,7 +855,7 @@
         {
             "source": "gold",
             "target": "pyrite",
-            "label": ""
+            "label": "associated_with"
         },
         {
             "source": "gold",
@@ -915,7 +915,7 @@
         {
             "source": "gold",
             "target": "hydrothermal",
-            "label": ""
+            "label": "associated_with"
         },
         {
             "source": "gold",
@@ -925,7 +925,7 @@
         {
             "source": "gold",
             "target": "gold deposit",
-            "label": ""
+            "label": "in"
         },
         {
             "source": "gold",
@@ -940,7 +940,7 @@
         {
             "source": "gold",
             "target": "lode",
-            "label": "in"
+            "label": "occur_in;in"
         },
         {
             "source": "gold",
@@ -1200,7 +1200,7 @@
         {
             "source": "lode",
             "target": "coolgardie",
-            "label": ""
+            "label": "in"
         },
         {
             "source": "lode",
@@ -1490,7 +1490,7 @@
         {
             "source": "bonnievale tonalite",
             "target": "lode",
-            "label": ""
+            "label": "in"
         },
         {
             "source": "tourmaline",
@@ -1750,7 +1750,7 @@
         {
             "source": "gold deposit",
             "target": "coolgardie",
-            "label": ""
+            "label": "in"
         },
         {
             "source": "gold deposit",
