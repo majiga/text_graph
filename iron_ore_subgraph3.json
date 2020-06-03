@@ -1,14 +1,29 @@
 {
     "nodes": [
         {
-            "id": "pyrite",
+            "id": "iron oxide",
+            "group": "MINERAL",
+            "degree": "6"
+        },
+        {
+            "id": "goethite ores",
+            "group": "ORE_DEPOSIT",
+            "degree": "2"
+        },
+        {
+            "id": "silicate",
             "group": "MINERAL",
             "degree": "2"
         },
         {
-            "id": "crystal",
-            "group": "MINERAL",
-            "degree": "8"
+            "id": "channel iron deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": "10"
+        },
+        {
+            "id": "iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": "41"
         },
         {
             "id": "calcite",
@@ -16,109 +31,14 @@
             "degree": "1"
         },
         {
-            "id": "martite goethite",
-            "group": "MINERAL",
-            "degree": "5"
-        },
-        {
-            "id": "lime",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "pyrolusite",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "silica",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "dolomite",
-            "group": "MINERAL",
-            "degree": "6"
-        },
-        {
-            "id": "channel iron deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": "2"
-        },
-        {
-            "id": "did deposits",
-            "group": "ORE_DEPOSIT",
-            "degree": "0"
-        },
-        {
-            "id": "silicate",
-            "group": "MINERAL",
-            "degree": "0"
-        },
-        {
-            "id": "martite",
-            "group": "MINERAL",
-            "degree": "14"
-        },
-        {
-            "id": "sulphur",
-            "group": "MINERAL",
-            "degree": "0"
-        },
-        {
-            "id": "quartz",
-            "group": "MINERAL",
-            "degree": "7"
-        },
-        {
-            "id": "martite goethite ore",
-            "group": "ORE_DEPOSIT",
-            "degree": "4"
-        },
-        {
-            "id": "microplaty hematite",
-            "group": "MINERAL",
-            "degree": "16"
-        },
-        {
-            "id": "goethite ores",
-            "group": "ORE_DEPOSIT",
-            "degree": "0"
-        },
-        {
             "id": "iron ore deposits",
-            "group": "ORE_DEPOSIT",
-            "degree": "5"
-        },
-        {
-            "id": "goethite",
-            "group": "MINERAL",
-            "degree": "15"
-        },
-        {
-            "id": "iron oxide",
-            "group": "MINERAL",
-            "degree": "5"
-        },
-        {
-            "id": "magnetite",
-            "group": "MINERAL",
-            "degree": "7"
-        },
-        {
-            "id": "iron ore",
             "group": "ORE_DEPOSIT",
             "degree": "13"
         },
         {
-            "id": "limonite",
-            "group": "ORE_DEPOSIT",
-            "degree": "5"
-        },
-        {
-            "id": "hematite",
+            "id": "carbonate",
             "group": "MINERAL",
-            "degree": "22"
+            "degree": "7"
         },
         {
             "id": "gibbsite",
@@ -126,39 +46,79 @@
             "degree": "1"
         },
         {
-            "id": "iron deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": "0"
-        },
-        {
-            "id": "microplaty hematite microplaty hematite",
+            "id": "pyrolusite",
             "group": "MINERAL",
-            "degree": "1"
+            "degree": "2"
         },
         {
-            "id": "supergene iron ore",
-            "group": "ORE_DEPOSIT",
-            "degree": "0"
+            "id": "goethite",
+            "group": "MINERAL",
+            "degree": "31"
+        },
+        {
+            "id": "microplaty hematite",
+            "group": "MINERAL",
+            "degree": "32"
+        },
+        {
+            "id": "martite",
+            "group": "MINERAL",
+            "degree": "18"
         },
         {
             "id": "micro platy hematite",
             "group": "MINERAL",
-            "degree": "0"
+            "degree": "1"
         },
         {
-            "id": "supergene",
+            "id": "limonite",
             "group": "ORE_DEPOSIT",
-            "degree": "7"
+            "degree": "6"
         },
         {
-            "id": "cid channel iron deposits",
-            "group": "ORE_DEPOSIT",
-            "degree": "0"
+            "id": "quartz",
+            "group": "MINERAL",
+            "degree": "8"
+        },
+        {
+            "id": "kaolinite",
+            "group": "MINERAL",
+            "degree": "4"
         },
         {
             "id": "iron",
             "group": "MINERAL",
-            "degree": "11"
+            "degree": "37"
+        },
+        {
+            "id": "iron deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": "5"
+        },
+        {
+            "id": "martite goethite",
+            "group": "MINERAL",
+            "degree": "6"
+        },
+        {
+            "id": "crystal",
+            "group": "MINERAL",
+            "degree": "14"
+        },
+        {
+            "id": "martite goethite ore",
+            "group": "ORE_DEPOSIT",
+            "degree": "4"
+        },
+        {
+            "id": "supergene iron ore",
+            "group": "ORE_DEPOSIT",
+            "degree": "1"
+        },
+        {
+            "id": "microplaty hematite microplaty hematite",
+            "group": "MINERAL",
+            "degree": "2"
         },
         {
             "id": "martite hematite",
@@ -166,29 +126,109 @@
             "degree": "3"
         },
         {
-            "id": "kaolinite",
+            "id": "dolomite",
+            "group": "MINERAL",
+            "degree": "11"
+        },
+        {
+            "id": "lime",
+            "group": "MINERAL",
+            "degree": "3"
+        },
+        {
+            "id": "hematite",
+            "group": "MINERAL",
+            "degree": "36"
+        },
+        {
+            "id": "magnetite",
+            "group": "MINERAL",
+            "degree": "14"
+        },
+        {
+            "id": "supergene",
+            "group": "ORE_DEPOSIT",
+            "degree": "11"
+        },
+        {
+            "id": "did deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": "2"
+        },
+        {
+            "id": "silica",
+            "group": "MINERAL",
+            "degree": "4"
+        },
+        {
+            "id": "pyrite",
             "group": "MINERAL",
             "degree": "2"
         },
         {
-            "id": "carbonate",
+            "id": "sulphur",
             "group": "MINERAL",
-            "degree": "4"
+            "degree": "2"
+        },
+        {
+            "id": "cid channel iron deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": "2"
         }
     ],
     "links": [
         {
-            "source": "pyrite",
-            "target": "dolomite",
+            "source": "iron oxide",
+            "target": "crystal",
             "label": ""
         },
         {
-            "source": "crystal",
+            "source": "iron oxide",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "channel iron deposit",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "iron oxide",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "microplaty hematite",
+            "label": "in"
+        },
+        {
+            "source": "iron ore",
             "target": "hematite",
             "label": ""
         },
         {
-            "source": "crystal",
+            "source": "iron ore",
+            "target": "goethite",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "iron ore deposits",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "iron ore",
             "target": "martite",
             "label": ""
         },
@@ -198,18 +238,23 @@
             "label": ""
         },
         {
-            "source": "martite goethite",
-            "target": "martite hematite",
+            "source": "iron ore deposits",
+            "target": "goethite",
             "label": ""
         },
         {
-            "source": "martite goethite",
-            "target": "microplaty hematite",
+            "source": "carbonate",
+            "target": "iron",
             "label": ""
         },
         {
-            "source": "lime",
-            "target": "dolomite",
+            "source": "carbonate",
+            "target": "gibbsite",
+            "label": ""
+        },
+        {
+            "source": "carbonate",
+            "target": "hematite",
             "label": ""
         },
         {
@@ -223,28 +268,88 @@
             "label": ""
         },
         {
-            "source": "silica",
+            "source": "goethite",
+            "target": "hematite",
+            "label": "in"
+        },
+        {
+            "source": "goethite",
+            "target": "microplaty hematite",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "martite",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "goethite",
+            "target": "iron ore deposits",
+            "label": ""
+        },
+        {
+            "source": "goethite",
             "target": "quartz",
             "label": ""
         },
         {
-            "source": "silica",
+            "source": "goethite",
+            "target": "martite goethite ore",
+            "label": ""
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "iron ore",
+            "label": ""
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "goethite",
+            "label": "in"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "martite",
+            "label": ""
+        },
+        {
+            "source": "microplaty hematite",
             "target": "hematite",
+            "label": "in"
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "supergene",
             "label": ""
         },
         {
-            "source": "dolomite",
-            "target": "lime",
+            "source": "microplaty hematite",
+            "target": "martite hematite",
             "label": ""
         },
         {
-            "source": "dolomite",
-            "target": "carbonate",
+            "source": "microplaty hematite",
+            "target": "iron ore deposits",
             "label": ""
         },
         {
-            "source": "channel iron deposit",
-            "target": "iron",
+            "source": "microplaty hematite",
+            "target": "martite goethite",
+            "label": ""
+        },
+        {
+            "source": "microplaty hematite",
+            "target": "crystal",
             "label": ""
         },
         {
@@ -288,6 +393,16 @@
             "label": ""
         },
         {
+            "source": "limonite",
+            "target": "magnetite",
+            "label": ""
+        },
+        {
+            "source": "limonite",
+            "target": "hematite",
+            "label": ""
+        },
+        {
             "source": "quartz",
             "target": "iron ore",
             "label": "in"
@@ -303,183 +418,88 @@
             "label": ""
         },
         {
-            "source": "martite goethite ore",
-            "target": "supergene",
+            "source": "kaolinite",
+            "target": "quartz",
             "label": ""
         },
         {
-            "source": "martite goethite ore",
-            "target": "martite",
+            "source": "iron",
+            "target": "iron oxide",
+            "label": "contains"
+        },
+        {
+            "source": "iron",
+            "target": "martite goethite ore",
+            "label": "in"
+        },
+        {
+            "source": "iron",
+            "target": "goethite",
             "label": ""
         },
         {
-            "source": "microplaty hematite",
+            "source": "iron",
             "target": "iron ore",
             "label": ""
         },
         {
-            "source": "microplaty hematite",
-            "target": "goethite",
-            "label": "in"
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "martite",
-            "label": ""
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "hematite",
-            "label": "in"
-        },
-        {
-            "source": "microplaty hematite",
+            "source": "iron",
             "target": "supergene",
             "label": ""
         },
         {
-            "source": "microplaty hematite",
+            "source": "iron",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "martite goethite",
             "target": "martite hematite",
             "label": ""
         },
         {
-            "source": "microplaty hematite",
-            "target": "iron ore deposits",
-            "label": ""
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "martite goethite",
-            "label": ""
-        },
-        {
-            "source": "microplaty hematite",
-            "target": "crystal",
-            "label": ""
-        },
-        {
-            "source": "iron ore deposits",
-            "target": "goethite",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "hematite",
-            "label": "in"
-        },
-        {
-            "source": "goethite",
+            "source": "martite goethite",
             "target": "microplaty hematite",
             "label": ""
         },
         {
-            "source": "goethite",
-            "target": "martite",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "iron ore deposits",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "quartz",
-            "label": ""
-        },
-        {
-            "source": "goethite",
-            "target": "martite goethite ore",
-            "label": ""
-        },
-        {
-            "source": "iron oxide",
-            "target": "crystal",
-            "label": ""
-        },
-        {
-            "source": "iron oxide",
-            "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "magnetite",
-            "target": "goethite",
-            "label": ""
-        },
-        {
-            "source": "magnetite",
+            "source": "crystal",
             "target": "hematite",
             "label": ""
         },
         {
-            "source": "magnetite",
-            "target": "limonite",
+            "source": "crystal",
+            "target": "martite",
             "label": ""
         },
         {
-            "source": "magnetite",
-            "target": "crystal",
+            "source": "martite goethite ore",
+            "target": "supergene",
             "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "iron oxide",
+            "source": "martite goethite ore",
+            "target": "martite",
             "label": ""
         },
         {
-            "source": "iron ore",
+            "source": "microplaty hematite microplaty hematite",
             "target": "microplaty hematite",
-            "label": "in"
-        },
-        {
-            "source": "iron ore",
-            "target": "hematite",
             "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "goethite",
+            "source": "dolomite",
+            "target": "lime",
             "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "quartz",
+            "source": "dolomite",
+            "target": "carbonate",
             "label": ""
         },
         {
-            "source": "iron ore",
-            "target": "iron ore deposits",
-            "label": ""
-        },
-        {
-            "source": "iron ore",
-            "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "iron ore",
-            "target": "martite",
-            "label": ""
-        },
-        {
-            "source": "limonite",
-            "target": "magnetite",
-            "label": ""
-        },
-        {
-            "source": "limonite",
-            "target": "hematite",
+            "source": "lime",
+            "target": "dolomite",
             "label": ""
         },
         {
@@ -500,7 +520,7 @@
         {
             "source": "hematite",
             "target": "limonite",
-            "label": "located_in"
+            "label": "occurs_in"
         },
         {
             "source": "hematite",
@@ -538,8 +558,23 @@
             "label": ""
         },
         {
-            "source": "microplaty hematite microplaty hematite",
-            "target": "microplaty hematite",
+            "source": "magnetite",
+            "target": "goethite",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "limonite",
+            "label": ""
+        },
+        {
+            "source": "magnetite",
+            "target": "crystal",
             "label": ""
         },
         {
@@ -558,53 +593,18 @@
             "label": ""
         },
         {
-            "source": "iron",
-            "target": "iron oxide",
-            "label": "contains"
-        },
-        {
-            "source": "iron",
-            "target": "martite goethite ore",
-            "label": "in"
-        },
-        {
-            "source": "iron",
-            "target": "goethite",
-            "label": ""
-        },
-        {
-            "source": "iron",
-            "target": "iron ore",
-            "label": ""
-        },
-        {
-            "source": "iron",
-            "target": "supergene",
-            "label": ""
-        },
-        {
-            "source": "iron",
-            "target": "hematite",
-            "label": ""
-        },
-        {
-            "source": "kaolinite",
+            "source": "silica",
             "target": "quartz",
             "label": ""
         },
         {
-            "source": "carbonate",
-            "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "carbonate",
-            "target": "gibbsite",
-            "label": ""
-        },
-        {
-            "source": "carbonate",
+            "source": "silica",
             "target": "hematite",
+            "label": ""
+        },
+        {
+            "source": "pyrite",
+            "target": "dolomite",
             "label": ""
         }
     ]

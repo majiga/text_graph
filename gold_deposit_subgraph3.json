@@ -1,174 +1,9 @@
 {
     "nodes": [
         {
-            "id": "zircon",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "pyrite",
-            "group": "MINERAL",
-            "degree": "14"
-        },
-        {
-            "id": "aluminium",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "zinc",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "actinolite",
-            "group": "MINERAL",
-            "degree": "7"
-        },
-        {
-            "id": "oxide gold deposits",
-            "group": "ORE_DEPOSIT",
-            "degree": "2"
-        },
-        {
-            "id": "ilmenite",
-            "group": "MINERAL",
-            "degree": "6"
-        },
-        {
-            "id": "anthophyllite",
-            "group": "MINERAL",
-            "degree": "5"
-        },
-        {
-            "id": "amphibole",
-            "group": "MINERAL",
-            "degree": "3"
-        },
-        {
-            "id": "silica",
-            "group": "MINERAL",
-            "degree": "6"
-        },
-        {
-            "id": "gold",
-            "group": "MINERAL",
-            "degree": "39"
-        },
-        {
-            "id": "biotite",
-            "group": "MINERAL",
-            "degree": "13"
-        },
-        {
-            "id": "alluvial gold",
-            "group": "MINERAL",
-            "degree": "0"
-        },
-        {
-            "id": "arsenopyrite",
-            "group": "MINERAL",
-            "degree": "6"
-        },
-        {
-            "id": "oxide",
-            "group": "MINERAL",
-            "degree": "4"
-        },
-        {
-            "id": "lode",
-            "group": "ORE_DEPOSIT",
-            "degree": "14"
-        },
-        {
-            "id": "chalcopyrite",
-            "group": "MINERAL",
-            "degree": "11"
-        },
-        {
-            "id": "lode deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": "2"
-        },
-        {
-            "id": "chlorite",
-            "group": "MINERAL",
-            "degree": "17"
-        },
-        {
             "id": "nickel",
             "group": "MINERAL",
-            "degree": "4"
-        },
-        {
-            "id": "arsenic",
-            "group": "MINERAL",
-            "degree": "4"
-        },
-        {
-            "id": "sulphide",
-            "group": "MINERAL",
-            "degree": "14"
-        },
-        {
-            "id": "tin",
-            "group": "MINERAL",
-            "degree": "1"
-        },
-        {
-            "id": "tourmaline",
-            "group": "MINERAL",
             "degree": "5"
-        },
-        {
-            "id": "olivine",
-            "group": "MINERAL",
-            "degree": "4"
-        },
-        {
-            "id": "cerium",
-            "group": "MINERAL",
-            "degree": "1"
-        },
-        {
-            "id": "quartz",
-            "group": "MINERAL",
-            "degree": "20"
-        },
-        {
-            "id": "pyrrhotite",
-            "group": "MINERAL",
-            "degree": "16"
-        },
-        {
-            "id": "k feldspar",
-            "group": "MINERAL",
-            "degree": "0"
-        },
-        {
-            "id": "gold deposit",
-            "group": "ORE_DEPOSIT",
-            "degree": "5"
-        },
-        {
-            "id": "talc",
-            "group": "MINERAL",
-            "degree": "13"
-        },
-        {
-            "id": "antimony",
-            "group": "MINERAL",
-            "degree": "2"
-        },
-        {
-            "id": "hornblende",
-            "group": "MINERAL",
-            "degree": "7"
-        },
-        {
-            "id": "plagioclase",
-            "group": "MINERAL",
-            "degree": "6"
         },
         {
             "id": "tungsten",
@@ -176,13 +11,63 @@
             "degree": "1"
         },
         {
-            "id": "rare earth element",
+            "id": "arsenic",
             "group": "MINERAL",
-            "degree": "0"
+            "degree": "6"
         },
         {
-            "id": "lead",
+            "id": "lode gold deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": "12"
+        },
+        {
+            "id": "anthophyllite",
             "group": "MINERAL",
+            "degree": "7"
+        },
+        {
+            "id": "carbonate",
+            "group": "MINERAL",
+            "degree": "14"
+        },
+        {
+            "id": "k feldspar",
+            "group": "MINERAL",
+            "degree": "1"
+        },
+        {
+            "id": "lode",
+            "group": "ORE_DEPOSIT",
+            "degree": "37"
+        },
+        {
+            "id": "rare earth element",
+            "group": "MINERAL",
+            "degree": "1"
+        },
+        {
+            "id": "sulphide",
+            "group": "MINERAL",
+            "degree": "28"
+        },
+        {
+            "id": "albite",
+            "group": "MINERAL",
+            "degree": "2"
+        },
+        {
+            "id": "gold deposit",
+            "group": "ORE_DEPOSIT",
+            "degree": "24"
+        },
+        {
+            "id": "olivine",
+            "group": "MINERAL",
+            "degree": "6"
+        },
+        {
+            "id": "lode deposit",
+            "group": "ORE_DEPOSIT",
             "degree": "2"
         },
         {
@@ -191,22 +76,22 @@
             "degree": "2"
         },
         {
-            "id": "albite",
+            "id": "tin",
             "group": "MINERAL",
-            "degree": "1"
+            "degree": "2"
         },
         {
-            "id": "sphalerite",
+            "id": "tremolite",
             "group": "MINERAL",
-            "degree": "7"
+            "degree": "6"
         },
         {
-            "id": "galena",
+            "id": "aluminium",
             "group": "MINERAL",
-            "degree": "7"
+            "degree": "2"
         },
         {
-            "id": "hydrothermal",
+            "id": "zircon",
             "group": "MINERAL",
             "degree": "2"
         },
@@ -216,19 +101,79 @@
             "degree": "4"
         },
         {
-            "id": "tremolite",
-            "group": "MINERAL",
-            "degree": "4"
+            "id": "oxide gold deposits",
+            "group": "ORE_DEPOSIT",
+            "degree": "3"
         },
         {
-            "id": "supergene",
-            "group": "ORE_DEPOSIT",
-            "degree": "5"
+            "id": "hornblende",
+            "group": "MINERAL",
+            "degree": "8"
+        },
+        {
+            "id": "biotite",
+            "group": "MINERAL",
+            "degree": "18"
+        },
+        {
+            "id": "chlorite",
+            "group": "MINERAL",
+            "degree": "26"
+        },
+        {
+            "id": "quartz",
+            "group": "MINERAL",
+            "degree": "56"
+        },
+        {
+            "id": "antimony",
+            "group": "MINERAL",
+            "degree": "2"
         },
         {
             "id": "iron",
             "group": "MINERAL",
-            "degree": "3"
+            "degree": "10"
+        },
+        {
+            "id": "chalcopyrite",
+            "group": "MINERAL",
+            "degree": "12"
+        },
+        {
+            "id": "garnet",
+            "group": "MINERAL",
+            "degree": "1"
+        },
+        {
+            "id": "actinolite",
+            "group": "MINERAL",
+            "degree": "8"
+        },
+        {
+            "id": "lead",
+            "group": "MINERAL",
+            "degree": "2"
+        },
+        {
+            "id": "tourmaline",
+            "group": "MINERAL",
+            "degree": "6"
+        },
+        {
+            "id": "sphalerite",
+            "group": "MINERAL",
+            "degree": "7"
+        },
+        {
+            "id": "alluvial gold",
+            "group": "MINERAL",
+            "degree": "2"
+        },
+        {
+            "id": "hydrothermal",
+            "group": "MINERAL",
+            "degree": "11"
         },
         {
             "id": "plasma",
@@ -236,136 +181,111 @@
             "degree": "1"
         },
         {
-            "id": "lode gold deposit",
+            "id": "oxide",
+            "group": "MINERAL",
+            "degree": "7"
+        },
+        {
+            "id": "gold",
+            "group": "MINERAL",
+            "degree": "114"
+        },
+        {
+            "id": "talc",
+            "group": "MINERAL",
+            "degree": "19"
+        },
+        {
+            "id": "plagioclase",
+            "group": "MINERAL",
+            "degree": "8"
+        },
+        {
+            "id": "supergene",
             "group": "ORE_DEPOSIT",
-            "degree": "4"
+            "degree": "6"
         },
         {
-            "id": "garnet",
+            "id": "silica",
             "group": "MINERAL",
-            "degree": "0"
+            "degree": "8"
         },
         {
-            "id": "carbonate",
+            "id": "galena",
             "group": "MINERAL",
-            "degree": "10"
+            "degree": "7"
+        },
+        {
+            "id": "pyrite",
+            "group": "MINERAL",
+            "degree": "19"
+        },
+        {
+            "id": "amphibole",
+            "group": "MINERAL",
+            "degree": "5"
+        },
+        {
+            "id": "cerium",
+            "group": "MINERAL",
+            "degree": "1"
+        },
+        {
+            "id": "pyrrhotite",
+            "group": "MINERAL",
+            "degree": "19"
+        },
+        {
+            "id": "zinc",
+            "group": "MINERAL",
+            "degree": "3"
+        },
+        {
+            "id": "ilmenite",
+            "group": "MINERAL",
+            "degree": "8"
+        },
+        {
+            "id": "arsenopyrite",
+            "group": "MINERAL",
+            "degree": "6"
         }
     ],
     "links": [
         {
-            "source": "zircon",
-            "target": "cerium",
-            "label": ""
-        },
-        {
-            "source": "pyrite",
-            "target": "quartz",
-            "label": "contains"
-        },
-        {
-            "source": "pyrite",
-            "target": "biotite",
-            "label": ""
-        },
-        {
-            "source": "pyrite",
-            "target": "pyrrhotite",
-            "label": "in"
-        },
-        {
-            "source": "pyrite",
-            "target": "chlorite",
-            "label": ""
-        },
-        {
-            "source": "pyrite",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "pyrite",
-            "target": "lode",
-            "label": "contains"
-        },
-        {
-            "source": "aluminium",
-            "target": "zircon",
-            "label": ""
-        },
-        {
-            "source": "zinc",
-            "target": "nickel",
-            "label": ""
-        },
-        {
-            "source": "zinc",
+            "source": "nickel",
             "target": "chromium",
             "label": ""
         },
         {
-            "source": "actinolite",
-            "target": "tremolite",
-            "label": "in"
-        },
-        {
-            "source": "actinolite",
-            "target": "chlorite",
-            "label": "in"
-        },
-        {
-            "source": "actinolite",
-            "target": "talc",
-            "label": "in"
-        },
-        {
-            "source": "actinolite",
-            "target": "carbonate",
-            "label": "in"
-        },
-        {
-            "source": "actinolite",
-            "target": "olivine",
-            "label": "in"
-        },
-        {
-            "source": "actinolite",
-            "target": "anthophyllite",
-            "label": "in"
-        },
-        {
-            "source": "oxide gold deposits",
+            "source": "nickel",
             "target": "gold",
             "label": ""
         },
         {
-            "source": "ilmenite",
-            "target": "tremolite",
-            "label": "in"
+            "source": "tungsten",
+            "target": "antimony",
+            "label": ""
         },
         {
-            "source": "ilmenite",
-            "target": "chlorite",
-            "label": "in"
+            "source": "arsenic",
+            "target": "gold",
+            "label": ""
         },
         {
-            "source": "ilmenite",
-            "target": "talc",
-            "label": "in"
+            "source": "arsenic",
+            "target": "lead",
+            "label": ""
         },
         {
-            "source": "ilmenite",
-            "target": "carbonate",
-            "label": "in"
+            "source": "lode gold deposit",
+            "target": "gold",
+            "label": ""
         },
         {
-            "source": "ilmenite",
-            "target": "olivine",
-            "label": "in"
-        },
-        {
-            "source": "ilmenite",
-            "target": "anthophyllite",
-            "label": "in"
+            "source": "lode gold deposit",
+            "target": "supergene",
+            "label": ""
         },
         {
             "source": "anthophyllite",
@@ -373,198 +293,18 @@
             "label": ""
         },
         {
-            "source": "amphibole",
-            "target": "opaline",
-            "label": ""
-        },
-        {
-            "source": "amphibole",
-            "target": "silica",
-            "label": ""
-        },
-        {
-            "source": "silica",
-            "target": "biotite",
-            "label": "associated_with"
-        },
-        {
-            "source": "silica",
-            "target": "chlorite",
-            "label": "associated_with"
-        },
-        {
-            "source": "silica",
+            "source": "carbonate",
             "target": "quartz",
             "label": ""
         },
         {
-            "source": "gold",
-            "target": "sulphide",
-            "label": "in;associated_with;occur_in;hosted_in"
-        },
-        {
-            "source": "gold",
-            "target": "supergene",
+            "source": "carbonate",
+            "target": "biotite",
             "label": ""
         },
         {
-            "source": "gold",
-            "target": "arsenopyrite",
-            "label": "associated_with"
-        },
-        {
-            "source": "gold",
+            "source": "carbonate",
             "target": "pyrrhotite",
-            "label": "associated_with;hosted_in"
-        },
-        {
-            "source": "gold",
-            "target": "biotite",
-            "label": "associated_with"
-        },
-        {
-            "source": "gold",
-            "target": "chlorite",
-            "label": "associated_with"
-        },
-        {
-            "source": "gold",
-            "target": "talc",
-            "label": "associated_with"
-        },
-        {
-            "source": "gold",
-            "target": "carbonate",
-            "label": "associated_with"
-        },
-        {
-            "source": "gold",
-            "target": "tourmaline",
-            "label": "associated_with"
-        },
-        {
-            "source": "gold",
-            "target": "quartz",
-            "label": "occur_in;associated_with"
-        },
-        {
-            "source": "gold",
-            "target": "chalcopyrite",
-            "label": "associated_with"
-        },
-        {
-            "source": "gold",
-            "target": "pyrite",
-            "label": "associated_with"
-        },
-        {
-            "source": "gold",
-            "target": "arsenic",
-            "label": "in"
-        },
-        {
-            "source": "gold",
-            "target": "hydrothermal",
-            "label": "associated_with"
-        },
-        {
-            "source": "gold",
-            "target": "gold deposit",
-            "label": "in"
-        },
-        {
-            "source": "gold",
-            "target": "lode",
-            "label": "occur_in;in"
-        },
-        {
-            "source": "gold",
-            "target": "iron",
-            "label": ""
-        },
-        {
-            "source": "gold",
-            "target": "plasma",
-            "label": ""
-        },
-        {
-            "source": "gold",
-            "target": "lead",
-            "label": ""
-        },
-        {
-            "source": "gold",
-            "target": "nickel",
-            "label": ""
-        },
-        {
-            "source": "gold",
-            "target": "sphalerite",
-            "label": ""
-        },
-        {
-            "source": "gold",
-            "target": "oxide",
-            "label": ""
-        },
-        {
-            "source": "biotite",
-            "target": "gold",
-            "label": "associated_with"
-        },
-        {
-            "source": "biotite",
-            "target": "albite",
-            "label": "in"
-        },
-        {
-            "source": "biotite",
-            "target": "pyrite",
-            "label": ""
-        },
-        {
-            "source": "biotite",
-            "target": "carbonate",
-            "label": ""
-        },
-        {
-            "source": "biotite",
-            "target": "sulphide",
-            "label": ""
-        },
-        {
-            "source": "biotite",
-            "target": "chlorite",
-            "label": ""
-        },
-        {
-            "source": "arsenopyrite",
-            "target": "pyrite",
-            "label": ""
-        },
-        {
-            "source": "arsenopyrite",
-            "target": "galena",
-            "label": ""
-        },
-        {
-            "source": "arsenopyrite",
-            "target": "sphalerite",
-            "label": ""
-        },
-        {
-            "source": "arsenopyrite",
-            "target": "chalcopyrite",
-            "label": ""
-        },
-        {
-            "source": "oxide",
-            "target": "lode",
-            "label": ""
-        },
-        {
-            "source": "oxide",
-            "target": "gold",
             "label": ""
         },
         {
@@ -598,33 +338,148 @@
             "label": ""
         },
         {
-            "source": "chalcopyrite",
+            "source": "sulphide",
+            "target": "gold",
+            "label": "associated_with"
+        },
+        {
+            "source": "sulphide",
+            "target": "pyrrhotite",
+            "label": "contains"
+        },
+        {
+            "source": "sulphide",
             "target": "quartz",
-            "label": "contains"
-        },
-        {
-            "source": "chalcopyrite",
-            "target": "galena",
             "label": ""
         },
         {
-            "source": "chalcopyrite",
-            "target": "pyrite",
-            "label": ""
-        },
-        {
-            "source": "chalcopyrite",
+            "source": "sulphide",
             "target": "lode",
+            "label": ""
+        },
+        {
+            "source": "sulphide",
+            "target": "lode deposit",
+            "label": ""
+        },
+        {
+            "source": "sulphide",
+            "target": "arsenic",
+            "label": ""
+        },
+        {
+            "source": "sulphide",
+            "target": "arsenopyrite",
             "label": "contains"
         },
         {
-            "source": "chalcopyrite",
-            "target": "sulphide",
+            "source": "gold deposit",
+            "target": "quartz",
+            "label": "associated_with"
+        },
+        {
+            "source": "gold deposit",
+            "target": "hydrothermal",
             "label": ""
+        },
+        {
+            "source": "gold deposit",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "gold deposit",
+            "target": "lode",
+            "label": "associated_with"
         },
         {
             "source": "lode deposit",
             "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "tin",
+            "target": "aluminium",
+            "label": ""
+        },
+        {
+            "source": "aluminium",
+            "target": "zircon",
+            "label": ""
+        },
+        {
+            "source": "zircon",
+            "target": "cerium",
+            "label": ""
+        },
+        {
+            "source": "opaline",
+            "target": "talc",
+            "label": ""
+        },
+        {
+            "source": "oxide gold deposits",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "hornblende",
+            "target": "tremolite",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "chlorite",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "talc",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "carbonate",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "olivine",
+            "label": "in"
+        },
+        {
+            "source": "hornblende",
+            "target": "anthophyllite",
+            "label": "in"
+        },
+        {
+            "source": "biotite",
+            "target": "gold",
+            "label": "associated_with"
+        },
+        {
+            "source": "biotite",
+            "target": "albite",
+            "label": "in"
+        },
+        {
+            "source": "biotite",
+            "target": "pyrite",
+            "label": ""
+        },
+        {
+            "source": "biotite",
+            "target": "carbonate",
+            "label": ""
+        },
+        {
+            "source": "biotite",
+            "target": "sulphide",
+            "label": ""
+        },
+        {
+            "source": "biotite",
+            "target": "chlorite",
             "label": ""
         },
         {
@@ -673,76 +528,6 @@
             "label": "dominated_by"
         },
         {
-            "source": "nickel",
-            "target": "chromium",
-            "label": ""
-        },
-        {
-            "source": "nickel",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "arsenic",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "arsenic",
-            "target": "lead",
-            "label": ""
-        },
-        {
-            "source": "sulphide",
-            "target": "gold",
-            "label": "associated_with"
-        },
-        {
-            "source": "sulphide",
-            "target": "pyrrhotite",
-            "label": "contains"
-        },
-        {
-            "source": "sulphide",
-            "target": "quartz",
-            "label": ""
-        },
-        {
-            "source": "sulphide",
-            "target": "lode",
-            "label": ""
-        },
-        {
-            "source": "sulphide",
-            "target": "lode deposit",
-            "label": ""
-        },
-        {
-            "source": "sulphide",
-            "target": "arsenic",
-            "label": ""
-        },
-        {
-            "source": "sulphide",
-            "target": "arsenopyrite",
-            "label": "contains"
-        },
-        {
-            "source": "tin",
-            "target": "aluminium",
-            "label": ""
-        },
-        {
-            "source": "tourmaline",
-            "target": "quartz",
-            "label": "contains"
-        },
-        {
-            "source": "tourmaline",
-            "target": "lode",
-            "label": "contains"
-        },
-        {
             "source": "quartz",
             "target": "iron",
             "label": "in"
@@ -788,6 +573,356 @@
             "label": ""
         },
         {
+            "source": "antimony",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "iron",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "chalcopyrite",
+            "target": "quartz",
+            "label": "contains"
+        },
+        {
+            "source": "chalcopyrite",
+            "target": "galena",
+            "label": ""
+        },
+        {
+            "source": "chalcopyrite",
+            "target": "pyrite",
+            "label": ""
+        },
+        {
+            "source": "chalcopyrite",
+            "target": "lode",
+            "label": "contains"
+        },
+        {
+            "source": "chalcopyrite",
+            "target": "sulphide",
+            "label": ""
+        },
+        {
+            "source": "actinolite",
+            "target": "tremolite",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "chlorite",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "talc",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "carbonate",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "olivine",
+            "label": "in"
+        },
+        {
+            "source": "actinolite",
+            "target": "anthophyllite",
+            "label": "in"
+        },
+        {
+            "source": "tourmaline",
+            "target": "quartz",
+            "label": "contains"
+        },
+        {
+            "source": "tourmaline",
+            "target": "lode",
+            "label": "contains"
+        },
+        {
+            "source": "sphalerite",
+            "target": "chalcopyrite",
+            "label": "contains"
+        },
+        {
+            "source": "sphalerite",
+            "target": "galena",
+            "label": "contains"
+        },
+        {
+            "source": "sphalerite",
+            "target": "pyrite",
+            "label": ""
+        },
+        {
+            "source": "sphalerite",
+            "target": "pyrrhotite",
+            "label": ""
+        },
+        {
+            "source": "oxide",
+            "target": "lode",
+            "label": ""
+        },
+        {
+            "source": "oxide",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "sulphide",
+            "label": "in;associated_with;occurs_in;hosted_in"
+        },
+        {
+            "source": "gold",
+            "target": "supergene",
+            "label": "dominated_by"
+        },
+        {
+            "source": "gold",
+            "target": "arsenopyrite",
+            "label": "associated_with"
+        },
+        {
+            "source": "gold",
+            "target": "pyrrhotite",
+            "label": "associated_with;hosted_in"
+        },
+        {
+            "source": "gold",
+            "target": "biotite",
+            "label": "associated_with"
+        },
+        {
+            "source": "gold",
+            "target": "chlorite",
+            "label": "associated_with"
+        },
+        {
+            "source": "gold",
+            "target": "talc",
+            "label": "associated_with"
+        },
+        {
+            "source": "gold",
+            "target": "carbonate",
+            "label": "associated_with"
+        },
+        {
+            "source": "gold",
+            "target": "tourmaline",
+            "label": "associated_with"
+        },
+        {
+            "source": "gold",
+            "target": "quartz",
+            "label": "occurs_in;associated_with"
+        },
+        {
+            "source": "gold",
+            "target": "chalcopyrite",
+            "label": "associated_with"
+        },
+        {
+            "source": "gold",
+            "target": "pyrite",
+            "label": "associated_with"
+        },
+        {
+            "source": "gold",
+            "target": "arsenic",
+            "label": "in"
+        },
+        {
+            "source": "gold",
+            "target": "hydrothermal",
+            "label": "associated_with"
+        },
+        {
+            "source": "gold",
+            "target": "gold deposit",
+            "label": "in;dominated_by"
+        },
+        {
+            "source": "gold",
+            "target": "lode",
+            "label": "occurs_in;in"
+        },
+        {
+            "source": "gold",
+            "target": "iron",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "plasma",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "lead",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "nickel",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "sphalerite",
+            "label": ""
+        },
+        {
+            "source": "gold",
+            "target": "oxide",
+            "label": ""
+        },
+        {
+            "source": "talc",
+            "target": "opaline",
+            "label": ""
+        },
+        {
+            "source": "talc",
+            "target": "silica",
+            "label": ""
+        },
+        {
+            "source": "talc",
+            "target": "hornblende",
+            "label": ""
+        },
+        {
+            "source": "talc",
+            "target": "biotite",
+            "label": ""
+        },
+        {
+            "source": "talc",
+            "target": "amphibole",
+            "label": ""
+        },
+        {
+            "source": "plagioclase",
+            "target": "tremolite",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "chlorite",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "talc",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "carbonate",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "olivine",
+            "label": "in"
+        },
+        {
+            "source": "plagioclase",
+            "target": "anthophyllite",
+            "label": "in"
+        },
+        {
+            "source": "supergene",
+            "target": "oxide gold deposits",
+            "label": ""
+        },
+        {
+            "source": "supergene",
+            "target": "lode gold deposit",
+            "label": ""
+        },
+        {
+            "source": "silica",
+            "target": "biotite",
+            "label": "associated_with"
+        },
+        {
+            "source": "silica",
+            "target": "chlorite",
+            "label": "associated_with"
+        },
+        {
+            "source": "silica",
+            "target": "quartz",
+            "label": ""
+        },
+        {
+            "source": "galena",
+            "target": "pyrrhotite",
+            "label": ""
+        },
+        {
+            "source": "galena",
+            "target": "chalcopyrite",
+            "label": ""
+        },
+        {
+            "source": "galena",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "pyrite",
+            "target": "quartz",
+            "label": "contains"
+        },
+        {
+            "source": "pyrite",
+            "target": "biotite",
+            "label": ""
+        },
+        {
+            "source": "pyrite",
+            "target": "pyrrhotite",
+            "label": "in"
+        },
+        {
+            "source": "pyrite",
+            "target": "chlorite",
+            "label": ""
+        },
+        {
+            "source": "pyrite",
+            "target": "gold",
+            "label": ""
+        },
+        {
+            "source": "pyrite",
+            "target": "lode",
+            "label": "contains"
+        },
+        {
+            "source": "amphibole",
+            "target": "opaline",
+            "label": ""
+        },
+        {
+            "source": "amphibole",
+            "target": "silica",
+            "label": ""
+        },
+        {
             "source": "pyrrhotite",
             "target": "quartz",
             "label": "in"
@@ -828,203 +963,63 @@
             "label": ""
         },
         {
-            "source": "gold deposit",
-            "target": "quartz",
-            "label": "associated_with"
-        },
-        {
-            "source": "gold deposit",
-            "target": "hydrothermal",
+            "source": "zinc",
+            "target": "nickel",
             "label": ""
         },
         {
-            "source": "gold deposit",
-            "target": "gold",
-            "label": "interbedded_with"
-        },
-        {
-            "source": "gold deposit",
-            "target": "lode",
-            "label": "associated_with"
-        },
-        {
-            "source": "talc",
-            "target": "opaline",
+            "source": "zinc",
+            "target": "chromium",
             "label": ""
         },
         {
-            "source": "talc",
-            "target": "silica",
-            "label": ""
-        },
-        {
-            "source": "talc",
-            "target": "hornblende",
-            "label": ""
-        },
-        {
-            "source": "talc",
-            "target": "biotite",
-            "label": ""
-        },
-        {
-            "source": "talc",
-            "target": "amphibole",
-            "label": ""
-        },
-        {
-            "source": "antimony",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "hornblende",
+            "source": "ilmenite",
             "target": "tremolite",
             "label": "in"
         },
         {
-            "source": "hornblende",
+            "source": "ilmenite",
             "target": "chlorite",
             "label": "in"
         },
         {
-            "source": "hornblende",
+            "source": "ilmenite",
             "target": "talc",
             "label": "in"
         },
         {
-            "source": "hornblende",
+            "source": "ilmenite",
             "target": "carbonate",
             "label": "in"
         },
         {
-            "source": "hornblende",
+            "source": "ilmenite",
             "target": "olivine",
             "label": "in"
         },
         {
-            "source": "hornblende",
+            "source": "ilmenite",
             "target": "anthophyllite",
             "label": "in"
         },
         {
-            "source": "plagioclase",
-            "target": "tremolite",
-            "label": "in"
-        },
-        {
-            "source": "plagioclase",
-            "target": "chlorite",
-            "label": "in"
-        },
-        {
-            "source": "plagioclase",
-            "target": "talc",
-            "label": "in"
-        },
-        {
-            "source": "plagioclase",
-            "target": "carbonate",
-            "label": "in"
-        },
-        {
-            "source": "plagioclase",
-            "target": "olivine",
-            "label": "in"
-        },
-        {
-            "source": "plagioclase",
-            "target": "anthophyllite",
-            "label": "in"
-        },
-        {
-            "source": "tungsten",
-            "target": "antimony",
-            "label": ""
-        },
-        {
-            "source": "sphalerite",
-            "target": "chalcopyrite",
-            "label": "contains"
-        },
-        {
-            "source": "sphalerite",
-            "target": "galena",
-            "label": "contains"
-        },
-        {
-            "source": "sphalerite",
+            "source": "arsenopyrite",
             "target": "pyrite",
             "label": ""
         },
         {
-            "source": "sphalerite",
-            "target": "pyrrhotite",
+            "source": "arsenopyrite",
+            "target": "galena",
             "label": ""
         },
         {
-            "source": "galena",
-            "target": "pyrrhotite",
+            "source": "arsenopyrite",
+            "target": "sphalerite",
             "label": ""
         },
         {
-            "source": "galena",
+            "source": "arsenopyrite",
             "target": "chalcopyrite",
-            "label": ""
-        },
-        {
-            "source": "galena",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "opaline",
-            "target": "talc",
-            "label": ""
-        },
-        {
-            "source": "supergene",
-            "target": "gold",
-            "label": "interbedded_with"
-        },
-        {
-            "source": "supergene",
-            "target": "oxide gold deposits",
-            "label": ""
-        },
-        {
-            "source": "supergene",
-            "target": "lode gold deposit",
-            "label": ""
-        },
-        {
-            "source": "iron",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "gold",
-            "label": ""
-        },
-        {
-            "source": "lode gold deposit",
-            "target": "supergene",
-            "label": ""
-        },
-        {
-            "source": "carbonate",
-            "target": "quartz",
-            "label": ""
-        },
-        {
-            "source": "carbonate",
-            "target": "biotite",
-            "label": ""
-        },
-        {
-            "source": "carbonate",
-            "target": "pyrrhotite",
             "label": ""
         }
     ]

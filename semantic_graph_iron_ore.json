@@ -1145,7 +1145,7 @@
         {
             "source": "hematite",
             "target": "limonite",
-            "label": "located_in"
+            "label": "occurs_in"
         },
         {
             "source": "hematite",
@@ -1331,16 +1331,6 @@
             "source": "sediments",
             "target": "clay",
             "label": "contains"
-        },
-        {
-            "source": "sediments",
-            "target": "silt",
-            "label": "interbedded_with"
-        },
-        {
-            "source": "sediments",
-            "target": "sand",
-            "label": "interbedded_with"
         },
         {
             "source": "sediments",
@@ -1900,7 +1890,7 @@
         {
             "source": "nammuldi member",
             "target": "jeerinah formation",
-            "label": "located_in"
+            "label": "occurs_in"
         },
         {
             "source": "nammuldi member",
@@ -2475,7 +2465,7 @@
         {
             "source": "black shales",
             "target": "jeerinah formation",
-            "label": "located_in"
+            "label": "occurs_in"
         },
         {
             "source": "black shales",
@@ -2580,7 +2570,7 @@
         {
             "source": "volcanic rocks",
             "target": "jeerinah formation",
-            "label": "located_in"
+            "label": "occurs_in"
         },
         {
             "source": "quaternary",
@@ -2606,6 +2596,16 @@
             "source": "oakover formation",
             "target": "channel iron deposit",
             "label": ""
+        },
+        {
+            "source": "silt",
+            "target": "sediments",
+            "label": "dominated_by"
+        },
+        {
+            "source": "sand",
+            "target": "sediments",
+            "label": "dominated_by"
         },
         {
             "source": "sand",

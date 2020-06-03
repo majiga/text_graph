@@ -13,7 +13,7 @@
         {
             "id": "gold",
             "group": "MINERAL",
-            "degree": "115"
+            "degree": "114"
         },
         {
             "id": "hydrothermal",
@@ -83,7 +83,7 @@
         {
             "id": "supergene",
             "group": "ORE_DEPOSIT",
-            "degree": "7"
+            "degree": "6"
         },
         {
             "id": "oxide gold deposits",
@@ -1045,7 +1045,7 @@
         {
             "source": "gold",
             "target": "dolerite",
-            "label": "in;occur_in"
+            "label": "in;occurs_in"
         },
         {
             "source": "gold",
@@ -1065,7 +1065,7 @@
         {
             "source": "gold",
             "target": "sulphide",
-            "label": "in;associated_with;occur_in;hosted_in"
+            "label": "in;associated_with;occurs_in;hosted_in"
         },
         {
             "source": "gold",
@@ -1085,7 +1085,7 @@
         {
             "source": "gold",
             "target": "supergene",
-            "label": ""
+            "label": "dominated_by"
         },
         {
             "source": "gold",
@@ -1125,7 +1125,7 @@
         {
             "source": "gold",
             "target": "quartz",
-            "label": "occur_in;associated_with"
+            "label": "occurs_in;associated_with"
         },
         {
             "source": "gold",
@@ -1205,7 +1205,7 @@
         {
             "source": "gold",
             "target": "gold deposit",
-            "label": "in"
+            "label": "in;dominated_by"
         },
         {
             "source": "gold",
@@ -1215,12 +1215,12 @@
         {
             "source": "gold",
             "target": "felsic porphyry",
-            "label": "occur_in"
+            "label": "occurs_in"
         },
         {
             "source": "gold",
             "target": "lode",
-            "label": "occur_in;in"
+            "label": "occurs_in;in"
         },
         {
             "source": "gold",
@@ -1829,11 +1829,6 @@
         },
         {
             "source": "supergene",
-            "target": "gold",
-            "label": "interbedded_with"
-        },
-        {
-            "source": "supergene",
             "target": "coolgardie",
             "label": ""
         },
@@ -2200,7 +2195,7 @@
         {
             "source": "gold deposit",
             "target": "gold",
-            "label": "interbedded_with"
+            "label": ""
         },
         {
             "source": "gold deposit",
@@ -3915,7 +3910,7 @@
         {
             "source": "brilliant ultramafic",
             "target": "burbanks basalt",
-            "label": "separates"
+            "label": ""
         },
         {
             "source": "ultramafics",

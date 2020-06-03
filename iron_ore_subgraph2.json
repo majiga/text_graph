@@ -13,72 +13,72 @@
         {
             "id": "western australia",
             "group": "LOCATION",
-            "degree": "12"
+            "degree": "15"
         },
         {
             "id": "goethite",
             "group": "MINERAL",
-            "degree": "24"
+            "degree": "31"
         },
         {
             "id": "cloud break",
             "group": "LOCATION",
-            "degree": "32"
+            "degree": "44"
         },
         {
             "id": "iron ore",
             "group": "ORE_DEPOSIT",
-            "degree": "32"
+            "degree": "41"
         },
         {
             "id": "iron oxide",
             "group": "MINERAL",
-            "degree": "5"
+            "degree": "6"
         },
         {
             "id": "australia",
             "group": "LOCATION",
-            "degree": "14"
+            "degree": "15"
         },
         {
             "id": "microplaty hematite",
             "group": "MINERAL",
-            "degree": "24"
+            "degree": "32"
         },
         {
             "id": "hematite",
             "group": "MINERAL",
-            "degree": "30"
+            "degree": "36"
         },
         {
             "id": "perth",
             "group": "LOCATION",
-            "degree": "5"
+            "degree": "7"
         },
         {
             "id": "christmas creek",
             "group": "LOCATION",
-            "degree": "34"
+            "degree": "42"
         },
         {
             "id": "pilbara",
             "group": "LOCATION",
-            "degree": "18"
+            "degree": "19"
         },
         {
             "id": "quartz",
             "group": "MINERAL",
-            "degree": "7"
+            "degree": "8"
         },
         {
             "id": "iron ore deposits",
             "group": "ORE_DEPOSIT",
-            "degree": "10"
+            "degree": "13"
         },
         {
             "id": "iron",
             "group": "MINERAL",
-            "degree": "26"
+            "degree": "37"
         },
         {
             "id": "martite",
@@ -88,27 +88,27 @@
         {
             "id": "hamersley province",
             "group": "LOCATION",
-            "degree": "6"
+            "degree": "7"
         },
         {
             "id": "brockman",
             "group": "LOCATION",
-            "degree": "13"
+            "degree": "15"
         },
         {
             "id": "microplaty hematite microplaty hematite",
             "group": "MINERAL",
-            "degree": "1"
+            "degree": "2"
         },
         {
             "id": "pilbara craton",
             "group": "LOCATION",
-            "degree": "3"
+            "degree": "6"
         },
         {
             "id": "iron deposit",
             "group": "ORE_DEPOSIT",
-            "degree": "4"
+            "degree": "5"
         },
         {
             "id": "martite goethite ore",
@@ -118,7 +118,7 @@
         {
             "id": "chichester range",
             "group": "LOCATION",
-            "degree": "5"
+            "degree": "6"
         },
         {
             "id": "hamersley",
@@ -128,7 +128,7 @@
         {
             "id": "supergene",
             "group": "ORE_DEPOSIT",
-            "degree": "9"
+            "degree": "11"
         },
         {
             "id": "yilgarn craton",
@@ -143,7 +143,7 @@
         {
             "id": "nammuldi",
             "group": "LOCATION",
-            "degree": "5"
+            "degree": "8"
         },
         {
             "id": "marandoo",
@@ -163,12 +163,12 @@
         {
             "id": "magnetite",
             "group": "MINERAL",
-            "degree": "10"
+            "degree": "14"
         },
         {
             "id": "crystal",
             "group": "MINERAL",
-            "degree": "12"
+            "degree": "14"
         },
         {
             "id": "sulphur",
@@ -183,7 +183,7 @@
         {
             "id": "fortescue marsh",
             "group": "LOCATION",
-            "degree": "3"
+            "degree": "5"
         },
         {
             "id": "roy hill",
@@ -203,17 +203,17 @@
         {
             "id": "dolomite",
             "group": "MINERAL",
-            "degree": "6"
+            "degree": "11"
         },
         {
             "id": "carbonate",
             "group": "MINERAL",
-            "degree": "4"
+            "degree": "7"
         },
         {
             "id": "limonite",
             "group": "ORE_DEPOSIT",
-            "degree": "5"
+            "degree": "6"
         },
         {
             "id": "martite hematite",
@@ -223,7 +223,7 @@
         {
             "id": "channel iron deposit",
             "group": "ORE_DEPOSIT",
-            "degree": "5"
+            "degree": "10"
         },
         {
             "id": "martite goethite",
@@ -243,17 +243,17 @@
         {
             "id": "silicate",
             "group": "MINERAL",
-            "degree": "0"
+            "degree": "2"
         },
         {
             "id": "silica",
             "group": "MINERAL",
-            "degree": "3"
+            "degree": "4"
         },
         {
             "id": "goethite ores",
             "group": "ORE_DEPOSIT",
-            "degree": "1"
+            "degree": "2"
         },
         {
             "id": "mount tom price",
@@ -263,7 +263,7 @@
         {
             "id": "cid channel iron deposits",
             "group": "ORE_DEPOSIT",
-            "degree": "0"
+            "degree": "2"
         },
         {
             "id": "robe",
@@ -288,17 +288,17 @@
         {
             "id": "lime",
             "group": "MINERAL",
-            "degree": "2"
+            "degree": "3"
         },
         {
             "id": "genesis",
             "group": "LOCATION",
-            "degree": "4"
+            "degree": "5"
         },
         {
             "id": "kaolinite",
             "group": "MINERAL",
-            "degree": "2"
+            "degree": "4"
         },
         {
             "id": "hamersley iron province",
@@ -760,7 +760,7 @@
         {
             "source": "hematite",
             "target": "limonite",
-            "label": "located_in"
+            "label": "occurs_in"
         },
         {
             "source": "hematite",
