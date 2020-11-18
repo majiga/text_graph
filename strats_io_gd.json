@@ -1,11 +1,6 @@
 {
     "nodes": [
         {
-            "id": "greenstone belts",
-            "group": "STRAT",
-            "degree": "217"
-        },
-        {
             "id": "horseshoe formation",
             "group": "STRAT",
             "degree": "107"
@@ -19,11 +14,6 @@
             "id": "fortescue group",
             "group": "STRAT",
             "degree": "467"
-        },
-        {
-            "id": "greenstone belt",
-            "group": "STRAT",
-            "degree": "1158"
         },
         {
             "id": "wyloo group",
@@ -57,22 +47,6 @@
         }
     ],
     "links": [
-        {
-            "source": "greenstone belts",
-            "target": "iron ore",
-            "label": [
-                ""
-            ],
-            "count": 2
-        },
-        {
-            "source": "greenstone belts",
-            "target": "gold deposit",
-            "label": [
-                "contains"
-            ],
-            "count": 1
-        },
         {
             "source": "horseshoe formation",
             "target": "gold deposit",
@@ -157,46 +131,11 @@
         },
         {
             "source": "fortescue group",
-            "target": "greenstone belt",
-            "label": [
-                ""
-            ],
-            "count": 9
-        },
-        {
-            "source": "fortescue group",
             "target": "gold deposit",
             "label": [
                 ""
             ],
             "count": 2
-        },
-        {
-            "source": "greenstone belt",
-            "target": "gold deposit",
-            "label": [
-                "",
-                "contains",
-                "in"
-            ],
-            "count": 149
-        },
-        {
-            "source": "greenstone belt",
-            "target": "iron ore",
-            "label": [
-                ""
-            ],
-            "count": 33
-        },
-        {
-            "source": "greenstone belt",
-            "target": "fortescue group",
-            "label": [
-                "",
-                "overlain_by"
-            ],
-            "count": 15
         },
         {
             "source": "wyloo group",
@@ -266,17 +205,6 @@
         },
         {
             "source": "gold deposit",
-            "target": "greenstone belt",
-            "label": [
-                "",
-                "hosted_in",
-                "in",
-                "in;located_in"
-            ],
-            "count": 179
-        },
-        {
-            "source": "gold deposit",
             "target": "robinson range",
             "label": [
                 ""
@@ -308,17 +236,6 @@
                 "in"
             ],
             "count": 8
-        },
-        {
-            "source": "gold deposit",
-            "target": "greenstone belts",
-            "label": [
-                "",
-                "associated_with",
-                "in",
-                "occurs_in"
-            ],
-            "count": 13
         },
         {
             "source": "gold deposit",
@@ -383,15 +300,6 @@
                 "in"
             ],
             "count": 1
-        },
-        {
-            "source": "iron ore",
-            "target": "greenstone belt",
-            "label": [
-                "",
-                "in"
-            ],
-            "count": 47
         },
         {
             "source": "iron ore",
