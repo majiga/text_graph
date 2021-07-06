@@ -35,16 +35,6 @@
             "group": "MINERAL",
             "degree": 7
         },
-        {
-            "id": "hamersley group, upper",
-            "group": "STRAT",
-            "degree": 2
-        },
-        {
-            "id": "hamersley group, lower",
-            "group": "STRAT",
-            "degree": 2
-        }
     ],
     "links": [
         {
@@ -71,16 +61,6 @@
             "source": "hamersley group",
             "target": "acid volcanic rocks",
             "label": "consists_of"
-        },
-        {
-            "source": "hamersley group, upper",
-            "target": "hamersley group",
-            "label": "is_current_of"
-        },
-        {
-            "source": "hamersley group, lower",
-            "target": "hamersley group",
-            "label": "is_current_of"
         }
     ]
 }
