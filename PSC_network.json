@@ -3,732 +3,878 @@
         {
             "id": "PSC18001",
             "group": "Commissioner",
-            "degree": "8"
+            "degree": "8",
+            "parent": "PSC21101"
         },
         {
             "id": "PSC18009",
             "group": "CL 1",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC18008",
             "group": "Level 4",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC19356",
             "group": "CL 2",
-            "degree": "13"
+            "degree": "13",
+            "parent": "PSC19359"
         },
         {
             "id": "PSC18003",
             "group": "CL 2",
-            "degree": "9"
+            "degree": "9",
+            "parent": "PSC18022"
         },
         {
             "id": "PSC18005",
             "group": "CL 2",
-            "degree": "11"
+            "degree": "11",
+            "parent": "PSC18011"
         },
         {
             "id": "PSC18006",
             "group": "CL 2",
-            "degree": "9"
+            "degree": "9",
+            "parent": "PSC18031"
         },
         {
             "id": "PSC18007",
             "group": "CL 1",
-            "degree": "9"
+            "degree": "9",
+            "parent": "PSC18110"
         },
         {
             "id": "PSC21101",
             "group": "CL 2",
-            "degree": "9"
+            "degree": "9",
+            "parent": "PSC19127"
         },
         {
             "id": "PSC19363",
             "group": "Level 2",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC19239",
             "group": "Level 7",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC19100"
         },
         {
             "id": "PSC18049",
             "group": "Level 7",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC18038"
         },
         {
             "id": "PSC19357",
             "group": "Level 8",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC19364"
         },
         {
             "id": "PSC19365",
             "group": "Level 8",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC19367"
         },
         {
             "id": "PSC19368",
             "group": "Level 8",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC19370"
         },
         {
             "id": "PSC19359",
             "group": "Level 7",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC19362"
         },
         {
             "id": "PSC19100",
             "group": "Level 5",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC18038",
             "group": "Level 5",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC19358",
             "group": "Level 6",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC19364"
         },
         {
             "id": "PSC19364",
             "group": "Level 5",
-            "degree": "2"
+            "degree": "2",
+            "parent": ""
         },
         {
             "id": "PSC19366",
             "group": "Level 6",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC19367"
         },
         {
             "id": "PSC19367",
             "group": "Level 5",
-            "degree": "2"
+            "degree": "2",
+            "parent": ""
         },
         {
             "id": "PSC19369",
             "group": "Level 6",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC19370"
         },
         {
             "id": "PSC19370",
             "group": "Level 5",
-            "degree": "2"
+            "degree": "2",
+            "parent": ""
         },
         {
             "id": "PSC19360",
             "group": "Level 4",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC19362"
         },
         {
             "id": "PSC19361",
             "group": "Level 4",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC19362"
         },
         {
             "id": "PSC19362",
             "group": "Level 3",
-            "degree": "3"
+            "degree": "3",
+            "parent": ""
         },
         {
             "id": "PSC18071",
             "group": "Level 8",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC21108"
         },
         {
             "id": "PSC18072",
             "group": "Level 8",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18073"
         },
         {
             "id": "PSC18031",
             "group": "Level 9",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18034"
         },
         {
             "id": "PSC21108",
             "group": "Level 6",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC18074",
             "group": "Level 7",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC18075",
             "group": "Level 7",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC18076"
         },
         {
             "id": "PSC18073",
             "group": "Level 7",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC18080"
         },
         {
             "id": "PSC18077",
             "group": "Level 6",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC18076"
         },
         {
             "id": "PSC18076",
             "group": "Level 6",
-            "degree": "2"
+            "degree": "2",
+            "parent": ""
         },
         {
             "id": "PSC18079",
             "group": "Level 5",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC18080"
         },
         {
             "id": "PSC18080",
             "group": "Level 4",
-            "degree": "2"
+            "degree": "2",
+            "parent": ""
         },
         {
             "id": "PSC19123",
             "group": "Level 8",
-            "degree": "5"
+            "degree": "5",
+            "parent": "PSC19351"
         },
         {
             "id": "PSC18036",
             "group": "Level 6",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC19351"
         },
         {
             "id": "PSC18039",
             "group": "Level 5",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC19351"
         },
         {
             "id": "PSC18042",
             "group": "Level 4",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC19351"
         },
         {
             "id": "PSC19351",
             "group": "Level 3",
-            "degree": "4"
+            "degree": "4",
+            "parent": ""
         },
         {
             "id": "PSC18032",
             "group": "Level 7",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18046"
         },
         {
             "id": "PSC18035",
             "group": "Level 6",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC18046"
         },
         {
             "id": "PSC19122",
             "group": "Level 5",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC18046"
         },
         {
             "id": "PSC18046",
             "group": "Level 2",
-            "degree": "3"
+            "degree": "3",
+            "parent": ""
         },
         {
             "id": "PSC18034",
             "group": "Level 7",
-            "degree": "5"
+            "degree": "5",
+            "parent": "PSC18041"
         },
         {
             "id": "PSC18045",
             "group": "Level 2",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18041"
         },
         {
             "id": "PSC19120",
             "group": "Level 5",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18041"
         },
         {
             "id": "PSC18040",
             "group": "Level 4",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18041"
         },
         {
             "id": "PSC18041",
             "group": "Level 4",
-            "degree": "4"
+            "degree": "4",
+            "parent": ""
         },
         {
             "id": "PSC19113",
             "group": "Level 3",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC18012",
             "group": "Level 8",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC19344"
         },
         {
             "id": "PSC18022",
             "group": "Level 9",
-            "degree": "6"
+            "degree": "6",
+            "parent": "PSC18023"
         },
         {
             "id": "PSC18014",
             "group": "Level 7",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18020"
         },
         {
             "id": "PSC18013",
             "group": "Level 7",
-            "degree": "5"
+            "degree": "5",
+            "parent": "PSC18019"
         },
         {
             "id": "PSC18015",
             "group": "Level 6",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18019"
         },
         {
             "id": "PSC21104",
             "group": "Level 6",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18019"
         },
         {
             "id": "PSC18021",
             "group": "Level 3",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18019"
         },
         {
             "id": "PSC18019",
             "group": "Level 5",
-            "degree": "4"
+            "degree": "4",
+            "parent": ""
         },
         {
             "id": "PSC19344",
             "group": "Level 7",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC19119"
         },
         {
             "id": "PSC18016",
             "group": "Level 6",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC18020"
         },
         {
             "id": "PSC18018",
             "group": "Level 6",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC18020"
         },
         {
             "id": "PSC18020",
             "group": "Level 5",
-            "degree": "3"
+            "degree": "3",
+            "parent": ""
         },
         {
             "id": "PSC18017",
             "group": "Level 6",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC19119"
         },
         {
             "id": "PSC19119",
             "group": "Level 5",
-            "degree": "2"
+            "degree": "2",
+            "parent": ""
         },
         {
             "id": "PSC18024",
             "group": "Level 7",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC19350"
         },
         {
             "id": "PSC18027",
             "group": "Level 5",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC19350"
         },
         {
             "id": "PSC18029",
             "group": "Level 4",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC19350"
         },
         {
             "id": "PSC19350",
             "group": "Level 4",
-            "degree": "4"
+            "degree": "4",
+            "parent": ""
         },
         {
             "id": "PSC18023",
             "group": "Level 7",
-            "degree": "5"
+            "degree": "5",
+            "parent": "PSC18030"
         },
         {
             "id": "PSC18025",
             "group": "Level 6",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18030"
         },
         {
             "id": "PSC18028",
             "group": "Level 5",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18030"
         },
         {
             "id": "PSC18026",
             "group": "Level 5",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18030"
         },
         {
             "id": "PSC18030",
             "group": "Level 4",
-            "degree": "4"
+            "degree": "4",
+            "parent": ""
         },
         {
             "id": "PSC18010",
             "group": "Level 3",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC18063",
             "group": "Level 8",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18066"
         },
         {
             "id": "PSC18051",
             "group": "Level 8",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18053"
         },
         {
             "id": "PSC18067",
             "group": "Level 8",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC18069"
         },
         {
             "id": "PSC18011",
             "group": "Level 7",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC19382"
         },
         {
             "id": "PSC18062",
             "group": "Level 3",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC19382",
             "group": "Level 1",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC18064",
             "group": "Level 6",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC18066"
         },
         {
             "id": "PSC18065",
             "group": "Level 5",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC18066"
         },
         {
             "id": "PSC18066",
             "group": "Level 5",
-            "degree": "3"
+            "degree": "3",
+            "parent": ""
         },
         {
             "id": "PSC18052",
             "group": "Level 7",
-            "degree": "5"
+            "degree": "5",
+            "parent": "PSC18060"
         },
         {
             "id": "PSC18053",
             "group": "Level 7",
-            "degree": "5"
+            "degree": "5",
+            "parent": "PSC18059"
         },
         {
             "id": "PSC18054",
             "group": "Level 6",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18060"
         },
         {
             "id": "PSC18055",
             "group": "Level 6",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18060"
         },
         {
             "id": "PSC18057",
             "group": "Level 6",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18060"
         },
         {
             "id": "PSC18060",
             "group": "Level 4",
-            "degree": "4"
+            "degree": "4",
+            "parent": ""
         },
         {
             "id": "PSC18058",
             "group": "Level 6",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18059"
         },
         {
             "id": "PSC18056",
             "group": "Level 6",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18059"
         },
         {
             "id": "PSC21107",
             "group": "Level 6",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18059"
         },
         {
             "id": "PSC18059",
             "group": "Level 4",
-            "degree": "4"
+            "degree": "4",
+            "parent": ""
         },
         {
             "id": "PSC18068",
             "group": "Level 7",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC21105"
         },
         {
             "id": "PSC18069",
             "group": "Level 7",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC19118"
         },
         {
             "id": "PSC21105",
             "group": "Level 6",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC18070",
             "group": "Level 6",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC19118"
         },
         {
             "id": "PSC19118",
             "group": "Level 6",
-            "degree": "2"
+            "degree": "2",
+            "parent": ""
         },
         {
             "id": "PSC18081",
             "group": "Level 8",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC21102"
         },
         {
             "id": "PSC19112",
             "group": "Level 8",
-            "degree": "5"
+            "degree": "5",
+            "parent": "PSC21100"
         },
         {
             "id": "PSC19127",
             "group": "Level 8",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC19130"
         },
         {
             "id": "PSC21106",
             "group": "Level 3",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC18082",
             "group": "Level 7",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC21102",
             "group": "Level 6",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC19116",
             "group": "Level 7",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC21100"
         },
         {
             "id": "PSC19105",
             "group": "Level 6",
-            "degree": "0"
+            "degree": "0",
+            "parent": ""
         },
         {
             "id": "PSC18084",
             "group": "Level 5",
-            "degree": "0"
+            "degree": "0",
+            "parent": ""
         },
         {
             "id": "PSC18086",
             "group": "Level 4",
-            "degree": "0"
+            "degree": "0",
+            "parent": ""
         },
         {
             "id": "PSC21103",
             "group": "Level 6",
-            "degree": "0"
+            "degree": "0",
+            "parent": ""
         },
         {
             "id": "PSC19117",
             "group": "Level 5",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC21100"
         },
         {
             "id": "PSC19371",
             "group": "Level 5",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC21100"
         },
         {
             "id": "PSC21100",
             "group": "Level 4",
-            "degree": "4"
+            "degree": "4",
+            "parent": ""
         },
         {
             "id": "PSC19128",
             "group": "Level 7",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC19130"
         },
         {
             "id": "PSC19129",
             "group": "Level 6",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC19130"
         },
         {
             "id": "PSC19130",
             "group": "Level 5",
-            "degree": "3"
+            "degree": "3",
+            "parent": ""
         },
         {
             "id": "PSC18089",
             "group": "Level 8",
-            "degree": "5"
+            "degree": "5",
+            "parent": "PSC18098"
         },
         {
             "id": "PSC19308",
             "group": "Level 1",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC18090",
             "group": "Level 7",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC19124"
         },
         {
             "id": "PSC18093",
             "group": "Level 7",
-            "degree": "5"
+            "degree": "5",
+            "parent": "PSC19125"
         },
         {
             "id": "PSC18098",
             "group": "Level 7",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18101"
         },
         {
             "id": "PSC18091",
             "group": "Level 6",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC19124"
         },
         {
             "id": "PSC19124",
             "group": "Level 4",
-            "degree": "2"
+            "degree": "2",
+            "parent": ""
         },
         {
             "id": "PSC18094",
             "group": "Level 6",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC19125"
         },
         {
             "id": "PSC18096",
             "group": "Level 4",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC19125"
         },
         {
             "id": "PSC19101",
             "group": "Level 4",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC19125"
         },
         {
             "id": "PSC19125",
             "group": "Level 2",
-            "degree": "4"
+            "degree": "4",
+            "parent": ""
         },
         {
             "id": "PSC18099",
             "group": "Level 6",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC18101"
         },
         {
             "id": "PSC18100",
             "group": "Level 4",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC18101"
         },
         {
             "id": "PSC18101",
             "group": "Level 4",
-            "degree": "3"
+            "degree": "3",
+            "parent": ""
         },
         {
             "id": "PSC18105",
             "group": "Level 8",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18106"
         },
         {
             "id": "PSC18110",
             "group": "Level 8",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC19355"
         },
         {
             "id": "PSC19110",
             "group": "Level 2",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC18115",
             "group": "Level 7",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC19104"
         },
         {
             "id": "PSC19104",
             "group": "Level 5",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC18106",
             "group": "Level 7",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC19102"
         },
         {
             "id": "PSC19102",
             "group": "Level 5",
-            "degree": "1"
+            "degree": "1",
+            "parent": ""
         },
         {
             "id": "PSC18112",
             "group": "Level 4",
-            "degree": "4"
+            "degree": "4",
+            "parent": "PSC18114"
         },
         {
             "id": "PSC18111",
             "group": "Level 4",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC18114"
         },
         {
             "id": "PSC19374",
             "group": "Level 4",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC18114"
         },
         {
             "id": "PSC18114",
             "group": "Level 3",
-            "degree": "3"
+            "degree": "3",
+            "parent": ""
         },
         {
             "id": "PSC19355",
             "group": "Level 7",
-            "degree": "3"
+            "degree": "3",
+            "parent": "PSC21109"
         },
         {
             "id": "PSC19115",
             "group": "Level 6",
-            "degree": "2"
+            "degree": "2",
+            "parent": "PSC21109"
         },
         {
             "id": "PSC21109",
             "group": "Level 5",
-            "degree": "2"
+            "degree": "2",
+            "parent": ""
         }
     ],
     "links": [
