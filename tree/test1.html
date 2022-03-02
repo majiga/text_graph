@@ -52,7 +52,7 @@ var svg = d3.select("body").append("svg")
 	.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 // load the external data
-d3.json("https://raw.githubusercontent.com/majiga/text_graph/master/a2.json", function(error, treeData) {
+d3.json("https://raw.githubusercontent.com/majiga/text_graph/master/tree/a2.json", function(error, treeData) {
   root = treeData[0];
   update(root);
 });
