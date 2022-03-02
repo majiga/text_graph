@@ -39,7 +39,13 @@
 			},
 			{
 				"name": "Grangranddaughter2 of A",
-				"parent": "Granddaughter of A"
+				"parent": "Granddaughter of A",
+				"children": [
+				{
+					"name": "Fourthgen of A",
+					"parent": "Grangranddaughter2 of A"
+				}
+				]
 			}
 			]
         }
