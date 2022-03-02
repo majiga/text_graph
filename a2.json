@@ -21,17 +21,27 @@
       "name": "Level 2: B",
       "parent": "Top Level"
     },
-    {
+	{
       "name": "Level 2: C",
       "parent": "Top Level",
       "children": [
         {
-          "name": "Son of C",
+          "name": "Son of A",
           "parent": "Level 2: C"
         },
         {
-          "name": "Daughter of C",
-          "parent": "Level 2: C"
+			"name": "Granddaughter of A",
+			"parent": "Level 2: C",
+			"children": [
+			{
+				"name": "Son of A",
+				"parent": "Level 3: C"
+			},
+			{
+			"name": "Grandaughter of A",
+			"parent": "Level 3: C"
+			}
+			]
         }
       ]
     }
