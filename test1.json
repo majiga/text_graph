@@ -1,13 +1,33 @@
 {
-  "name": "Top Level",
+  "name": "Eve",
   "children": [
-    { 
-      "name": "Level 2: A",
+    {
+      "name": "Cain"
+    },
+    {
+      "name": "Seth",
       "children": [
-        { "name": "Son of A" },
-        { "name": "Daughter of A" }
+        {
+          "name": "Enos"
+        },
+        {
+          "name": "Noam"
+        }
       ]
     },
-    { "name": "Level 2: B" }
+    {
+      "name": "Abel"
+    },
+    {
+      "name": "Awan",
+      "children": [
+        {
+          "name": "Enoch"
+        }
+      ]
+    },
+    {
+      "name": "Azura"
+    }
   ]
 }
