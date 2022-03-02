@@ -7,7 +7,7 @@
     {
       "name": "Level 2: A",
       "parent": "Top Level",
-	  "class": "First",
+      "class": "First",
       "children": [
         {
 			"name": "Son of A",
@@ -24,12 +24,12 @@
     {
       "name": "Level 2: B",
       "parent": "Top Level",
-	  "class": "First"
+      "class": "First"
     },
 	{
       "name": "Level 2: C",
       "parent": "Top Level",
-	  "class": "First",
+      "class": "First",
       "children": [
         {
 			"name": "Grandson of A",
