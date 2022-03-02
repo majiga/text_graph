@@ -2,11 +2,12 @@
   {
   "name": "Top Level",
   "parent": "null",
-  "class": "Head"
+  "class": "Head",
   "children": [
     {
       "name": "Level 2: A",
       "parent": "Top Level",
+	  "class": "First",
       "children": [
         {
 			"name": "Son of A",
