@@ -8,12 +8,12 @@
       "parent": "Top Level",
       "children": [
         {
-          "name": "Son of A",
-          "parent": "Level 2: A"
+			"name": "Son of A",
+			"parent": "Level 2: A"
         },
         {
-          "name": "Daughter of A",
-          "parent": "Level 2: A"
+			"name": "Daughter of A",
+			"parent": "Level 2: A"
         }
       ]
     },
@@ -26,8 +26,8 @@
       "parent": "Top Level",
       "children": [
         {
-          "name": "Son of A",
-          "parent": "Level 2: C"
+			"name": "Son of A",
+			"parent": "Level 2: C"
         },
         {
 			"name": "Granddaughter of A",
@@ -35,11 +35,11 @@
 			"children": [
 			{
 				"name": "Son of A",
-				"parent": "Level 3: C"
+				"parent": "Granddaughter of A"
 			},
 			{
 			"name": "Grandaughter of A",
-			"parent": "Level 3: C"
+			"parent": "Granddaughter of A"
 			}
 			]
         }
