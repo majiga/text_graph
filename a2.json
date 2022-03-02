@@ -2,6 +2,7 @@
   {
   "name": "Top Level",
   "parent": "null",
+  "class": "Head"
   "children": [
     {
       "name": "Level 2: A",
@@ -43,7 +44,8 @@
 				"children": [
 				{
 					"name": "Fourthgen of A",
-					"parent": "Grangranddaughter2 of A"
+					"parent": "Grangranddaughter2 of A",
+					"class": "4th"
 				}
 				]
 			}
