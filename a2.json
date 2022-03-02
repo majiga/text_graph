@@ -26,7 +26,7 @@
       "parent": "Top Level",
       "children": [
         {
-			"name": "Son of A",
+			"name": "Grandson of A",
 			"parent": "Level 2: C"
         },
         {
@@ -34,12 +34,12 @@
 			"parent": "Level 2: C",
 			"children": [
 			{
-				"name": "Son of A",
+				"name": "Grangranddaughter1 of A",
 				"parent": "Granddaughter of A"
 			},
 			{
-			"name": "Grandaughter of A",
-			"parent": "Granddaughter of A"
+				"name": "Grangranddaughter2 of A",
+				"parent": "Granddaughter of A"
 			}
 			]
         }
